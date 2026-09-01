@@ -11,7 +11,7 @@ tags:
 
 Roughly 17k notes of Christian primary texts in English - from the classical world the New Testament was written into, through the Fathers, Councils, and Scholastics, to the Reformers, Puritans, and Evangelical writers. This vault is aimed as an ecumenical equivalent of New Advent, including both Catholic and Protestant works.
 
-This is the web version of the open source [[Obsidian Vault]]
+This is the web version of the open source [Obsidian Vault](https://github.com/BenjaminPoole/Ecumenical-Christian-Library-Obsidian-Vault)
 
 All text is from public domain and scraped agentically using Claude code. Wishing to reflect God’s grace, all resources are free without any obligation. Created by the computer scientist and armchair theologian Benjamin Poole 
 
