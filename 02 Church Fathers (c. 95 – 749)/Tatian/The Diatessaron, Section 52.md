@@ -1,0 +1,34 @@
+---
+title: "The Diatessaron, Section 52"
+author: "Tatian"
+translator:
+  - "Hope W. Hogg"
+series: "Ante-Nicene Fathers"
+volume: "9"
+year: "1896"
+source: "http://www.newadvent.org/fathers/100252.htm"
+written: "c. 170 (Diatessaron)"
+earliest_ms: "c. 250 Dura fragment (disputed); Arabic version 12th c. on"
+corpus_file: "Tatian_100252.xml"
+tags:
+  - church-fathers
+  - written/2nd-century
+---
+
+# The Diatessaron, Section 52
+
+1 And after that, Jesus knew that all things were finished; and that the scripture 2 might be accomplished, he said, I thirst. And there was set a vessel full of vinegar: and in that hour one of them hasted, and took a sponge, and filled it with that 3 vinegar, and fastened it on a reed, and brought it near his mouth to give him a 4 drink. And when Jesus had taken that vinegar, he said, Everything is finished. 5 But the rest said, Let be, that we may see whether Elijah comes to save him. 6, 7 And Jesus said, My Father, forgive them; for they know not what they do. And Jesus cried again with a loud voice, and said, My Father, into your hands I commend my spirit. He said that, and bowed his head, and gave up his spirit.
+
+8 And immediately the face of the door of the temple was rent into two parts from 9 top to bottom; and the earth was shaken; and the stones were split to pieces; and the [Arabic, p. 197] tombs were opened; and the bodies of many saints which slept, arose and 10 came forth; and after his resurrection they entered into the holy city and 11 appeared unto many. And the officer of the footsoldiers, and they that were with him who were guarding Jesus, when they saw the earthquake, and the things which came 12 to pass, feared greatly, and praised God, and said, This man was righteous; and, 13 Truly he was the Son of God. And all the multitudes that had come together to the sight, when they saw what came to pass, returned and smote upon their breasts.
+
+14 And the Jews, because of the Friday, said, Let these bodies not remain on their crosses, because it is the morning of the sabbath (for that sabbath was a great day); and they asked of Pilate that they might break the legs of those that were 15 crucified, and take them down. And the soldiers came, and broke the legs of the 16 first, and that other which was crucified with him: but when they came to Jesus, 17 they saw that he had died before, so they broke not his legs: but one of the soldiers pierced him in his side with a spear, and immediately there came forth blood and 18 water. And he that has seen has borne witness, and his witness is true: and he 19 knows that he has said the truth, that you also may believe. This he did, that 20 the scripture might be fulfilled, which says, A bone shall not be broken in him; and the scripture also which says, Let them look upon him whom they pierced.
+
+21 And there were in the distance all the acquaintance of Jesus standing, and the women that came with him from Galilee, those that followed him and ministered. 22 One of them was Mary Magdalene; and Mary the mother of James the little and 23 [Arabic, p. 198] Joses, and the mother of the sons of Zebedee, and Salome, and many others which came up with him unto Jerusalem; and they saw that.
+
+24 And when the evening of the Friday had come, because of the entering of the 25 sabbath, there came a rich man, a noble of Ramah, a city of Judah, named Joseph, and he was a good man and upright; and he was a disciple of Jesus, but 26 was concealing himself for fear of the Jews. And he did not agree with the accusers 27 in their desire and their deeds: and he was looking for the kingdom of God. And this man went boldly, and entered in unto Pilate, and asked of him the body of 28 Jesus. And Pilate wondered how he had died already: and he called the officer of 29 the footsoldiers, and asked him concerning his death before the time. And when 30 he knew, he commanded him to deliver up his body unto Joseph. And Joseph bought for him a winding cloth of pure linen, and took down the body of Jesus, 31 and wound it in it; and they came and took it. And there came unto him Nicodemus also, who of old came unto Jesus by night; and he brought with him perfume 32 of myrrh and aloes, about a hundred pounds. And they took the body of Jesus, and wound it in the linen and the perfume, as was the custom of the Jews to bury.
+
+33 And there was in the place where Jesus was crucified a garden; and in that garden 34 a new tomb cut out in a rock, wherein was never man yet laid. And they left 35 Jesus there because the sabbath had come in, and because the tomb was near. And they pushed a great stone, and thrust it against the door of the sepulchre, and 36 went away. And Mary Magdalene and Mary that was related to Joses came to 37 [Arabic, p. 199] the sepulchre after them, and sat opposite the sepulchre, and saw the 38 body, how they took it in and laid it there. And they returned, and bought ointment and perfume, and prepared it, that they might come and anoint him. 39 And on the day which was the sabbath day they desisted according to the command.
+
+40, 41 And the chief priests and the Pharisees gathered unto Pilate, and said to him, Our lord, we remember that that misleader said, while he was alive, After three days 42 I rise. And now send beforehand and guard the tomb until the third day, lest his disciples come and steal him by night, and they will say unto the people that he 43 is risen from the dead: and the last error shall be worse than the first. He said to them, And have ye not guards? go, and take precautions as you know how. 44 And they went, and set guards at the tomb, and sealed that stone, with the guards.
+
+45 And in the evening of the sabbath, which is the morning of the first day, and in 46 the dawning while the darkness yet remained, came Mary Magdalene and the other Mary and other women to see the tomb. They brought with them the 47 perfume which they had prepared, and said among themselves, Who is it that will 48 remove for us the stone from the door of the tomb? For it was very great. And when they said thus, there occurred a great earthquake; and an angel came down 49 from heaven, and came and removed the stone from the door. And they came and found the stone removed from the sepulchre, and the angel sitting upon the 50 stone. And his appearance was as the lightning, and his raiment white as the 51 snow: and for fear of him the guards were troubled, and became as dead men. 52 And when he went away, the women entered into the sepulchre; and they found 53 [Arabic, p. 200] not the body of Jesus. And they saw there a young man sitting on the 54 right, arrayed in a white garment; and they were amazed. And the angel answered and said to the women, Fear ye not: for I know that you seek Jesus the 55 Nazarene, who has been crucified. He is not here; but he is risen, as he said. Come and see the place where our Lord lay.

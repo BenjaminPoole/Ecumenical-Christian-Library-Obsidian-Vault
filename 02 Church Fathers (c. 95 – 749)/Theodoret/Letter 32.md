@@ -1,0 +1,22 @@
+---
+title: "Letter 32"
+author: "Theodoret"
+translator:
+  - "Blomfield Jackson"
+series: "Nicene and Post-Nicene Fathers, Second Series"
+volume: "3"
+year: "1892"
+source: "http://www.newadvent.org/fathers/2707032.htm"
+written: "c. 431–453"
+earliest_ms: "11th–12th century (earliest Greek collections)"
+corpus_file: "Theodoret_2707032.xml"
+tags:
+  - church-fathers
+  - written/5th-century
+---
+
+# Letter 32
+
+To the Bishop Theoctistus.
+
+If the God of all had immediately inflicted punishment on all that err he would utterly have destroyed all men. But He spares; He is a merciful Judge; and therefore some He chastises, and to others He gives the lesson of the punishment of the chastised. An instance of this merciful dealing has been shown in our times. Exiles from what was once known as Libya, but is now called Africa, have been brought by Him to our doors, and by showing us their sufferings He moves us to fear, and by fear rouses us to sympathy; thus He accomplishes two ends at once, for He both benefits us by their chastisement, and to them by our means brings comfort. This comfort I now beg you to give to the very admirable and honourable Celestinianus, a man who once was an ornament of the Africans' chief city, but now has neither city nor home, nor any of the necessaries of life. Now it is proper that those who in the jurisdiction of your holiness have been entrusted with the pastoral care of souls should bring before their fellow citizens what is for their good, for indeed they need such teaching. For this reason, as we know, the divine Apostle in his Epistle to Titus writes Let ours also learn to maintain good works for necessary uses, for if our city, solitary as it is, and with only a small population, and that a poor one, succours the strangers, much rather may Berœa, which has been nurtured in true religion, be expected to do so, especially under the leadership of your holiness.

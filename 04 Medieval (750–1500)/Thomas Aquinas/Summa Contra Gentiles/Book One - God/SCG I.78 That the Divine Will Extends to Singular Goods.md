@@ -1,0 +1,36 @@
+---
+title: "That the Divine Will Extends to Singular Goods"
+work: "Summa Contra Gentiles"
+book: "Book One — God"
+book_no: 1
+chapter: 78
+author: "Thomas Aquinas"
+translator: "Anton C. Pegis (Hanover House, 1955–57), ed. Joseph Kenny O.P."
+source: "https://isidore.co/aquinas/english/ContraGentiles1.htm"
+tags:
+  - aquinas
+  - summa-contra-gentiles
+  - written/13th-century
+---
+
+# Chapter 78. That the Divine Will Extends to Singular Goods
+
+*Book One — God, Chapter 78* — Summa Contra Gentiles
+
+[1] From this it is likewise apparent that, for the purpose of conserving the divine simplicity, we should not say that God wills other goods in a certain general way, in so far as He wills Himself to be the principle of the goods that can come forth from Him, but that He does not will them in the particular.
+
+[2] For to will implies a relationship of the one willing to the thing willed. But the divine simplicity does not forbid -its being related even to many particulars; for God is said to be something best and first in relation to singulars. Therefore, His simplicity does not forbid Him from willing things other than Himself in the concrete or the particular.
+
+[3] Again, the will of God is related to other things in so far as they participate in goodness in virtue of their order to the divine goodness, which is for God the reason of His willing. But not only the totality of goods, but even each one of them derives its goodness from the divine goodness, as well as its being. Therefore, the will of God extends to singular goods.
+
+[4] Moreover, according to the Philosopher, in *Metaphysics* XI [10], a twofold good of order is found in the universe: one according to which the whole universe is ordered to what is outside the universe, as the army is ordered to its general; the other according as the parts of the universe are ordered to one another, as are the parts of the army. Now, the second order is for the sake of the first. But God, from the fact of willing Himself as the end, wills other things that are ordered to Him as to the end, as has been proved. He therefore wills the good of the order that the whole universe has to Him, as well as the good of the order that the universe has in the mutual relations of its parts. But the good of an order arises from singular goods. Therefore, God also wills singular goods.
+
+[5] Furthermore, if God does not will the singular goods of which the universe is composed, it follows that in the universe the good that order is is by chance. For it is not possible that some part of the universe should bring together all the particular goods into the order of the universe; only the universal cause of the whole universe, God, Who acts through His will, as will later be shown, can do this. Now, that the order of the universe be by chance is impossible, since it would follow that the consequences of the order would all the more be by chance. It remains, then, that God wills even singulars among goods.
+
+[6] Again, the understood good, as such, is what is willed. But God understands even particular goods, as was proved above. He therefore wills even particular goods.
+
+[7] This is confirmed by the authority of Scripture, which, in the first chapter of Genesis (1:4, 31), shows the pleasure of the divine will with each single work, in the words: “God saw the light that it was good,” and similarly of His other works, and then of all the works together: “And God saw all the things that He had made, and they were very good.”
+
+
+---
+[[SCG I.77 That the Multitude of the Objects of the Will is|← I.77. That the Multitude of the Objects of the Will is not Opposed to the Divine Simplicity]] · [[Book One - God|Book One — God Contents]] · [[SCG I.79 That God Wills Even the Things that are not Yet|I.79. That God Wills Even the Things that are not Yet →]]

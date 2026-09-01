@@ -1,0 +1,185 @@
+---
+title: "NPNF2 13 — Gregory the Great (Part II), Ephraim Syrus, Aphrahat"
+series: "Nicene and Post-Nicene Fathers, Series II"
+volume: 13
+tags:
+  - church-fathers
+  - volume-index
+---
+
+# NPNF2 13: Gregory the Great (Part II), Ephraim Syrus, Aphrahat
+
+*Nicene and Post-Nicene Fathers, Series II, Volume 13 — 163 works.*
+Up: [[Library/Church Fathers/index|Church Fathers]]
+
+## [[Ephraim the Syrian|Ephraim the Syrian]]
+
+- [[Homily on Admonition and Repentance|Homily on Admonition and Repentance]] — c. 337–373
+- [[Homily on Our Lord|Homily on Our Lord]] — c. 337–373
+- [[Homily on the Sinful Woman|Homily on the Sinful Woman]] — c. 337–373
+- [[Hymns for Epiphany|Hymns for Epiphany]] — c. 337–373
+- [[Hymns on the Nativity|Hymns on the Nativity]] — c. 337–373
+- [[Nisibene Hymns (3702b)|Nisibene Hymns]] — c. 337–373
+- [[Nisibene Hymns (3702c)|Nisibene Hymns]] — c. 337–373
+- [[Nisibene Hymns (3702d)|Nisibene Hymns]] — c. 337–373
+- [[Nisibene Hymns (3702e)|Nisibene Hymns]] — c. 337–373
+- [[Nisibene Hymns (3702f)|Nisibene Hymns]] — c. 337–373
+- [[Nisibene Hymns|Nisibene Hymns]] — c. 337–373
+- [[The Pearl|The Pearl]] — c. 337–373
+
+## [[Aphrahat Aphraates|Aphrahat Aphraates]]
+
+- [[Demonstration I|Demonstration I]] — 337
+- [[Demonstration V|Demonstration V]] — 337
+- [[Demonstration VI|Demonstration VI]] — 337
+- [[Demonstration VIII|Demonstration VIII]] — 337
+- [[Demonstration X|Demonstration X]] — 337
+- [[Demonstration XVII|Demonstration XVII]] — 344
+- [[Demonstration XXI|Demonstration XXI]] — 344
+- [[Demonstration XXII|Demonstration XXII]] — 344
+
+## [[Gregory the Great|Gregory the Great]]
+
+- [[Registrum Epistolarum, Book IX, Letter 1|Registrum Epistolarum, Book IX, Letter 1]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 2|Registrum Epistolarum, Book IX, Letter 2]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 3|Registrum Epistolarum, Book IX, Letter 3]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 4|Registrum Epistolarum, Book IX, Letter 4]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 5|Registrum Epistolarum, Book IX, Letter 5]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 6|Registrum Epistolarum, Book IX, Letter 6]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 7|Registrum Epistolarum, Book IX, Letter 7]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 8|Registrum Epistolarum, Book IX, Letter 8]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 9|Registrum Epistolarum, Book IX, Letter 9]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 10|Registrum Epistolarum, Book IX, Letter 10]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 11|Registrum Epistolarum, Book IX, Letter 11]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 12|Registrum Epistolarum, Book IX, Letter 12]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 17|Registrum Epistolarum, Book IX, Letter 17]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 18|Registrum Epistolarum, Book IX, Letter 18]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 19|Registrum Epistolarum, Book IX, Letter 19]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 23|Registrum Epistolarum, Book IX, Letter 23]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 24|Registrum Epistolarum, Book IX, Letter 24]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 26|Registrum Epistolarum, Book IX, Letter 26]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 27|Registrum Epistolarum, Book IX, Letter 27]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 33|Registrum Epistolarum, Book IX, Letter 33]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 36|Registrum Epistolarum, Book IX, Letter 36]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 41|Registrum Epistolarum, Book IX, Letter 41]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 42|Registrum Epistolarum, Book IX, Letter 42]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 43|Registrum Epistolarum, Book IX, Letter 43]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 49|Registrum Epistolarum, Book IX, Letter 49]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 55|Registrum Epistolarum, Book IX, Letter 55]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 58|Registrum Epistolarum, Book IX, Letter 58]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 59|Registrum Epistolarum, Book IX, Letter 59]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 60|Registrum Epistolarum, Book IX, Letter 60]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 61|Registrum Epistolarum, Book IX, Letter 61]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 62|Registrum Epistolarum, Book IX, Letter 62]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 65|Registrum Epistolarum, Book IX, Letter 65]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 67|Registrum Epistolarum, Book IX, Letter 67]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 68|Registrum Epistolarum, Book IX, Letter 68]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 78|Registrum Epistolarum, Book IX, Letter 78]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 79|Registrum Epistolarum, Book IX, Letter 79]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 80|Registrum Epistolarum, Book IX, Letter 80]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 81|Registrum Epistolarum, Book IX, Letter 81]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 82|Registrum Epistolarum, Book IX, Letter 82]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 91|Registrum Epistolarum, Book IX, Letter 91]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 93|Registrum Epistolarum, Book IX, Letter 93]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 94|Registrum Epistolarum, Book IX, Letter 94]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 98|Registrum Epistolarum, Book IX, Letter 98]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 105|Registrum Epistolarum, Book IX, Letter 105]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 106|Registrum Epistolarum, Book IX, Letter 106]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 107|Registrum Epistolarum, Book IX, Letter 107]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 108|Registrum Epistolarum, Book IX, Letter 108]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 109|Registrum Epistolarum, Book IX, Letter 109]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 110|Registrum Epistolarum, Book IX, Letter 110]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 111|Registrum Epistolarum, Book IX, Letter 111]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 114|Registrum Epistolarum, Book IX, Letter 114]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 115|Registrum Epistolarum, Book IX, Letter 115]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 116|Registrum Epistolarum, Book IX, Letter 116]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 117|Registrum Epistolarum, Book IX, Letter 117]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 120|Registrum Epistolarum, Book IX, Letter 120]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 121|Registrum Epistolarum, Book IX, Letter 121]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 122|Registrum Epistolarum, Book IX, Letter 122]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 123|Registrum Epistolarum, Book IX, Letter 123]] — 590–604
+- [[Registrum Epistolarum, Book IX, Letter 125|Registrum Epistolarum, Book IX, Letter 125]] — 590–604
+- [[Registrum Epistolarum, Book X, Letter 10|Registrum Epistolarum, Book X, Letter 10]] — 590–604
+- [[Registrum Epistolarum, Book X, Letter 15|Registrum Epistolarum, Book X, Letter 15]] — 590–604
+- [[Registrum Epistolarum, Book X, Letter 18|Registrum Epistolarum, Book X, Letter 18]] — 590–604
+- [[Registrum Epistolarum, Book X, Letter 19|Registrum Epistolarum, Book X, Letter 19]] — 590–604
+- [[Registrum Epistolarum, Book X, Letter 23|Registrum Epistolarum, Book X, Letter 23]] — 590–604
+- [[Registrum Epistolarum, Book X, Letter 24|Registrum Epistolarum, Book X, Letter 24]] — 590–604
+- [[Registrum Epistolarum, Book X, Letter 31|Registrum Epistolarum, Book X, Letter 31]] — 590–604
+- [[Registrum Epistolarum, Book X, Letter 35|Registrum Epistolarum, Book X, Letter 35]] — 590–604
+- [[Registrum Epistolarum, Book X, Letter 36|Registrum Epistolarum, Book X, Letter 36]] — 590–604
+- [[Registrum Epistolarum, Book X, Letter 37|Registrum Epistolarum, Book X, Letter 37]] — 590–604
+- [[Registrum Epistolarum, Book X, Letter 39|Registrum Epistolarum, Book X, Letter 39]] — 590–604
+- [[Registrum Epistolarum, Book X, Letter 42|Registrum Epistolarum, Book X, Letter 42]] — 590–604
+- [[Registrum Epistolarum, Book X, Letter 62|Registrum Epistolarum, Book X, Letter 62]] — 590–604
+- [[Registrum Epistolarum, Book X, Letter 63|Registrum Epistolarum, Book X, Letter 63]] — 590–604
+- [[Registrum Epistolarum, Book XI, Letter 1|Registrum Epistolarum, Book XI, Letter 1]] — 590–604
+- [[Registrum Epistolarum, Book XI, Letter 12|Registrum Epistolarum, Book XI, Letter 12]] — 590–604
+- [[Registrum Epistolarum, Book XI, Letter 13|Registrum Epistolarum, Book XI, Letter 13]] — 590–604
+- [[Registrum Epistolarum, Book XI, Letter 25|Registrum Epistolarum, Book XI, Letter 25]] — 590–604
+- [[Registrum Epistolarum, Book XI, Letter 28|Registrum Epistolarum, Book XI, Letter 28]] — 590–604
+- [[Registrum Epistolarum, Book XI, Letter 29|Registrum Epistolarum, Book XI, Letter 29]] — 590–604
+- [[Registrum Epistolarum, Book XI, Letter 30|Registrum Epistolarum, Book XI, Letter 30]] — 590–604
+- [[Registrum Epistolarum, Book XI, Letter 32|Registrum Epistolarum, Book XI, Letter 32]] — 590–604
+- [[Registrum Epistolarum, Book XI, Letter 33|Registrum Epistolarum, Book XI, Letter 33]] — 590–604
+- [[Registrum Epistolarum, Book XI, Letter 35|Registrum Epistolarum, Book XI, Letter 35]] — 590–604
+- [[Registrum Epistolarum, Book XI, Letter 36|Registrum Epistolarum, Book XI, Letter 36]] — 590–604
+- [[Registrum Epistolarum, Book XI, Letter 37|Registrum Epistolarum, Book XI, Letter 37]] — 590–604
+- [[Registrum Epistolarum, Book XI, Letter 38|Registrum Epistolarum, Book XI, Letter 38]] — 590–604
+- [[Registrum Epistolarum, Book XI, Letter 40|Registrum Epistolarum, Book XI, Letter 40]] — 590–604
+- [[Registrum Epistolarum, Book XI, Letter 44|Registrum Epistolarum, Book XI, Letter 44]] — 590–604
+- [[Registrum Epistolarum, Book XI, Letter 45|Registrum Epistolarum, Book XI, Letter 45]] — 590–604
+- [[Registrum Epistolarum, Book XI, Letter 46|Registrum Epistolarum, Book XI, Letter 46]] — 590–604
+- [[Registrum Epistolarum, Book XI, Letter 47|Registrum Epistolarum, Book XI, Letter 47]] — 590–604
+- [[Registrum Epistolarum, Book XI, Letter 50|Registrum Epistolarum, Book XI, Letter 50]] — 590–604
+- [[Registrum Epistolarum, Book XI, Letter 54|Registrum Epistolarum, Book XI, Letter 54]] — 590–604
+- [[Registrum Epistolarum, Book XI, Letter 55|Registrum Epistolarum, Book XI, Letter 55]] — 590–604
+- [[Registrum Epistolarum, Book XI, Letter 56|Registrum Epistolarum, Book XI, Letter 56]] — 590–604
+- [[Registrum Epistolarum, Book XI, Letter 57|Registrum Epistolarum, Book XI, Letter 57]] — 590–604
+- [[Registrum Epistolarum, Book XI, Letter 58|Registrum Epistolarum, Book XI, Letter 58]] — 590–604
+- [[Registrum Epistolarum, Book XI, Letter 59|Registrum Epistolarum, Book XI, Letter 59]] — 590–604
+- [[Registrum Epistolarum, Book XI, Letter 60|Registrum Epistolarum, Book XI, Letter 60]] — 590–604
+- [[Registrum Epistolarum, Book XI, Letter 61|Registrum Epistolarum, Book XI, Letter 61]] — 590–604
+- [[Registrum Epistolarum, Book XI, Letter 62|Registrum Epistolarum, Book XI, Letter 62]] — 590–604
+- [[Registrum Epistolarum, Book XI, Letter 63|Registrum Epistolarum, Book XI, Letter 63]] — 590–604
+- [[Registrum Epistolarum, Book XI, Letter 65|Registrum Epistolarum, Book XI, Letter 65]] — 590–604
+- [[Registrum Epistolarum, Book XI, Letter 66|Registrum Epistolarum, Book XI, Letter 66]] — 590–604
+- [[Registrum Epistolarum, Book XI, Letter 67|Registrum Epistolarum, Book XI, Letter 67]] — 590–604
+- [[Registrum Epistolarum, Book XI, Letter 68|Registrum Epistolarum, Book XI, Letter 68]] — 590–604
+- [[Registrum Epistolarum, Book XI, Letter 69|Registrum Epistolarum, Book XI, Letter 69]] — 590–604
+- [[Registrum Epistolarum, Book XI, Letter 76|Registrum Epistolarum, Book XI, Letter 76]] — 590–604
+- [[Registrum Epistolarum, Book XI, Letter 77|Registrum Epistolarum, Book XI, Letter 77]] — 590–604
+- [[Registrum Epistolarum, Book XI, Letter 78|Registrum Epistolarum, Book XI, Letter 78]] — 590–604
+- [[Registrum Epistolarum, Book XII, Letter 1|Registrum Epistolarum, Book XII, Letter 1]] — 590–604
+- [[Registrum Epistolarum, Book XII, Letter 8|Registrum Epistolarum, Book XII, Letter 8]] — 590–604
+- [[Registrum Epistolarum, Book XII, Letter 24|Registrum Epistolarum, Book XII, Letter 24]] — 590–604
+- [[Registrum Epistolarum, Book XII, Letter 25|Registrum Epistolarum, Book XII, Letter 25]] — 590–604
+- [[Registrum Epistolarum, Book XII, Letter 28|Registrum Epistolarum, Book XII, Letter 28]] — 590–604
+- [[Registrum Epistolarum, Book XII, Letter 29|Registrum Epistolarum, Book XII, Letter 29]] — 590–604
+- [[Registrum Epistolarum, Book XII, Letter 32|Registrum Epistolarum, Book XII, Letter 32]] — 590–604
+- [[Registrum Epistolarum, Book XII, Letter 50|Registrum Epistolarum, Book XII, Letter 50]] — 590–604
+- [[Registrum Epistolarum, Book XIII, Letter 1|Registrum Epistolarum, Book XIII, Letter 1]] — 590–604
+- [[Registrum Epistolarum, Book XIII, Letter 5|Registrum Epistolarum, Book XIII, Letter 5]] — 590–604
+- [[Registrum Epistolarum, Book XIII, Letter 6|Registrum Epistolarum, Book XIII, Letter 6]] — 590–604
+- [[Registrum Epistolarum, Book XIII, Letter 7|Registrum Epistolarum, Book XIII, Letter 7]] — 590–604
+- [[Registrum Epistolarum, Book XIII, Letter 8|Registrum Epistolarum, Book XIII, Letter 8]] — 590–604
+- [[Registrum Epistolarum, Book XIII, Letter 9|Registrum Epistolarum, Book XIII, Letter 9]] — 590–604
+- [[Registrum Epistolarum, Book XIII, Letter 12|Registrum Epistolarum, Book XIII, Letter 12]] — 590–604
+- [[Registrum Epistolarum, Book XIII, Letter 18|Registrum Epistolarum, Book XIII, Letter 18]] — 590–604
+- [[Registrum Epistolarum, Book XIII, Letter 22|Registrum Epistolarum, Book XIII, Letter 22]] — 590–604
+- [[Registrum Epistolarum, Book XIII, Letter 26|Registrum Epistolarum, Book XIII, Letter 26]] — 590–604
+- [[Registrum Epistolarum, Book XIII, Letter 27|Registrum Epistolarum, Book XIII, Letter 27]] — 590–604
+- [[Registrum Epistolarum, Book XIII, Letter 31|Registrum Epistolarum, Book XIII, Letter 31]] — 590–604
+- [[Registrum Epistolarum, Book XIII, Letter 34|Registrum Epistolarum, Book XIII, Letter 34]] — 590–604
+- [[Registrum Epistolarum, Book XIII, Letter 38|Registrum Epistolarum, Book XIII, Letter 38]] — 590–604
+- [[Registrum Epistolarum, Book XIII, Letter 39|Registrum Epistolarum, Book XIII, Letter 39]] — 590–604
+- [[Registrum Epistolarum, Book XIII, Letter 40|Registrum Epistolarum, Book XIII, Letter 40]] — 590–604
+- [[Registrum Epistolarum, Book XIII, Letter 41|Registrum Epistolarum, Book XIII, Letter 41]] — 590–604
+- [[Registrum Epistolarum, Book XIII, Letter 42|Registrum Epistolarum, Book XIII, Letter 42]] — 590–604
+- [[Registrum Epistolarum, Book XIV, Letter 2|Registrum Epistolarum, Book XIV, Letter 2]] — 590–604
+- [[Registrum Epistolarum, Book XIV, Letter 4|Registrum Epistolarum, Book XIV, Letter 4]] — 590–604
+- [[Registrum Epistolarum, Book XIV, Letter 7|Registrum Epistolarum, Book XIV, Letter 7]] — 590–604
+- [[Registrum Epistolarum, Book XIV, Letter 8|Registrum Epistolarum, Book XIV, Letter 8]] — 590–604
+- [[Registrum Epistolarum, Book XIV, Letter 12|Registrum Epistolarum, Book XIV, Letter 12]] — 590–604
+- [[Registrum Epistolarum, Book XIV, Letter 13|Registrum Epistolarum, Book XIV, Letter 13]] — 590–604
+- [[Registrum Epistolarum, Book XIV, Letter 17|Registrum Epistolarum, Book XIV, Letter 17]] — 590–604

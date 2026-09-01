@@ -1,0 +1,30 @@
+---
+title: "A Learned Discourse of Justification, Works, and how the Foundation of Faith is Overthrown"
+author: "Richard Hooker"
+work: "A Learned Discourse of Justification, Works, and How the Foundation of Faith is Overthrown"
+chapter: 3
+year: "1585"
+source: "CCEL - public domain"
+tags:
+  - protestant-reformers
+  - richard-hooker
+---
+
+# 3. A Learned Discourse of Justification, Works, and how the Foundation of Faith is Overthrown
+
+### by
+
+## Richard Hooker
+
+"The wicked doth compass about the righteous; therefore perverse judgment doth proceed." Habakkuk 1:4
+
+For better manifestation of the prophet's meaning in this place we are: first, to consider "the wicked," of whom he saith that they "compass about the righteous"; secondly, "the righteous" that are compassed about by them; and, thirdly, that which is inferred, "therefore perverse judgment proceedeth." Touching the first, there are two kinds of wicked men, of whom in the fifth of the former to the Corinthians the blessed Apostle speaketh thus: "Do ye not judge them that are within? But God judgeth them that are without."[1 Cor 5:12f] There are wicked, therefore, whom the Church may judge, and there are wicked whom God only judgeth, wicked within and wicked without the walls of the Church. If within the Church particular persons, being apparently such, cannot otherwise be reformed, the rule of apostolical judgment is this: "Separate them from among them you";[1 Cor 5:13] if whole assemblies, this: "Separate yourselves from among them; for what society hath light with darkness?"[2 Cor 6:14] But the wicked whom the prophet meaneth were Babylonians, and therefore without. For which cause we have heard at large heretofore in what sort he urgeth God to judge them.
+
+Now concerning the righteous, there neither is nor ever was any mere natural man absolutely righteous in himself: that is to say, void of all unrighteousness, of all sin. We dare not except, no not the blessed Virgin herself, of whom although we say with St. Augustine, for the honour's sake which we owe to our Lord and Saviour Christ, we are not willing, in this cause, to move any question of his mother; yet forasmuch as the schools of Rome have made it a question, we must answer with Eusebius Emissenus,[The quotation that follows has not been traced, but it probably comes from a treatise or homily wrongly attributed to Eusebius of Emesa.] who speaketh of her, and to her, to this effect: "Thou didst by special prerogative nine months together entertain within the closet of thy flesh the hope of all the ends of the earth, the honour of the world, the common joy of men. He, from whom all things had their beginning, hath had his own beginning from thee; of thy body he took the blood which was to be shed for the life of the world; of thee he took that which even for thee he paid. The mother of the Redeemer herself, otherwise than by redemption, is not loosed from the band of that ancient sin." If Christ have paid a ransom for all,[1 Tim 2:6] even for her, it followeth that all without exception were captives. If one have died for all, all were dead, dead in sin;[2 Cor 5:14f; Eph 2:1,5] all sinful, therefore none absolutely righteous in themselves; but we are absolutely righteous in Christ. The world then must show a Christian man, otherwise it is not able to show a man that is perfectly righteous: "Christ is made unto us wisdom, justice [that is, righteousness], sanctification, and redemption"[1 Cor 1:30]: wisdom, because he hath revealed his Father's will; justice, because he hath offered himself a sacrifice for sin; sanctification, because he hath given us of his Spirit; redemption, because he hath appointed a day to vindicate his children out of the bands of corruption into liberty which is glorious.[Rom 8:21] How Christ is made wisdom, and how redemption, it may be declared when occasion serveth; but how Christ is made the righteousness of men we are now to declare.
+
+There is a glorifying righteousness of men in the world to come; and there is a justifying and a sanctifying righteousness here. The righteousness wherewith we shall be clothed in the world to come is both perfect and inherent. That whereby we are justified is perfect, but not inherent. That whereby we are sanctified, inherent, but not perfect. This openeth a way to the plain understanding of that grand question, which hangeth yet in controversy between us and the Church of Rome, about the matter of justifying righteousness.
+
+First, although they imagine that the mother of our Lord and Saviour Jesus Christ were, for his honour, and by his special protection, preserved clean from all sin, yet touching the rest they teach, as we do, that all have sinned; that infants who did never actually offend have their natures defiled, destitute of justice, and averted from God.[See Council of Trent, sess V, decree concerning original sin. 4] They teach, as we do, that God doth justify the soul of man alone, without any other coefficient cause of justice; that, in making man righteous none do work efficiently with God, but God.[Trent VI, ch 7] They teach, as we do, that unto justice no man ever attained, but by the merits of Jesus Christ.[Ibid] They teach, as we do, that although Christ as God be the efficient, as man the meritorious, cause of our justice, yet in us also there is something required.[TrentjVI ch 4,5; canons 4,9] God is the cause of our natural life; in him we live: but he quickeneth not the body without the soul in the body. Christ hath merited to make usjust; but as a medicine which is made for health doth not heal by being made but by being applied, so by the merits of Christ there can be no justification without the application of his merits. Thus far we join hands with the Church of Rome.
+
+---
+[[Hooker Just 2 Introduction|← 2. Introduction]] · [[Library/protestant reformers/Richard Hooker/A Learned Discourse of Justification/justification-index|Contents]] · [[Hooker Just 4 DOCTRINAL DISAGREEMENT|4. DOCTRINAL DISAGREEMENT →]]

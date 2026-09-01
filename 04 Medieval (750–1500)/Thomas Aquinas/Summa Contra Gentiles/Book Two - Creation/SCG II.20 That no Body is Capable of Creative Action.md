@@ -1,0 +1,36 @@
+---
+title: "That no Body is Capable of Creative Action"
+work: "Summa Contra Gentiles"
+book: "Book Two — Creation"
+book_no: 2
+chapter: 20
+author: "Thomas Aquinas"
+translator: "James F. Anderson (Hanover House, 1955–57), ed. Joseph Kenny O.P."
+source: "https://isidore.co/aquinas/english/ContraGentiles2.htm"
+tags:
+  - aquinas
+  - summa-contra-gentiles
+  - written/13th-century
+---
+
+# Chapter 20. That no Body is Capable of Creative Action
+
+*Book Two — Creation, Chapter 20* — Summa Contra Gentiles
+
+[1] The preceding considerations make it perfectly clear that no body can produce anything by creation.
+
+[2] A body acts only if it is moved, for the agent acting and the patient being acted upon, or the maker making and the thing being made, must exist together, simultaneously. Now, “those things are simultaneously existent which are in the same place,” as is pointed out in *Physics* V [3], and it is only by motion that a body acquires a place. But no body is moved except in time. Therefore, whatever is made by the action of a body comes to be successively. Yet, as we have just shown, creation is successionless. Therefore, nothing can be produced creatively by any bodily thing whatsoever.
+
+[3] Again. Every agent that acts so far as it is moved, necessarily moves that upon which it acts; the thing made and the thing acted upon are determined by the disposition of the maker and agent, for every agent produces its like. So, if an agent, while varying in disposition, acts in that it is changed by movement, a succession of new dispositions must also arise in the patient and in the thing made; and this cannot take place without motion. But as was shown, a body does not move unless it is moved. Therefore, nothing is made by the action of a body except through the motion or change of the thing made. It was, however, shown above that creation is neither a change nor a motion. It remains that no body can cause anything by creating it.
+
+[4] Moreover, since agent and effect must be similar to each other, a thing that does not act by its total substance cannot produce the total substance of its effect. Thus, Aristotle proves [ *Metaph.* VI, 8], conversely, that an immaterial form, which acts by its whole self, cannot be the proximate cause of a process of generation whereby the form alone is actualized. But no body acts by its total substance, although the whole substance acts. For, since every agent acts through the form by which it is in act, only that thing whose total substance is a form will be capable of acting by its total substance. Of no body can it be said that its whole substance consists of form; every body possesses matter because every body is mutable. Therefore, no body can produce a thing according to its total substance; and this pertains to the very essence of creation.
+
+[5] Furthermore, creation is the act of an infinite power alone. For the greater the power of an agent, the greater is its capacity for actualizing a potentiality more and more remote from actual existence; a power able to produce fire from water is greater than one that can make fire from air; so that where pre-existing potentiality is altogether eliminated, every relation of a determinate distance is transcended; and thus the power of an agent which produces something from no pre-existing potentiality whatever must immeasurably surpass the power of an agent which produces something from matter. Now, no power possessed by a body is infinite as Aristotle proved in *Physics* VIII [10]. Hence, no bodily thing is capable of creating—of making something from nothing.
+
+[6] Again, as Aristotle proves in *Physics* VII [2], there is nothing intermediate between this mover moving and this thing moved by it- this thing making and this thing made by it; mover and moved, maker and made must exist together. But a bodily agent can be present to its effect only by contact, whereby the extremities of contiguous things come together. No bodily thing, then, can act except by contact. Now, contact involves the relation of one thing to another. Consequently, where there is nothing pre-existent besides the agent, there can be no contact; and this is the case in creation. Hence, no body can act by creating.
+
+[7] Patently false, therefore, is the position of those who said that the substance of the heavenly bodies causes the matter of the elements; matter can have no other cause than an agent which acts by creating, for matter is the first subject of motion and change.
+
+
+---
+[[SCG II.19 That in Creation no Succession Exists|← II.19. That in Creation no Succession Exists]] · [[Book Two - Creation|Book Two — Creation Contents]] · [[SCG II.21 That the Act of Creating Belongs to God Alone|II.21. That the Act of Creating Belongs to God Alone →]]

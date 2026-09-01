@@ -1,0 +1,24 @@
+---
+title: "Letter 259"
+author: "St. Basil"
+translator:
+  - "Blomfield Jackson"
+series: "Nicene and Post-Nicene Fathers, Second Series"
+volume: "8"
+year: "1895"
+source: "http://www.newadvent.org/fathers/3202259.htm"
+written: "c. 357–378"
+earliest_ms: "9th–10th century (earliest Greek copies)"
+corpus_file: "Basil_the_Great_3202259.xml"
+tags:
+  - church-fathers
+  - written/4th-century
+---
+
+# Letter 259
+
+ST. BASIL OF CAESAREA
+
+To the monks Palladius and Innocent.
+
+From your affection for me you ought to be able to conjecture my affection for you. I have always desired to be a herald of peace, and, when I fail in my object, I am grieved. How could it be otherwise? I cannot feel angry with any one for this reason, because I know that the blessing of peace has long ago been withdrawn from us. If the responsibility for division lies with others, may the Lord grant that those who cause dissension may cease to do so. I cannot even ask that your visits to me may be frequent. You have therefore no reason to excuse yourselves on this score. I am well aware that men who have embraced the life of labour, and always provide with their own hands the necessities of life, cannot be long away from home; but, wherever you are, remember me, and pray for me that no cause of disturbance may dwell in my heart, and that I may be at peace with myself and with God.

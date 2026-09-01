@@ -1,0 +1,28 @@
+---
+title: "February 25"
+book: "Faith's Checkbook"
+author: "Charles H. Spurgeon"
+source: "Christian Classics Ethereal Library (ccel.org)"
+tags:
+  - spurgeon
+  - spurgeon-books
+  - devotional
+---
+
+# February 25
+
+*Faith’s Checkbook* — Charles H. Spurgeon
+
+**SET APART**
+
+> Ye shall be named the priests of the Lord" Isa. 61:6
+
+This literal promise to Israel belongs spiritually to the seed after the Spirit, namely, to all believers. If we live up to our privileges, we shall live unto God so clearly and distinctly, that men shall see that we are set apart for holy service, and shall name us the priests of the Lord. We may work, or trade, as others do, and yet we may be solely and wholly the ministering servants of God. Our one occupation shall be to present the perpetual sacrifice of prayer, and praise, and testimony, and self-consecration, to the living God by Jesus Christ.
+
+This being our one aim, we may leave distracting concerns to those who have no higher calling. "Let the dead bury their dead." It is written, "Strangers shall stand and feed your flocks, and the sons of the alien shall be your plowmen and your vine-dressers." They may manage politics, puzzle out financial problems, discuss science, and settle the last new quibbles of criticism; but we will give ourselves unto such service as becomes those who, like the Lord Jesus, are ordained to a perpetual priesthood.
+
+Accepting this honorable promise as involving a sacred duty, let us put on the vestments of holiness, and minister before the Lord all day long.
+
+
+---
+[[FCB February 24|← February 24]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB February 26|February 26 →]]

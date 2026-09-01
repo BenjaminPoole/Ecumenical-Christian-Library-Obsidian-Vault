@@ -1,0 +1,24 @@
+---
+title: "Registrum Epistolarum, Book IX, Letter 42"
+author: "Gregory the Great"
+translator:
+  - "James Barmby"
+series: "Nicene and Post-Nicene Fathers, Second Series"
+volume: "13"
+year: "1898"
+source: "http://www.newadvent.org/fathers/360209042.htm"
+written: "590–604"
+earliest_ms: "8th century (earliest register collections)"
+corpus_file: "Gregory_the_Great_360209042.xml"
+tags:
+  - church-fathers
+  - written/6th-century
+---
+
+# Registrum Epistolarum, Book IX, Letter 42
+
+To Agilulph, King of the Lombards.
+
+Gregory to Agilulph, etc.
+
+We return thanks to your Excellency, that, hearkening to our petition, you have concluded such a peace as may be of advantage to both parties, as we had confidence in you that you would. On this account we greatly commend your prudence and goodness, since in choosing peace you have shown that you love God, who is its author. For, if unhappily peace had not been made, what else could have ensued but, with sin and danger on both sides, the shedding of the blood of miserable peasants, whose labour profits both? But, that we may feel the advantage to us of this peace, as it has been made by you, we beg you, greeting you with paternal charity, that as often as opportunity offers itself, you would enjoin by letters on your dukes in various places, and especially those who are constituted in these parts, that they keep this peace inviolate, as has been promised, and not seek for themselves any occasions whence either any contention or any ill-feeling may arise, to the end that we may be able to give thanks still more for your good will. We received the bearers of these presents, as being in very truth your own people, with the affection that was becoming, since it was right both to receive and dismiss with charity men who are wise, and who announced that by the favour of God peace had been concluded.

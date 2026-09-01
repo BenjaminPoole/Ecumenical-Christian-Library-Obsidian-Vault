@@ -1,0 +1,83 @@
+---
+title: "2 Corinthians 11"
+author: "John Trapp"
+work: "A Commentary or Exposition upon the Old and New Testaments"
+book: "2 Corinthians"
+chapter: 11
+year: "1647-1662"
+source: "archive.org: John Trapp's Bible Commentary (JohnTrappsBibleCommentaries, per-book EPUBs)"
+tags:
+  - john-trapp
+  - trapp-commentary
+---
+
+# 2 Corinthians 11
+
+**Ver. 1.** In my folly] How foolish were the Pharisees, John 7:49, and after them the Gnostics, the Illuminates, and now the Jesuits, that boast themselves to be the only knowing men! Palemon the Grammarian, that bragged that all learning was born with him, and would die when he died! Epicurus, that he first found out the truth! (Sueton.) Richardus de S. Victore, that gave out that he knew more in divinity than any prophet or apostle of them all! These were fools to purpose; the apostle was put upon a necessity of commending himself, so to vindicate his ministry from the contempt cast upon him by the Corinthians.
+
+**Ver. 2.** For I am jealous] q.d. My dear love to you puts me upon thus praising myself. With a godly jealousy] Gr. with a zeal of God, called the flame of God, Song of Solomon 8:6, such as was that of Job over his children, for fear they should sin against God; not such as was that of the Pharisees over the Galatians, the hypocrisy of jealousy, Galatians 4:17. For I have espoused you] Gr. I have fitted you, as things that are pieced together are glued or soldered. ηρμοσαμην, Velut ea quae glutino aut ferrumine committuntur. (Erasm.) To one husband] Here the cedar taketh the thistle to wife (tantus tantillos), and doth all the offices of a husband to her, 2 Kings 14:9 Eze 16:8 1. He first loveth his Church, and then purifieth her, Ephesians 5:25,26. (Ahasuerus had the virgins first purified and perfumed before he took them to his bed.) 2. He puts upon her his own comeliness, as Eleazar put the jewels upon Rebecca (hence she is called Callah of the perfection of her attire, ornaments, and beauty, Jeremiah 2:32). 3. He maketh love to her by his paranymphs, his ministers, who woo for him, and present her to Christ as a chaste virgin. 4. He cohabits with her; Song of Solomon 7:5 "The king is tied in the rafters." 5. He rejoiceth over her, Isaiah 62:4,5 6. He doth the marriage duty to her, and maketh her the mother of us all, Galatians 4:26 Ro 7:1 7. He nourisheth and cherisheth her, Ephesians 5:29 8. He hateth putting away, Malachi 2:16, and provideth for her eternal welfare, Ephesians 1:7 Col 1:21,22.
+
+**Ver. 3.** But I fear] Jealousy is made up of love, fear, and anger. By his subtilty] He mustered all his forces, or rather all his frauds, together to cheat her. That old serpent, when he was young, outwitted our first parents; now that he is old, and we young, Ephesians 4:14, what will he not do, if we watch not? Bellarmine saith of his Romanists, Romani sicut non acumina, ita nec imposturas habent, that they are neither sharp nor subtle. The devil is both, and so are they; witness their crafty cruel both positions and dispositions; this old serpent having lent them both his seven heads to plot and his ten horns to push. So your minds should be corrupted] Satan hath his νοηματα, set and composed machination, 2 Corinthians 2:11, whereby he adulterateth our νοηματα, our judgments. From the simplicity, &c.] Of all graces Satan would beguile us of this simplicity; the world calls it silliness, sheepishness.
+
+**Ver. 4.** But if he that cometh] Giddy hearers, whirred about with every novelty, have no mould but what the next teacher casts them into; being blown like glasses into this or that shape at the pleasure of his breath. See John 5:43.
+
+**Ver. 5.** The very chiefest apostles] Either he meaneth those pillars, Peter, James, John, &c., Galatians 2:6; or the false apostles, whom he styleth chiefest by an irony, because they sought to bear away the bell, and be counted prime preachers.
+
+**Ver. 6.** But though I be rude in speech] Gr. an idiot, a plain, downright, homespun, homely spoken person. The ancient s busied themselves (saith Cyril), ουκ εν ευρεσιλογια, not about coin and newly coined language, but εν αποδειξει των θειων γραφων, about solid demonstrations drawn out of the Holy Scriptures. Jerome reports of Didymus that he was an apostolic writer, as you might easily gather by his style, Tam sensuum nomine quam simplicitate verborum. His matter was as lofty as his language low and ordinary. Jerome himself is much commended by learned men, Quod ubique non sit aeque Latinus, that he is not always so curious and choice of his words. But what reason he had, I see not, to censure St Paul so sharply as he doth, Ob sensus involutos, eloquium implicatum, et artis Grammaticae imperitiam, for his intricate sense, dark elocution, and unskilfulness in grammar learning. True it is, he was a plain preacher, as he here acknowledgeth; and why he affected plainness, he telleth us, 1 Corinthians 1:17, as stooping to common people’s capacities. But that he could play the orator if he pleased, appears Acts 17:22-31 26:2; insomuch as the Lycaonians called him Mercury, because he was "a master of speech," Acts 14:12. And as for his Epistles, there is as good rhetoric found in them as in any heathen orator whatsoever. Demosthenes is but dull to him; and Austin’s wish was to have seen Paulum in ore, Paul preaching, which he would have esteemed a high happiness.
+
+**Ver. 7.** I have preached to you freely] Because he get his living with his hands, that he might preach gratis, they despised him as a mean mechanic. This is merces mundi, the world’s wages. Nil habet infaelix paupertas, &c. Ministers must have an honourable maintenance (and not be forced to weave for a living, as Musculus was, or to serve the mason, as another great scholar), or else they will be shamefully slighted.
+
+**Ver. 8.** I robbed other churches] Grandis metaphora, Great metaphor, th Piscator, I took maintenance from them (as the apostle presently expounds himself), I made a prey and prize of them, εσυλησα.
+
+**Ver. 9.** And wanted] Gr. and was behind hand. I was chargeable to no man] I was none of those drones that chill the charity of well-disposed people, as the cramp-fish benumbeth those that touch or come near it. (κατεναρκησα, ναρκη, Torpedo.)
+
+**Ver. 10.** As the truth of Christ is in me] He confirms it with an oath, that he will not take a penny of them while he preacheth in those parts. A minister should be careful of whom he receives a kindness. Note further from this text, that lawful things, when they prove inexpedient and gravaminous, may be forborne by the bond of a covenant.
+
+**Ver. 11.** Because I lose you not?] It should be a minister’s care to preserve in the hearts of his people an opinion of his love to them. For if they once conceive an incurable prejudice against him, that he hates them, or the like, there is no good will be done.
+
+**Ver. 12.** That I may cut off occasion] There were those that waited for it, as earnestly as a dog doth for a bone, as we say. Habuerunt suos cucullos omnes docti et heroici quolibet tempore, saith Melancthon. Every Zopyrus hath his Zoilus. That wherein they glory] They, likely, had feathered their nests, and so might well afford to preach gratis. Paul, though not so well underlaid, would not come behind them in that either. He would not be less busy (though he laboured hard for it) in building staircases to heaven, than they were in digging descents down to hell.
+
+**Ver. 13.** Deceitful workers] They seemed to labour, but indeed they loitered, or worse; seeking to set up themselves in the hearts of God’s people. Transforming themselves, &c.] The Manichees derived their name of manna, because they held that whatsoever they taught was to be received as food from heaven. Montanus said he was the Comforter, &c. Novatus called himself Moses, and a brother that he had, Aaron. The family of love set out their Evangelium regni. Kingdom of the Gospel. The Swenckfeldians (Stinckfeldians Luther called them, from the ill savour of their opinions) entitled themselves with that glorious name, The confessors of the glory of Christ. (Schlussenburg.)
+
+**Ver. 14.** Satan himself is, &c.] Satan, saith one, doth not always appear in one and the same fashion, but hath as many different changes as Proteus among the poets. At Lystra he appears like a comedian, as if a scene of Plutus were to be presented on the stage. At Antioch like a Jesuit, with traditions in his mouth. At Athens he sallies out like a philosopher; at Ephesus like a craftsman; and here at Corinth he is transformed into an angel of light. Fiery serpents full of deadly poison are called seraphims, Numbers 21:6 Isa 30:6.
+
+**Ver. 15.** As the ministers of righteousness] Cavete a Melampygo. Try before you trust; sects and seducers are very subtle and insinuative; the locusts have faces like women; know them and avoid them. When one commended the pope’s legate at the Council of Basil, Sigismund the emperor answered, Tamen Romanus est, Yet he is a Roman. So, let Satan or his agents come never so much commended to us in his sugared allurements, let us answer, Yet he is a devil. Sin draws the devil’s picture in a man; envy is the devil’s eye, falsehood his tongue, oppression his hand, hypocrisy his cloven foot, &c.
+
+**Ver. 16.** Let no man think me] There was never man, nor action, but was subject to variety of censures and misconstructions, foolish men daring to reprehend that which they do not comprehend. I like St Augustine’s resolution in this case. Non curo illos censores, qui vel non intelllgendo reprehendunt, vel reprehendendo non intelligunt.
+
+**Ver. 17.** I speak it not afterthe Lord] Neither by his command nor example, but permission only.
+
+**Ver. 18.** Glory after the flesh] Or in the flesh, Galatians 6:13, or have confidence in the flesh, Philippians 3:4.
+
+**Ver. 19.** For ye suffer fools] Inter indoctos etiam Corydus sonat. (Quintilian.) Wise men hold them for fools whom fools admire for wise men. As one saith of attorneys, Quod inter opiliones se iactitent iurisperitos, inter iurisperitos ne opilionum quidem aestimatione habeantur. (Rex Platonicus.)
+
+**Ver. 20.** For ye suffer, if, &c.] As the Popish penitentiaries, those miserably misled and muzzled creatures. They write of our King Henry II, that going to Canterbury to visit the sepulchre of his own martyr, Thomas Beckett, coming within sight of the church, he alighted, and went three miles on his bare feet, which with the hard stones were forced to yield bloody tokens of his devotion on the way. (Daniel’s Hist.) Clemens V, pope, caused Dandalus, the Venetian ambassador, to come before him tied in chains, and to wallow under his table with dogs, while his Holiness sat at supper. The pope lashed Henry IV of France (in the person of his ambassador at Rome) after the singing of every verse of Miserere, until the whole Psalm was sung out. Sed exorto iam evangelii iubare, sagaciores (at spero) principes ad nutum Romani Orbilii non solvent subligacula, saith a great divine. (Gab. Powell on Tolerat.) If a man take of you] By way of gratuity, but not of wages; or by their followers, and not by themselves. No Capuchin among the Papists may take or touch silver. This metal is as very anathema to these, as the wedge of gold to Achan; at the offer whereof he starts back, as Moses from the serpent. Yet he carries a boy with him that takes and carries it, and never complains of either metal or measure. A friar of the order of St. Francis, of the new rule of 1528. So called from the sharp-pointed capuche, adopted first in 1525, and confirmed to them by Pope Clement VII in 1528. ŒD
+
+**Ver. 21.** As though we had been weak] i.e. Worthless and spiritless. But mistake not yourselves; I am another manner of man than you imagine me. It is said of Athanasius, that he was Magnes et Adamas; a loadstone in his sweet, gentle, drawing nature, and yet an adamant in his resolute, stout carriage against heretics and evildoers. (Nazianzen.)
+
+**Ver. 22.** Are they Israelites] God’s select, peculiar. "Happy art thou, O Israel; who is like unto thee, O people!" Deuteronomy 33:29. The Jews say that those seventy souls that went with Jacob into Egypt were as much as all the seventy nations of the world. Tabor and Hermen, the east and west of Judea, are put for the east and west of the world, Psalms 89:12.
+
+**Ver. 23.** In labours more abundant] Chrysostom calleth Paul, Insatiabilem Dei cultorem, an unweariable servant of God.
+
+**Ver. 24.** Forty stripes save one] That they might be sure not to exceed the set number of stripes, limited by the law, Deuteronomy 25:3.
+
+**Ver. 25.** Thrice was I beaten, &c.] By the Roman magistrates, as also the martyrs were by the Romish bishops. Thomas Hinshaw was beaten with rods by Bonner, and abode his fury so long as the fat paunched bishop could endure with breath, and till for weariness he was fain to cease. So also he dealt by John Willis, and by Mr Bartlet Green, who greatly rejoiced in the same. I have been in the deep] Sine nave in mari fui, I was in the sea without a ship, so the Syriac renders it. For 24 hours together I have been floating in the sea.
+
+**Ver. 26.** By mine own countrymen] A Gentilibus meis, et a Gentibus.
+
+**Ver. 27.** In weariness and painfulness] Here is dainty rhetoric. Cicero calleth Aristotle’s Politics, Aureum flamen orationis, a golden flood of eloquence in respect of the purity of the style and the excellency of the matter. May it not be more truly said of this great apostle’s writings?
+
+**Ver. 28.** That which cometh, &c.] Quasi agmine facto, et repetitis vicibus, His care came upon him, as an armed man, and gave him no rest or respite. The Greek word επισυστασις holds out the cumber; he had as it were all care numbered, and mustered together, and that with anxiety, μεριμνα, with the same solicitude that a man hath about business of his own: yet held he out his whole race without cessation or respiration. The care of all the Churches] Calvin was not otherwise affected toward the Churches though far remote, than if he had borne them upon his shoulders, saith Beza. He often sighed out, Usque quo Domine, over the poor afflicted Churches of Christ, with the miseries whereof he was much more affected than with any of his own private miseries. I could not but love the man (said Theodosius of Ambrose) for that, while he lived, and when he died, he took more care for the Church than for himself, Magis de ecclesiarum statu, quam de suis periculis angebatur.
+
+**Ver. 29.** Who is weak] By passion. And I am not weak] By compassion. And I burn not] πυρουμαι, i.e. am exceedingly grieved. Compare Psalms 10:2 7:14. He hotly pursueth the poor. The apostle was even scorched and scalded with sorrow and holy indignation, he felt twinges when others were hurt.
+
+**Ver. 30.** I will glory of the things] As a conqueror of his spoil, or as an old soldier of his scars. The apostle glorieth in those things that his adversaries condemned as infirm in him. The afflictions also of the best may fitly be called their infirmities; because they are apt to bewray weakness in them. Like as when fire comes to green wood, there issueth out abundance of watery stuff, that was not discerned before; and as, when the pond is empty, the mud, filth, and toads appear.
+
+**Ver. 31.** Which is blessed for ever] And therefore to be blessed, as he that is the Father of our Lord Jesus Christ. This is a praise that he much stands upon, Romans 15:6. And surely if all generations shall call the Virgin blessed, for that she was the mother of Christ, Luke 1:48, how much more, &c.
+
+**Ver. 32.** In Damascus] The chief city of Syria, built (say some) in the place where the blood of Abel was spilt, and thence called Damesek, i.e. a bag of blood. Thither Paul marched with a bloody mind, but was miraculously converted, and so powerfully confounded his countrymen there, that they incensed the governor against him, to his great peril. That is the guise of godless persecutors, to attempt that against the truth by arms that they cannot effect by arguments. See Acts 9:23,24.
+
+**Ver. 33.** And through a window, &c.] An honest shift, though against the Roman law of leaping over the walls. Quia leges semper ad aequitatem flectendae sunt, saith Cicero. The sense of the law is the law, and not always the letter. Apices iuris non sunt ius. And escaped his hands] Of the lawfulness of flight in some cases. *[See Trapp on "Mt 10:23"]* *[See Trapp on "Ac 9:24"]*
+
+---
+[[JT 2 Corinthians 10|← 2 Corinthians 10]] · [[Library/John Trapp/New Testament/John Trapp — New Testament|Contents]] · [[JT 2 Corinthians 12|2 Corinthians 12 →]]

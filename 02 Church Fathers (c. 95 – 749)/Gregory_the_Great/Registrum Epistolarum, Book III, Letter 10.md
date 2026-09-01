@@ -1,0 +1,24 @@
+---
+title: "Registrum Epistolarum, Book III, Letter 10"
+author: "Gregory the Great"
+translator:
+  - "James Barmby"
+series: "Nicene and Post-Nicene Fathers, Second Series"
+volume: "12"
+year: "1895"
+source: "http://www.newadvent.org/fathers/360203010.htm"
+written: "590–604"
+earliest_ms: "8th century (earliest register collections)"
+corpus_file: "Gregory_the_Great_360203010.xml"
+tags:
+  - church-fathers
+  - written/6th-century
+---
+
+# Registrum Epistolarum, Book III, Letter 10
+
+To Savinus, Subdeacon.
+
+Gregory to Savinus, etc.
+
+Bad men have gone forth and disturbed your minds, understanding neither what they say nor whereof they affirm, pretending that in the times of Justinian of pious memory something was detracted from the faith of the holy synod of Chalcedon, which with all faith and all devotion we venerate. And in like manner all the four synods of the holy universal Church we receive as we do the four books of the holy Gospel. But concerning the persons with respect to whom something had been done after the close of the synod, there was something ventilated in the times of Justinian of pious memory: yet so that neither was the faith in any respect violated, nor anything else done with regard to these same persons but what had been determined at the same holy synod of Chalcedon. Moreover, we anathematize any one who presumes to detract anything from the definition of the faith which was promulgated in the said synod, or, as though by amending it, to change its meaning: but, as it was there promulged, so in all respects we guard it. You, therefore, most dear son, it becomes to return to the unity of Holy Church, that you may end your days in peace; lest the malignant spirit, who cannot prevail against you through your other works, may from this cause find a way at the day of your departure of barring your entrance into the heavenly Kingdom.

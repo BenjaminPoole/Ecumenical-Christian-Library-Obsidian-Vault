@@ -1,0 +1,24 @@
+---
+title: "Registrum Epistolarum, Book X, Letter 23"
+author: "Gregory the Great"
+translator:
+  - "James Barmby"
+series: "Nicene and Post-Nicene Fathers, Second Series"
+volume: "13"
+year: "1898"
+source: "http://www.newadvent.org/fathers/360210023.htm"
+written: "590–604"
+earliest_ms: "8th century (earliest register collections)"
+corpus_file: "Gregory_the_Great_360210023.xml"
+tags:
+  - church-fathers
+  - written/6th-century
+---
+
+# Registrum Epistolarum, Book X, Letter 23
+
+To Adrian, Notary of Sicily.
+
+Gregory to Adrian, etc.
+
+A thing to us altogether detestable and infamous has come to our ears, and we wonder why, if it is true, you have not taken notice of it. For Martianus, a monk of the monastery of Saint Vitus, situate on Mount Ætna, has come to us, and presented a petition, complaining among other things that the monks of this monastery live so perversely and wickedly as to dare to have women living with them, which is a thing atrocious to be spoken of. And, seeing that we have written on this matter to our brother and fellow bishop Leo, in order that, having enquired into the truth, he may, if he should find it to be so, be at pains to correct it with the strictest severity, it is necessary for your Experience also to show yourself in all respects solicitous for investigation of the truth, and punishment of so great a wickedness; so that nothing may be found to be done remissly or negligently. Further, for the interests in other respects of the same monastery, lend your assistance so far as equity may require, to the end that if, as is said, there has been any invasion of it, it may be redressed according to justice, and that for the future nothing prejudicial may in any way arise there contrary to the fear of God and the order of law.

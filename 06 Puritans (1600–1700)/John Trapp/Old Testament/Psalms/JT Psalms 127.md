@@ -1,0 +1,27 @@
+---
+title: "Psalms 127"
+author: "John Trapp"
+work: "A Commentary or Exposition upon the Old and New Testaments"
+book: "Psalms"
+chapter: 127
+year: "1647-1662"
+source: "archive.org: John Trapp's Bible Commentary (JohnTrappsBibleCommentaries, per-book EPUBs)"
+tags:
+  - john-trapp
+  - trapp-commentary
+---
+
+# Psalms 127
+
+**Ver. 1.** Except the Lord build the house] Not the fabric only, but the family and the government thereof; there is no good to be done if God set not to his fiat, and say, Let it be done; if he blast or not bless men’s endeavours and policies, they are all but arena sine calce, sand without lime, they will not hang together, but, like untempered mortar, fail asunder. There is a curse upon such as idolize themselves, and kiss their own hands, though they be industrious, Jehoiakim, for instance, Jeremiah 22:24-30 \u0960 αρ ̀ +\u0966 ι0\u0955 ι0 \u0960 αρ \u0955 ι640 \u0966 ι-320 Θεου διδοντος μηδεν ισχυει φθονος\u0960 αρ \u0955 ι640 \u0966 ι-320 Και μη διδοντος μηδεν ισχυει πονος (Naz.). Except the Lord keep the city, the watchman] Whether civil or military, frustra nititur, qui Deo non innititur. Politicians stand on their own heads, like children, and shake their heels against heaven, but all in vain. Soldiers, some of them, are ready to say, with Ajax, I acknowledge no God but my sword, &c. Such shall be surely befooled and confuted; and God’s blessing declared to be all in all.
+
+**Ver. 2.** It is vain for you to rise up early] Diluculantes surgere, tardantes sedere, to toil and moil in the world. It were to be wished that this Nisi, nisi, frustra, frustra, were ever sounding in the ears of worldlings, who will needs act upon their own principles; "God is not in all their thoughts." To eat the bread of sorrows] i.e. Hardly gotten, or that men can scarce beteem themselves, they are so miserable and parsimonious; or, bread eaten with carefulness, as Ezekiel 12:19: certainly men may sooner by their care add a furlong to their sorrow than a cubit to their comfort. For so he giveth his beloved sleep] Dilecto sue, to each of his beloved ones; not without an allusion to Solomon’s other name, Jedidiah, God’s darling. To these he giveth sleep, extraordinary, quiet, refreshing sleep (אנ שׁ with an Aleph quiescent, which is not usual), that is, he giveth wealth without labour, as to others labour without wealth, saith Kimchi; the world comes tumbling in upon them, as we say, they have it quasi per somnium, as towns were said to come into Timotheus’s toils while he slept (Plut.); without anxiety, they break not their sleep for the matter, but live by faith, and make a good living of it too, Omnia necessaria benignissime Dominus quasi per iocum largitur (Beza). To make oneself wet and muddy; to wallow in mire
+
+**Ver. 3.** Lo, children are an heritage of the Lord] This Solomon could not but be sensible of. See the title of this psalm; especially, if by children are meant good children, as, Proverbs 18:22, by a wife is meant a good wife. And here the poor man that hath no inheritance otherwise hath one from the Lord; for such are oft full of children; neither may he wish, as one graceless man did, that God would keep such his blessings to himself, for he had too many of them. Is his reward] That is, his free gift; and God will be their exceeding great reward, if, by their parents’ prayer and good education, they prove towardly, as the Lord’s heritage, and as arrows in the hand, &c.
+
+**Ver. 4.** As arrows are in the hand of a mighty man] Heb. of a giant, who shooteth them with a courage, and is cunning at it. As clean and well kept arrows. This similitude importeth that children must have more in them than nature; for arrows are no arrows by growth, but by art; so they must be such children, the knottiness of whose nature is refined and reformed, and made smooth by grace; and then they are cared for. As, if they prove otherwise, they are a singular heartbreak to their poor parents, who are seen to sit under Elijah’s juniper, wishing for death, and saying, with Moses, Numbers 11:14,15, I am not able to bear all this sore affliction, "because it is too heavy for me. And if thou deal thus with me, kill me, I pray thee, out of hand, if I have found favour in thy sight; and let me not see my wretchedness." So are children of the youth] Or, young sons, or lads, springlings, striplings, vegetous and vigorous, able to be a guard to their aged parents against the children of violence, who seek to press in upon them at the door, as the Sodomites dealt by righteous Lot, *[see Psalms 127:5]* besides the service they may do to the commonwealth (as did the Horatii and Curiatii) by their impetus heroici, valour and virtue.
+
+**Ver. 5.** Happy is the man that hath his quiver] That is, his house, full of them, so they be good children; for else to be childless is a mercy, it is ευτυχης ατυχια, a blessed misery, saith Euripides; and Aristotle concludeth that πολυγονια is no blessing, unless it be ευγενεια, that is, to have a numerous issue, unless they be virtuous. They shall not be ashamed] Neither father nor children, se enim illi mutuo muniunt ac firmant, they help each other. But they shall speak with the enemies] Periment, saith Tremellius, they shall foil them, and nonsuit them.
+
+---
+[[JT Psalms 126|← Psalms 126]] · [[Library/John Trapp/Old Testament/John Trapp — Old Testament|Contents]] · [[JT Psalms 128|Psalms 128 →]]

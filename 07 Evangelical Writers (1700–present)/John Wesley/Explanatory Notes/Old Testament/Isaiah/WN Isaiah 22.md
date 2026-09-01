@@ -1,0 +1,65 @@
+---
+title: "Isaiah 22"
+author: "John Wesley"
+work: "Explanatory Notes upon the Old Testament"
+book: "Isaiah"
+chapter: 22
+year: "1755/1765"
+source: "biblehub.com (Wesley's Explanatory Notes)"
+tags:
+  - wesley
+  - wesley-notes
+---
+
+# Isaiah 22
+
+**22:1** The valley - Of Judah; and especially of Jerusalem, called a valley, because great part of it flood in a valley; and the valley of vision, because of the many and clear visions or revelations of God's mind, in that place. House - tops - As they used to do in times of great consternation, that they might look, to and cry to heaven for help.
+
+**22:2** Noises - Of joyful shouts. Tumultuous - Through revelling and jollity. Battle - But either by famine or pestilence in the siege, or in their flight.
+
+**22:3** Rulers - Zedekiah and his chief commanders, whose flight he foretells. Found - That remain there with Zedekiah in the siege; for those who had fled to the Chaldeans saved their lives and liberties. Bound - In fetters, Jer 52:11. Fled - Who fled from Jerusalem, but were pursued and overtaken by their enemies, and bound, as others had been.
+
+**22:4** Look away - Take off your eyes and thoughts from me, and leave me alone.
+
+**22:5** Treading down - In which my people are trodden under foot by their enemies. By the Lord - Not only men, but God himself fought against them. Walls - Of the strong cities of Judah. Mountains - With such loud and dismal outcries as should reach to the neighbouring mountains.
+
+**22:6** Elam - The Persians, who now, and for a long time after, were subject to the Assyrian and Chaldean emperors. Quiver - Being expert bowmen. Horsemen - As some fought on foot, so others fought from chariots and horses. Kir - The Medes, so called from Kir, an eminent city and region of Media. Uncovered - Prepared it and themselves for the battle.
+
+**22:7** Valleys - Valleys were the most proper places for the use of chariots. Gate - To assist the footmen while they made their assault, and to prevent those who endeavoured to escape.
+
+**22:8** He - The enemy. Covering - He took those fenced cities, which were a covering or safe - guard both to the people of Judah, and to Jerusalem. The armour - Thy trust was placed in the arm of flesh. The forest - More fully called the house of the forest of Lebanon, 1Kings 7:2, not because it was built in Lebanon, for it was in Jerusalem; but because it was built of the trees of Lebanon.
+
+**22:9** Seen - That is, observed in order to the reparation of them. The waters - That you might both deprive the enemy of water, and supply the city with it.
+
+**22:10** Numbered - That they might exactly know their own strength. The houses - Which stood upon or without the walls, and so gave their enemies advantage, and hindered the fortifying the city.
+
+**22:11** Thereof - Of Jerusalem, expressed in the foregoing verse . Him - God, who made it a city, and the place of his special presence and worship. Long ago - Which may be added to aggravate their sin, in distrusting that God, who had now for a long time given proof of his care and kindness in defending this city.
+
+**22:12** Call - By his providence, and by his precepts requiring these things in such times. Baldness - By plucking or shaving off the hair of their heads, as was usual in great sorrows.
+
+**22:13** Let us, and c. - A most perverse and desperate conclusion.
+
+**22:14** 'Till ye die - You shall feel the sad effects of this, as long as you live.
+
+**22:16** What - What right hast thou to this place and office? Whom - What kindred or relations? For the Jews say, he was a stranger by birth; which is the more probable, because his pedigree is not mentioned in any of those places of scripture where he is named. On high - In an high and eminent place. An habitation - He erected a stately house to live in, and a stately sepulchre to receive him when he died. And these two are fitly joined together, because their sepulchres were commonly built in or near their houses. A rock - A fit place both for strength and state.
+
+**22:17** Will carry - Will cause thee to be carried into captivity by a strong hand. Cover - This may be an allusion to the ancient custom of covering the faces of condemned persons.
+
+**22:18** Thy chariots - Thy glorious chariots where thou didst ride in great state at Jerusalem, shall be turned into shame to thyself, and to thy master.
+
+**22:19** He - The Lord; such sudden changes of persons being very usual in these writings.
+
+**22:20** Call - By my powerful providence.
+
+**22:21** Girdle - There was a peculiar sort of robe and girdle which was the badge of his office. A father - He shall govern them with fatherly care and affection.
+
+**22:22** The key - The government, the power of opening and shutting, of letting men into it, or putting them out of it, whereof a key is a fit emblem. Shoulder - He mentions the shoulder rather than the hand, in which keys are commonly carried, from some ceremony then in use, of carrying a key upon the shoulder of the officer of state.
+
+**22:23** Fasten - I will establish the power in his hands. Sure place - In the strong walls, or solid timber, in the house. He shall be - By his prudent and righteous government he shall procure great glory, to all that have any relation to him.
+
+**22:24** The glory - Of his own kindred and family, who shall all depend upon him, and receive glory from him; of the house of David, which is called his father's house, because he was of the blood - royal. The offspring - Great and small, the children and grand - children of his father's house, the meanest of them shall receive a lustre from their relation to him. All vessels - All sorts of vessels, great or small, mean or precious, may be hanged upon him, without any fear of falling.
+
+**22:25** The nail - Shebna, who seemed to be so. The burden - All those wicked officers that were advanced and supported by his power.
+
+---
+[[WN Isaiah 21|← Isaiah 21]] · [[Library/John Wesley/Explanatory Notes/Explanatory Notes — Old Testament|Contents]] · [[WN Isaiah 23|Isaiah 23 →]]

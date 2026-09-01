@@ -1,0 +1,64 @@
+---
+title: "Supplements to the Fourth Commandment"
+author: "John Calvin"
+translator: "Charles William Bingham"
+work: "Harmony of the Law"
+book: "The Law: The Fourth Commandment"
+chapter: 90
+year: "1563"
+source: "CCEL calcom04, Calvin Translation Society"
+tags:
+  - calvin-commentaries
+---
+
+# 90. Supplements to the Fourth Commandment
+
+**Supplements to the fourth Commandment**
+
+## Exodus 23:10,11
+
+**Exodus 23**
+
+**10.** And six years thou shalt sow thy land, and shalt gather in the fruits thereof:
+
+**11.** But the seventh *year* thou shalt let it rest and lie still; that the poor of thy people may eat: and what they leave the beasts of the field shall eat. In like manner thou shalt deal with thy vineyard, *and* with thy oliveyard.
+
+**10.** *And six years shalt thou sow.* Another Sabbatical institution (*Sabbathismus*) follows, viz., that of years, in reference to the cultivation of the land; for as men and cattle rested on every seventh day, so God prescribed that the earth should rest on the seventh year. According to the fertility or barrenness of the soil, fields are fallowed every third or fourth year, lest they should become altogether unproductive through exhaustion. Indeed a soil can hardly be found of such fecundity as to be fitted for continual productiveness. Some relaxation is therefore given, until the land recovers its vigor; but this only pertains to wheat, barley, pease, beans, and other pulse, and seeds. As to meadows and vineyards the state of things is different, since, when meadows are mown every year, the fertility of the soil is not weakened; whilst vines degenerate unless they are cultivated. It was a sign of extraordinary and exceeding fertility that the land of Canaan could bear six years’ sowing following, without being worn out. God honored it with this privilege in favor of His people; nor did He indeed ordain the rest from necessity, since on the sixth year He doubled the power of His blessing; but in order that the sanctity of the Sabbath might be everywhere conspicuous, and that thus the children of Israel, as they looked upon the land, might be the more encouraged to its observance. The nature of the rest was that they should not sow anything, nor prune their vineyards in the sacred year; and if anything should spring up from the scattered seeds of last harvest, it was the common property of the inhabitants of the land and strangers, although He peculiarly bestowed whatever grew of itself, whether corn or grapes, upon the poor, as a kind of gratuitous present for the relief of their wants. And this kindness and liberality was a kind of incidental adjunct to the performance of the religious duty. It was not indeed mainly or chiefly God’s purpose to give relief to the poor, but, as we said before, there was nothing strange in it that the offices of charity should be consequent upon God’s service.
+
+If ungodly men should foolishly object that there is no connection between the senseless soil and a spiritual mystery, we have already answered, that although the Sabbath was deposited with believers only as a pledge of an inestimable blessing, still tokens of it appeared both in the flocks and herds, as well as in dead creatures, in order to renew the recollection of it, lest the people should grow cold, and their devotion should become languid. But if they mockingly persist that the Jews were finely dealt with, [^1] when in their highest privilege they had asses and oxen, as well as the fields themselves, for companions; I answer, why do they not apply the same scoff to a commoner matter? For since the doctrine of salvation is committed to paper or parchment before it comes to us, why do they not laugh with all their might at the obedience of our faith? since in our silly credulity we embrace the promises transmitted to us by a stinking skin or some other filthy material? God would have the observation of the Sabbath engraved on all creatures, that wherever the Jews turned their eyes they might be kept up to it. Why, then, should not the earth be a conspicuous and impressive sign (*character*) for the rude inculcation of this doctrine? When it is said, “What they leave the beasts of the field shall eat,” the injunction does not extend to wild and noxious animals which they might drive away from their property; but God merely commands that whatever the earth produced should be exposed promiscuously for the food both of man and beast. And this affords an indirect answer to a question that might occur for God shews that the grass would not be lost, although there should be no hay-making; for the grass would be instead of hay for the beasts, so that they might feed abundantly in the fields and meadows.
+
+Another question, however, arises from the passage in Leviticus, where God permits the owners of the land and their families to gather for food whatever shall then grow of itself. But there was nothing to prevent them, like the strangers, and anybody else, from eating of the fruits which were common to all, provided they did not defraud the poor by their covetousness. [^2] The same thing is soon afterwards added in the description of the Jubilee; for although that year, which completed seven times seven years, was more holy than the rest, still God allows all to eat in it the fruits grown of themselves. He speaks more restrictedly in Exodus, in order to inculcate greater liberality upon them; but in Leviticus He shews that there is no danger of any of the produce of the land being lost, because permission is given both for themselves and their servants and cattle, besides the hireling and the stranger, to partake of it. Where He says, “that which groweth of its own accord of thy harvest,” I understand it of the land which they usually reaped; as also a little further on He calls their peculiar right of ownership in their vines “their separation.” [^3] Although, therefore, the possessor might boast that the property was his own, and consequently that the harvest should be left entirely to himself, God reminds them that its fruits were nevertheless common to all during the Sabbatical year. The word “harvest,” therefore, is applied to the land which was sown, and “separation” to the private vineyard, or its fruit. The old interpreter has translated them “the grapes of first-fruits.” If it is preferred to adopt this sense, Moses would expressly declare that no oblation of them conferred on the owners of the property a right to claim as their own what grew in their vineyard (during the year;) [^4] else it would have been a good excuse to offer to God the first-fruits of the vintage, and under this pretext for the Jews to contend that they had consecrated the whole produce in the first-fruits. But God anticipates this gloss, by shewing that what was said respecting the ordinary cultivation was improperly turned aside to the extraordinary year of rest. But since the word נאזיר, *nazir,* means “separation,” I do not see why we should change what accords very well. Still commentators differ as to the meaning of this word; some understand it “relinquishing,” because every owner resigned his private property, so that the vintage might be common. Others explain it as expressing that they had abstained from its cultivation for that year. My own opinion, however, as I have said, is simply that the peculiar right of the possessor is called his “separation;” so that it was not lawful for others to touch the vintage except in the Sabbatical year. Thus separation is opposed to common fields free to the public.
+
+## Leviticus 25:1-7,20-22
+
+**Leviticus 25**
+
+**1.** And the LORD spake unto Moses in mount Sinai, saying,
+
+**2.** Speak unto the children of Israel, and say unto them, When ye come into the land which I give you, then shall the land keep a sabbath unto the LORD.
+
+**3.** Six years thou shalt sow thy field, and six years thou shalt prune thy vineyard, and gather in the fruit thereof;
+
+**4.** But in the seventh year shall be a sabbath of rest unto the land, a sabbath for the LORD: thou shalt neither sow thy field, nor prune thy vineyard.
+
+**5.** That which groweth of its own accord of thy harvest thou shalt not reap, neither gather the grapes of thy vine undressed: *for* it is a year of rest unto the land.
+
+**6.** And the sabbath of the land shall be meat for you; for thee, and for thy servant, and for thy maid, and for thy hired servant, and for thy stranger that sojourneth with thee,
+
+**7.** And for thy cattle, and for the beast that *are* in thy land, shall all the increase thereof be meat.
+
+**20.** And if ye shall say, What shall we eat the seventh year? behold, we shall not sow, nor gather in our increase:
+
+**21.** Then I will command my blessing upon you in the sixth year, and it shall bring forth fruit for three years.
+
+**22.** And ye shall sow the eighth year, and eat *yet* of old fruit until the ninth year; until her fruits come in ye shall eat *of* the old *store.*
+
+**20.** *And if ye shall say.* Men will never be obedient to God’s precepts, unless their distrust of Him is corrected, and will be always ingenious in laying hold of pretexts for disobedience. The difficulty, however, in this matter was a specious excuse for the Jews; for famine might have destroyed them in these two years, since in the seventh year they neither sowed nor reaped; and for reaping they were obliged to wait till the end of the eighth year. Now, whence were they to get seed enough to sow after the land had rested for a whole year? It is not without reason, then, that God delivers them from this doubt, promising them that He will give such abundance in the sixth year as shall suffice for the two following ones. The phrase must be observed, that God would “command His blessing” in an especial manner, and beyond the usual course, so that the land should be twice or thrice more fertile. Hence is suggested to us no ordinary ground of confidence in asking for our daily bread. But this was a special promise, that food should not fail the Jews on account of the Sabbatical year; a manifestation of which God had already given in the desert, when supplied a double portion of manna to those who gathered it on the day before the Sabbath. Now-a-days this inconvenience is avoided by the industry of farmers, who so divide their acres that the land should never lie fallow altogether, but that one part should supply the deficiency of another. This distribution did not obtain with the Jews. Therefore God relieved them from the fear of famine down to the harvest of the eighth year; although He seems at the same time to accustom them to frugality, lest they should waste in intemperance and luxury what He afforded in sufficient abundance to last for two years. To this precept He alludes, when He declares by the Prophets that the land “enjoyed her Sabbaths,” when it had vomited forth its inhabitants, (2 Chronicles 36:21;) for since they had polluted it by violating the Sabbath, so that it groaned as if under a heavy burden, He says that it shall rest for a long continuous period, so as to compensate for the labor of many years.
+
+---
+[[Calvin Harmony of the Law 89 Exposition of the Fourth Commandment|← 89. Exposition of the Fourth Commandment]] · [[Library/protestant reformers/John Calvin/Biblical Commentaries/Harmony of the Law/harmony-of-the-law-index|Contents]] · [[Calvin Harmony of the Law 91 The Year of Jubilee|91. The Year of Jubilee →]]
+
+[^1]: “La condition des Juifs n’a gueres este honorable;” the condition of the Jews was hardly honorable. — *Fr*.
+[^2]: Addition in *Fr.,* “et que chacun en preint ce qu’il pourroit, comme d’un bien commun;’ and that each should take what they could of them, as of a common property.
+[^3]: See *Margin, A. V.,* Leviticus 25:5, ענבי נזירך*, “*grapes of thy separation.” *S.M.,* “uvas a te derelictas.” *S. M*. says in his note, “We follow the Chaldee interpreter, who renders these words *The grapes of thy relinquishing;* but others render them *the grapes of thy separation,* (that is, which hitherto thou hast separated or set apart for thyself,) thou shalt not suffer to be common property.” — *W*. The translation of *V*. is, “uvas primitiarum tuarum."
+[^4]: Addition from *Fr.*

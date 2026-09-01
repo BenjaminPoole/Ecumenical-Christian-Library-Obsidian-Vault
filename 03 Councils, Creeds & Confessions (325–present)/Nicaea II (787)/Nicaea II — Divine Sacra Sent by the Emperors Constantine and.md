@@ -1,0 +1,32 @@
+---
+title: "The Divine Sacra Sent by the Emperors Constantine and Irene to the Most Holy and Most Blessed Hadrian, Pope of Old Rome."
+council: "Nicaea II (787)"
+council_type: "Ecumenical"
+ecumenical_no: 7
+convened: "A.D. 787"
+location: "Nicaea"
+translator: "Henry Percival"
+series: "Nicene and Post-Nicene Fathers, Second Series"
+volume: "14"
+edition_year: "1900"
+source: "https://www.newadvent.org/fathers/3819.htm"
+tags:
+  - church-councils
+  - written/8th-century
+---
+
+# The Divine Sacra Sent by the Emperors Constantine and Irene to the Most Holy and Most Blessed Hadrian, Pope of Old Rome.
+
+(*Found in Labbe and Cossart*, Concilia, *Tom. VII., col. 32*.)
+
+They who receive the dignity of the empire, or the honour of the principal priesthood from our Lord Jesus Christ, ought to provide and to care for those things which please him, and rule and govern the people committed to their care according to his will and good pleasure.
+
+Therefore, O Most Holy Head [*Caput*], it is incumbent upon us and you, that irreprehensibly we know the things which be his, and that in these we exercise ourselves, since from him we have received the imperial dignity, and you the dignity of the chief priesthood.
+
+But now to speak more to the point. Your paternal blessedness knows what has been done in times past in this our royal city against the venerable images, how those who reigned immediately before us destroyed them and subjected them to disgrace and injury: (O may it not be imputed to them, for it had been better for them had they not laid their hands upon the Church!)— and how they seduced and brought over to their own opinion all the people who live in these parts — yea, even the whole of the East, in like manner, up to the time in which God has exalted us to this kingdom, who seek his glory in truth, and hold that which has been handed down by his Apostles together with all other teachers. Whence now with pure heart and unfeigned religion we have, together with all our subjects and our most learned divines, had constant conferences respecting the things which relate to God, and by their advice have determined to summon a General Council. And we entreat your paternal blessedness, or rather the Lord God entreats, who will have all men to be saved and to come to the knowledge of the truth, that you will give yourself to us and make no delay, but come up hither to aid us in the confirmation and establishment of the ancient tradition of venerable images. It is, indeed, incumbent on your holiness to do this, since you know how it is written — Comfort, comfort my people, you priests, says the Lord, and the lips of the priest shall keep knowledge, and the law shall go forth out of his mouth, for he is the angel of the Lord of Hosts. And again, the divine Apostle, the preacher of the truth, who, from Jerusalem and round about unto Illyricum, preached the Gospel, has thus commanded — Feed with discipline the flock of Christ which he purchased with his own blood. As then you are the veritable chief priest (*primus sacerdos*) who presides in the place and in the see of the holy and superlaudable Apostle Peter, let your paternal blessedness come to us, as we have said before, and add your presence to all those other priests who shall be assembled together here, that thus the will of the Lord may be accomplished. For as we are taught in the Gospels our Lord says — When two or three are met together in my name, there am I in the midst of them— let your paternal and sacred blessedness be certified and confirmed by the great God and King of all, our Lord Jesus Christ, and by us his servants, that if you come up hither you shall be received with all honour and glory, and that everything necessary for you shall be granted. And again, when the definition (*capitulum*) shall be completed, which by the good pleasure of Christ our God we hope shall be done, we take upon us to provide for you every facility of returning with honour and distinction. If, however, your blessedness cannot attend upon us (which we can scarcely imagine, knowing what is your zeal about divine things), at least, pray select for us men of understanding, having with them letters from your holiness, that they may be present here in the person of your sacred and paternal blessedness. So, when they meet with the other priests who are here, the ancient tradition of our holy fathers may be synodically confirmed, and every evil plant of tares may be rooted out, and the words of our Lord and Saviour Jesus Christ may be fulfilled, that the gates of hell shall not prevail against her. And after this, may there be no further schism and separation in the one holy Catholic and Apostolic Church, of which Christ our true God is the Head.
+
+We have had Constantine, beloved in Christ, most holy Bishop of Leontina in our beloved Sicily, with whom your paternal blessedness is well acquainted, into our presence; and, having spoken with him face to face, have sent him with this our present venerable jussio to you. Whom, after that he has seen you, immediately dismiss, that he may come back to us, and write us by him concerning your coming — what time we may expect will be spent in your journeying thence and coming to us. Moreover, he can retain with him the most holy Bishop of Naples, and come up hither together with him. And, as your journey will be by way of Naples and Sicily we have given orders to the Governor of Sicily about this, that he take due care to have every needful preparation made for your honour and rest, which is necessary in order that your paternal blessedness may come to us. Given on the ivth before the calends of September, the seventh indiction, from the Royal City.
+
+
+---
+[[Nicaea II (787)|Contents]] · [[Nicaea II — Imperial Sacra|The Imperial Sacra →]]

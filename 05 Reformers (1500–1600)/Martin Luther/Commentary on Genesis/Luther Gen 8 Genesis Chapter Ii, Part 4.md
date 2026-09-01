@@ -1,0 +1,427 @@
+---
+title: "Genesis Chapter Ii, Part 4"
+author: "Martin Luther"
+translator: "John Nicholas Lenker and others"
+work: "Commentary on Genesis (Chapters 1-9)"
+chapter: 8
+year: "1544"
+source: "Project Gutenberg #48193 and #27978, Lenker translation (1904) - public domain"
+tags:
+  - protestant-reformers
+  - martin-luther
+---
+
+# 8. Genesis Chapter Ii, Part 4
+
+by no means useless or superfluous as it may at first seem. That very
+
+word in this sentence, uttered by Adam, most beautifully expresses the
+
+glad surprise and exulting joy of a noble spirit which had been
+
+seeking this delightful meet companion of life and of bed; a
+
+companionship full, not only of love, but of holiness. As if Adam had
+
+said, I have seen all beasts; I have considered all the females among
+
+them given to them of God for the multiplication and preservation of
+
+their kind, but all these are nothing to me! This female however is
+
+bone of my bones, and flesh of my flesh. She is at length what and all
+
+I want. With her I desire to live, and with her to obey the will of
+
+God in the propagation of a posterity. This is the kind of overflowing
+
+feeling of joy and love which this particular word "HAPAAM," used by
+
+Adam, is intended to express.
+
+Now however this true purity, innocence and holiness are lost. There
+
+still remains indeed a feeling of joy and affection in the intended
+
+husband toward his spouse; but it is impure and corrupt, on account of
+
+sin. The affection of Adam however was most pure, most holy and most
+
+grateful to God, when under the excess of it, he said, "This is now
+
+bone of my bones, and flesh of my flesh." She is not made of stone,
+
+nor of wood, nor of a lump of earth, as I was. She is nearer to me
+
+than all this, for she is made of my own very bones and very flesh.
+
+V. 23b. *She shall be called Woman (man-formed), because she was taken
+
+out of Man.*
+
+As Adam knew by the Holy Spirit the things just mentioned, which he
+
+saw not before, and as he praises God and extols him for his having
+
+created for him a meet life-companion out of his own body; so now, by
+
+the same Spirit, he prophesies of his Eve's future, when he says that
+
+she ought to be called a man-formed or man-like female (*virago*). The
+
+truth is, that it is utterly impossible for any interpreter to convey
+
+through any other language the peculiar strength and beauty of the
+
+original Hebrew expression. ISCH signifies a man,--and Adam says
+
+concerning Eve, "She shall be called ISCHA," as if we should say, She
+
+shall be called *vira*, from *vir*, a man. Because a wife is an heroic
+
+or man-like woman; for she does man-like things, and performs man-like
+
+duties.
+
+This name Adam gives to the woman contains in it a wonderful and sweet
+
+description of marriage, in which, as the lawyers express it, "The
+
+woman shines in the rays of her husband." For whatever the husband
+
+possesses, is possessed and held by the wife also. And not only is all
+
+their wealth possessed by them in common, but their children also,
+
+their food, their bed, and their habitation. Their wishes are also
+
+equal. So that the husband differs from the wife in no other thing
+
+than in sex. In every other respect, the woman is really a man. For
+
+whatsoever the man possesses in their house, the woman possesses also;
+
+and what the man is, that also is the woman; she differs from the man
+
+in sex only. In a word the woman, as Paul remarks in his instructions
+
+to Timothy, is man-formed and man-like by her very origin; for, as the
+
+apostle says to Timothy, Adam was first formed, then Eve from the man,
+
+and not the man from the woman, 1 Tim. 2:13.
+
+Of this communion of all things in marriage, we still possess some
+
+feeble remnants, though miserable indeed they be when compared with
+
+what they were in their original state. For even now the wife, if she
+
+be but an honorable, modest and godly woman, participates in all the
+
+cares, wishes, desires, pursuits, duties and actions of her husband.
+
+And it was for this end indeed that she was created "in the
+
+beginning;" and for this end was called *virago*, that she might
+
+differ in sex only from the father of the family, since she was taken
+
+from man.
+
+And though this name can apply in its strictest and fullest sense to
+
+Eve only, who, alone of all women, was created thus out of man, yet
+
+our Lord applies the whole sentence of Adam to all wives when he says
+
+that man and wife are one flesh, Math. 19:5, 6. Although therefore thy
+
+wife be not made of thy flesh and thy bones; yet, because she is thy
+
+wife, she is as much the mistress of thy house, as thou art the master
+
+thereof, except that by the law of God, which was brought in after the
+
+fall the woman is made subject to the man. That is the woman's
+
+punishment, as are many other troubles also which come short of the
+
+glories of paradise, concerning which glories the sacred text before
+
+us gives us so much information. For Moses is not here speaking of the
+
+miserable life which all married people now live; but concerning the
+
+life of innocency, in which, had that innocency continued, the
+
+government of the man and of the woman would have been equal and the
+
+same.
+
+Hence it is that Adam gave the name, "woman," ISCHA, or "man-formed
+
+female," *virago* or *vira*, to Eve, prophetically on account of the
+
+equal administration of all things with her husband in the house. But
+
+now the sweat of the brow rests upon the man. And to the wife it is
+
+commanded that she be in subjection to the man. There still remain
+
+however certain remnants or dregs as it were of the woman's dominion.
+
+So that the wife may still be called man-like female, on account of
+
+her common possession of all things with her husband.
+
+V. 24. *Therefore shall a man leave his father and his mother, and
+
+shall cleave unto his wife.*
+
+Christ in Math. 19:5 and Paul in 1 Cor. 6:16, apply these words of
+
+Adam, as a common rule or law for our marriages since the loss of
+
+original innocence. If therefore Adam had remained in his original
+
+state of innocency, the children born unto him would have married; and
+
+leaving the table and dwelling place of their parents, and living no
+
+longer with them, would have had their own trees under which they
+
+would have lived separate from their parents. They would have come
+
+from time to time to their father Adam, sung a hymn, spoken gloriously
+
+of God, called upon him, and then returned to their own houses.
+
+And even now, though all other things are changed, yet this close bond
+
+between married persons still remains firm. So that a man would leave
+
+his father and his mother much sooner than he would leave his wife.
+
+And where we find the contrary to this, for married persons are now
+
+sometimes found to leave and forsake each other, all this is not only
+
+contrary to the present divine command by the mouth of Adam, but such
+
+things are awful signs of that horrible corruption, which has come
+
+upon man through sin; and such corruption and unfaithfulness are
+
+greatly increased by Satan, the father of all dissensions.
+
+Heathen nations also have discovered that there is nothing more
+
+appropriate for man nor beneficial for kingdoms than this oneness of
+
+the life of married persons. Hence they affirm, that it is a
+
+conclusion drawn from the law of nature that a wife, who shall retain
+
+her individuality or oneness of life with her husband, even unto
+
+death, is necessary for man. Hence also Christ himself says, that
+
+Moses suffered the Jews to give their wives a bill of divorcement,
+
+because of the hardness of their hearts; but that in the beginning it
+
+was not so, Mark 10:4, Math. 19:8. These evils of divorcements have
+
+all arisen since the fall through sin; as have also adulteries,
+
+poisonings and such like, which are sometimes found among married
+
+persons. Scarce a thousandth part of that primitive innocent, holy
+
+marriage is now left to us. And even to this day the husband and the
+
+wife have their home-nest, for the sake of mutual help and generation,
+
+according to the command of God, issued by the mouth of our first
+
+parent Adam; by which this state of married life and this leaving
+
+father and mother is exaltedly and gloriously commended, as well as
+
+commanded of God himself; as Christ also affirms in his reference to
+
+the words of Adam, on which we are now dwelling.
+
+This "leaving father and mother" however is not to be understood as a
+
+command that the children of Adam, when married, should have nothing
+
+more to do with their parents. The command reaches only to dwelling
+
+any longer with their father and mother. It enjoins the children when
+
+married to have their own home-nest. In the present state of sin, and
+
+all its various evils, we often find that children are compelled to
+
+support their parents, when worn down with age and necessities. But
+
+had paradise and all its innocency continued, the state of life would
+
+have been inconceivably more exalted and blessed than our present
+
+fallen and sinful condition. Yet even then this same command of Adam,
+
+or rather of God himself, would have been obeyed. The husband, through
+
+love of his wife, would have chosen his homestead and made his
+
+home-nest with her, as the little birds do, and would have left his
+
+father and his mother for that purpose.
+
+This sentence of Adam is also prophetic. For as yet there was no
+
+father or mother; nor consequently were there any children. Adam
+
+nevertheless through the Holy Spirit prophesies of that married life,
+
+which should be in the world, and predictively describes the separate
+
+dwelling of man and wife, and the separate domestic authorities and
+
+governments of the several families in all ages; that each family
+
+should have their own nest habitation, authority and rule.
+
+V. 25. *And they were both naked, the man and his wife, and were not
+
+ashamed.*
+
+This short closing sentence of the present chapter might have been
+
+omitted without any loss, seeing that it mentions a circumstance for
+
+recording which there seems no great need. For what does it concern us
+
+to know whether those in paradise walked about naked or clothed in
+
+raiment? This little clause of the concluding sentence however is very
+
+striking and very necessary. It shows us in a matter apparently quite
+
+insignificant, how dreadful an amount of evil this nature of ours has
+
+suffered through original sin.
+
+All nations, more especially those of the north, hold nakedness of the
+
+body in great abhorrence. In like manner the more grave and modest
+
+characters among us, not only condemn short military jackets, as they
+
+are called, which are worn by our youth, but avoid public baths. And
+
+our uncomely parts, 1 Cor. 12:23, are always most studiously covered.
+
+This among us is wisdom and a moral discipline worthy of all praise.
+
+But Adam and Eve, Moses informs us, went about naked, and were not
+
+ashamed. For them therefore to go about naked was not only not
+
+disgraceful, but even laudable, delightful and glorious to God.
+
+But all this delight and glory we have now lost by sin. We alone, of
+
+all creatures, are born naked; and with an uncovered skin we enter
+
+into this world. Whereas all the other animals bring into the world
+
+with them, as coverings of their own, skins, hairs, bristles, feathers
+
+or scales. We, on the other hand, continually need the shadow of
+
+buildings to protect us from the heat of the sun, and a multitude of
+
+garments to defend us from the rain, the hail, the frost and the snow.
+
+Adam however, had he continued innocent, would have felt none of these
+
+injuries or inconveniences. But as the human eyes retain still that
+
+peculiarity of nature, that they are not evilly affected or distressed
+
+either by cold or by heat; so would the whole body of Adam have been
+
+entirely free from the distresses of cold or heat, had he never
+
+fallen. Had Eve, our mother, sat among us naked the mere form of her
+
+breast and other members of her body would not have offended us. But
+
+now because of sin they awaken in us shame and inflame us with evil
+
+lust and passion.
+
+This brief clause therefore shows us the awfulness of the evil which
+
+has come upon us, as the consequence of the sin of ... [text not
+
+printed] ... would be considered a proof of utter insanity. That very
+
+state of body therefore which was in Adam and Eve their highest glory,
+
+would be in us, should we be seen in that state, our deepest shame. It
+
+was the very glory of man and would have continued to be so, had he
+
+remained in his original innocency, that while all the other animals
+
+had need of hairs, feathers, scales, etc., to cover their
+
+unsightliness, man alone was created with that dignity and beauty of
+
+body, that he could appear uncovered, in the glory of his created
+
+nakedness. But all this glory is lost. We are now compelled not only
+
+for necessary protection, but for the sake of avoiding the deepest
+
+turpitude, to cover our bodies with more study and care than any other
+
+animals of God's creation. For they all come into the world covered by
+
+nature.
+
+After this manner therefore does this second chapter of the book of
+
+Genesis more clearly and fully describe the creative work of the sixth
+
+day. In what manner man was created by the wonderful counsel of God.
+
+In what manner the garden of Eden was formed, in which man might have
+
+lived in the highest possible pleasure. In what manner, by means of
+
+the prohibition of the tree of the knowledge of good and evil, the
+
+external worship of the future church was instituted by divine
+
+authority. By what external worship and in which place, had the
+
+prohibition of the tree of knowledge not been violated by Adam and
+
+Eve, they would have testified their obedience to God, had they not
+
+been deceived and drawn aside by the snares of Satan.
+
+Some suppose that Adam with his Eve passed the night of the sixth day
+
+in paradise until the following seventh day, the Sabbath. And what
+
+occurred on the Sabbath day, the following chapter will inform us.
+
+---
+[[Luther Gen 7 Genesis Chapter Ii, Part 3|← 7. Genesis Chapter Ii, Part 3]] · [[Library/protestant reformers/Martin Luther/Commentary on Genesis/luther-genesis-index|Contents]] · [[Luther Gen 9 Genesis Chapter Iii, Part 1|9. Genesis Chapter Iii, Part 1 →]]

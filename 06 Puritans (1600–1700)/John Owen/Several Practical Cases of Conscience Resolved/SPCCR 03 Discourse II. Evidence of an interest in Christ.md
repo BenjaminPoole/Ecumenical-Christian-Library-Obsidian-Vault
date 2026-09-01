@@ -1,0 +1,44 @@
+---
+title: "Discourse II. Evidence of an interest in Christ"
+author: "John Owen"
+work: "Several Practical Cases of Conscience Resolved"
+section: 3
+source: "Christian Classics Ethereal Library (ccel.org)"
+tags:
+  - puritans
+  - john-owen
+---
+
+# Discourse II. Evidence of an interest in Christ
+
+## Discourse II.[^1]
+
+Question. Seeing the act of closing with Christ is secret and hidden, and the special times and seasons of our conversion unto God are unknown unto most, what are the most certain evidences and pledges that we have cordially and sincerely received Christ, and returned unto God?
+
+Answer. I do acknowledge the inquiry is very large, and such as we may be straitened in, through the abundance of it. I shall only speak plainly some few things that to me are an evidence of a sincere closing with Christ, and receiving of Christ, — such as I know have been of use unto some.
+
+First. When there is a permanency and abiding in the choice we have made of Christ, notwithstanding opposition against it that we shall be sure to meet withal. I do not speak to the nature of the choice, or the means of it, — how the mind is prepared for it; but I speak unto the poorest, the weakest of the flock, that may be inquiring whether they have made a sincere choice of Christ or not: I say, they may try it by the permanency and abiding in their choice against opposition.
+
+And there are two sorts of oppositions that will try us and shake us, as to our choice, as I have found it, if I have had any experience of these things — 1. Opposition from charges of the guilt of sin and the law. 2. Opposition from temptations unto sin:—
+
+1\. There will, even after sincere believing and closing with Christ, be many a heavy charge brought against a soul from the law, and the guilt of sin in the conscience. Now, in such a case, the inquiry is, What the soul abides by when it is shaken? Why, truly, if a man go only upon mere convictions, on such shaking impressions of the guilt of sin, he will be very ready and inclined in his own mind to tack about to some other relief. He puts out fair for his voyage, — the storm arises, — the ship will not carry him; — he must tack about for another harbour. I have known it so with some; and experienced, when the wind hath set very strong that way with myself, — when the guilt of sin hath been charged with all its circumstances, — the soul hath been very hardly able to keep its hold, yet notwithstanding resolved, “I will trust to Christ:” but it hath been tacking about to self again, — “I must remedy this, — have relief for this from myself; I cannot abide by it, and live wholly upon Christ; and when the storm is over, then I will out to sea again.” I say, this is no good sign to me when things are so; but when a soul in all those charges that sometimes come upon it abides the issue, — “Here I will trust upon Christ, let the worst come upon me;” — this I call a permanency in our choice against opposition. I hope you have experience of it.
+
+2\. There must be a permanency in our choice of Christ against temptations unto sin, as well as against the charges from sin. Truly, the former — of abiding with Christ against the charges from sin — is our daily work: it is sometimes more high and pressing, but it is our daily work. But there are also temptations unto sin, — it may be to the neglect of our duty, or to a compliance in any evil way (which we are subject unto while in the body); and perhaps great sins. Here Joseph’s reply, applied to Christ, is that which doth argue our choice of Christ to be sincere, — “How shall I do this great wickedness, and sin against God?” When the soul can draw a prevailing argument from that, “How shall I do this, and relinquish my Lord Christ?” — “I will not do this against him whom I have chosen,” — this is a good argument, if frequently reiterated, that our choice of Christ is sincere.
+
+Secondly. Growing up in a love unto the person of Christ is a great evidence to me of a sincere choice of Christ. It is a blessed field that is before me, but I shall but hint things unto you. When the soul hath received Christ, it cannot but study Christ; and though it is no argument against the sincerity of a man’s faith and grace, that he doth principally regard the offices and graces of Christ, and the benefits we have by him, yet it is an argument against the thrift and growth of it: for a thriving faith and grace will come to respect principally the person of Christ. I mean this; — when the soul studies the person of Christ, — the glory of God in him, — of his natures, the union of them in one person, — of his love, condescension and grace; and the heart is drawn out to love him, and cry, “Doubtless I count all things but loss and dung for the excellency of Christ Jesus my Lord.” “What is thy beloved more than another beloved?” “My beloved is white and ruddy, the chiefest among ten thousand; he is altogether lovely.” To see an excellency, a desirableness in the person of Christ, so as to grow in admiration and love of him, is to me an evidence that, when all fails besides, will greatly support the soul, and persuade it that its choice is true. Nay, it is one of the most spiritual evidences; for I much question whether an unregenerate man can love Christ for his own sake at all. But it is a good sign of growth, when our love to the person of Christ grows, when we meditate much upon it, and think much about it. I could show you wherein the beauty of Christ’s person doth much consist; but I have not time now to do it.
+
+Thirdly. Another evidence to me of the soul’s having made a sincere choice of Christ is, when it continues to approve, judge well of, and every day more and more to see, the glory, the excellency, the holiness, the grace, which is in the way of salvation by Jesus Christ; approves of it as not only a necessary way, — a way it has betaken itself to, because it must unavoidably perish in any other way, — but when it approves of it to be a most excellent way, in pardoning sin freely through the atonement he hath made, and the imputation of his righteousness unto us, — while the righteousness, the holiness, and the grace of God in all this is glorified. Saith the soul, “What a blind, wretched creature was I, that I did not see an excellency in this way before! It is better than the way of the law and the old covenant. I approve of this way with all my heart. If all other ways were set before me, and made possible, I would choose this way, of going to God by Jesus Christ, as the best way, — that brings most glory to God and most satisfaction unto the creature, and is most suited to the desires of my heart, I would have no other way. ‘I am the way, the truth, and the life,’ says Christ; and this I will abide by, whatsoever becomes of me,” replies the soul; “though I should perish, I will abide by it, since God hath given me such a discovery of the glory of saving sinners by Christ, that is inferior to nothing but the glory of heaven. I see that glory to God in it, — that exaltation to Christ, whom I would love, — that honour to the Holy Spirit, and safety to my own soul, — that I will abide by it.” A growing in the approbation of this way gives some assurance that we have made a true and sincere choice of Christ.
+
+Give me leave to add this one thing more:—
+
+Fourthly. That a delight in obedience unto God by Christ, in the ways of his own appointment, is a great evidence that we have chosen Christ, and he us; — chosen him as our king, prophet, and priest. The ways of the worship of God in his church and ordinances, are the ways and worship of God in Christ, which he hath appointed. Take these things abstractedly and in themselves, and we should be apt to say of them, as was said of Christ, “There is no beauty in them, nor glory, that they should be desired.” There is much more outward beauty and glory in other ways, that Christ hath not appointed. But if we love the ways Christ hath appointed, because he hath appointed them, then we choose those ways because we have chosen him to be our king; and that is it which gives them beauty and life. And when the ways of Christ’s appointment grow heavy and burdensome to us, we are weary of them, and are willing to have our neck from under the yoke, — it is a sign we grow weary of him who is the author of them; and this is a great sign that we never made a right and sincere choice of him.
+
+Many other things might be offered as evidences of sincere closing with Christ; but these are some which have been of use to me: and I hope they may be so unto some of you.
+
+
+---
+[^1]: Delivered February 7, 1672.
+
+
+---
+[[SPCCR 02 Discourse I. Conviction of sin|← Discourse I. Conviction of sin]] · [[Several Practical Cases of Conscience Resolved|Contents]] · [[SPCCR 04 Discourse III. Concern of Christians in public and national sin|Discourse III. Concern of Christians in public and national sin →]]

@@ -1,0 +1,21 @@
+---
+title: "Section LIV."
+author: "Martin Luther"
+translator: "Henry Cole (1823)"
+work: "The Bondage of the Will"
+chapter: 58
+year: "1525"
+source: "CCEL, Henry Cole translation - public domain"
+tags:
+  - protestant-reformers
+  - martin-luther
+---
+
+# 58. Section LIV.
+
+Sect. LIV. — BUT, as I said at first, so I say here: this passage of Ecclesiasticus is in favour of no one of those who assert “Free-will,” but makes against them all. For that conclusion is not to be admitted, ‘If thou wilt — therefore thou art able;’ but those words, and all like unto them, are to be understood thus: — that by them man is admonished of his impotency; which, without such admonitions, being proud and ignorant, he would neither know nor feel.
+
+For he here speaks, not concerning the first man only, but concerning any man: though it is of little consequence whether you understand it concerning the first man, or any others. For although the first man was not impotent, from the assistance of grace, yet, by this commandment, God plainly shews him how impotent he would be without grace. For if that man, who had the Spirit, could not by his new will, will good newly proposed, that is, obedience, because the Spirit did not add it unto him, what can we do without the Spirit toward the good that is lost! In this man, therefore, it is shewn, by a terrible example for the breaking down of our pride, what our “Free-will” can do when it is left to itself, and not continually moved and increased by the Spirit of God. *He* could do nothing to increase the Spirit who had its first-fruits, but fell from the first-fruits of the Spirit. What then can *we* who are fallen, do towards the first-fruits of the Spirit which are taken away? Especially, since Satan now reigns in us with full power, who cast *him* down, not then reigning in him, but by temptation alone! Nothing can be more forcibly brought against “Free-will,” than this passage of Ecclesiasticus, considered together with the fall of Adam. But we have no room for these observations here, an opportunity may perhaps offer itself elsewhere. Meanwhile, it is sufficient to have shewn, that Ecclesiasticus, in this place, says nothing whatever in favour of “Free-will” (which nevertheless they consider as their principal authority), and that these expressions and the like, ‘if thou wilt,’ ‘if thou hear,’ ‘if thou do,’ shew, not what men *can do,* but what they *ought to do!* .
+
+---
+[[Luther BW 57 Section LIII|← 57. Section LIII]] · [[Library/protestant reformers/Martin Luther/The Bondage of the Will/bondage-index|Contents]] · [[Luther BW 59 Section LV|59. Section LV →]]

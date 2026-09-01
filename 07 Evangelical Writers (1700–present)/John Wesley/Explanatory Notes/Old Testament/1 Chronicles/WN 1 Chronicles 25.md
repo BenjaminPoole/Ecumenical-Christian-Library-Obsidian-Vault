@@ -1,0 +1,31 @@
+---
+title: "1 Chronicles 25"
+author: "John Wesley"
+work: "Explanatory Notes upon the Old Testament"
+book: "1 Chronicles"
+chapter: 25
+year: "1755/1765"
+source: "biblehub.com (Wesley's Explanatory Notes)"
+tags:
+  - wesley
+  - wesley-notes
+---
+
+# 1 Chronicles 25
+
+**25:1** And captains - All the princes of Israel, with the priests and the Levites, whom David gathered together, chap.23:2, for this very end, that with their approbation and consent, all these things might be established; who are here fitly called the captains of the host; for the princes were, under David, the chief captains of the militia of the kingdom; and as the Levites are called an host, and the Lord's host, because of their number and order in holy ministrations; so these priests and Levites were the captains and governors of the rest. Separated - Distributed them into their several ranks: which, tho' chiefly done by David as a prophet, and by Divine direction, yet is imputed in part to the captains of the host, because it was done with their concurrence and approbation. The service - To the service of God under the conduct of these persons. Prophecy - Praise God by singing the psalms of David, and other sacred songs made by themselves, who were prophets, or by other prophets or holy men of God. Workmen - Of the persons employed in this sacred work. This good work it seems Samuel revived, but did not live to bring it to perfection. Let each in his day do what he can for God, tho' he cannot carry it so far as he would. When we are gone, God can raise up others to build on our foundation, and bring forth the top - stone.
+
+**25:2** Of Asaph - Under his direction. Of the king - In such manner and order as David appointed.
+
+**25:3** Six - Jeduthun their father being included in that number: or Shimei, mentioned ver.17.
+
+**25:5** The king's seer - He is called the king's seer, either because the king took special delight in him; or because he frequently attended the king in his palace, executing his sacred office there, while the rest were employed in the tabernacle. In the words - To sing Divine songs as were inspired by God to the prophets or holy men of God. The horn - To praise God with the sound of a trumpet or some other musical instrument made of horn, which being a martial kind of music, might be most grateful to David's martial spirit: tho' he was also skilled in other instruments of music which he used in the house of God.
+
+**25:7** Cunning - Who were so skilful that they were able to teach others; and together with their scholars, made up the four thousand mentioned chap.23:5.
+
+**25:8** Ward - A course of Levites answerable to one of the priests, upon whom the Levites were to wait in their holy ministrations, chap.23:28. The scholar - Without any respect to their different ages or abilities.
+
+**25:9** To Joseph - For the family of Asaph, of which Joseph was. Here that clause, he, his sons, and his brethren were twelve, is to be understood, as it is expressed in all the following verse s, otherwise they do not make up that number of two hundred and eighty - eight mentioned ver.7.
+
+---
+[[WN 1 Chronicles 24|← 1 Chronicles 24]] · [[Library/John Wesley/Explanatory Notes/Explanatory Notes — Old Testament|Contents]] · [[WN 1 Chronicles 26|1 Chronicles 26 →]]

@@ -1,0 +1,36 @@
+---
+title: "That There is no Passive Potency in God"
+work: "Summa Contra Gentiles"
+book: "Book One — God"
+book_no: 1
+chapter: 16
+author: "Thomas Aquinas"
+translator: "Anton C. Pegis (Hanover House, 1955–57), ed. Joseph Kenny O.P."
+source: "https://isidore.co/aquinas/english/ContraGentiles1.htm"
+tags:
+  - aquinas
+  - summa-contra-gentiles
+  - written/13th-century
+---
+
+# Chapter 16. That There is no Passive Potency in God
+
+*Book One — God, Chapter 16* — Summa Contra Gentiles
+
+[1] If God is eternal, of necessity there is no potency in Him.
+
+[2] The being whose substance has an admixture of potency is liable not to be by as much as it has potency; for that which can be, can not-be. But, God, being everlasting, in His substance cannot not-be. In God, therefore, there is no potency to being.
+
+[3] Though a being that is sometime in potency and sometime in act is in time in potency before being in act, absolutely speaking act is prior to potency. For potency does not raise itself to act; it must be raised to act by something that is in act. Hence, whatever is in some way in potency has something prior to it. But, as is evident from what was said above, God is the first being and the first cause. Hence, He has no admixture of potency in Himself.
+
+[4] Moreover, that which is a necessary being through itself is in no way a possible being, since that which is through itself a necessary being has no cause, whereas, as we have shown above, whatever is a possible being has a cause. But God is through Himself a necessary being. He is, therefore, in no way a possible being, and so no potency is found in His substance.
+
+[5] Again, each thing acts in so far as it is in act. Therefore, what is not wholly act acts, not with the whole of itself, but with part of itself. But what does not act with the whole of itself is not the first agent, since it does not act through its essence but through participation in something. The first agent, therefore, namely, God, has no admixture of potency but is pure act.
+
+[6] Further, just as each thing naturally acts in so far as it is in act, so it is naturally receptive in so far as it is in potency; for motion is the act of that which exists in potency. But God is absolutely impassible and immutable, as is clear from what we have said. He has, therefore, no part of potency—that is, passive potency.
+
+[7] Then, too, we see something in the world that emerges from potency to act. Now, it does not educe itself from potency to act, since that which is in potency, being still in potency, can therefore not act. Some prior being is therefore needed by which it may be brought forth from potency to act. This cannot go on to infinity. We must, therefore, arrive at some being that is only in act and in no wise in potency. This being we call God.
+
+
+---
+[[SCG I.15 That God is Eternal|← I.15. That God is Eternal]] · [[Book One - God|Book One — God Contents]] · [[SCG I.17 That There is no Matter in God|I.17. That There is no Matter in God →]]

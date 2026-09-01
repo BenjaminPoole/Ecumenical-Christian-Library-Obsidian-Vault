@@ -1,0 +1,4418 @@
+---
+title: "Euripides — Helen"
+author: "Euripides"
+translator: "Arthur S. Way"
+category: "Greek Tragedy"
+era: "5th century BC"
+source: "Wikisource — Way (1894)"
+tags:
+  - historical-works
+  - classical
+  - euripides
+---
+
+# Helen
+*Euripides · trans. Arthur S. Way*
+
+[[Euripides — Tragedies|Euripides — Tragedies]] · [[Historical Works index|Historical Works]]
+
+---
+
+HELEN.
+
+ARGUMENT.
+
+It is told that one of the old bards, named Stesichorus, who lived six generations before Euripides, did in a certain poem revile Helen, for that her sin was the cause of misery to Hellas and to Troy. Thereupon was he struck blind for railing on her who had after death become a goddess. But the man repented of his presumption, and made a new song wherein he unsaid all the evil he had sung of Queen Helen, and wove into his song an ancient legend, telling how that not she, but her wraith only, had passed to Troy, while she was borne by the Gods to the land of Egypt, and there remained until the day when her lord, turning aside on the homeward voyage, should find her there.
+
+When he had done this, his sight was straightway restored to him.
+
+In this one play only is Helen's story told according to the "Recantation of Stesichorus."
+
+DRAMATIS PERSONÆ.
+
+Helen, wife of Menelaus.
+
+Teucer, a Greek hero, who fought at Troy.
+
+Menelaus, king of Sparta.
+
+Portress of the palace of Theoklymenus.
+
+Messenger (first), a sailor of Menelaus' crew.
+
+Theonoe, a priestess, sister of Theoklymenus.
+
+Theoklymenus, king of Egypt.
+
+Messenger (second), a servant of Theoklymenus.
+
+The Twin Brethren, Kastor and Pollux.
+
+Chorus, consisting of captive Greek maidens attendant on Helen.
+
+Guards, attendants, huntsmen, and temple-maidens.
+
+Scene:—Before the palace of the King of Egypt by the mouth of the Nile. In the foreground stands the tomb of Proteus, father of Theoklymenus.
+
+HELEN.
+
+Helen discovered bowed in prayer at the tomb of Proteus. She rises and advances to the front of the stage.
+
+Helen.
+
+These be the Nile's fair-flowing virgin-streams,
+
+Who, fed with white snow melting, not with rain
+
+From heaven, waters Egypt's lowland fields.
+
+Lord of this land was Proteus, while he lived,
+
+Dweller in Pharos' isle, and Egypt's king, 5
+
+Who of the Maids sea-haunting wedded one,
+
+Psamathê, widowed wife of Aiakus:
+
+And to this house she brought forth children twain,
+
+A son, Theoklymenus,—for that honouring
+
+The Gods he hath passed through life,—a noble daughter, 10
+
+Named Eido, "mother's pride," while yet a babe;
+
+But, since she grew to bloom of spousal-tide,  
+Theonoë they called her, for she knew
+
+Heaven's will for things that are and things to be,
+
+Inheriting from her grandsire Nereus this. 15
+
+For me, not fameless is my fatherland
+
+Sparta: my sire was Tyndareus. The tale
+
+Telleth that to my mother Leda flew
+
+Zeus, who had stoln the likeness of a swan,
+
+And, fleeing from a chasing eagle, wrought 20
+
+By guile his pleasure,—if the tale be true.
+
+Helen my name, and these my sufferings:
+
+In strife for beauty came three Goddesses
+
+To Paris in a deep Idæan dell—
+
+Hera, and Kypris, and Zeus' child, the Maid, 25
+
+Fain to bring beauty's judgment unto issue.
+
+And Kypris tempting Paris—he should wed
+
+My fairness, if misfortune can be fair,—
+
+Prevailed: Idæan Paris left the herds,
+
+And for his bride, for me, to Sparta came. 30
+
+But Hera, wroth that she should not prevail,
+
+Turned into air Alexander's joy of me;
+
+Gave him not me, but fashioned like to me
+
+A breathing phantom, out of cloudland wrought,
+
+For Priam's princely son: he deemed me his 35
+
+Who was not, a vain phantasy. Withal
+
+Zeus' counsels to these evils added more;
+
+For war he brought upon the Hellenes' land
+
+And hapless Phrygians, to disburden so
+
+Earth-mother of her straitened throngs of men, 40
+
+And to make Hellas' mightiest son renowned.
+
+I lay 'twixt Phrygians' prowess—yet not I,
+
+My name alone—and Hellene spears, the prize.  
+Me Hermes caught away in folds of air,
+
+And veiled in cloud,—for Zeus forgat me not,— 45
+
+And in these halls of Proteus set me down,
+
+Of all men holding him most continent,
+
+That I might keep me pure for Menelaus.
+
+So am I here: mine hapless lord the while
+
+Gathered a host, set forth for Ilium's towers, 50
+
+Questing the track of me his ravished bride.
+
+And many a life beside Skamander's streams
+
+Perished for me. I, that endured all this,
+
+Yet am cursed too, held traitress to my lord,
+
+Enkindler of a mighty war for Greeks. 55
+
+Why then live on? This prophecy of Hermes—
+
+Who knew that ne'er to Troy I passed—I heard,
+
+That with my lord in Sparta's plain renowned
+
+I yet should dwell, nor serve an alien couch.
+
+While Proteus yet beheld yon light of day, 60
+
+Inviolate I abode: but he is veiled
+
+Now in earth's darkness; and the dead king's son
+
+Pursues me. Honouring more mine ancient spouse,
+
+At Proteus' tomb I cast me, suppliant
+
+That he may keep me unsullied for my lord, 65
+
+That, though through Hellas evil fame I bear,
+
+Mine honour here may take no stain of shame.
+
+Enter Teucer.
+
+Teucer.
+
+Who hath the lordship of these castle-halls?
+
+To Plutus' palace might one liken them—
+
+Fair battlements and royal flanking-towers! 70
+
+Ha!
+
+Ye Gods, what sight!—the loathed similitude
+
+Of her, the murderess, who ruined me  
+And all the Greeks! Now the Gods spue thee out—
+
+So like thou art to Helen! Stood I not 75
+
+On alien soil, by this unerring shaft
+
+Thou hadst died—thy meed for likeness to Zeus' daughter.
+
+Helen.
+
+Unhappy, whoe'er thou be, why turn from me,
+
+And loathe me for afflictions born of her?
+
+Teucer.
+
+I erred, to wrath more yielded than was meet. 80
+
+All Hellas hateth her, the child of Zeus.
+
+But for words spoken, lady, pardon me.
+
+Helen.
+
+Who art thou, and whence com'st thou to this land?
+
+Teucer.
+
+One, lady, of the Achaians evil-starred.
+
+Helen.
+
+No marvel then if Helen thou abhor. 85
+
+But thou, who art thou?—whence?—and what thy name?
+
+Teucer.
+
+Teucer my name is, Telamon my sire,
+
+And Salamis the land that fostered me.
+
+Helen.
+
+Why dost thou visit then these fields of Nile?
+
+Teucer.
+
+An exile am I driven from fatherland. 90
+
+Helen.
+
+Unhappy thou? Who banished thee thine home?
+
+Teucer.
+
+My father Telamon. Who should love me more?
+
+Helen.
+
+Wherefore? Such deed imports disastrous cause.
+
+Teucer.
+
+My brother's death at Troy my ruin was.
+
+Helen.
+
+How?—Not—O not by thy blade reft of life? 95
+
+Teucer.
+
+Hurling him on his own sword Aias died.
+
+Helen.
+
+Distraught?—for who uncrazed would dare the deed?
+
+Teucer.
+
+Of Peleus' son Achilles know'st thou aught?
+
+Helen.
+
+He came a wooer of Helen, as I heard.
+
+Teucer.
+
+He died: his comrades for his armour strove. 100
+
+Helen.
+
+And how did this thing turn to Aias' bane?
+
+Teucer.
+
+Another won the arms: he passed from life.
+
+Helen.
+
+Art thou in his affliction then afflicted?
+
+Teucer.
+
+Even so, because I perished not with him.
+
+Helen.
+
+Thou wentest then to Troy-town far-renowned? 105
+
+Teucer.
+
+Yea, helped to smite her—and myself was stricken.
+
+Helen.
+
+Is she ere this aflame?—consumed with fire?
+
+Teucer.
+
+Yea; of her walls no trace may be discerned.
+
+Helen.
+
+Helen ill-starred, for thee the Phrygians died!
+
+Teucer.
+
+Yea, and Achaians: bitter bale she hath wrought. 110
+
+Helen.
+
+How long time since was Ilium destroyed?
+
+Teucer.
+
+Well-nigh seven summers' circles harvest-crowned.
+
+Helen.
+
+How long ere then did ye beleaguer Troy?
+
+Teucer.
+
+While many moons through ten years ran their course.
+
+Helen.
+
+And captive did ye take the Spartan dame? 115
+
+Teucer.
+
+Yea; Menelaus haled her by the hair.
+
+Helen.
+
+Saw'st thou that wretch?—or speakest from report?
+
+Teucer.
+
+Even as I see thee with mine eyes; no less.
+
+Helen.
+
+What if ye nursed a heaven-sent phantasy?
+
+Teucer.
+
+Of other theme bethink thee; of her no more. 120
+
+Helen.
+
+So sure are ye of this your fancy's truth?
+
+Teucer.
+
+I saw her with mine eyes—if I see thee.
+
+Helen.
+
+Hath Menelaus with his wife won home?
+
+Teucer.
+
+Nay, nor to Argos, nor Eurotas' streams.
+
+Helen.
+
+Woe! Ill news this to whom thy tale is ill. 125
+
+Teucer.
+
+Lost, with his wife, from sight: so rumour runs.
+
+Helen.
+
+Sailed not together all the Argives home?
+
+Teucer.
+
+Yea; but a storm dispersed them far and wide.
+
+Helen.
+
+On what surf-ridges of the outsea brine?
+
+Teucer.
+
+In the mid-passage of the Aegean sea. 130
+
+Helen.
+
+Hath none since then seen Menelaus come?
+
+Teucer.
+
+None: but through Hellas rumour speaks him dead.
+
+Helen.
+
+(Aside) Undone—undone!—Lives Thestias' daughter yet?
+
+Teucer.
+
+Leda mean'st thou? Dead is she, passed from earth.
+
+Helen.
+
+O say not Helen's shame was death to her! 135
+
+Teucer.
+
+They say it. She coiled the noose about her neck.
+
+Helen.
+
+And Tyndareus' sons, live they, or live they not?
+
+Teucer.
+
+They are dead—and are not dead: twofold the tale.
+
+Helen.
+
+Which tale prevaileth?—(aside) Woe for mine afflictions!
+
+Teucer.
+
+In fashion made as stars men name them Gods. 140
+
+Helen.
+
+Fair tidings these! But what the other tale?
+
+Teucer.
+
+Self-slain they perished for a sister's shame.
+
+Suffice these stories: twice I would not groan.
+
+But for this cause I sought these royal halls,
+
+Being fain to see Theonoë the seer. 145
+
+Thou help me to her, that I may be told
+
+Whereby to steer my galley's prosperous wing
+
+To sea-girt Cyprus, where Apollo bade
+
+That I should dwell, and, for the homeland's sake,
+
+Give it the island-name of Salamis. 150
+
+Helen.
+
+Thy bark shall find its way, friend: but this land
+
+Leave thou, and flee, ere Proteus' son, who rules
+
+This land, behold thee;—now is he afar,
+
+Following the hounds to slay the wildwood beasts;—
+
+For whatso Greek he findeth doth he kill: 155
+
+But for what cause—nor seek thou this to learn,
+
+Nor may I tell: how should I profit thee?
+
+Teucer.
+
+Gracious thy speech is, lady: Heaven vouchsafe
+
+To thee for thy fair deeds requital fair.
+
+A form hast thou like Helen's, but thou hast 160
+
+No heart like hers, nay, diverse utterly.
+
+Ruin be hers! Ne'er to Eurotas' streams
+
+Come she! But be thou, lady, ever blest. [Exit.
+
+Helen.
+
+For mine anguish I raise an exceeding great and bitter cry:  
+How shall I agonize forth my lament?—to what Muse draw nigh
+
+With tears, with death-dirges, or moanings of misery?
+
+Woe's me, woe's me!
+
+(Str. 1)
+
+Come, Sea-maids, hitherward winging,
+
+Daughters of Earth's travail-throes,
+
+Sirens, to me draw nigh,
+
+That your flutes and your pipes may sigh 170
+
+In accord with my wailings, and cry
+
+To my sorrows consonant-ringing
+
+With tears, lamentations, and woes.
+
+Oh would but Persephonê lend
+
+Fellow-mourners from Hades, to blend
+
+Death-dirges with mine!—I would send
+
+Thank-offering of weeping and singing
+
+Of chants to her dead, unto those
+
+On whom Night's gates close.
+
+Enter Chorus.
+
+Chorus.
+
+(Ant. 1)
+
+I was spreading, where grass droops trailing
+
+In the river-flood's darkling gleam, 180
+
+Purple-dyed robes 'neath the blaze
+
+Of the sun, and his golden rays,
+
+Overdraping the bulrush-sprays;—
+
+Then heard I a pitiful wailing;
+
+Mournful and wild did it seem
+
+As the shriek of a Naiad's despair
+
+Far-borne on the mountain air,
+
+When she moans faint-fleeing the snare,  
+When the might of Pan is prevailing,
+
+And the gorges where cataracts stream 190
+
+Ring to her scream.
+
+Helen.
+
+(Str. 2)
+
+O Hellas' daughters, ye
+
+By strange oars borne o'ersea,
+
+One from Achaia faring,
+
+Tears unto my tears bearing,
+
+Tells Ilium's overthrow
+
+Wrapt in the red flame's glow,
+
+Through murderess me laid low—
+
+This baleful name of me!
+
+Of Leda hath he told, self-slain 200
+
+By the death-noose's strangling strain,
+
+Her heart for my shame anguish-riven:—
+
+Tells of my lord,—o'er far seas driven
+
+Now hath he vanished tempest-tost;—
+
+Of Kastor and his brother lost
+
+From earth, their country's twin-born boast:
+
+Where hoofs have thundered, athletes striven,
+
+Eurotas' reeds and racecourse-plain
+
+Wait these in vain.
+
+Chorus.
+
+(Ant. 2)
+
+Woe for thy misery, 210
+
+The weird ordained for thee,
+
+Foredoomed to days of weeping
+
+Since Zeus through clouds down-sweeping,
+
+A swan with wings of snow,
+
+Beguiled thy mother so!  
+What know'st thou not of woe?
+
+From what ills art thou free?
+
+In death thy mother hides her pain:
+
+Zeus' sons, his well-belovèd twain, 220
+
+To days of bliss no more may waken:
+
+Thine home-land have thine eyes forsaken;
+
+And slander, through her cities rife,
+
+Assigns thee an accursèd life,
+
+Proclaims thee yon barbarian's wife:
+
+Death amid storm thy lord hath taken:
+
+Thou gladdenest no sire's halls again,
+
+Nor Brazen Fane.
+
+Helen.
+
+(Str. 3)
+
+Ah, who of the Phrygians dared that felling
+
+Of the pines, for the mourning of Ilium fated, 230
+
+And for tears unto them that in Hellas were dwelling,
+
+Of whose beams was the galley, with evil freighted,
+
+Builded of Priam's offspring, the hated,
+
+Whom oars barbaric sped over the tide,
+
+Till he came to the hearth of my Spartan palace
+
+In quest of my beauty, foredoomed the occasion
+
+Of mischief: beside him in treacherous malice
+
+Came Kypris, the bringer of death's desolation
+
+Unto Danaus' sons, unto Priam's nation.
+
+Woe's me for my lot, who am misery's bride! 240
+
+(Ant. 3)
+
+From the gold of the throne of her glory bending,
+
+Dread Hera, Zeus' bride jealousy-glowing,
+
+Sped the fleetfoot scion of Maia descending,  
+Who came on me plucking the roses, and throwing
+
+Into my gown-lap their buds fresh-blowing,
+
+To bear to the Brazen Fane their pride.
+
+And he soared with his prey through the clouds of heaven,
+
+And to this land all unblest he brought her,
+
+And he made her a strife, for calamity striven,
+
+For Hellas, of Priam's people who sought her. 250
+
+But Helen, by Simoïs' crimsoned water,
+
+Was a breath, was a battle-cry—nought beside.
+
+Chorus.
+
+Sorrows are thine, I know: yet is it best
+
+Lightly as may be to endure life's ills.
+
+Helen.
+
+Friends, 'neath the yoke of what doom am I bowed? 255
+
+Bore not my mother a monster unto men?
+
+For never Hellene nor barbarian dame
+
+Brought forth white vial of a fledgling brood,
+
+Wherein to Zeus men say that Leda bare me.
+
+A marvel are my life and all my fortunes, 260
+
+In part through Hera, through my beauty in part.
+
+Oh could I, like a picture blotted out,
+
+For that fair favour take uncomeliness!
+
+Oh might the Greeks forget the lot accurst
+
+That now is mine, and treasure memories 265
+
+Of honour touching me, as now of shame!
+
+Whoso, on one chance centring all his hopes,
+
+Is stricken of God, hard though it be, may bear it;  
+But I—I am whelmed in many miseries:
+
+First, an ill name, though I am clean of sin; 270
+
+And worse is this than suffering for just cause,
+
+To bear the burden of sins that are not ours.
+
+Then, from my home-land the Gods banished me
+
+To alien customs, and, bereft of friends,
+
+A slave am I, the daughter of free sires; 275
+
+For midst barbarians slaves are all save one.
+
+And—the one anchor that stayed up my fortunes,
+
+That yet my lord would come, and end my woes—
+
+He hath died: who was mine anchor is no more.
+
+Dead is my mother, and her murderer I,— 280
+
+Unjustly, yet the injustice cleaves to me.
+
+And she, erewhile mine house's pride and mine,
+
+My child, a virgin groweth grey unwed;
+
+And the Twin Brethren, named the Sons of Zeus,
+
+Are not. But, though I have nought but misery, 285
+
+Me hath ill-faring, not ill-doing, slain.
+
+And, worst of all, if I should reach mine home,
+
+Men would in dungeon chain me, as the Helen
+
+For whom to Ilium Menelaus went.
+
+For, if mine husband lived, by tokens known 290
+
+To none beside, might recognition be.
+
+This cannot now be: no, he cannot 'scape.
+
+Why then do I live on?—what fortune waits me?
+
+Shall I choose marriage for escape from ills,
+
+Dwell with a lord barbarian, at his board 295
+
+Seated mid pomp? Nay, if a husband loathed
+
+Dwell with a woman, her own self she loathes.
+
+To die were best. How then with honour die?
+
+Unseemly is the noose 'twixt earth and heaven:
+
+Even of thralls 'tis held a death of shame. 300
+
+Noble the dagger is and honourable,  
+And one short instant rids the flesh of life.
+
+Yea, to such depth of evil am I come!
+
+For other women are by beauty made
+
+Blest—me the selfsame gift to ruin brought. 305
+
+Chorus.
+
+Helen, believe not yonder stranger spake
+
+Truth only, be he who he may that came.
+
+Helen.
+
+Nay, but he plainly said my lord had died.
+
+Chorus.
+
+In multitude of words there want not lies.
+
+Helen.
+
+Nay rather, plain truth may a plain tale be. 310
+
+Chorus.
+
+Nay, 'tis thou leanest more to grief than joy.
+
+Helen.
+
+Fear folds me round, and drags me to my dread.
+
+Chorus.
+
+How stands to thee affected yonder household?
+
+Helen.
+
+Friends all, save him who hunts me for his bride.
+
+Chorus.
+
+Know'st then thy part?—From session at the tomb— 315
+
+Helen.
+
+To what speech or what counsel drawest thou?
+
+Chorus.
+
+Pass to the house: of her who knoweth all,
+
+The daughter of the sea-born Nereid maid,
+
+Theonoë, ask if yet thine husband live,
+
+Or hath left light; and, being certified, 320
+
+According to thy fortunes joy or mourn.
+
+But, ere thou know aught truly, what avails
+
+That thou shouldst grieve? Nay, hearken unto me:—
+
+Leave thou this tomb, and with the maid commune,
+
+Of whom shalt thou learn all. When thou hast here 325
+
+One to resolve the doubt, what wouldst thou more?
+
+I too with thee will pass into the house,
+
+With thee inquire the maiden's oracles.
+
+That woman woman's burden bear, is meet.
+
+Helen.
+
+(Str.)
+
+I hail, friends, the word ye have spoken. 330
+
+Pass in, pass ye into the hall,
+
+To give ear unto prophecy's token
+
+How the end of my toils shall befall.
+
+Chorus.
+
+Thou callest on her that hears full fain.
+
+Helen.
+
+Woe for this day with its burden of pain!
+
+What word waiteth, what desolation
+
+Of tears past relief?
+
+Chorus.
+
+Nay, forestall not, O friend, lamentation
+
+Prophetic of grief.
+
+Helen.
+
+(Ant.)
+
+To what doom hath mine husband been given? 340
+
+Doth he yet see the light of the day,
+
+See the Sun's wheels flash through the heaven,
+
+See the gleams of the star-trodden way?
+
+* * * * * *
+
+* * * * * *
+
+Or to him have the dead done obeisance?
+
+Doth the nethergloom hide?
+
+Chorus.
+
+Nay, look for a fate of fair presence,
+
+Whatsoe'er shall betide.
+
+Helen.
+
+I cry unto thee, I invoke thy name,
+
+O river with ripple-washed reed-beds green,  
+Eurotas!—true was the word that came 350
+
+That my lord on the earth is no more seen?
+
+Chorus.
+
+Wild words and whirling—ah, what should they mean?
+
+Helen.
+
+The death-dealing cord  
+Round my neck will I twine,  
+Or the thirst of the sword  
+In this heart's blood of mine  
+Shall be quenched, through the flesh of my neck as I plunge it to life's deep shrine,  
+For a sacrifice to the Goddesses three,  
+And to Paris, whose pipe's wild melody  
+Floated afar over Ida, and round still steadings of kine.
+
+Chorus.
+
+Far hence averted may mischief flee, 360
+
+And fortune fair abide upon thee!
+
+Helen.
+
+Woe, hapless Troy, for thee, woe!  
+Thou hast perished for sins not thine own, under misery's load brought low!  
+And the gifts of Kypris to me for their fruit have borne  
+Rivers of blood and of tears, and to them that mourn  
+Anguish is added, and grief to the grief-forlorn.  
+There are mothers for dead sons weeping;  
+There are maids that have cast shorn hair  
+Where seaward Skamander on-sweeping  
+The limbs of their brothers bare.  
+And from Hellas a cry, a cry, 370  
+Ringeth heavenward wild and high,  
+And with frenzied hands on her head  
+She smiteth: her fingers are red  
+From the cheeks that the blood-furrows dye.
+
+Ah, maiden of Arcady, happy, Kallisto, art thou,  
+O fourfoot-pacing thing who wast Zeus's bride!  
+Better by far than my mother's is thy lot now,  
+Who hast cast the burden of human sorrow aside,  
+And only now for the shaggy limb  
+Of the brute with tears are thy fierce eyes dim. 380  
+Yea, happier she whom Artemis drave from her choir,  
+A stag gold-antlered, Merops' Titanian daughter,  
+Because of her beauty,—but mine with the brands of desire  
+Hath enkindled Dardanian Pergamus' ruin-pyre,  
+And hath given the Achaians to slaughter.
+
+[They pass into the palace.
+
+Enter Menelaus.
+
+Menelaus.
+
+Ah, Pelops, thou at Pisa victor once
+
+Over Oenomaus in chariot-strife,  
+Oh that, what time thou mad'st the Gods a feast,
+
+Thou hadst left in presence of the Gods thy life,
+
+Ere thou begattest Atreus, sire to me, 390
+
+Who raised up seed of Aeropê—Agamemnon,
+
+And me, Menelaus, chariot-yoke renowned.
+
+For mightiest host on earth—no vaunt is this—
+
+Did I speed overseas to Troy, their chief;
+
+Nor by compulsion captained them to war, 395
+
+But led with Hellas' heroes' glad consent.
+
+Some must we count mid them that are no more;
+
+Gladly have other some escaped the sea,
+
+And bring back home the names of men deemed dead.
+
+But I far o'er the grey sea's shoreless surge 400
+
+Wander in pain, long as the leaguer-years
+
+Of Troy; and though I yearn to reach my land,
+
+Of this I am not held worthy by the Gods,
+
+But to all Libya's beaches lone and wild
+
+Have sailed: yea, whenso I am nigh my land, 405
+
+Back the blast drives me; never following breeze
+
+Hath swelled my sail to waft me to mine home.
+
+And now, a shipwrecked wretch, my comrades lost,
+
+On this land am I cast: against the rocks
+
+My ship is shattered all in countless shards. 410  
+Wrenched from its cunning fastenings was the keel,
+
+Whereon past hope and hardly was I saved
+
+With Helen, whom I had snatched from Ilium's wreck.
+
+But this land's name, and who her people be,
+
+I know not, being abashed to yonder throngs 415
+
+To join me, who might ask of mine ill plight,
+
+But hide for shame my misery; for a man
+
+Low-fallen from high estate more sharply feels
+
+The strangeness of it than the long unblest.
+
+Want wasteth me; for neither food have I 420
+
+Nor raiment for my body,—judge by these
+
+That gird me, rags washed shoreward from the ship.
+
+The robes once mine, bright vest and bravery,
+
+The sea hath swallowed. In a cave's deep cleft
+
+My wife I hid, first cause of all my woes, 425
+
+And hither come, for I have straitly charged
+
+My friends yet living to watch over her.
+
+Alone I come, seeking for loved ones there
+
+What shall avail their need, if search may find.
+
+And, marking yonder mansion battlement-girt, 430
+
+And stately portals of a prosperous man,
+
+I drew nigh: from a wealthy house is hope
+
+Of somewhat for my crew; but from bare walls
+
+Nought could men aid us, howsoe'er they would.
+
+[Knocks at gate.]
+
+Ho! what gate-warder forth the halls will come 435
+
+To tell within of my calamities?
+
+Door of palace opens. Portress appears on threshold.
+
+Portress.
+
+Who loitereth at the doors?—wilt thou not hence?
+
+Away, stand not before the courtyard gate  
+Troubling my lord; else shalt thou die, who art
+
+A Greek: we have no dealings with the Greeks. 440
+
+Menelaus.
+
+Grey mother, all these words thou sayest well:—
+
+Even so—I will obey—refrain thy wrath—
+
+Portress.
+
+Begone!—this charge is laid upon me, stranger,
+
+That none of Hellenes to these halls draw nigh.
+
+Menelaus.
+
+Ah, thrust not forth, nor drive me hence by force! 445
+
+Portress.
+
+Thou wilt not heed my words?—on thine head be it.
+
+Menelaus.
+
+Bear mine appeal unto thy lords within.
+
+Portress.
+
+Thine!—bitter should my bearing be, I wot!
+
+Menelaus.
+
+A shipwrecked stranger I: none violate such.
+
+Portress.
+
+To another house pass on instead of this. 450
+
+Menelaus.
+
+Nay, but I will within!—yield thou to me!
+
+Portress.
+
+Thou mak'st a coil: but force shall thrust thee hence.
+
+Menelaus.
+
+Ah me!—where now my glorious war-array?
+
+Portress.
+
+Some great one haply there wast thou, not here.
+
+Menelaus.
+
+Ah fortune, how unmerited this slight! 455
+
+Portress.
+
+Why stream thine eyes with tears?—why make such moan?
+
+Menelaus.
+
+For those my happy fortunes overpast.
+
+Portress.
+
+Away then: on thy friends bestow thy tears.
+
+Menelaus.
+
+What land is this, and whose these royal halls?
+
+Portress.
+
+'Tis Proteus' palace. Egypt is the land. 460
+
+Menelaus.
+
+Egypt!—Woe's me, to have sailed to such a land!
+
+Portress.
+
+Wherefore misprize the glory of the Nile?
+
+Menelaus.
+
+I blame it not: mine own hard lot I moan.
+
+Portress.
+
+Many be fortune-crost, not thou alone.
+
+Menelaus.
+
+Is he within then, whom thou namest king? 465
+
+Portress.
+
+This is his tomb: his son rules o'er the land.
+
+Menelaus.
+
+Where then is he? Within, without the halls?
+
+Portress.
+
+Nay, not within. Grim foe to Greeks is he.
+
+Menelaus.
+
+And what the cause, whereof I feel the effects?
+
+Portress.
+
+Zeus' daughter Helen is within these halls. 470
+
+Menelaus.
+
+How say'st thou?—what thy tale?—speak yet again.
+
+Portress.
+
+Tyndareus' child, who erst in Sparta dwelt.
+
+Menelaus.
+
+Whence did she come? What may this matter mean?
+
+Portress.
+
+From Lacedæmon hither journeyed she.
+
+Menelaus.
+
+When? (aside) Never stolen from the cave—my wife! 475
+
+Portress.
+
+Ere the Achaians, stranger, fared to Troy.
+
+But thou, begone: somewhat hath chanced within
+
+Whereby the palace is disquieted.
+
+Thou art come in evil hour, and if my lord
+
+Find thee, thy stranger's welcome shall be death. 480
+
+Well-wisher unto Greeks am I, although
+
+Harsh words I gave for terror of my lord.
+
+[Exit.]
+
+Menelaus.
+
+What shall I think?—what say?—for lo, I hear
+
+Of imminent ills hard-following on the old,
+
+If I have brought the wife I won from Troy 485
+
+Hither, and safe within the cave she lies,
+
+Yet in these halls another woman dwells
+
+Who bears the selfsame name as mine own wife!
+
+Yon woman named her born of Zeus, his daughter.
+
+Can any man that bears this name of Zeus 490
+
+By Nile's banks dwell?—Sooth, one is he in heaven.
+
+And where hath earth a Sparta, save alone
+
+There where Eurotas' streams are fair with reeds?—
+
+One only bears the name of Tyndareus:—
+
+Is there a land twin-named with Lacedæmon 495
+
+Or Troy?—I know not what to say hereof:
+
+For on the wide earth many, as men grant,
+
+Bear like names, city bearing city's name,  
+And woman woman's: marvel none is here.
+
+Nor from a handmaid's terrors will I flee; 500
+
+For there is none so barbarous of soul
+
+As to deny me food, my name once heard.
+
+Famed is Troy's burning: I, who kindled it,
+
+Menelaus, am renowned in every land.
+
+I will await the king ; and for two things 505
+
+Must I take heed:—if he be ruthless-souled.
+
+Then will I flee, and hide me by the wreck;
+
+But if he show relenting, I will ask
+
+Help for my need in this mine evil plight.
+
+This in my misery is the deepest depth, 510
+
+That I, who am a king, should beg my bread
+
+Of other princes: yet it needs must be.
+
+Not mine the saying is, but wisdom's saw—
+
+"Stronger is nought than dread Necessity."
+
+[Retires to back of stage.
+
+Enter Chorus.
+
+Chorus.
+
+The word which the prophetess said,
+
+In the king's halls heard I its sound—
+
+"Not yet Menelaus is dead,
+
+Nor to darkness visible fled
+
+Of Erebus, hid in the ground;
+
+But is still over wide seas driven 520
+
+Toil-worn, neither yet is it given
+
+To attain to the fatherland's haven,
+
+But in homelessness roams evermore
+
+Wretched, of friends bereft.
+
+Lighting down upon every shore
+
+Of earth, since the brine-dipt oar
+
+Troyland long ago left."
+
+Enter Helen.
+
+Helen.
+
+Lo, to my session at the tomb again
+
+I come, who have heard Theonoë's glad words,
+
+Who knoweth all things truly. Yet alive, 530
+
+Saith she, my lord beholds the light of day,
+
+But roameth sailing sea-tracks numberless
+
+Hither and thither, and with wanderings spent
+
+Shall come, when he hath reached his sufferings' goal;—
+
+Yet said not if at last he shall escape; 535
+
+For I refrained from closely questioning this
+
+For gladness, when she spake him yet alive.
+
+And somewhere nigh this land is he, she said,
+
+From shipwreck cast ashore with friends but few.
+
+When wilt thou come to me?—how long-desired! 540
+
+Menelaus advances from back of stage.
+
+Ha! who is this?—and am I haply snared
+
+By plots of Proteus' god-contemning son?
+
+Swift as a racing steed or bacchanal
+
+Shall I not seek yon tomb? Of ruffian mien
+
+Is yonder man who holdeth me in chase. 545
+
+Menelaus.
+
+Thou that with fearful effort strainest on
+
+To the tomb's basement and the altar-pillars,
+
+Stay!—wherefore flee?—with one glimpse of thy form
+
+Thou with tongue-tied amazement fillest me.
+
+[Seizes her hand.]
+
+Helen.
+
+I am outraged, women! for I am held back 550
+
+Of this man from the tomb! He hath caught me, fain
+
+To give to his lord, whose marriage-yoke I fled.
+
+Menelaus.
+
+No robber I, nor minister of wrong!
+
+Helen.
+
+Yet wild attire about thy form thou hast.
+
+Menelaus.
+
+Put fears away, and stay thy hurrying foot! 555
+
+Helen (grasping the altar).
+
+I stay, since now I cling unto this spot.
+
+Menelaus.
+
+Who art thou, lady? Whose the face I see?
+
+Helen.
+
+Who thou? The selfsame cause have I to ask.
+
+Menelaus.
+
+Never yet saw I form more like to hers!
+
+Helen.
+
+Gods!—for God moves in recognition of friends. 560
+
+Menelaus.
+
+A Greek art thou, or daughter of the land?
+
+Helen.
+
+A Greek; thy nation too I fain would learn.
+
+Menelaus.
+
+Thou art very Helen, lady, to mine eyes.
+
+Helen.
+
+And thou Menelaus!—I know not what to say.
+
+Menelaus.
+
+Thou nam'st me truly, a man most evil-starred. 565
+
+Helen (clasping hint).
+
+O thou to thy wife's arms returned at last!
+
+Menelaus.
+
+Wife?—thou my wife! Touch not my vesture thou!
+
+Helen.
+
+Wife—whom my father Tyndareus gave to thee.
+
+Menelaus.
+
+Light-bearer Hekatê, send gracious visions!
+
+Helen.
+
+No phantom handmaid I of the Highway Queen. 570
+
+Menelaus.
+
+I am but one—no lord of two wives I!
+
+Helen.
+
+And of what wife beside me art thou lord?
+
+Menelaus.
+
+Whom the cave hides, whom I from Phrygia brought.
+
+Helen.
+
+None other wife is thine save only me.
+
+Menelaus.
+
+What, is my wit sound, but mine eye diseased? 575
+
+Helen.
+
+Behold me—feel'st thou not thou seest thy wife?
+
+Menelaus.
+
+The form is hers, but plain truth bars the claim.
+
+Helen.
+
+Look—what more wouldst thou?—who more plainly thine?
+
+Menelaus.
+
+Like her thou art: this will I not deny.
+
+Helen.
+
+Who then shall better teach thee than thine eyes? 580
+
+Menelaus.
+
+At this I stumble, another wife I have.
+
+Helen.
+
+To Troy I went not: that a phantom was.
+
+Menelaus.
+
+But who can fashion living phantom-forms?
+
+Helen.
+
+Aether, whereof thou hast a wife god-shapen.
+
+Menelaus.
+
+Shapen of what God? Passing strange thy tale! 585
+
+Helen.
+
+Hera, to baffle Paris with my wraith.
+
+Menelaus.
+
+How wast thou here then, and in Troy withal?
+
+Helen.
+
+My name might be in many lands, not I.
+
+Menelaus.
+
+Unhand me!—hither I came with griefs enough!
+
+Helen.
+
+How?—leave me, and lead hence thy phantom-bride? 590
+
+Menelaus.
+
+Yea—since thou art like to Helen, fare thee well.
+
+Helen.
+
+Undone!—I have found my spouse, and may not keep!
+
+Menelaus.
+
+My toils at Troy convince me more than thou.
+
+Helen.
+
+Woe's me! Who is more sorrow-crushed than I?
+
+My best-beloved forsakes me!—I shall see 595
+
+Never my countrymen nor fatherland.
+
+Enter Messenger.
+
+Messenger.
+
+Menelaus, at last I find thee, searching long,
+
+Through all this land barbaric wandering.
+
+Being sent of those thy comrades left behind.
+
+Menelaus.
+
+How?—by barbarian robbers are ye spoiled? 600
+
+Messenger.
+
+Less strange the tale I bear is than the truth.
+
+Menelaus.
+
+Speak!—by this eagerness, thou bring'st strange news.
+
+Messenger.
+
+I say thou barest toils untold for nought.
+
+Menelaus.
+
+Herein thou mourn'st old woes: what news dost bring?
+
+Messenger.
+
+Gone is thy wife—into the folds of air 605
+
+Wafted and vanished! Hid in heaven's depths
+
+She hath left the sacred cave wherein we watched her,
+
+With this cry, "Ah unhappy Phrygian folk,
+
+And all Achaians, who by Hera's wiles
+
+Upon Skamander's banks still died for me, 610
+
+Deeming that Paris had, who had not, Helen!
+
+I, having tarried all the time foredoomed,
+
+My destiny fulfilled, to heaven return,  
+My parent. Tyndareus' sad daughter bears
+
+An ill name all for nought, who is innocent." 615
+
+He suddenly perceives Helen.
+
+Hail, child of Leda! So then thou wast here!
+
+Even now I announced thee passed to viewless heights
+
+Of star-land, knowing not thou bar'st a form
+
+Wing-clad. Thou shalt not mock us with a tale
+
+Again of troubles heaped upon thy lord 620
+
+And his allies, for nought, in Ilium.
+
+Menelaus.
+
+This is it that she said:—this woman's words
+
+Agree—they are true! O day, long, long desired,
+
+Which giveth thee into mine arms to clasp!
+
+Helen.
+
+O Menelaus, best-beloved, the time 625
+
+Was long, but even now the joy is here!
+
+Friends, friends, with rapture my lord have I found,
+
+And with arms of love have I clasped him round;
+
+And the goal of the sun's long race is with brightness crowned!
+
+Menelaus.
+
+And I thee: the long tale of all these years, 630
+
+Where to begin it first I know not now.
+
+Helen.
+
+I exult—yea, my tingling tresses uprise  
+On mine head, and the tears well forth from mine eyes;  
+And about thy body mine arms I fling,  
+O husband mine, to my joy to cling!
+
+Menelaus.
+
+O sweetest presence thou!—no more I chide.
+
+I clasp Zeus' child and Leda's, clasp my bride,
+
+Her to whose happy bridal, tossing flame
+
+Of torch, thy brethren of the white steeds came 640
+
+Erstwhile; and Gods removed her from mine home:
+
+But now God speeds us on to newer, happier doom.
+
+Helen.
+
+And the evil made good hath united us, though it be late;
+
+Yet may blessing be on me, mine husband, in this new fate!
+
+Menelaus.
+
+Blessing on thee! I pray the selfsame prayer;
+
+For grief and joy the twain made one must share.
+
+Helen.
+
+Friends, friends, for the ills gone by
+
+I sorrow no more nor sigh.
+
+My beloved is mine, is mine! Through year on year 650
+
+I have waited, have waited my lord, till from Troy he appear.
+
+Menelaus.
+
+Thine am I and thou mine. O weary while
+
+Of sore strife, ere I knew the Goddess' guile!
+
+Yet have my tears, through rapture of relief,
+
+More thankfulness than grief.
+
+Helen.
+
+What can I say?—what mortal had looked for this?
+
+I am clasping thee unto my breast, an undreamed-of bliss!
+
+Menelaus.
+
+And I thee, who to Ida's town, men thought,
+
+Wentest, and Ilium's towers misery-fraught.
+
+Helen.
+
+Woe's me! to the bitter beginning of all dost thou go! 660
+
+Menelaus.
+
+'Fore heaven, how wast thou ravished from mine home?
+
+Helen.
+
+Woe's me for the bitter tale that thou seekest to know!
+
+Menelaus.
+
+Tell; I must hear. From God's hand all things come.
+
+Helen.
+
+Yet oh, I abhor to unfold it, the story of woe.
+
+Menelaus.
+
+Yet tell: 'tis sweet to hear of woes past o'er.
+
+Helen.
+
+Never to alien prince's bed  
+Wafted by wings of the oars I fled,  
+Nor by wings of a lawless love on-sped.
+
+Menelaus.
+
+What God, what fate, thee from thy country tore?
+
+Helen.
+
+Zeus' Son, O mine husband, 'twas Zeus' son caught 670
+
+Me away, it was Hermes to Nile that brought.
+
+Menelaus.
+
+Ah strange! Who sent him? Ah, the awesome tale!
+
+Helen.
+
+I wept, and the tears from mine eyes yet run:
+
+By the bride of Zeus was I then undone.
+
+Menelaus.
+
+Hera?—what would she, heaping on us bale?
+
+Helen.
+
+Woe for my curse—for the baths from the hill-springs flowing
+
+Where flushed the Goddesses' loveliness lovelier-glowing,
+
+Whereof that Judgment came for a land's overthrowing!
+
+Menelaus.
+
+Did Hera make this judgment woe for thee?
+
+Helen.
+
+From Kypris to take the prey,—
+
+Menelaus.
+
+Say on, tell how. 680
+
+Helen.
+
+From Paris, to whom she had promised me,—
+
+Menelaus.
+
+Hapless thou!
+
+Helen.
+
+And the hapless to Egypt she brought, as my plight is now.
+
+Menelaus.
+
+And gave him thy wraith, as thou tellest me?
+
+Helen.
+
+But the woes in thine halls, O my mother, the woes that befell thee—
+
+Alas and alas!
+
+Menelaus.
+
+What is this thou wouldst tell me?
+
+Helen.
+
+No mother have I! She knit up her neck for shame
+
+In the strangling noose, for my bridal of evil fame!
+
+Menelaus.
+
+Woe's me! Our child Hermionê, liveth she?
+
+Helen.
+
+Spouseless and childless, she maketh moan,
+
+My lord, for my marriage that marriage was none. 690
+
+Menelaus.
+
+O thou who ruinedst mine house utterly,
+
+Ruin for thee too, Paris, this was made,
+
+Ruin for hosts of Danaans brass-arrayed.
+
+Helen.
+
+And me from my country, from thee, God took,
+
+Casting me forth accurst to an evil lot,
+
+For that husband and home for a marriage of shame I forsook—
+
+Who forsook them not!
+
+Chorus.
+
+If ye shall light on bliss in days to be
+
+Unbroken, for the past shall this atone.
+
+Messenger.
+
+Menelaus, grant me too to share thy joy. 700
+
+Menelaus.
+
+Yea, ancient, in our story share thou too.
+
+Messenger.
+
+Sat she not arbitress of strife at Troy?
+
+Menelaus.
+
+Not she; but by the Gods was I beguiled,
+
+Who grasped a sorry cloud-wreath in mine arms. 705
+
+Messenger.
+
+How say'st thou?
+
+For a cloud then all vainly did we strive?
+
+Menelaus.
+
+This Hera wrought, and those three Goddesses' strife.
+
+Messenger.
+
+Is this, who is very woman, this thy wife?
+
+Menelaus.
+
+Even she: trust thou my word as touching this. 710
+
+Messenger.
+
+Daughter, how manifold God's counsels are,
+
+His ways past finding out! Lightly he turns
+
+And sways us to and fro: sore travaileth one;
+
+One long unvexed is wretchedly destroyed,
+
+Having no surety still of each day's lot. 715
+
+Thou and thy lord in sorrow have had your part;
+
+In ill-fame thou, in fury of battle he.
+
+Then, all his striving nought availed; but now
+
+Effortless he hath won the crown of bliss.
+
+Thy grey sire, then, and those Twin-brethren ne'er 720
+
+Thou shamedst, nor the deeds far-told hast done!
+
+Now I recall afresh thy spousal-tide,
+
+And how I waved the torch, in four-horsed car
+
+Racing beside thee; and thou, chariot-borne
+
+With him, a bride, didst leave thine happy home. 725
+
+He is base, who recks not of his master's weal,
+
+Rejoicing with him, sorrowing in his pain.
+
+Still may I be, though I be bondman born,  
+Numbered among bondservants noble-souled;
+
+So may I have, if not the name of free, 70
+
+The heart: for better this is than to bear
+
+On my one head two ills—to nurse base thoughts
+
+Within, and do in bondage others' bests.
+
+Menelaus.
+
+Come, ancient, ofttimes toiling at my side
+
+Hast thou achieved the travail of the shield; 735
+
+And now, partaker in my happy lot,
+
+Go, tidings to our friends left yonder bear
+
+In what plight thou hast found us, and our bliss.
+
+Bid them await, abiding by the strand,
+
+The issue of strife that waits me, as I deem; 740
+
+Bid them, if we by stealth may take her hence,
+
+To watch, that we, in one good fortune joined,
+
+May 'scape from these barbarians, if we may.
+
+Messenger.
+
+This will I do, king. But the lore of seers,
+
+How vain it is I see, how full of lies. 745
+
+So then the altar-flames were utter naught,
+
+The voices of winged things! Sheer folly this
+
+Even to dream that birds may help mankind.
+
+Kalchas told not, nor gave sign to the host,
+
+Yet saw, when for a cloud's sake died his friends: 750
+
+Nor Helenus told; but Troy for nought was stormed!
+
+"Yea, for the God forbade," thou mightest say.
+
+Why seek we then to seers? With sacrifice
+
+To Gods, ask good, and let soothsayings be.
+
+They were but as a bait for greed devise: 755
+
+None idle getteth wealth through divination.
+
+Sound wit, with prudence, is the seer of seers.
+
+Chorus.
+
+My mind as touching seers is even at one
+
+With yonder ancient. Who hath Gods for friends
+
+Hath the best divination in his home. 760
+
+Helen.
+
+Enough: unto this present all is well.
+
+But, toil-tried, how thou earnest safe from Troy,
+
+To know were profitless; yet friends must needs
+
+Yearn to be told the afflictions of their friends.
+
+Menelaus.
+
+In one word, one thought's track, thou hast asked me much. 765
+
+Why tell of those in the Aegean lost,
+
+Of Nauplius' beacons on Eubœa's cliffs,
+
+Of Crete, of Libyan cities visited,
+
+Of Perseus' heights?—I should not with the tale
+
+Sate thee, and telling should renew my pain,— 770
+
+Toil-worn with suffering, should but grieve twice o'er.
+
+Helen.
+
+Wiser thine answer than my questioning is.
+
+Yet—let the rest pass—tell but this, how long
+
+O'er the sea-ridges vainly wanderedst thou?
+
+Menelaus.
+
+Through courses seven of circling years I passed, 775
+
+Besides those ten years in the land of Troy.
+
+Helen.
+
+Alas, toil-tried, thou nam'st a weary space!
+
+Yet, thence escaped, thou meetest murder here.
+
+Menelaus.
+
+How mean'st thou?—what say'st thou?—thy words are death!
+
+Helen.
+
+Flee hence; with all speed get thee forth this land. 780
+
+Thou shalt be slain by him whose are these halls.
+
+Menelaus.
+
+What have I done that meriteth such doom?
+
+Helen.
+
+Coming unlooked-for thou dost thwart my marriage.
+
+Menelaus.
+
+How?—purposeth some man to wed my wife?
+
+Helen.
+
+Yea, to repeat all tyrannous wrong I have borne. 785
+
+Menelaus.
+
+In his own might—or despot of the land?
+
+Helen.
+
+The ruler of this country, Proteus' son.
+
+Menelaus.
+
+This was the riddle that the portress spake!
+
+Helen.
+
+At which of the alien portals didst thou stand?
+
+Menelaus.
+
+At these, whence like a beggar I was driven. 790
+
+Helen.
+
+Not surely begging bread?—ah, woe is me!
+
+Menelaus.
+
+Even so, in deed, though not the name had I.
+
+Helen.
+
+Touching my bridal, then, shouldst thou know all.
+
+Menelaus.
+
+Yea, but know not if thou hast 'scaped his arms.
+
+Helen.
+
+Rest sure, unsullied hath my couch been kept. 795
+
+Menelaus.
+
+Of this what proof? Glad tidings this, if true.
+
+Helen.
+
+Seest thou my wretched session at this tomb?
+
+Menelaus.
+
+A straw couch—hapless, what is this to thee?
+
+Helen.
+
+Fleeing this marriage I am suppliant here.
+
+Menelaus.
+
+No altar nigh?—or this the alien's wont? 800
+
+Helen.
+
+As well this warded me as fanes of Gods.
+
+Menelaus.
+
+May I not bear thee home, then, overseas?
+
+Helen.
+
+The sword awaits thee rather than my couch.
+
+Menelaus.
+
+Then were I of all men unhappiest.
+
+Helen.
+
+Now think not shame to flee from this land forth. 805
+
+Menelaus.
+
+And leave thee?—I, who sacked Troy for thy sake!
+
+Helen.
+
+Better than that my couch should be thy death.
+
+Menelaus.
+
+Tush—craven promptings these, unworthy Troy!
+
+Helen.
+
+Thou canst not slay the king—perchance thy purpose.
+
+Menelaus.
+
+How?—hath he flesh invulnerable of steel? 810
+
+Helen.
+
+That shalt thou prove. None wise dares hopeless venture.
+
+Menelaus.
+
+How, shall I tamely let them bind mine hands?
+
+Helen.
+
+Thou art in a strait: thou need'st some shrewd device.
+
+Menelaus.
+
+Best die in action, not with folded hands.
+
+Helen.
+
+One hope there is whereby we might be saved— 815
+
+Menelaus.
+
+By bribes, by daring, or by cunning speech?
+
+Helen.
+
+If but the king may know not of thy coming.
+
+Menelaus.
+
+Who will betray me? He shall know me not.
+
+Helen.
+
+An ally wise as Gods he hath within.
+
+Menelaus.
+
+A Voice that haunts dark crypts within his halls? 820
+
+Helen.
+
+Nay, but his sister: Theonoë her name.
+
+Menelaus.
+
+Oracular the name:—what doth she?—say.
+
+Helen.
+
+All things she knows;—shall tell him thou art here.
+
+Menelaus.
+
+Then must I die, for hid I cannot be.
+
+Helen.
+
+What if by prayers we might prevail with her— 825
+
+Menelaus.
+
+To do what deed?—to what hope lur'st thou me?
+
+Helen.
+
+To tell her brother of thy presence nought?
+
+Menelaus.
+
+Prevailing so, our feet might flee the land?
+
+Helen.
+
+Lightly, if she connive: in secret, no.
+
+Menelaus.
+
+Essay thou: woman toucheth woman's heart. 830
+
+Helen.
+
+Surely mine hands about her knees shall cling.
+
+Menelaus.
+
+Hold—what if she will none of our appeal?
+
+Helen.
+
+Thou diest: and I, woe's me, shall wed perforce.
+
+Menelaus.
+
+Thou shouldst be traitress—false the plea of force!
+
+Helen.
+
+Nay, by thine head I swear a solemn oath— 835
+
+Menelaus.
+
+How?—wilt thou die ere thou desert thy lord?
+
+Helen.
+
+Yea, by this sword: beside thee will I lie.
+
+Menelaus.
+
+Then, for this pledge, lay thou thine hand in mine.
+
+Helen.
+
+I clasp—I swear to perish if thou fall.
+
+Menelaus.
+
+And I, of thee bereft, to end my life. 840
+
+Helen.
+
+How, dying, shall we then with honour die?
+
+Menelaus.
+
+On the tomb's crest thy life I'll spill, then mine.
+
+But first in strife heroic will I strive
+
+For thee, beloved: let who dare draw nigh.
+
+I will not shame the glory achieved at Troy, 845
+
+Nor flee to Greece, to meet a nation's scoff.
+
+I,—I, who Thetis of Achilles spoiled,
+
+Who saw Telamonian Aias slaughtered lie,
+
+And childless Neleus' son—for mine own wife
+
+Shall I not count me man enough to die? 850
+
+Yea, verily:—for, if the Gods are wise,
+
+The valiant man who dies by foemen's hands
+
+With dust light-sprinkled on his tomb they shroud,
+
+But dastards forth on barren rock they cast.
+
+Chorus.
+
+Gods, grant at last fair fortune to the line 855
+
+Of Tantalus, and rescuing from ills!
+
+Helen.
+
+Woe, hapless I!—my lot is cast in woe!
+
+Undone, Menelaus!—from the hall comes forth  
+Theonoë the seer: the palace clangs
+
+With bolts shot back:—flee!—yet to what end flee? 860
+
+Present or absent still she knows of thee,
+
+How thou art come. O wretched I, undone!
+
+Thou, saved from Troy and from the alien land,
+
+Hast come to fall again by alien swords!
+
+Enter Theonoë attired as a priestess, with train of handmaids in solemn procession.
+
+Theonoe (to a torch-hearer).
+
+Thou, bearing splendour of torches, pass before; 865
+
+In solemn ritual incense all the air,
+
+That pure heaven's breath may be, ere we receive it.
+
+And thou, if any have marred our path with tread
+
+Of foot unclean, sweep o'er it cleansing flame,
+
+And shake the torch before, that I may pass. 870
+
+And, when ye have paid the Gods my wonted service,
+
+Bear back again the hearth-flame to the halls.
+
+Attendants pass on.
+
+Helen, how fall my words prophetic now?
+
+Thy lord is come, Menelaus, here in sight,
+
+Spoiled of his ships, and of thy counterfeit. 875
+
+Hapless, escaped what perils art thou come,
+
+Unsure of home-return or tarrying here!
+
+For strife in heaven and high debate shall be
+
+On this day in Zeus' presence touching thee.
+
+Hera, who was thy foe in days gone by, 880
+
+Is gracious now, would bring thee with thy wife
+
+Safe home, that Hellas so may learn the cheat
+
+Of Alexander's bridal, Kypris' gift.
+
+But Kypris fain would wreck thine home-return,
+
+That her shame be not blazoned, hers who bought 885  
+The prize of Fair with Helen's shadowy hand.
+
+The issue rests with me—to tell my brother,
+
+As Kypris would, thy presence, ruining thee,
+
+Or, standing Hera's ally, save thy life,
+
+Hiding it from my brother, who bids that I 890
+
+Declare it, when thou comest to our shore.
+
+[A pause.]
+
+Go, some one, tell my brother that this man
+
+Is here, that I of peril clear may stand.
+
+Helen.
+
+O maiden, suppliant at thy knee I fall,
+
+And, in the posture of the unhappy, bow 895
+
+Both for myself and this man, whom at last,
+
+Scarce found, I am in peril to see slain!
+
+Ah, tell not to thy brother that my lord,
+
+My best-beloved, hath come unto mine arms;
+
+But save us, I implore thee! To thy brother 900
+
+Never betray thy reverence for the right,
+
+Buying his gratitude by sin and wrong.
+
+For God abhorreth violence, bidding all
+
+Not by the spoiler's rapine get them gain.
+
+Away with wealth—the wealth amassed by wrong! 905
+
+For common to all mortals is heaven's air,
+
+And earth, whereof men ought to store their homes,
+
+Not keep nor wrest by violence others' goods.  
+Me for mine happiness—yet for my sorrow—
+
+To thy sire Hermes gave, to ward for him, 910
+
+My lord, who now is here, who claims his own.
+
+Slain, how should he regain me, or thy sire
+
+How render back the living to the dead?
+
+O have regard to God's will and thy sire's!
+
+Would Heaven, would the dead king, render back 915
+
+Their neighbour's goods, or would they not consent?
+
+Yea, would they, I trow! Thou shouldst not have respect
+
+To wanton brother more than righteous sire.
+
+If thou, a seer, who dost believe in God,
+
+Thy father's righteous purpose shalt pervert, 920
+
+And to thine unjust brother do a grace,
+
+'Twere shame that thou shouldst know all things divine,
+
+Present and future,—yet not know the right.
+
+Now me, the wretched, whelmed in misery,
+
+Save, and vouchsafe us this our fortune's crown. 925
+
+For there is none but hateth Helen now,
+
+Through Hellas called forsaker of my lord
+
+To dwell in gold-abounding Phrygian halls.
+
+But if to Greece I come, in Sparta stand,
+
+Then, hearing, seeing, that by heaven's device 930
+
+They died, nor was I traitress to my friends,
+
+They shall restore me unto virtue's ranks;
+
+I shall betroth the child none now will wed;
+
+And, leaving this my bitter homelessness,
+
+Shall I enjoy the treasures in mine home. 935
+
+Lo, if my lord had died, slain on some pyre,  
+My love should weep his memory though afar:
+
+Now, living, saved, shall he be torn from me?
+
+Ah, maiden, not—I implore thee, O not that!
+
+Grant me this grace; so follow in the steps 940
+
+Of thy just sire. 'Tis children's fairest praise,
+
+When one begotten of a noble sire
+
+Is noble, treading in his father's steps.
+
+Chorus.
+
+Piteous thy pleading comes to stay her hand:
+
+Piteous thy plight is. But I fain would hear 945
+
+What words Menelaus for his life will speak.
+
+Menelaus.
+
+I cannot brook to cast me at thy knee,
+
+Nor drown mine eyes with tears; else should I shame
+
+Troy utterly, in turning craven thus.
+
+And yet, men say, it is a hero's part 950
+
+In trouble, from his eyes to shed the tear.
+
+Yet not this seemly part—if seemly it be—
+
+Will I choose rather than stoutheartedness.
+
+But, if thou wilt befriend a stranger, me
+
+Who seek, yea justly, to regain my wife, 955
+
+Restore her, save withal: if thou wilt not,
+
+Not now first shall I taste of misery,
+
+But thou shalt stand convict of wickedness.
+
+Yet, that which worthy of myself I count,
+
+And just,—yea, that which most shall touch thine heart,— 960  
+This will I speak, bowed at thy father's grave.
+
+O ancient, dweller in this tomb of stone,
+
+Restore thy trust: I claim of thee my wife,
+
+Sent hither of Zeus to thee, to ward for me.
+
+I know that thou, the dead, canst ne'er restore: 965
+
+But this thy child will think scorn that her sire,
+
+Glorious of old, from the underworld invoked,
+
+Have infamy,—for now it rests with her.
+
+Hades, on thy championship I call,
+
+Who hast welcomed many dead, for Helen's sake 970
+
+Slain by my sword: thou hast them for thine hire.
+
+Or give them back with life's breath filled again,
+
+Or thou constrain this maid to show her worthy
+
+Of a good sire, and render back my wife.
+
+But if ye will despoil me of my bride, 975
+
+That which to thee she said not will I say:—
+
+Know, maiden, I have bound me by an oath
+
+To dare thy brother, first, unto the fight:
+
+Then he or I must die, my word is passed.
+
+But if he flinch from grappling foot to foot, 980
+
+And seek to starve the suppliants at the tomb,
+
+I am resolved to slay her, then to thrust
+
+Into mine own heart this two-edged sword
+
+On this tomb's crest, that streams of our life-blood
+
+May drench the grave: so shall we side by side, 985
+
+Two corpses, lie upon this carven tomb,
+
+To be thy deathless grief, thy sire's reproach.
+
+Her shall thy brother never wed—nor he,
+
+Nor any other:—I will bear her hence,
+
+If home I may not, then unto the dead. 990
+
+Why speak thus? If with tears I played the woman,  
+A pitiful thing were I, no man of deeds.
+
+Slay, if thou wilt : thou shalt not slay and shame!
+
+Yet do thou rather hearken to my words,
+
+That thou be just, that I may win my wife. 995
+
+Chorus.
+
+Maiden, of these pleas art thou arbitress.
+
+So judge, that thou may'st pleasure all at last.
+
+Theonoe.
+
+By nature and by choice I fear the Gods.
+
+I love mine own soul, and my sire's renown
+
+I will not stain, nor show my brother grace 1000
+
+Wherefrom shall open infamy be his:
+
+And the great temple of Justice in my soul
+
+Stands. Since from Nereus I inherit this,
+
+I will essay to save Menelaus' life.
+
+With Hera, seeing she fain would favour thee, 1005
+
+I cast my vote. Gracious to me withal
+
+Be Kypris, though she hath had no part in me,
+
+And I will strive to abide a maiden aye.
+
+For thy reproaches o'er my father's grave,
+
+I make them mine; for I should work foul wrong, 1010
+
+If I restored not. He, if yet he lived,
+
+Had given back her to thee, and thee to her.
+
+Yea, these things bring to all men recompense
+
+In Hades as on earth. Albeit the soul
+
+Of the dead live not, deathless consciousness 1015
+
+Still hath it when in deathless aether merged.  
+But, to make brief end, I will hold my peace
+
+Of all ye have prayed of me, nor ever be
+
+Co-plotter with my brother's wantonness.
+
+I do him service, though it seem not so, 1020
+
+Who turn him unto righteousness from sin.
+
+Yet how to escape must ye yourselves devise:
+
+I from your path will stand, will hold my peace.
+
+With prayer to Gods begin ye: supplicate
+
+Kypris to grant return to fatherland. 1025
+
+Thou, pray that Hera's mind abide unchanged,
+
+Her will for thy deliverance and thy lord's.
+
+And thou, dead sire, so far as in me lies,
+
+Impious for righteous ne'er shalt be misnamed.
+
+[Exit.
+
+Chorus.
+
+None prospered ever by unrighteousness: 1030
+
+In righteousness all hope of safety dwells.
+
+Helen.
+
+Menelaus, for the maiden safe we are.
+
+Thou, for the rest, give counsel to devise
+
+A path of safety alike for thee and me.
+
+Menelaus.
+
+Hearken. Long hast thou dwelt beneath yon roof 1035
+
+Co-inmate with the servants of the king:—
+
+Helen.
+
+Why say'st thou this? Thou givest hint of hopes,
+
+As thou wouldst work deliverance for us twain.
+
+Menelaus.
+
+Couldst thou persuade some warder of four-horse cars
+
+To give to us a chariot and steeds? 1040
+
+Helen.
+
+I might persuade—yet what avails our flight
+
+Who know these plains not, nor the alien's land?
+
+Menelaus.
+
+Thou hast named a hopeless bar. Lo, should I hide
+
+Within, and slay the king with this keen sword?
+
+Helen.
+
+His sister would not suffer thee, nor spare 1045
+
+To tell thy purposed murder of her kin.
+
+Menelaus.
+
+No ship have we wherein we might escape
+
+Fleeing; for that I had the sea hath whelmed.
+
+Helen.
+
+Hearken—if woman's lips may wisdom speak:—
+
+Wouldst thou consent, ere death, in name to die? 1050
+
+Menelaus.
+
+Evil the omen: yet, if this shall help,
+
+Ready I am, ere death, in name to die.
+
+Helen.
+
+Yea, with shorn hair and dirges will I mourn thee
+
+Before the tyrant, after woman's wont.
+
+Menelaus.
+
+What salve of safety for us twain hath this? 1055
+
+Sooth, the device is something overworn!
+
+Helen.
+
+As thou hadst died at sea, I'll pray the king
+
+For leave to entomb thee in a cenotaph.
+
+Menelaus.
+
+This granted, how shall we without a ship
+
+Escape by raising this void tomb for me? 1060
+
+Helen.
+
+A vessel will I beg, to cast therefrom
+
+Into the sea's arms burial-gifts for thee.
+
+Menelaus.
+
+Well said, save but for this—if he bid rear
+
+On land my tomb, fruitless is thy pretence.
+
+Helen.
+
+Nay, will we say, this is not Hellas' wont, 1065
+
+On land to bury such as die at sea.
+
+Menelaus.
+
+This too thou rightest. I with thee embark,
+
+And in the same ship help to stow the gifts.
+
+Helen.
+
+Of all things chiefly, needs must thou be there,
+
+And all thy crew which from the wreck escaped. 1070
+
+Menelaus.
+
+Let me but at her moorings find a ship,
+
+And man by man shall they stand girt with swords.
+
+Helen.
+
+'Tis thou must order all: let wafting winds
+
+But fill the sail, and good speed to the keel!
+
+Menelaus.
+
+This shall be, for the Gods will end my toils. 1075
+
+But of whom wilt thou say thou heard'st my death?
+
+Helen.
+
+Of thee. Say, thou alone escapedst doom,
+
+Who sail'dst with Atreus' son, and saw'st him die.
+
+Menelaus.
+
+Yea, and these rags about my body cast
+
+Shall witness as to salvage from the wreck. 1080
+
+Helen.
+
+In season saved, nigh out of season lost!
+
+That sore mischance may turn to fortune fair.
+
+Menelaus.
+
+Into the palace with thee shall I pass,
+
+Or by the tomb here tarry sitting still?
+
+Helen.
+
+Here stay: if he would do thee any hurt, 1085
+
+This tomb and thine own sword shall keep thee safe.
+
+But I will pass within, will shear mine hair,
+
+And sable vesture for white robes will don,
+
+And with the blood-stained nail will scar my cheek.
+
+'Tis a grim strife, and issues twain I see: 1090
+
+Or I must die, if plotting I am found,
+
+Or see the home-land and redeem thy life.
+
+O Queen, who restest on the couch of Zeus,
+
+Hera, to hapless twain grant pause from ills,
+
+We pray, with arms flung upward to the sky, 1095
+
+Thy mansion wrought with arabesques of stars.
+
+And thou, by mine hand winner of beauty's prize,
+
+Kypris, Dionê's child, destroy me not!
+
+Enough the scathe thou hast done me heretofore,
+
+Lending my name, not me, to alien men: 1100
+
+But let me die, if 'tis thy will to slay,
+
+In home-land. Why insatiate of wrong
+
+Dost thou use loves, deceits, and guile's inventions,
+
+And love-spells dark with blood of families?
+
+Wouldst thou in measure come, thou wert to men 1105
+
+Else kindest of the Gods: I hold this truth.
+
+[Exit.
+
+Chorus.
+
+(Str. 1)
+
+O thou in thine halls of song abiding,
+
+Under the greenwood leaves deep-hiding,
+
+I hail thee, I hail,
+
+Nightingale, queen by thy notes woe-thrilling 1110
+
+Of song-birds, come, through thy brown throat trilling
+
+Notes tuned to my wail,
+
+As of Helen's grief and pain
+
+And of Ilium's daughters' tears  
+I sing, how they stooped them to thraldom's chain
+
+Beneath the Achaian spears.
+
+They were doomed, when from Sparta hied
+
+That bridegroom accursèd, to ride
+
+O'er the foam-blossomed plain, for the Priamids' bane—
+
+O Helen, thou seemest the bride, 1120
+
+And the Love-queen steers!
+
+(Ant. 1)
+
+And Achaians many, by stones down-leaping
+
+And by spear-thrusts sped, are in Hades sleeping;
+
+And in sorrow for these
+
+Was their wives' hair shorn in their widowed bowers:
+
+And the beacon-lights glared on the headland that lowers
+
+O'er Eubœan seas;
+
+So that lone voyager hurled
+
+Many Greeks on Kaphêreus' scaur
+
+And Aegean skerries where wild surf swirled, 1130
+
+When he lit that treachery-star.
+
+And by havenless cliffs hast thou passed
+
+Driven far from thy land by the blast
+
+With thy prize—no prize, but by Hera's device
+
+A cloud-wraith in mid-lists cast
+
+Of the Danaans' war.
+
+(Str. 1)
+
+Who among men dare say that he, exploring
+
+Even to Creation's farthest limit-line,
+
+Ever hath found the God of our adoring,
+
+That which is not God, or the half-divine— 1140  
+Who, that beholdeth the decrees of Heaven
+
+This way and that in hopeless turmoil swayed?
+
+Daughter of Zeus art thou, to Leda given,
+
+Helen, by Him in plumes of swan arrayed;
+
+Yet wert thou cursed—"Unrighteous, god-despising,
+
+Traitress, and faithless," Hellas deemed thy due!
+
+Nought I find certain, for all man's surmising:
+
+Only Gods' words have I found utter-true. 1150
+
+(Ant. 2)
+
+Madmen, all ye who strive for manhood's guerdons
+
+Battling with shock of lances, seeking ease
+
+Senselessly so from galling of life's burdens!
+
+Never, if blood be arbitress of peace,
+
+Strife between towns of men shall find an ending:
+
+Lo, how its storm o'er homes of Ilium brake,
+
+Yea, though fair words might once have wrought amending,
+
+Helen, of wrong, of quarrel for thy sake! 1160
+
+Now are her sons in depths of Hades lying;
+
+Flame o'er her walls leapt, like Zeus' levin-glare:
+
+Woes upon woes, and unto captives sighing
+
+Sorer afflictions still—thy gifts they were.
+
+Enter Theoklymenus, with hounds, and attendants carrying weapons, nets, spoils of the chase, etc.
+
+Theoklymenus.
+
+Hail, my sire's tomb!—for at my palace-gate, 1165
+
+Proteus, I buried thee, to greet thee so:
+
+Still as I enter and pass forth mine halls,  
+Thee, father, I thy son Theoklymenus hail.
+
+Ho ye, my men, the hounds and hunting-nets
+
+Unto the palace kennels take away. 1170
+
+[Exeunt attendants.
+
+Many a time have I reproached myself
+
+That I have punished not yon knaves with death!
+
+Lo, now I hear of some Greek openly
+
+Come to my land, eluding all my guards,—
+
+Some spy, or one that prowls to kidnap hence 1175
+
+Helen. Die shall he, so he but be caught.
+
+Ha!
+
+Lo, all my plans, meseemeth, have I found
+
+Frustrate!—for Tyndareus' child hath left her seat
+
+By the tomb void, and from the land hath sailed!
+
+What ho! unbar the gates!—loose from the stalls 1180
+
+The steeds, mine henchmen!—bring the chariots forth,
+
+That not for pains untried by me the wife
+
+I long for may escape the land unmarked.
+
+Nay, hold your hands! I see whom we would chase
+
+There in the palace standing, nowise fled. 1185
+
+Re-enter Helen.
+
+Thou, why hast thou attired thee in dark robes,
+
+Thy white cast off, and from thy queenly head
+
+Hast thou with sweep of steel thy tresses shorn,
+
+And wettest with fast-streaming tears thy cheeks
+
+Weeping? Mourn'st thou by visions of the night 1190
+
+Soul-shaken, or for some dread inward voice
+
+Heard, is thy spirit thus distraught with grief?
+
+Helen.
+
+My lord,—for now I name thee by this name,—
+
+Undone!—mine hopes are fled; I am but naught!
+
+Theoklymenus.
+
+In what affliction liest thou? What hath chanced? 1195
+
+Helen.
+
+Menelaus—woe's me!—how to speak it?—dead!
+
+Theoklymenus.
+
+I triumph not at thy words, yet am blest.
+
+Helen.
+
+[Let my lord pardon that I joy not—yet.]
+
+Theoklymenus.
+
+How know'st thou? Hath Theonoë told thee this?
+
+Helen.
+
+Even she, and he who when he died was there.
+
+Theoklymenus.
+
+How, is one here to tell this certainly? 1200
+
+Helen.
+
+Is here:—would he might come as I desire!
+
+Theoklymenus.
+
+Who is he?—where?—that I be certified.
+
+Helen.
+
+Yon man who sitteth cowering at the tomb.
+
+Theoklymenus.
+
+Apollo!—lo, how marred his vesture shows!
+
+Helen.
+
+Ah me, so showeth now my lord, I ween! 1205
+
+Theoklymenus.
+
+Of what land?—and whence sailed he to our shore?
+
+Helen.
+
+Greek, an Achaian, shipmate of my lord.
+
+Theoklymenus.
+
+By what death says he Menelaus died?
+
+Helen.
+
+Most piteously, in whelming surge of brine.
+
+Theoklymenus.
+
+And where on alien waters voyaging? 1210
+
+Helen.
+
+On havenless rocks of Libya cast away.
+
+Theoklymenus.
+
+How perished this man not, who shared his voyage?
+
+Helen.
+
+Whiles are the base-born more than heroes blest.
+
+Theoklymenus.
+
+And, hither faring, where left he the wreck?
+
+Helen.
+
+Where ruin seize it!—but not Menelaus. 1215
+
+Theoklymenus.
+
+Ruin hath seized him. What ship brought this man?
+
+Helen.
+
+Some, voyaging, found, and took him up, he saith.
+
+Theoklymenus.
+
+Where is that bane, in thy stead sent to Troy?
+
+Helen.
+
+The cloud-wraith mean'st thou? Into air it passed.
+
+Theoklymenus.
+
+O Priam, Troyland, ruined all for nought! 1220
+
+Helen.
+
+I too have shared the Priamids' dark doom.
+
+Theoklymenus.
+
+Left he thy lord unburied, or entombed him?
+
+Helen.
+
+Unburied—woe is me! Alas mine ills!
+
+Theoklymenus.
+
+For this cause hast thou shorn thy golden hair?
+
+Helen.
+
+Yea, dear he is, whate'er he be— he is here. 1225
+
+Theoklymenus.
+
+Is this misfortune real, thy tears unfeigned?
+
+Helen.
+
+O yea, thy sister's ken were lightly 'scaped!
+
+Theoklymenus.
+
+Nay, sooth. How then, wilt dwell by this tomb still?
+
+Helen.
+
+Why dost thou mock me? Let the dead man be.
+
+Theoklymenus.
+
+So loyal to thy lord, thou shunnest me. 1230
+
+Helen.
+
+No more will I: prepare my bridal now.
+
+Theoklymenus.
+
+Late comes it, yet with praise and thanks of me!
+
+Helen.
+
+Know'st then thy part? Let us forget the past.
+
+Theoklymenus.
+
+Thy terms?—since favour is for favour due.
+
+Helen.
+
+Let us make truce: be reconciled to me. 1235
+
+Theoklymenus.
+
+I put away our feud: let it take wings.
+
+Helen.
+
+Now then by these thy knees, since friend thou art—
+
+Theoklymenus.
+
+What seekest thou with suppliant arms outstretched?
+
+Helen.
+
+The dead, mine husband, fain would I entomb.
+
+Theoklymenus.
+
+How?—for the lost a grave?—wouldst bury a shade ? 1240
+
+Helen.
+
+'Tis Hellene wont, whoso is lost at sea—
+
+Theoklymenus.
+
+To do what? Wise are Pelops' sons herein.
+
+Helen.
+
+With garments shrouding nought to bury them.
+
+Theoklymenus.
+
+Perform the rite: raise where thou wilt his tomb.
+
+Helen.
+
+Not thus we bury mariners cast away. 1245
+
+Theoklymenus.
+
+How then? Of Hellene wont I nothing know.
+
+Helen.
+
+We put out seaward with the corpse's dues.
+
+Theoklymenus.
+
+What shall I give thee for the dead man then?
+
+Helen (pointing to Menelaus).
+
+He knows. Unskilled am I—happy ere this!
+
+Theoklymenus.
+
+Stranger, glad tidings dost thou bring to me. 1250
+
+Menelaus.
+
+For me not glad, nor yet for that dead man.
+
+Theoklymenus.
+
+How do ye bury dead men lost at sea?
+
+Menelaus.
+
+According to the substance of each friend.
+
+Theoklymenus.
+
+If wealth be all, for her sake speak thy wish.
+
+Menelaus.
+
+First is blood shed, an offering to the shades. 1255
+
+Theoklymenus.
+
+The victim?—tell thou, and I will perform.
+
+Menelaus.
+
+Decide thou: that thou givest shall suffice.
+
+Theoklymenus.
+
+My people use to slay a horse or bull.
+
+Menelaus.
+
+If thou wilt give, give worthily of a king.
+
+Theoklymenus.
+
+Of such in my fair herds I have no lack. 1260
+
+Menelaus.
+
+Next, a decked bier is borne, no corpse thereon.
+
+Theoklymenus.
+
+This shall be. What beside doth custom add?
+
+Menelaus.
+
+Arms forged of bronze, for well he loved the spear.
+
+Theoklymenus.
+
+These, our gifts, shall be worthy Pelops' line.
+
+Menelaus.
+
+Therewith, all increase fair that earth brings forth. 1265
+
+Theoklymenus.
+
+How then?—how cast ye these into the surge?
+
+Menelaus.
+
+There needeth here a ship with rowers manned.
+
+Theoklymenus.
+
+And how far speedeth from the strand the keel?
+
+Menelaus.
+
+So that from land the foam-wake scarce is seen.
+
+Theoklymenus.
+
+Now wherefore? Why doth Greece observe this use? 1270
+
+Menelaus.
+
+Lest the surge sweep pollution back to shore.
+
+Theoklymenus.
+
+Phœnician oars shall traverse soon the space
+
+Menelaus.
+
+'Twere well done, and a grace to Menelaus.
+
+Theoklymenus.
+
+Dost thou not, without her, suffice for this?
+
+Menelaus.
+
+This must be done by mother, wife, or child. 1275
+
+Theoklymenus.
+
+Hers then the task, thou say'st, to entomb her lord?
+
+Menelaus.
+
+Yea, piety bids not rob the dead of dues.
+
+Theoklymenus.
+
+Let her go:—best to foster in my wife
+
+Piety. From mine halls the death-dues take.
+
+Nor empty-handed will I send thee hence, 1275
+
+For this thy kindness shown her. For good news
+
+Thou hast brought me, raiment in thy bare rags' stead
+
+And food shalt thou have, so that thou may'st come
+
+To Greece, whom now I see in sorriest plight.
+
+And, hapless, thou fret not thine heart away 1275
+
+Without avail. Menelaus hath his doom,
+
+And thy dead husband cannot live again.
+
+Menelaus.
+
+Princess, thy part is this: with him who is now
+
+Thy lord, content thee; him who is not let be,
+
+As best it is for thee in this thy plight. 1290
+
+And if to Greece I come, and safety win,
+
+Then will I take thine old reproach away,
+
+If now thou prove true wife to thine own spouse.
+
+Helen.
+
+This shall be: never shall my lord blame me.
+
+Thou shalt thyself be near, and witness this. 1295
+
+Now, toil-tried one, pass in, and taste the bath,
+
+And change thy raiment. I will tarry not
+
+In kindness to thee: thou with more good will
+
+Shalt pay all dues to my belovèd lord,
+
+Menelaus, if thou have thy due of us. 1300
+
+[Exeunt Menelaus, Helen, and Theoklymenus.
+
+Chorus.
+
+(Str. 1)
+
+The Mountain-goddess, with feet swift-racing,
+
+Mother of Gods, rushed onward of yore
+
+By glens of the forest in frenzied chasing,
+
+By the new-born rivers' cataract-roar,
+
+By the thunderous surge of the sea wind-tost,
+
+In anguished quest for a daughter lost
+
+Whose name is unuttered in prayer or praising;  
+And a peal far-piercing the echoes bore
+
+As clashed the Bacchanal's Castanet;
+
+And beasts of the wold by her spells controlled 1310
+
+'Neath the yoke of the Goddess's chariot met:
+
+And with her for her child, by the ravisher parted
+
+From the virgins' dances, on that wild quest
+
+The storm-footed Maiden-goddesses darted,
+
+Even Artemis Queen of the Bow, and pressed
+
+At her side with her spear and her panoply
+
+Stern-eyed Pallas:—but Zeus, throned high
+
+In the heavens, looked down, and their purpose thwarted,
+
+And ordered the issue as seemed him best.
+
+(Ant. 1)
+
+When ceased the Mother from weary faring
+
+Of feet wide-wandering to and fro, 1320
+
+Seeking the daughter whom hands ensnaring
+
+Had ravished whitherward none might know,
+
+Then over the watchtower peaks did she tread
+
+Of the Nymphs of Ida, the snow's birth-bed,
+
+And earthward flung her in grief's despairing
+
+Mid the rocky thickets deep in snow:
+
+And she caused that from herbless plains of earth
+
+No blade should shoot for the tilth-land's fruit,
+
+And she wasted the tribes of men with dearth:
+
+And the cattle for tendril-sprays lush-trailing 1330
+
+Looked yearning with famishing eyes in vain;
+
+And from many and many the life was failing,
+
+Nor the sacrifice-smoke made misty the fane;
+
+Nor on altars were found meal-cakes to burn:
+
+And she sealed the spray-dashed mountain-urn  
+From pouring the wan stream forth, aye wailing
+
+For her child with inconsolable pain.
+
+(Str. 2)
+
+And the Gods' feasts failed from the altars fuming,
+
+And for men the staff of bread she brake.
+
+Then Zeus, to assuage the wrath overglooming
+
+The soul of the Mighty Mother, spake: 1340
+
+"Pass down, O Worshipful Ones, ye Graces,
+
+And from Dêo banish her wrath's dark traces,
+
+And the grief that hath driven through desolate places
+
+A mother distraught for a daughter's sake.
+
+Go ye too, Muses, with dance and with singing."
+
+Then first of the Blessed Ones Kypris the fair
+
+Caught up the brass of the voice deep-ringing,
+
+And the skin-strained tambourine she bare.
+
+Then Demeter smiled, and forgat her grieving,
+
+In her hands for a token of peace receiving 1350
+
+The flute of the deep wild notes far-cleaving
+
+The gorges; and gladness lulled her care.
+
+(Ant. 2)
+
+Princess, did flame unconsecrated
+
+Of rites unhallowed in thy bowers shine,
+
+And so of the Mighty Mother hated
+
+Wast thou?—O child, and was this sin thine,
+
+To have lived of the Goddess's altar unrecking?
+
+Yet atonement may come of the fawn-skin decking
+
+Thy limbs, bedappled with dark spots flecking
+
+Its brown, and if greenness of ivy twine 1360  
+Round the sacred fennel-wand lightly shivering,
+
+And if whirled through the air the tambour moan
+
+As it swings, as it rings, to the light touch quivering,
+
+And if Bacchanal hair to the winds shall be thrown,
+
+When the Goddess's vigils are revelling nightly,
+
+And the shafts of the moon's bow touch them lightly,
+
+Shot from the heights where her eyes gleambrightly.
+
+Repent—thou didst trust in thy fairness alone.
+
+Enter Helen.
+
+Helen.
+
+Within the palace all is well, my friends;
+
+For Proteus' child, confederate with us, 1370
+
+Being questioned, hath not told her brother aught
+
+Of my lord's presence, but for my sake saith
+
+That dead he seeth not on earth the light.
+
+Right happily my lord hath won these arms.
+
+Himself hath donned the mail that he should cast 1375
+
+Into the sea, hath thrust his stalwart arm
+
+Into the shield-strap, grasped in hand the spear,
+
+As who should join in homage to the dead,—
+
+In season for the fray hath harnessed him,
+
+As who shall vanquish aliens untold 1380
+
+Singly, when once we tread the galley's deck.
+
+He hath doffed his wreckage rags for the attire
+
+Wherein I have arrayed him, and have given
+
+His limbs the bath, long lacked, of river-dew.
+
+—No more, for forth comes one who deems he holds 1385
+
+My marriage in the hollow of his hand:
+
+I must be silent, and thy loyalty
+
+I claim, and sealed lips, that we haply may,
+
+Ourselves delivered, one day save thee too.
+
+Enter Theoklymenus and Menelaus, with train of attendants bearing funeral offerings.
+
+Theoklymenus.
+
+Pass on in order, as the stranger bade, 1390
+
+Thralls, bearing offerings destined to the sea.
+
+Helen, thou—if thou take not ill my words—
+
+Be ruled by me, here stay: for thou shalt serve
+
+Thy lord alike, or be thou there or not.
+
+I fear thee, lest some thrill of yearning pain 1395
+
+Move thee to fling thy body mid the surge,
+
+Distraught with love for him who was thy lord;
+
+For overmuch thou mournest him, who is not.
+
+Helen.
+
+O my new spouse, needs must I honour him,
+
+My first love, who embraced me as a bride: 1400
+
+Yea, I for very love of that my lord
+
+Could die,—yet wherein should I pleasure him
+
+If with the dead I died? Nay, suffer me
+
+Myself to go and pay him burial-dues:
+
+So the Gods grant thee all the boons I wish, 1405
+
+And to this stranger, for his help herein.
+
+And such wife shalt thou find me in thine halls
+
+As meet is, for thy kindness to my lord
+
+And me; for these things to fair issue tend.
+
+Now bid one give a ship wherein to bear 1410
+
+The gifts, that so thy kindness may be full.
+
+Theoklymenus (to attendant).
+
+Go thou, and give these a Sidonian ship
+
+Of fifty oars, and rowers therewithal.
+
+Helen.
+
+The rites who ordereth, shall not he command?
+
+Theoklymenus.
+
+Yea surely; him my sailors must obey. 1415
+
+Helen.
+
+Speak it again, that all may understand.
+
+Theoklymenus.
+
+Twice I command, yea, thrice, if this thou wilt.
+
+Helen.
+
+Blessings on thee—and me, in mine intent!
+
+Theoklymenus.
+
+Waste not with tears thy fair bloom overmuch.
+
+Helen.
+
+This day shall prove to thee my gratitude. 1420
+
+Theoklymenus.
+
+The dead are naught: to toil for them is vain.
+
+Helen.
+
+That world shares, even as this, in all I say.
+
+Theoklymenus.
+
+Me shalt thou prove no worse than Menelaus.
+
+Helen.
+
+No fault in thee: I need but fortune fair.
+
+Theoklymenus.
+
+This rests with thee, so thou yield me true love. 1425
+
+Helen.
+
+I shall not need to learn to love my love.
+
+Theoklymenus.
+
+Wouldst have myself for escort and for aid?
+
+Helen.
+
+Nay, be not servant to thy servants, King.
+
+Theoklymenus.
+
+Away then: Pelopid wont is nought to me.
+
+Mine house is unpolluted, since not here 1430
+
+Did Menelaus die. Let some one go
+
+And bid my vassal-kings bring marriage-gifts
+
+Unto mine halls. Let all the land break forth
+
+In shouts of happy spousal hymns for Helen
+
+And me, that all may triumph in my joy. 14335
+
+Thou, stranger, go, and into the sea's arms
+
+These offerings cast to Helen's sometime lord,
+
+Then homeward speed again with this my wife,
+
+That, having shared with me her spousal-feast,
+
+Thou may'st fare home, or here abide in bliss. 1440
+
+[Exit.
+
+Attendants pass on with the offerings.
+
+Menelaus.
+
+Zeus, Father art thou called, and the Wise God:
+
+Look upon us, and from our woes redeem;
+
+And, as we drag our fortunes up the steep,  
+Lay to thine hand: a finger-touch from thee,
+
+And good-speed's haven long-desired we win. 1445
+
+Suffice our travail heretofore endured.
+
+Oft have ye been invoked, ye Gods, to hear
+
+My joys and griefs: not endless ills I merit,
+
+But in plain paths to tread. Grant this one boon,
+
+And happy shall ye make me all my days. 1450
+
+[Exeunt Menelaus and Helen.
+
+Chorus.
+
+(Str. 1)  
+Swift galley Phœnician of Sidon,  
+Foam sprang from the travail of thee,  
+O dear to the sons of the oar:  
+The dolphin-dance sweepeth before  
+And behind thee, when breezes no more  
+Ruffle the sea thou dost ride on,
+
+And thus through the hush crieth she,  
+Calm, azure-eyed child of the sea:—  
+"Shake out the canvas, committing  
+1460 Your sails to what breezes may blow,  
+And arow at the pine-blades sitting  
+Give way, O sailors, yoho!  
+Till the keel bearing Helen shall slide on  
+The strand where the old homes be."  
+(Ant. 1)  
+Perchance by the full-brimming river  
+On the priestess-maids shalt thou light,  
+Or haply by Pallas's fane,  
+And shalt join in the dances again,  
+Or the revels for Hyacinth slain,  
+1470When with rapture night's pulses shall quiver  
+For him whom the overcast quoit  
+Of Phœbus in contest did smite,  
+Whence the God to Laconia's nation  
+Gave charge that they hallow the day  
+With slaughter of kine for oblation:—  
+And thy daughter whom, speeding away,  
+Ye left, shall ye find, for whom never  
+Hath the spousal-torch yet flashed bright.  
+(Str. 2)  
+Oh through the welkin on pinions to fleet  
+Where from Libya far-soaring  
+1480The cranes by their armies flee fast from the sleet  
+And the storm-waters pouring,  
+By their shepherd, their chief many-wintered, on-led,  
+At his whistle swift-wheeling,  
+As o'er plains whereon never the rain-drops were shed,  
+Yet where vineyards are purple, where harvests are red,  
+His clarion is pealing:—  
+O winged ones, who, blent with the cloud-spirits' race,  
+With necks far-stretching fly on,  
+'Neath the Pleiades plunge through abysses of space,  
+1490    'Neath the night-king Orion:  
+Crying the tidings, down heaven's steep glide,  
+To Eurotas descending,—  
+Cry "Atreides hath brought low Ilium's pride,  
+And homeward is wending!"  
+(Ant. 2)  
+And ye, in your chariot o'er highways of sky  
+O haste from the far land  
+Where, Tyndareus' scions, your homes are on high  
+Mid the flashings of starland:  
+Ye who dwell in the halls of the Heavenly Home,  
+1500    Be nigh her, safe guiding  
+Helen where seas heave, surges comb,  
+As o'er waves green-glimmering, crested with foam,  
+Her galley is riding.  
+To her crew send breezes from Zeus' hand sped  
+In the sails low-singing,  
+Your sister's reproach of an alien bed  
+Afar from her flinging,—  
+The reproach of the strife upon Ida, whose guilt  
+Unto her was requited,  
+1510Though on Ilium's towers, of Apollo upbuilt,  
+Her feet never lighted.
+
+Enter, meeting, King from palace and Messenger from harbour.
+
+Messenger.
+
+King, all unwelcome in thine halls I meet thee,
+
+Since thou must straightway hear of me ill-news.
+
+Theoklymenus.
+
+What now?
+
+Messenger.
+
+The wooing of another bride
+
+Speed thou, for Helen from the land is gone. 1515
+
+Theoklymenus.
+
+On wings upborne, or feet that trod the ground?
+
+Messenger.
+
+Menelaus from the land hath sailed with her,—
+
+He who with tidings of his own death came.
+
+Theoklymenus.
+
+O monstrous tale!—what galley from this land
+
+Bare her?—for these thy words are past belief. 1520
+
+Messenger.
+
+Even that thou gavest: yea, with thine own men
+
+The stranger went—that briefly thou may'st learn.
+
+Theoklymenus.
+
+How?—I am fain to know. Never it came
+
+Into my thought that one arm could o'ermatch
+
+So great a crew, with whom thyself wast sent. 1525
+
+Messenger.
+
+Soon as, departing from these royal halls,
+
+The child of Zeus passed down unto the sea,
+
+Pacing with delicate feet, she subtly raised
+
+Wails for the spouse beside her, and not dead.
+
+When to thy docks' wide compass we were come, 1530
+
+The swiftest ship Sidonian launched we then
+
+With full array of fifty thwarts and rowers.
+
+And swiftly task succeeding task was done.
+
+One set the mast up, one ran out the oars
+
+Ready to hand ; the white sails folded lay: 1535
+
+Dropped was the rudder, lashed unto its bands.  
+Amidst our toil, men watching all, I trow,
+
+Shipmates of Menelaus, Hellenes they,
+
+Came down the strand, in garb of shipwreck clad,
+
+Stalwart, yet weather-beaten to behold. 1540
+
+And, seeing these at hand, spake Atreus' seed,
+
+Making a wily show of pity feigned:
+
+"Hapless, from what Achaian bark, and how,
+
+Come ye from making shipwreck of her hull?
+
+Would ye help bury Atreus' perished son, 1545
+
+To whom yon Tyndarid queen gives empty tomb?"
+
+They, shedding tears of counterfeited grief,
+
+Drew nigh the ship, and bare the offerings
+
+For Menelaus. Now mistrust awoke
+
+In us, and murmurings for the added throng 1550
+
+Of passengers: yet still we held our peace,
+
+Heeding thy words,—for thou didst ruin all
+
+In bidding that the stranger captain us.
+
+Now all the victims lightly in the ship
+
+We set, unrestive; only the bull strained 1555
+
+Backward, nor on the gangway would set foot,
+
+But bellowed still, and, rolling fierce eyes round,
+
+Arching his back, and levelling his horns,
+
+Would let none touch him. Thereat Helen's lord
+
+Cried, "Ye who laid the city of Ilium waste, 1560
+
+Come, hoist aloft in fashion of our Greeks
+
+Yon bull's frame on your shoulders strong with youth,
+
+And cast down in the prow"—and with the word
+
+Drew ready his sword—"a victim to the dead."
+
+They came, and at a signal hoisted high 1565
+
+The bull, and bare, and 'neath the half-deck thrust.
+
+But Menelaus stroked the war-steed's neck
+
+And forehead, and so gently drew it aboard.
+
+When now the ship had gotten all her freight,  
+Helen with slim foot trod the ladder's rounds, 1570
+
+And in the seat amidships sat her down,
+
+And nigh her Menelaus, dead in name.
+
+The rest along the ship's side left and right
+
+Sat man by man, with swords beneath their cloaks
+
+Hidden; and o'er the surges rolled the chant 1575
+
+Of oarsmen, when we heard the boatswain's note.
+
+But when from land we were not passing far,
+
+Nor nigh, thus spake the warder of the helm:
+
+"Still onward sail we, or doth this suffice,
+
+Stranger?—for to command the ship is thine." 1580
+
+Then he, "Enough for me." Now, sword in hand,
+
+Prow-ward he went, and stood to slay the bull.
+
+But of no dead man spake he any word;
+
+But gashed the throat, and prayed—"O Sea-abider,
+
+Poseidon, and ye, Nereus' daughters pure, 1585
+
+Me bring ye and my wife to Nauplia's shores,
+
+Safe from this land." The blood-gush spurted forth—
+
+Fair omen for the stranger—to the surge.
+
+Then cried one, "'Tis a voyage of treachery this!
+
+Wherefore to Nauplia sail? Take thou command, 1590
+
+Helmsman!—'bout ship!" But, over the dead bull
+
+Towering, to his allies cried Atreus' son:
+
+"Wherefore delay, O flower of Hellas-land,
+
+To smite, to slay the aliens, and to hurl
+
+Into the sea?" Then to thy sailors cried 1595
+
+The boatswain overagainst him his command—
+
+"Ho, catch up, some, what spar shall be to hand,
+
+Some break up thwarts, some snatch from thole the oar,
+
+And dash with blood the alien foemen's heads!"
+
+Up started all, these grasping in their hands 1600
+
+The punt-poles of the ship, and those their swords;
+
+And all the ship ran blood. Then Helen's cry  
+Rang from the stern—"Where is your Trojan fame?
+
+Show it against the aliens!" Furious-grappling,
+
+Men fell,—men struggled up,—some hadst thou seen 1605
+
+Laid dead. But Menelaus all in mail,
+
+Marking where'er his helpers were hard pressed,
+
+Thither in right hand ever bore his sword,
+
+That from the ship we dived, and of thy men
+
+He swept the thwarts: and, striding to the helm, 1610
+
+He bade the helmsman steer the ship for Greece.
+
+They hoisted sail, the breezes favouring blew;
+
+And they are gone. I, fleeing from the death,
+
+Slid by the anchor down into the sea.
+
+Even as my strength failed, one cast forth a rope, 1615
+
+And drew me aboard, so set me on the land,
+
+To tell thee this. Nought is of more avail
+
+For mortals' need than wise mistrustfulness.
+
+Chorus.
+
+King, I had dreamed not Menelaus had 'scaped
+
+Thy ken or mine, here tarrying unknown. 1620
+
+Theoklymenus.
+
+Woe is me, by wiles of woman cozened, caught as in the net!
+
+Lo, my bride hath fled me! If their galley might be taken yet
+
+By pursuers, I had done mine utmost, had the aliens caught:—
+
+Nay, but now upon my traitress sister be my vengeance wrought,—  
+She who in the palace saw Menelaus, spake no word to me: 1625
+
+Therefore never man hereafter shall she trick with prophecy!
+
+Chorus.
+
+Master, whither art thou rushing?—to what deed of murderous wrath?
+
+Theoklymenus.
+
+Even whither justice biddeth follow:—cross not thou my path!
+
+Chorus.
+
+Nay, I will not loose thy vesture: thou art set on grievous sin!
+
+Theoklymenus.
+
+Thou, a slave, control thy master!
+
+Chorus.
+
+Yea, my heart is right herein. 1630
+
+Theoklymenus.
+
+Not to me-ward, if thou let me—
+
+Chorus.
+
+Nay, I needs must hinder thee!
+
+Theoklymenus.
+
+That I should not slay my wicked sister—
+
+Chorus.
+
+Nay, most righteous she!
+
+Theoklymenus.
+
+Who betrayed me,—
+
+Chorus.
+
+With betrayal honourable, in justice' cause.
+
+Theoklymenus.
+
+Gave my bride unto another!
+
+Chorus.
+
+Yea, to him whose right it was,—
+
+Theoklymenus.
+
+Who hath right o'er my possessions?
+
+Chorus.
+
+Who received her from her sire. 1635
+
+Theoklymenus.
+
+Fortune gave her me.
+
+Chorus.
+
+But fate did from thine hand the gift require.
+
+Theoklymenus.
+
+'Tis not thine to judge my cause!
+
+Chorus.
+
+O yea, if prudence prompt my tongue.
+
+Theoklymenus.
+
+Subject then am I, not king!
+
+Chorus.
+
+For righteousness, and not for wrong.
+
+Theoklymenus.
+
+Fain thou art to die, methinks!
+
+Chorus.
+
+Ah slay me: but thy sister ne'er  
+1640Shalt thou kill, with my consent!—Slay me! For noble slaves that dare  
+Death, to shield their lords, the doom of death is glorious past compare.
+
+The Twin-brethren appear in air above the stage.
+
+Pollux.
+
+Refrain thy wrath whereby thou art folly-driven,
+
+King of this land, Theoklymenus. Thee we name,
+
+We the Twin-brethren, with whom Leda bare
+
+Helen of yore, who now hath fled thine halls. 1645
+
+Thou art wroth for spousals destined not for thee:
+
+Nor doth the Nereid's daughter do thee wrong,
+
+Theonoë thy sister, reverencing
+
+The Gods' will and her father's just behests.
+
+For this was fate, that to this present still 1650
+
+Within thy mansions Helen should abide:
+
+But, now that Troy's foundations are destroyed,
+
+[And to the Gods she hath lent her name, no more]
+
+In that same marriage-bond must she be linked:  
+She must win home, and with her husband dwell. 1655
+
+Hold from thy sister back thy murderous sword:
+
+Know thou, herein she dealeth prudently.
+
+Our sister had we rescued long ere this,
+
+Seeing that Zeus hath made us to be Gods,
+
+But all too weak were we to cope with fate, 1660
+
+And with the Gods, who willed it so to be.
+
+This to thee:—to my sister now I speak:
+
+Sail with thy lord on: ye shall have fair winds;
+
+And, for thy guardians, we thy brethren twain
+
+Riding the sea will speed thee to thy land. 1665
+
+And when thou hast reached the goal, the end of life,
+
+Thou shalt be hailed a Goddess, with Zeus' sons
+
+Shalt share oblations, and from men receive
+
+Guest-gifts with us: this is the will of Zeus.
+
+Where first, from Sparta wafted, thou wast lodged 1670
+
+Of Maia's son,—what time from heaven he stooped,
+
+And stole thy form, that Paris might not wed thee,—
+
+The sentinel isle that flanks the Attic coast
+
+Shall be henceforth of men named Helena,
+
+"Since it received thee stolen from thine home. 1675
+
+To wanderer Menelaus Heaven's doom
+
+Appoints for home the Island of the Blest:
+
+For the Gods hate not princely-hearted men
+
+Who taste more griefs than they of none account.
+
+Theoklymenus.
+
+O Sons of Zeus and Leda, I forego 1680
+
+My erstwhile quarrel for your sister's sake,  
+Nor think to slay my sister any more.
+
+Let Helen, if it please the Gods, speed home.
+
+Know ye yourselves the brethren by one blood
+
+Of noblest sister and most virtuous. 1685
+
+All hail! for Helen's noble spirit's sake—
+
+Which thing is not in many women found!
+
+Chorus.
+
+O the works of the Gods—in manifold wise they reveal them:  
+Manifold things unhoped-for the Gods to accomplishment bring.  
+1690And the things that we looked for, the Gods deign not to fulfil them;  
+And the paths undiscerned of our eyes, the Gods unseal them.  
+So fell this marvellous thing.
+
+[Exeunt omnes.
+
+---
+
+[[Euripides — Tragedies|Euripides — Tragedies]] · [[Historical Works index|Historical Works]]

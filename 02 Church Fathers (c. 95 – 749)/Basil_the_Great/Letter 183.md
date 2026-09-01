@@ -1,0 +1,28 @@
+---
+title: "Letter 183"
+author: "St. Basil"
+translator:
+  - "Blomfield Jackson"
+series: "Nicene and Post-Nicene Fathers, Second Series"
+volume: "8"
+year: "1895"
+source: "http://www.newadvent.org/fathers/3202183.htm"
+written: "c. 357–378"
+earliest_ms: "9th–10th century (earliest Greek copies)"
+corpus_file: "Basil_the_Great_3202183.xml"
+tags:
+  - church-fathers
+  - written/4th-century
+---
+
+# Letter 183
+
+ST. BASIL OF CAESAREA
+
+To the Senate of Samosata.
+
+Seeing, as I do, that temptation is now spread all over the world, and that the greater cities of Syria have been tried by the same sufferings as yourselves, (though, indeed, nowhere is the Senate so approved and renowned for good works, as your own, noted as you are for your righteous zeal,) I all but thank the troubles which have befallen you.
+
+For had not this affliction come to pass, your proof under trial would never have been known. To all that earnestly strive for any good, the affliction they endure for the sake of their hope in God is like a furnace to gold.
+
+Rouse ye, then, most excellent sirs, that the labours you are about to undertake may not be unworthy of those which you have already sustained, and that on a firm foundation you may be seen putting a yet worthier finish. Rouse ye, that you may stand round about the shepherd of the Church, when the Lord grants him to be seen on his own throne, telling each of you in his turn. some good deed done for the sake of the Church of God. On the great day of the Lord, each, according to the proportion of his labours, shall receive his recompense from the munificent Lord. By remembering me and writing to me as often as you can, you will be doing justice in sending me a reply, and will moreover give me very great pleasure, by sending me in writing a plain token of a voice which it is delightful to me to hear.

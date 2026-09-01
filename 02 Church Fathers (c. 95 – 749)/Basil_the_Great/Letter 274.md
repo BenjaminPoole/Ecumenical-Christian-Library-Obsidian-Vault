@@ -1,0 +1,24 @@
+---
+title: "Letter 274"
+author: "St. Basil"
+translator:
+  - "Blomfield Jackson"
+series: "Nicene and Post-Nicene Fathers, Second Series"
+volume: "8"
+year: "1895"
+source: "http://www.newadvent.org/fathers/3202274.htm"
+written: "c. 357–378"
+earliest_ms: "9th–10th century (earliest Greek copies)"
+corpus_file: "Basil_the_Great_3202274.xml"
+tags:
+  - church-fathers
+  - written/4th-century
+---
+
+# Letter 274
+
+ST. BASIL OF CAESAREA
+
+To Himerius, the master.
+
+That my friendship and affection for the very reverend brother Hera began when I was quite a boy, and has, by God's grace, continued up to my old age, no one knows better than yourself. For the Lord granted me the affection of your excellency at about the same time that He allowed me to become acquainted with Hera. He now needs your patronage, and I therefore beseech and supplicate you to do a favour for the sake of our old affection, and to heed the necessity under which we now lie. I beg you to make his cause your own, that he may need no other protection, but may return to me, successful in all that he is praying for. Then to the many kindnesses which I have received at your hands I shall be able to add yet this one more. I could not claim any favour more important to myself, or one more nearly touching my own interests.

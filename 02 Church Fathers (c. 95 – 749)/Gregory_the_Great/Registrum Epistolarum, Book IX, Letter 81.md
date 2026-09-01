@@ -1,0 +1,24 @@
+---
+title: "Registrum Epistolarum, Book IX, Letter 81"
+author: "Gregory the Great"
+translator:
+  - "James Barmby"
+series: "Nicene and Post-Nicene Fathers, Second Series"
+volume: "13"
+year: "1898"
+source: "http://www.newadvent.org/fathers/360209081.htm"
+written: "590–604"
+earliest_ms: "8th century (earliest register collections)"
+corpus_file: "Gregory_the_Great_360209081.xml"
+tags:
+  - church-fathers
+  - written/6th-century
+---
+
+# Registrum Epistolarum, Book IX, Letter 81
+
+To Maximus, Bishop of Salona.
+
+Gregory to Maximus, etc.
+
+Although to what was faulty in your ordination at the first you have added serious evil through the fault of disobedience, yet we, tempering with becoming moderation the authority of the Apostolic See, have never been incensed against you to the extent that the case demanded. But our displeasure which you had excited against yourself continued the longer in that a sense of the responsibility entrusted to us tormented us exceedingly, lest we might seem to be passing over without attention certain unlawful doings of yours that we had heard of. And, if you consider well, you will see that you yourself, by deferring to satisfy us, confirmed these reports, and thereby exasperated us the more against you. But now that, following wholesome counsel, you have submitted yourself humbly to the yoke of obedience, and that your love, in doing penance, has purged itself, as we directed, by fitting satisfaction, understand that the favour of brotherly charity is restored to you, and give thanks that you are received into our fellowship: for, as it becomes us to be strict with those who persevere in a fault, so does it to be kind in pardoning those who return to a better mind. Now, therefore, that your Fraternity knows that he has recovered the communion of the Apostolic See, let him send some one to us, according to custom, to receive and convey to him the pallium. For, while we do not suffer unlawful things to be perpetrated, we no less refuse not what is customary. Further, though the discharge of the duties of our position might have called upon us to concede this, yet we are greatly constrained thereto by the request of our most sweet and excellent son, the lord Exarch Callinicus, that we would treat you with moderation. His most dear wish we cannot resist, nor can we cause him sorrow.

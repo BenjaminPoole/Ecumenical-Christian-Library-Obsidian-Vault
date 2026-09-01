@@ -1,0 +1,24 @@
+---
+title: "Registrum Epistolarum, Book II, Letter 10"
+author: "Gregory the Great"
+translator:
+  - "James Barmby"
+series: "Nicene and Post-Nicene Fathers, Second Series"
+volume: "12"
+year: "1895"
+source: "http://www.newadvent.org/fathers/360202010.htm"
+written: "590–604"
+earliest_ms: "8th century (earliest register collections)"
+corpus_file: "Gregory_the_Great_360202010.xml"
+tags:
+  - church-fathers
+  - written/6th-century
+---
+
+# Registrum Epistolarum, Book II, Letter 10
+
+To Paulus, Bishop of Naples.
+
+Gregory to Paulus, etc.
+
+If we administer safely the priestly office which we have received, without doubt both Divine assistance and the affection of our spiritual sons will not be wanting to us. Wherefore let your Fraternity take care to show yourself in all things such that the testimony which the clergy, the nobility, and all the people together, of the city of Naples bears to you may be strengthened by the increase of your goodness. You ought, then, so to bind yourself to continual employment in exhorting the aforesaid people that the Divine husbandman may store in his garners the fruit of your word, which you shall have gathered from them by your labours. But till such time as we shall be able, God revealing to us His will, to deliberate concerning the things which our aforesaid sons request us should be done, we grant leave for clerics to be ordained from the ranks of the laity, and also for manumissions to be solemnly celebrated before you in the same church. Moreover we desire you to observe without hesitation the customs of the clerical order and of the presbyters of the above-named church: and do thou also keep such diligent watch in the instruction of the same, that, abstaining from all that is unsuitable or unlawful, they may stand fast, under your exhortations, ministering with due obedience, in the service of our God. The month of January, the tenth Indiction.

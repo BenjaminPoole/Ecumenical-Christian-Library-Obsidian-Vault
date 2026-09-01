@@ -1,0 +1,37 @@
+---
+title: "Psalms 141"
+author: "John Trapp"
+work: "A Commentary or Exposition upon the Old and New Testaments"
+book: "Psalms"
+chapter: 141
+year: "1647-1662"
+source: "archive.org: John Trapp's Bible Commentary (JohnTrappsBibleCommentaries, per-book EPUBs)"
+tags:
+  - john-trapp
+  - trapp-commentary
+---
+
+# Psalms 141
+
+**Ver. 1.** Lord, I cry unto thee] No distress or danger, how great soever, shall stifle my faith or stop my mouth; but make me more earnest, and my prayers, like strong streams in narrow straits, shall bear down all before them. Make haste unto me] Lest help come too late.
+
+**Ver. 2.** Let my prayer be set forth before thee as incense] Faithful prayer is αναβασις του νου (saith Darnasen), the ascension of the heart to God. In this incense how many sweet spices are burned together by the fire of faith, as humility, hope, love, &c., all which come up for a memorial before God, Acts 10:4; and the saints (as Manoah’s angel) ascend up in the flame, and do wondrously, Judges 13:19,20, while their pillars of smoke are perfumed with myrrh and frankincense, with all powders of the spice merchants, Song of Solomon 3:6, that is, with the merits and mediation of Jesus Christ, Hebrews 9:24, those sweet odours poured into the prayers of saints, Revelation 5:8 8:4, for want whereof the incense of the wicked is abomination, Isaiah 1:13, as stinking of the hand that offereth it. As the evening sacrifice] The sacrificium iuge, that was offered every morning and evening, Exodus 29:39 Nu 28:4, in reference to that immaculate Lamb of God, slain from the beginning, for an offering and a sweet smelling savour, Ephesians 5:2. Chrysostom telleth us, that the Greek Church made use of this psalm in their evening liturgy.
+
+**Ver. 3.** Set a watch, O Lord, before my mouth] Orat pro patientia, saith one, here he prayeth for patience; lest by giving himself leave to overlash, he make the matter much worse. The best patience, long tried and hard put to it, may miscarry, to its cost. Keep the door of my lips] That it move not creaking, and complaining, as on rusty hinges, for want of the oil of joy and gladness, Dal pro Deleth per Apocopen poetieam. David had somewhat to do with his tongue, as we see, Psalms 39:1,3, and when he had carted the ark, how untowardly spake he, as if the fault were more in God than himself, that there was such a breach made in Uzzah, 1 Chronicles 15:2. It was but need, therefore, thus to pray,
+
+**Ver. 4.** Incline not my heart] Out of the abundance of the heart the mouth speaketh. For the better ordering of his words, therefore, he prayeth, not to be delivered up to Satan, and to his own heart’s lust (as he was, 1 Chronicles 21:1, with 2 Samuel 24:1), for God tempteth no man, but the devil and his own concupiscence, James 1:13,14, but to be bent the better way by God’s overpowering, efficacious grace, and to be stablished with his free spirit. To practise wicked works] The Vulgate rendereth it, ad excusandas excusationes in peccatis, to frame excuse for mine offences; but that, when I have over reacted, I may confess and forsake, and so find mercy. Gnalai significat operari cum occasione, praetextu, causa. And let me not eat of their dainties] Their murdering morsels of iniquity; or their flatteries and baits, whereby Saul’s courtiers sought to ensnare him. The Chaldee expoundeth it of their songs at banquets.
+
+**Ver. 5.** Let the righteous smite me, &c.] In case I do offend in word or deed, let me never want a faithful reprover, who may smite me as with a hammer (so the word signifieth), reprove me sharply, Proverbs 23:35 Zec 13:5 Tit 1:13, cuttingly, as the apostle’s word importeth, yet mildly and lovingly, Galatians 6:1 Pr 9:8 19:25 25:12, with soft words, but hard arguments, αποτομως. It shall be a kindness] David thought the better of Nathan for so roundly reproving him, 2 Samuel 12:7-12, and made him of his counsel, 1 Kings 1:32 Peter thought the better of Paul for dealing so plainly with him at Antioch, Galatians 2:11-16, and maketh honourable mention of him, and his writings, 2 Peter 3:15,16 It is said of Gerson, that great chancellor of Paris, that nulla re alia tantopere laetaretur, quam si ab aliquo fraterne et charitative redargueretur, he rejoiced in nothing so much as in a friendly reprehension; great pity it was that none bestowed a chiding on him for being so active against John Huss and Jerome of Prague, at the council of Constance (Mr Clark’s Martyrology). Of Queen Anne Bullen it is reported, that she was not only willing to be admonished, but required her chaplains freely and plainly to tell her of whatsoever was amiss. Her daughter, Queen Elizabeth, was well pleased with Mr Deering’s plain dealing, who told her in a sermon that once she was tanqnam ovis, but now tanquam indomita iuvenca, as an untamed heifer; and speaking of the disorder of the times, These things are so, said he, and you sit still and do nothing, &c. It shall be an excellent oil] Heb. a head oil, such as they poured on their friends’ heads; and that was of the best. Which shall not break my head] My heart it may. Or, let him not make it fail my head, let him not cease to do me this good office daily; I shall count it a courtesy, and requite it with my best prayers for him, in his greatest necessity. For yet my prayer also shall be in their calamity] I will not curse them for their good counsel, rail at them for reproving me, or insult over them in misery as justly met withal; but pray for them, and prize them as my best friends.
+
+**Ver. 6.** When their judges are overthrown] As I like just reprehensions, so I suffer unjust persecutions from the grandees of the nation, who shall shortly be dejected from their dignity, and dashed, as it were, against the rocks. And then, They shall hear my words] The common people that have been seduced by their evil rulers to think the worst of me, shall be brought to a right understanding of things, and undeceived; so that they shall set by those words of mine that they have been treated contemptuously and slighted.
+
+**Ver. 7.** Our bones are scattered at the grave’s mouth] i.e. I and my company are in a dying condition, free among the dead; yea, if taken we should be put to most cruel deaths, hewn in pieces, or pulled limb from limb, and left unburied; and our dead bodies mangled by a barbarous inhumanity, as wood cleavers make the shivers fly hither and thither. This is the perilous case of me, and my partisans, Non una et simplici morte contenti sunt.
+
+**Ver. 8.** But mine eyes are unto thee] Afflictions to the saints are tanquam scalae et alae, to mount them to God. Leave not my soul destitute] Ne exinanias, make not bare my soul, viz. of thy protection.
+
+**Ver. 9.** Keep me from the snare, &c.] See Psalms 145:5.
+
+**Ver. 10.** Let the wicked fall] Metaphora a piscibus, saith Tremellius, as fishes in casting nets, Isaiah 19:8. Whilst that I withal escape] The righteous is delivered out of trouble, and the wicked cometh in his stead, Proverbs 9:8. It appeareth at length that simple honesty is the best policy, and wicked policy the greatest simplicity, and most self-destructive. When he was in the cave] sc. Of Engedi, 1 Samuel 24:1 Loquitur in spelunca, sed prophetat in Christo, saith Hilary.
+
+---
+[[JT Psalms 140|← Psalms 140]] · [[Library/John Trapp/Old Testament/John Trapp — Old Testament|Contents]] · [[JT Psalms 142|Psalms 142 →]]

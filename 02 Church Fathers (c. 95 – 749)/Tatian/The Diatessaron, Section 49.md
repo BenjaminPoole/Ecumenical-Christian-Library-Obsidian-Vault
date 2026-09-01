@@ -1,0 +1,30 @@
+---
+title: "The Diatessaron, Section 49"
+author: "Tatian"
+translator:
+  - "Hope W. Hogg"
+series: "Ante-Nicene Fathers"
+volume: "9"
+year: "1896"
+source: "http://www.newadvent.org/fathers/100249.htm"
+written: "c. 170 (Diatessaron)"
+earliest_ms: "c. 250 Dura fragment (disputed); Arabic version 12th c. on"
+corpus_file: "Tatian_100249.xml"
+tags:
+  - church-fathers
+  - written/2nd-century
+---
+
+# The Diatessaron, Section 49
+
+1, 2 And the chief priest asked Jesus about his disciples, and about his doctrine. And Jesus said to him, I was speaking openly to the people; and I ever taught in the synagogue, and in the temple, where all the Jews gather; and I have spoken nothing in 3 [Arabic, p. 185] secret. Why do you ask me? Ask those that have heard, what I spoke unto 4 them: for they know all that I said. And when he had said that, one of the soldiers which were standing there struck the cheek of Jesus, and said to him, 5 Do you thus answer the chief priest? Jesus answered and said to him, If I 6 have spoken evil, bear witness of evil: but if well, why did you smite me? And Annas sent Jesus bound unto Caiaphas the chief priest.
+
+7 And when Jesus went out, Simon Cephas was standing in the outer court warming 8 himself. And that maid saw him again, and began to say to those that stood 9 by, This man also was there with Jesus the Nazarene. And those that stood by 10 came forward and said to Cephas, Truly you are one of his disciples. And he 11 denied again with an oath, I know not the man. And after a little one of the servants of the chief priest, the kinsman of him whose ear Simon cut off, saw him; and 12 he disputed and said, Truly this man was with him: and he also is a Galilæan; 13 and his speech resembles. And he said to Simon, Did not I see you with him 14 in the garden? Then began Simon to curse, and to swear, I know not this man 15 whom you have mentioned. And immediately, while he was speaking, the cock crew 16 twice. And in that hour Jesus turned, he being without, and looked steadfastly at Cephas. And Simon remembered the word of our Lord, which he said to him, 17, 18 Before the cock crow twice, you shall deny me thrice. And Simon went forth without, and wept bitterly.
+
+19 [Arabic, p. 186] And when the morning approached, the servants of all the chief priests and the scribes and the elders of the people and all the multitude assembled, 20, 21 and made a plot; and they took counsel against Jesus to put him to death. And they sought false witnesses who should witness against him, that they might put him to 22, 23 death, and they found not; but many false witnesses came, but their witness did not 24, 25 agree. But at last there came two lying witnesses, and said, We heard him say, I will destroy this temple of God that is made with hands, and will build another not 26, 27 made with hands after three days. And not even so did their witness agree. But Jesus was silent. And the chief priest rose in the midst, and asked Jesus, and said, 28 Do you answer not a word concerning anything? What do these witness against 29, 30 you? But Jesus was silent, and answered him nothing. And they took him up 31 into their assembly, and said to him, If you are the Messiah, tell us. He said 32 unto them, If I tell you, you will not believe me: and if I ask you, you will not answer 33 me a word, nor let me go. And the chief priest answered and said to him, I adjure you by the living God, that you tell us whether you are the Messiah, the 34, 35 Son of the living God. Jesus said to him, You have said that I am he. They all said to him, Then you are now the Son of God? Jesus said, You have said 36 that I am he. I say unto you, that henceforth you shall see the Son of man sitting 37 [Arabic, p. 187] at the right hand of power, and coming on the clouds of heaven. Then the 38 chief priest rent his tunic, and said, He has blasphemed. And they all said, Why should we seek now witnesses? We have heard now the blasphemy from his mouth. 39, 40 What then do you think? They all answered and said, He is worthy of death. Then some of them drew near, and spat in his face, and struck him, and scoffed at him. 41 And the soldiers struck him on his cheeks, and said, Prophesy unto us, you Messiah: 42 who is he that struck you? And many other things spoke they falsely, and said against him.
+
+43 And all of their assembly arose, and took Jesus, and brought him bound to 44 the prætorium, and delivered him up to Pilate the judge; but they entered not into the prætorium, that they might not be defiled when they should eat the passover.
+
+45 And Jesus stood before the judge. And Pilate went forth unto them without, and 46 said to them, What accusation have ye against this man? They answered and said to him, If he had not been doing evils, neither should we have delivered 47 him up unto you. We found this man leading our people astray, and restraining from giving tribute to Cæsar, and saying of himself that he is the King, the Messiah. 48 Pilate said to them, Then take ye him, and judge him according to your law. [Arabic, p. 188] The Jews said to him, We have no authority to put a man to death: 49 that the word might be fulfilled, which Jesus spoke, when he made known by what manner of death he was to die.
+
+50 And Pilate entered into the prætorium, and called Jesus, and said to him, Are 51 you the King of the Jews? Jesus said to him, Of yourself you said this, or 52 did others tell it you concerning me? Pilate said to him, Am I, forsooth, a Jew? The sons of your nation and the chief priests delivered you unto me: what 53 have you done? Jesus said to him, My kingdom is not of this world: if my kingdom were of this world, then would my servants fight, that I should not be 54 delivered to the Jews: now my kingdom is not from hence. Pilate said to him, Then you are a king? Jesus said to him, You have said that I am a king. And for this was I born, and for this came I into the world, that I should bear witness 55 of the truth. And every one that is of the truth hears my voice. Pilate said to him, And what is the truth? And when he said that, he went out again unto the Jews.

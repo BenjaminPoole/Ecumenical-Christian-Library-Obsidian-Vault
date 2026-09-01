@@ -1,0 +1,65 @@
+---
+title: "Ecclesiastes 7"
+author: "John Wesley"
+work: "Explanatory Notes upon the Old Testament"
+book: "Ecclesiastes"
+chapter: 7
+year: "1755/1765"
+source: "biblehub.com (Wesley's Explanatory Notes)"
+tags:
+  - wesley
+  - wesley-notes
+---
+
+# Ecclesiastes 7
+
+**7:1** Of death - Seeing this life is so full of vanity, and vexation, and misery, it is more desirable for a man to go out of it, than to come into it.
+
+**7:2** The house - Where mourners meet to celebrate the funeral of a deceased friend. That - Death. The living - Will be seriously affected with it, whereas feasting is commonly attended with levity, and manifold temptations.
+
+**7:4** The wise - Are constantly meditating upon serious things.
+
+**7:6** Thorns - Which for a time make a great noise and blaze, but presently go out.
+
+**7:7** A gift - A bribe given to a wise man, deprives him of the use of his understanding. So this verse discovers two ways whereby a wise man may be made mad, by suffering oppression from others, or by receiving bribes to oppress others. And this also is an argument of the vanity of worldly wisdom that is so easily corrupted and lost.
+
+**7:8** The end - The good or evil of things is better known by their end, than by their beginning. The patient - Who quietly waits for the issue of things. The proud - Which he puts instead of hasty or impatient, because pride is the chief cause of impatience.
+
+**7:10** Better - More quiet and comfortable. For this is an argument of a mind unthankful for the many mercies, which men enjoy even in evil times. For - This question shews thy folly in contending with thy Lord and governor, in opposing thy shallow wit to his unsearchable wisdom.
+
+**7:11** Good - When wisdom and riches meet in one man, it is an happy conjunction. By it - By wisdom joined with riches there comes great benefit. To them - Not only to a man's self, but many others in this world.
+
+**7:12** Life - But herein knowledge of wisdom excels riches, that whereas riches frequently expose men to destruction, true wisdom doth often preserve a man from temporal, and always from eternal ruin.
+
+**7:13** Consider - His wise, and just, and powerful government of all events, which is proposed as the last and best remedy against all murmurings. For who - No man can correct or alter any of God's works; and therefore all frettings at the injuries of men, or calamities of times, are not only sinful, but also vain and fruitless. This implies that there is an hand of God in all mens actions, either effecting them, if they be good, or permitting them, if they be bad, and ordering and over - ruling them, whether they he good or bad.
+
+**7:14** Be joyful - Enjoy God's favours with thankfulness. Consider - Consider that it is God's hand, and therefore submit to it: consider also why God sends it, for what sins, and with what design. God also - Hath wisely ordained, that prosperity and adversity should succeed one another. That - No man might be able to foresee, what shall befal him afterwards; and therefore might live in a constant dependance upon God, and neither despair in trouble, nor be secure or presumptuous in prosperity.
+
+**7:15** All - All sorts of events. My vanity - Since I have come into this vain life. Perisheth - Yea, for his righteousness, which exposes him to the envy, anger, or hatred of wicked men. Wickedness - Notwithstanding all his wickedness.
+
+**7:16** Be not - This verse and the next have a manifest reference to ver.15, being two inferences drawn from the two clauses of the observation. Solomon here speaks in the person of an ungodly man, who takes occasion to dissuade men from righteousness, because of the danger which attends it. Therefore, saith he, take heed of strictness, zeal, and forwardness in religion. And the next verse contains an antidote to this suggestion; yea, rather saith he, be not wicked or foolish overmuch; for that will not preserve thee, as thou mayest imagine, but will occasion and hasten thy ruin.
+
+**7:18** Take hold of - Embrace and practise this counsel. Shall come - Shall be delivered from all extremes, and from all the evil consequences of them.
+
+**7:19** Strengthen - Supports him in, and secures him against troubles and dangers.
+
+**7:20** Sinneth not - Who is universally and perfectly good.
+
+**7:21** Also - Do not strictly search into them, nor listen to hear them.
+
+**7:23** Proved - I have found to be true, by the help of that singular wisdom which God had given me. I said - I determined that I would attain perfection of wisdom. But - I found myself greatly disappointed.
+
+**7:24** It - God's counsels and works, and the reasons of them.
+
+**7:25** And seek - He useth three words signifying the same thing, to intimate his vehement desire, and vigorous, and unwearied endeavours after it. The reason - Both of God's various providences, and of the counsels and courses of men. The wickedness - Clearly and fully to understand the great evil of sin.
+
+**7:26** I find - By my own sad experience. Shall escape - Shall be prevented from falling into her hands.
+
+**7:27** To find - That I might make a true and just estimate.
+
+**7:28** Yet seeketh - I returned to search again with more earnestness. I find not - That it was so, he found, but the reason of the thing he could not find out. One man - A wise and virtuous man. A woman - One worthy of that name; one who is not a dishonour to her sex. Among - In that thousand whom I have taken into intimate society with myself.
+
+**7:29** Lo, this - Though I could not find out all the streams of wickedness, and their infinite windings and turnings, yet I have discovered the fountain of it, Original sin, and the corruption of nature, which is both in men and women. That - God made our first parents, Adam and Eve. Upright - Heb. right: without any imperfection or corruption, conformable to his nature and will, after his own likeness. They - Our first parents, and after them their posterity. Sought out - Were not contented with their present state, but studied new ways of making themselves more wise and happy, than God had made them. And we, their wretched children, are still prone to forsake the certain rule of God's word, and the true way to happiness, and to seek new methods of attaining it.
+
+---
+[[WN Ecclesiastes 06|← Ecclesiastes 6]] · [[Library/John Wesley/Explanatory Notes/Explanatory Notes — Old Testament|Contents]] · [[WN Ecclesiastes 08|Ecclesiastes 8 →]]

@@ -1,0 +1,69 @@
+---
+title: "Galatians 5"
+author: "John Wesley"
+work: "Explanatory Notes upon the New Testament"
+book: "Galatians"
+chapter: 5
+year: "1755/1765"
+source: "CCEL EPUB (Wesley's Notes on the Bible)"
+tags:
+  - wesley
+  - wesley-notes
+---
+
+# Galatians 5
+
+**1.** Stand fast therefore in the liberty - From the ceremonial law. Wherewith Christ hath made us - And all believers, free; and be not entangled again with the yoke of legal bondage.
+
+**2.** If ye be circumcised - And seek to be justified thereby. Christ - The Christian institution. Will profit you nothing - For you hereby disclaim Christ, and all the blessings which are through faith in him.
+
+**3.** I testify to every man - Every gentile. That is circumcised - He thereby makes himself a debtor - Obliges.
+
+**4.** Therefore Christ is become of no effect to you - Who seek to be justified by the law. Ye are fallen from grace - Ye renounce the new covenant. Ye disclaim the benefit of this gracious dispensation.
+
+**5.** For we - Who believe in Christ, Who are under the gospel dispensation. Through the Spirit - Without any of those carnal ordinances. Wait for - in sure confidence of attaining. The hope of righteousness - The righteousness we hope for, and full reward of it. This righteousness we receive of God through faith; and by faith we shall obtain the reward.
+
+**6.** For in Christ Jesus - According to the institution which he hath established, according to the tenor of the Christian covenant. Neither circumcision - With the most punctual observance of the law. Nor uncircumcision - With the most exact heathen morality. Availeth anything - Toward present justification or eternal salvation. But faith - Alone; even that faith which worketh by love - All inward and outward holiness.
+
+**7.** Ye did run well - In the race of faith. Who hath hindered you in your course, that ye should not still obey the truth?
+
+**8.** This your present persuasion cometh not from God, who called you - to his kingdom and glory.
+
+**9.** A little leaven leaveneth the whole lump - One troubler, ver. 10, troubles all.
+
+**10.** Yet I have confidence that - After ye have read this. Ye will be no otherwise minded - Than I am, and ye were. But he that troubleth you - It seems to have been one person chiefly who endeavoured to seduce them. Shall bear his judgment - A heavy burden, already hanging over his head.
+
+**11.** But if I still preach circumcision - As that troubler seems to have affirmed, probably taking occasion from his having circumcised Timothy. Why do I still suffer persecution? then is the offense of the cross ceased - The grand reason why the Jews were so offended at his preaching Christ crucified, and so bitterly persecuted him for it, was, that it implied the abolition of the law. Yet St. Paul did not condemn the conforming, out of condescension to the weakness of any one, even to the ceremonial law; but he did absolutely condemn those who taught it as necessary to justification.
+
+**12.** I would they were even cut off - From your communion; cast out of your church, that thus trouble you.
+
+**13.** Ye have been called to liberty - From sin and misery, as well as from the ceremonial law. Only use not liberty for an occasion to the flesh - Take not occasion from hence to gratify corrupt nature. But by love serve one another - And hereby show that Christ has made you free.
+
+**14.** For all the law is fulfilled in this, Thou shalt love thy neighbour as thyself - inasmuch as none can do this without loving God, 1 John iv, 12; and the love of God and man includes all perfection. Lev. xix, 18.
+
+**15.** But if - On the contrary, in consequence of the divisions which those troublers have occasioned among you, ye bite one another by evil speaking. And devour one another - By railing and clamour. Take heed ye be not consumed one of another - By bitterness, strife, and contention, our health and strength, both of body and soul, are consumed, as well as our substance and reputation.
+
+**16.** I say then - He now explains what he proposed, ver. 13. Walk by the Spirit - Follow his guidance in all things. And fulfil not - In anything. The desire of the flesh - Of corrupt nature.
+
+**17.** For the flesh desireth against the Spirit - Nature desires what is quite contrary to the Spirit of God. But the Spirit against the flesh- - But the Holy Spirit on his part opposes your evil nature. These are contrary to each other - The flesh and the Spirit; there can be no agreement between them. That ye may not do the things which ye would- - That, being thus strengthened by the Spirit, ye may not fulfil the desire of the flesh, as otherwise ye would do.
+
+**18.** But if ye are led by the Spirit - Of liberty and love, into all holiness. Ye are not under the law - Not under the curse or bondage of it; not under the guilt or the power of sin.
+
+**19.** Now the works of the flesh - By which that inward principle is discovered. Are manifest - Plain and undeniable. Works are mentioned in the plural because they are distinct from, and often inconsistent with, each other. But "the fruit of the Spirit" is mentioned in the singular, ver. 22, as being all consistent and connected together. Which are these - He enumerates those "works of the flesh" to which the Galatians were most inclined; and those parts of "the fruit of the Spirit" of which they stood in the greatest need. Lasciviousness - The Greek word means anything inward or outward that is contrary to chastity, and yet short of actual uncleanness.
+
+**20.** Idolatry, witchcraft - That this means witchcraft, strictly speaking, (not poisoning,) appears from its being joined with the worship of devil-gods, and not with murder. This is frequently and solemnly forbidden in the Old Testament. To deny therefore that there is, or ever was, any such thing, is, by plain consequence, to deny the authority both of the Old and New Testament. Divisions - In domestic or civil matters. Heresies are divisions in religious communities.
+
+**21.** Revellings - Luxurious entertainments. Some of the works here mentioned are wrought principally, if not entirely, in the mind; and yet they are called "works of the flesh." Hence it is clear, the apostle does not by "the flesh" mean the body, or sensual appetites and inclinations only, but the corruption of human nature, as it spreads through all the powers of the soul, as well as all the members of the body. Of which I tell you before - Before the event, I forewarn you.
+
+**22.** Love - The root of all the rest. Gentleness - Toward all men; ignorant and wicked men in particular. Goodness - The Greek word means all that is benign, soft, winning, tender, either in temper or behaviour.
+
+**23.** Meekness - Holding all the affections and passions in even balance.
+
+**24.** And they that are Christ's - True believers in him. Have thus crucified the flesh - Nailed it, as it were, to a cross whence it has no power to break loose, but is continually weaker and weaker. With its affections and desires - All its evil passions, appetites, and inclinations.
+
+**25.** If we live by the Spirit - If we are indeed raised from the dead, and are alive to God, by the operation of his Spirit. Let us walk by the Spirit - Let us follow his guidance, in all our tempers, thoughts, words, and actions.
+
+**26.** Be not desirous of vain glory - Of the praise or esteem of men. They who do not carefully and closely follow the Spirit, easily slide into this: the natural effects of which are, provoking to envy them that are beneath us, and envying them that are above us.
+
+---
+[[WN Galatians 4|← Galatians 4]] · [[Library/John Wesley/Explanatory Notes/Explanatory Notes — New Testament|Contents]] · [[WN Galatians 6|Galatians 6 →]]

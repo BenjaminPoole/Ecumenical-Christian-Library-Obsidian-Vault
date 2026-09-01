@@ -1,0 +1,28 @@
+---
+title: "Registrum Epistolarum, Book IX, Letter 78"
+author: "Gregory the Great"
+translator:
+  - "James Barmby"
+series: "Nicene and Post-Nicene Fathers, Second Series"
+volume: "13"
+year: "1898"
+source: "http://www.newadvent.org/fathers/360209078.htm"
+written: "590–604"
+earliest_ms: "8th century (earliest register collections)"
+corpus_file: "Gregory_the_Great_360209078.xml"
+tags:
+  - church-fathers
+  - written/6th-century
+---
+
+# Registrum Epistolarum, Book IX, Letter 78
+
+To Eulogius, Patriarch of Alexandria.
+
+Gregory to Eulogius, etc.
+
+I have received at the hands of the bearer of these presents the letter of your most sweet Holiness, speaking to me about your cause being terminated speedily. But, as soon as he had come, he learned how the possession which he sought from our Church was held, and soon satisfied himself about it. The business he had with others he settled without contention.
+
+But concerning the matter which ought by all means to have been written about to me, your Holiness has written nothing, considering me also to be tardy therein. And indeed, for fear of its breaking out into the scandal of division, I have been unwilling to be the author of such division. For I have chosen that whatever may follow should ensue through others. But in time to come, God granting it, you will have proof that in a cause wherein I desire to please God I am not afraid of men. Concerning this I took care to write to you before now, even when you went to Constantinople.
+
+As to the timber, I had prepared pieces of a larger size, as your Blessedness had requested in your letter; but so small a ship has been sent here that it could not carry them, unless they had been cut. But I was unwilling to have them cut, and have reserved for your judgment what should be done about them. If you do not require them, we will adapt them for other uses here. Moreover, I beg of your Holiness to pray for me earnestly, since I am incessantly pressed down by pains of gout, and swords of barbarians, and distressing cares. But, if you bestow on me the help of your prayer, I believe that you will strongly aid me against all adversities.

@@ -1,0 +1,33 @@
+---
+title: "Psalms 82"
+author: "John Trapp"
+work: "A Commentary or Exposition upon the Old and New Testaments"
+book: "Psalms"
+chapter: 82
+year: "1647-1662"
+source: "archive.org: John Trapp's Bible Commentary (JohnTrappsBibleCommentaries, per-book EPUBs)"
+tags:
+  - john-trapp
+  - trapp-commentary
+---
+
+# Psalms 82
+
+**Ver. 1.** God standeth in the congregation of the mighty] There God is present and president by a particular providence, as Lord paramount, Ut praeses Synodi, and chief magistrate, higher than the highest, Ecclesiastes 5:8 Job 31:14 Eph 6:9. The Ethiopian judges, they say, do ever leave the chief seat of judicature empty for him, Locus praesidis est medius locus in ccetibus; and Solomon, for like reason, calleth that seat the holy place, Ecclesiastes 8:10. There Elohim (that is, the judge and avenger) standeth, or setteth himself, to behold the actions and affections of judges, and to pass a censure upon their sentences. Good, therefore, was the counsel of Jehoshaphat to his judges when to ride circuit, 2 Chronicles 19:6, "Take heed what ye do: for ye judge not for man, but for the Lord, who is with you in the judgment. Wherefore now let the fear of the Lord your God be upon you; take heed and do it," &c. Judges should sit in as great, though not so slavish, a fear of offending as Olanes, in the history, did upon the flayed skin of his father Silannes, nailed by Cambyses on the tribunal; or as a Russian judge, that feareth the boiling caldron or open battocking; or the Turkish Senate, when they think the Great Turk to stand behind the arras at the dangerous door. He judgeth among the gods] i.e. Among the magistrates (as our Saviour interpreteth it, John 10:34,35), who are called gods. First, By analogy, tanquam Deum imitantes, saith Theodoret, as resembling God, by having the power of life and death. Secondly, By participation, tanquam lumina illuminata, saith Austin; as stars participate their light from the sun, so do rulers their authority from the supreme Majesty. Thirdly, By deputation from God, whose viceregents they are, and to whom they must be accountable for their mal-administration.
+
+**Ver. 2.** How long will ye judge unjustly] viz. Through a cyclopical contempt of God’s severity. Ne pecces, Deus ipse videt. Will ye represent and express God to the world as a corrupt, crooked, and unrighteous judge? And accept the persons of the wicked?] Heb. lift up their faces, and show them more favour than others that are much more honest? Barabbas oft is released, and Christ crucified. Alter habet aequum, sed alter habebit aequum, said that partial emperor, This man hath the right on his side, but the other shall carry the cause, for all that.
+
+**Ver. 3.** Defend the poor and fatherless] These are God’s clients, and this is God’s counsel, worthy to be written with letters of gold on the walls of all judicatories, as having in it better direction for a statesman than all Lipsius’ beehive or Machiavel’s spider web. These two Latin verses are said to be written over the judgment seat in Xante, Hic locus odit, amat, punit, conservat, honorat, Nequitiam, pacem; crimina, iura, bonos.
+
+**Ver. 4.** Rid them out of the hand of the wicked] Heb. of the turbulent, who make ado, as the devil doth, and vex others.
+
+**Ver. 5.** They know not, neither will they understand] q.d. There is no good to be done upon these uncircumcised vice gods, as they may in the worst sense be best styled; it is bootless to advise them to better, for they are set; they are as good every whit as ever they mean to be; and as for their duty, nec cogitant, nec curant, they neither know it nor care to know it, but blunder on in the dark, and are led blindling by their base lusts, which so they may satisfy, they pass not what becomes of the weal public, but oppose with crest and breast whatsoever crosseth their sinful designs. Hereby they cause mighty concussions, and draw down heavy judgments, Isaiah 24:18,19. Pessimi dantur, et ruunt omnia.
+
+**Ver. 6.** I have said, Ye are gods] As Psalms 82:1, but doubly so, if good too; if they excel both in virtue and power, as Aristotle joineth them, κατ αρετην και την πολιτικην δυναμιν; I have said, is vox potestatis constituentis, whence that of the apostle, All power is of God, Romans 13:1. And all of you are children of the most High] Invested (as princes’ sons and heirs are oft) with part of my power, and intrusted with the administration of mine earthly kingdom by the exercise of vindictive and remunerative justice, Niceph. 1. 18, scribit summum principem gentis Turcicae dictum fuisse Taifau, i.e. Filium Dei. The Chaldee paraphraseth, As the angels of the High; and Kimchi, As the stars, which have dominion over these inferior bodies. Confer Job 38:7.
+
+**Ver. 7.** But ye shall die like men] Yea, if wicked, like beasts, but only for their pillow and bolster. Super cubilia forsan in honore moriuntur, quo a bestiis differunt, sed non in morte, saith Kimchi. God, who had so highly advanced such, will lay them low enough; even in the slimy valley (if not in hell), where are many already like them, and more shall come after them, Job 21:31,32. Our Henry VIII was told on his death bed that he should go to the place of princes; which was no great comfort, if the old proverb be true, that hell is paved with the crowns of princes and helmets of soldiers. The Spanish friar used to say, there were but few princes in hell; for what reason? there were but few in all. And fall like one of the princes] Of the heathen tyrants, which are oft slain by the people, as most of the Caesars before Constantine were. Ad generum Cereris, &c. Some of the fathers, Arnobius, Chrysostom, Theodoret, &c., understand it to be Beelzebub and his fellows, qui acerbissimis et exquisitissimis tormentis cruciantur, who are most tormented in hell, 2 Peter 2:1, Potentes potenter torquebantur. Some read it, And ye, O princes, shall fall as one, i.e. as others do. A necessary consideration for great ones, who are apt to dream of an immortality, or, at least, to drive off the thoughts of death.
+
+**Ver. 8.** Arise, O God, judge the earth] Take the matter into thine own hand, for it is but time, all things here being, so ill-ordered by thy substitutes; nam alioqui prae iudiciorum constupratione terra tota videtur collapsura, all will be nought else. For thou shalt inherit all nations] Thou, Lord Jesus, shalt, Psalms 2:8 Heb 1:2 Re 11:15. Come, therefore, yea, come quickly.
+
+---
+[[JT Psalms 081|← Psalms 81]] · [[Library/John Trapp/Old Testament/John Trapp — Old Testament|Contents]] · [[JT Psalms 083|Psalms 83 →]]

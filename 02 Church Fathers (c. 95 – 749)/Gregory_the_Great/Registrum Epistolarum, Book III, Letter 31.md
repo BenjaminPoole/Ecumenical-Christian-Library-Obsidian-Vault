@@ -1,0 +1,24 @@
+---
+title: "Registrum Epistolarum, Book III, Letter 31"
+author: "Gregory the Great"
+translator:
+  - "James Barmby"
+series: "Nicene and Post-Nicene Fathers, Second Series"
+volume: "12"
+year: "1895"
+source: "http://www.newadvent.org/fathers/360203031.htm"
+written: "590–604"
+earliest_ms: "8th century (earliest register collections)"
+corpus_file: "Gregory_the_Great_360203031.xml"
+tags:
+  - church-fathers
+  - written/6th-century
+---
+
+# Registrum Epistolarum, Book III, Letter 31
+
+To Romanus, Patrician.
+
+Gregory to Romanus, Patrician, and Exarch of Italy.
+
+We believe that your Excellency is already aware of the death of Laurentius, bishop of the church of Mediolanum. And since, so far as we have learned from the report of the clergy, all have agreed in the election of our son Constantius, deacon of the same church, it was necessary for us, for keeping up old usage, to send a soldier of our church, to cause him in whose favour he finds the will and consent of all to concur unanimously to be consecrated by his own bishops, as ancient usage requires, though still with our assent. Wherefore, greeting you with fatherly affection as in duty bound, we request your Excellency to vouchsafe your support, justice approving, to the aforesaid Constantius, whether elected or not, whenever need may arise; to the end that this service may both exalt you here before your enemies, and commend you beforehand in the future life before God. For he is one of mine, and was once associated with me on very intimate terms. And you ought to hold as yours, and to love peculiarly, those whom you know to be ours.

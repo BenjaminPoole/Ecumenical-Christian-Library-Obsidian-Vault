@@ -1,0 +1,24 @@
+---
+title: "Letter 254"
+author: "St. Basil"
+translator:
+  - "Blomfield Jackson"
+series: "Nicene and Post-Nicene Fathers, Second Series"
+volume: "8"
+year: "1895"
+source: "http://www.newadvent.org/fathers/3202254.htm"
+written: "c. 357–378"
+earliest_ms: "9th–10th century (earliest Greek copies)"
+corpus_file: "Basil_the_Great_3202254.xml"
+tags:
+  - church-fathers
+  - written/4th-century
+---
+
+# Letter 254
+
+ST. BASIL OF CAESAREA
+
+To Pelagius, bishop of the Syrian Laodicea.
+
+May the Lord grant me once again in person to behold your true piety and to supply in actual intercourse all that is wanting in my letter. I am behindhand in beginning to write and must needs make many excuses. But we have with us the well beloved and reverend brother Sanctissimus, the presbyter. He will tell you everything, both our news and the news of the West. You will be cheered by what you hear; but when he tells you of the troubles in which we are involved he will perhaps add some distress and anxiety to that which already besets your kindly soul. Yet it is not to no purpose that affliction should be felt by you, able as you are to move the Lord. Your anxiety will turn to our gain, and I know that we shall receive succour from God as long as we have the aid of your prayers. Pray, too, with me for release from my anxieties, and ask for some increase in my bodily strength; then the Lord will prosper me on my way to the fulfilment of my desires and to a sight of your excellency.

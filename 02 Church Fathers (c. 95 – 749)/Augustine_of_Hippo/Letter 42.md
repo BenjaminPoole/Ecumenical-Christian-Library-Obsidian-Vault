@@ -1,0 +1,22 @@
+---
+title: "Letter 42"
+author: "St. Augustine"
+translator:
+  - "J.G. Cunningham"
+series: "Nicene and Post-Nicene Fathers, First Series"
+volume: "1"
+year: "1887"
+source: "http://www.newadvent.org/fathers/1102042.htm"
+written: "c. 386–430"
+earliest_ms: "5th century (earliest copies)"
+corpus_file: "Augustine_of_Hippo_1102042.xml"
+tags:
+  - church-fathers
+  - written/4th-century
+---
+
+# Letter 42
+
+To Paulinus and Therasia, My Brother and Sister in Christ, Worthy of Respect and Praise, Most Eminent for Piety, Augustine Sends Greeting in the Lord.
+
+Could this have been hoped or expected by us, that now by our brother Severus we should have to claim the answer which your love has not yet written to us, so long and so impatiently desiring your reply? Why have we been doomed through two summers (and these in the parched land of Africa) to bear this thirst? What more can I say? O generous man, who art daily giving away what is your own, be just, and pay what is a debt to us. Perhaps the reason of your long delay is your desire to finish and transmit to me that book against heathen worship, in writing which I had heard that you were engaged, and for which I had expressed a very earnest desire. O that you might by so rich a feast satisfy the hunger which has been sharpened by fasting (so far as your pen was concerned) for more than a year! But if this be not yet prepared, our complaints will not cease unless meanwhile you prevent us from being famished before that is finished. Salute our brethren, especially Romanus and Agilis. From this place all who are with me salute you, and they would be less provoked by your delay in writing if they loved you less than they do.

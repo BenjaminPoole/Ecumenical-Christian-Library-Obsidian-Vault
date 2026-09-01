@@ -1,0 +1,24 @@
+---
+title: "Registrum Epistolarum, Book III, Letter 15"
+author: "Gregory the Great"
+translator:
+  - "James Barmby"
+series: "Nicene and Post-Nicene Fathers, Second Series"
+volume: "12"
+year: "1895"
+source: "http://www.newadvent.org/fathers/360203015.htm"
+written: "590–604"
+earliest_ms: "8th century (earliest register collections)"
+corpus_file: "Gregory_the_Great_360203015.xml"
+tags:
+  - church-fathers
+  - written/6th-century
+---
+
+# Registrum Epistolarum, Book III, Letter 15
+
+To Scholasticus, Judge.
+
+Gregory to Scholasticus, judge of Campania.
+
+While we were greatly distressed in our care for the city of Naples, bereaved of the solace of a priest, the arrival of the bearers of these presents with the decree for the election of our subdeacon Florentius, had afforded us some relief under so great a burden of thought. But, when it appeared that our said subdeacon, flying from the very city, had deprecated his ordination with tears, know that our sadness increased, as if from some heavier dispensation. Wherefore, greeting you well, we exhort your Greatness to assemble the chief men or the people of the city, so as to take thought for the election of another, who may be worthy to be promoted to the priesthood with the consolation of Christ. Then, the decree having been solemnly passed, and transmitted to this city, let the ordination proceed, with the help of Christ, among yourselves. But, should you not find a suitable person on whom you can agree, at any rate choose three upright and wise men, to be sent to this city as representing the community, and to whose judgment the whole population may assent. Perhaps, when they come hither, they will find such a one as may be ordained as your bishop without reproach, to the end that your bereaved city may neither within itself want an inspector of its deeds, nor, when the care of a priest is supplied to it, afford entrance to hostile snares from without.

@@ -1,0 +1,24 @@
+---
+title: "Registrum Epistolarum, Book IX, Letter 5"
+author: "Gregory the Great"
+translator:
+  - "James Barmby"
+series: "Nicene and Post-Nicene Fathers, Second Series"
+volume: "13"
+year: "1898"
+source: "http://www.newadvent.org/fathers/360209005.htm"
+written: "590–604"
+earliest_ms: "8th century (earliest register collections)"
+corpus_file: "Gregory_the_Great_360209005.xml"
+tags:
+  - church-fathers
+  - written/6th-century
+---
+
+# Registrum Epistolarum, Book IX, Letter 5
+
+To Marcellus, Pro-Consul of Dalmatia.
+
+Gregory to Marcellus, etc.
+
+We have received the letter of your Greatness, in which you speak of having incurred our displeasure, and of your wish to be in favour with us through direct satisfaction. And indeed we have heard such things of your Greatness as ought never to have been committed by a faithful man. For all assert that you are the author of all that great mischief in the case of Maximus, and that the spoiling of that Church, and the perdition of so many souls, and the audacity of that unheard-of presumption, had their beginning through you. And indeed, with regard to your seeking to be in favour with us, it is fitting that with your whole heart and soul, and with tears, as becomes you, you should satisfy our Redeemer for such things as these: for, unless satisfaction is made to Him, what certain good can our forgiveness or favour do you? But while we observe you to be still implicated in the ruinous conduct of pretenders, or in the advocacy of those who have gone astray, we see not of what sort your satisfaction is either to God or men. For then your Greatness may know that you openly and evidently satisfy God and men, when you bring back both what is devious to rectitude and what is presumptuous to the rule of humility. If this is done, you may know that you will thus be in favour both with God and men.

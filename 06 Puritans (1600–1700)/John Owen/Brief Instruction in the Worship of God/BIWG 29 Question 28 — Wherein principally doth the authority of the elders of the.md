@@ -1,0 +1,42 @@
+---
+title: "Question 28 — Wherein principally doth the authority of the elders of the church consist?"
+author: "John Owen"
+work: "Brief Instruction in the Worship of God"
+section: 29
+source: "Christian Classics Ethereal Library (ccel.org)"
+tags:
+  - puritans
+  - john-owen
+---
+
+# Question 28 — Wherein principally doth the authority of the elders of the church consist?
+
+Question 28 — Wherein principally doth the authority of the elders of the church consist?
+
+Answer — ^aIn that the rule of the church and the guidance thereof, in things appertaining unto the worship of God, is committed unto them. And, therefore, ^bwhatever they do as elders in the church, according unto rule, they do it not in the name or authority of the church by which their power is derived unto them, nor as members only of the church by their own consent or covenant, but in the name and authority of Jesus Christ, from whom, by virtue of his law and ordinance, their ministerial office and power are received. So that, ^cin the exercise of any church-power, by and with the consent of the church, there is an obligation thence proceeding, which ariseth immediately from that authority which they have received of Jesus Christ, which is the spring of all rule and authority in the church. ^aActs xx. 28; Heb. xiii. 7, 17; 1 Pet. v. 2; 1 Cor. xii. 28. ^b1 Tim. iii. 5; Col. iv. 17; 2 Cor. x. 4, 8. ^c1 Tim. iv. 11; Titus ii. 15; 1 Pet. v. 2–5.
+
+Explication — The answer unto this question explains the power or authority of the elders of the church, from whom they do receive it, and how it is exercised by them; the right stating whereof is of great importance in the whole discipline of the church, and must, therefore, here be farther explained. To this end we may consider, —
+
+First, That all church-power is originally vested in Jesus Christ, the sole head and monarch thereof. God the Father hath committed it unto him, and intrusted him with it for the accomplishment of his work of mediation, Matt. xxviii. 18.
+
+Secondly, That he doth communicate of this authority by way of trust, to be exercised by them in his name, unto persons by him appointed, so much is needful for the ordering and disposing of all things in his churches unto the blessed ends for which he hath instituted and appointed them; for no man can have any power in his church, for any end whatever, but by delegation from him. What is not received from him is mere usurpation. And whoever takes upon himself the exercise of any rule, or authority, or power in the church, not granted unto them by him, or not rightly derived from him, is an oppressor, a “thief and a robber.” This necessarily follows upon the absolute investiture of all power in him alone, 1 Cor. xii. 28; Eph. iv. 11, 12.
+
+Thirdly, The means whereby the Lord Christ communicates this power unto men is by his law and constitution, whereby he hath granted, ordained, and appointed, that such and such powers shall be exercised in his church, and that by such and such persons, to be derived unto them in such a way and manner; so that the word of the gospel, or the laws and constitutions of the Lord Christ therein, are the first recipient seat and subject morally of all church-power whatever, Matt. xvi. 19, xviii. 17–20.
+
+Fourthly, The way and means whereby any persons come to a participation of this power regularly, according to the mind of Christ, is by the obedience unto, and due observation of, his laws and commands in them unto whom they are prescribed; as when an office, with the power of it, is constituted and limited by the law of the land, there is no more required to invest any man in that office, or to give him that power, than the due observance of the means and way prescribed in the law to that end. The way, then, whereby the elders of the church do come to participate of the power and authority which Christ hath appointed to be exercised in his church is by their and the church’s due observance of the rules and laws given by him for their election and setting apart unto that office, Heb. v. 4, 5; Acts xiv. 23.
+
+Fifthly, On this account they receive their power from Christ himself alone, and that immediately; for the means used for their participation of it are not recipient of the power itself formally, nor do authoritatively collate or confer it, only the laws of Christ are executed in a way of obedience. So that though they are chosen and set apart to their office by the church, yet they are made overseers by the Holy Ghost, Acts xx. 28. Though they have their power *by* the church, yet they have it not *from* the church; nor was that power whereof they are made partakers, as was said, formally resident in the body of the church, before their participation of it, but *really* in Christ himself alone, and *morally* in his word or law. And thence is the rule and guidance of the church committed unto them by Christ, Heb. xiii. 7, 17; 1 Pet. v. 2; 1 Tim. iii. 5.
+
+Sixthly, This authority and power, thus received from Christ, is that which they exert and put forth in all their ministerial administrations, in all which they do as ministers in the house of God, either in his worship or in the rule of the church itself. They exercise that authority of Christ which he hath in his law appointed to be exercised in his church; and from that authority is due order given unto the administration of all the ordinances of worship, and an obligation unto obedience to acts of rule doth thence also ensue; so that they who despise them despise the authority of Christ.
+
+Seventhly, When, as elders, they do or declare any thing in the name of the church, they do not, as such, put forth any authority committed unto them from and by the church, but only declare the consent and determination of the church in the exercise of their own liberty and privilege; but the authority which they act by, and which they put forth, is that which is committed to themselves, as such, by Jesus Christ.
+
+Eighthly, This authority is comprised in the law and constitution of Christ, which themselves exert only *ministerially*; and therefore, when ever they act any thing *authoritatively*, which they are not enabled for or warranted in by the word of the gospel, or do any thing without or contrary unto rule, all such actings, as to any spiritual effect of the gospel, or obligation on the consciences of men, are “ipso facto” null, and are no way ratified in heaven, where all their orderly actings are made valid, — that is, by Christ himself in his word.
+
+Ninthly, The reason, therefore, why the *consent* of the church is required unto the authoritative acting of the elders therein is, not because from thence any authority doth accrue unto them anew, which virtually and radically they had not before, but because by the rule of the gospel this is required to the orderly acting of their power, which without it would be contrary to rule, and therefore ineffectual; as also it must needs be from the nature of the thing itself, for no act can take place in the church without or against its own consent, whilst its obedience is voluntary and of choice.
+
+But if it be asked, “What, then, shall the elders do in case the church refuse to consent unto such acts as are indeed according to rule, and warranted by the institution of Christ?” it is answered, that they are, — 1. Diligently to *instruct* them from the word in their duty, making known the mind of Christ unto them in the matter under consideration; 2. To declare unto them the *danger* of their dissent in obstructing the edification of the body, to the dishonour of the Lord Christ and their own spiritual disadvantage; 3. To *wait patiently* for the concurrence of the grace of God with their ministry in giving light and obedience unto the church; and, 4. In case of the church’s continuance in any failure of duty, to seek for advice and *counsel* from the elders and brethren of other churches; — all which particulars might be enlarged, would the nature of our present design and work permit it.
+
+
+---
+[[BIWG 28 Question 27 — What are the principal duties of the pastors or teachers of the|← Question 27 — What are the principal duties of the pastors or teachers of the church?]] · [[Brief Instruction in the Worship of God|Contents]] · [[BIWG 30 Question 29 — What is the duty of the church towards their elders, pastors, or|Question 29 — What is the duty of the church towards their elders, pastors, or teachers? →]]

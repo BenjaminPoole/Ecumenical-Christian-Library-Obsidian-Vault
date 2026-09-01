@@ -1,0 +1,333 @@
+---
+title: "NPNF2 8 — Basil: Letters and Select Works"
+series: "Nicene and Post-Nicene Fathers, Series II"
+volume: 8
+tags:
+  - church-fathers
+  - volume-index
+---
+
+# NPNF2 8: Basil: Letters and Select Works
+
+*Nicene and Post-Nicene Fathers, Series II, Volume 8 — 317 works.*
+Up: [[Library/Church Fathers/index|Church Fathers]]
+
+## [[Basil the Great|Basil the Great]]
+
+- [[De Spiritu Sancto|De Spiritu Sancto]] — 375
+- [[Hexaemeron, Homily I|Hexaemeron, Homily I]] — c. 378
+- [[Hexaemeron, Homily II|Hexaemeron, Homily II]] — c. 378
+- [[Hexaemeron, Homily III|Hexaemeron, Homily III]] — c. 378
+- [[Hexaemeron, Homily IV|Hexaemeron, Homily IV]] — c. 378
+- [[Hexaemeron, Homily IX|Hexaemeron, Homily IX]] — c. 378
+- [[Hexaemeron, Homily V|Hexaemeron, Homily V]] — c. 378
+- [[Hexaemeron, Homily VI|Hexaemeron, Homily VI]] — c. 378
+- [[Hexaemeron, Homily VII|Hexaemeron, Homily VII]] — c. 378
+- [[Hexaemeron, Homily VIII|Hexaemeron, Homily VIII]] — c. 378
+- [[Library/Church Fathers/Basil_the_Great/Letter 1|Letter 1]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 2|Letter 2]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 3|Letter 3]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 4|Letter 4]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 5|Letter 5]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 6|Letter 6]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 7|Letter 7]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 8|Letter 8]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 9|Letter 9]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 10|Letter 10]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 11|Letter 11]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 12|Letter 12]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 13|Letter 13]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 14|Letter 14]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 15|Letter 15]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 16|Letter 16]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 17|Letter 17]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 18|Letter 18]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 19|Letter 19]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 20|Letter 20]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 21|Letter 21]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 22|Letter 22]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 23|Letter 23]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 24|Letter 24]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 25|Letter 25]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 26|Letter 26]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 27|Letter 27]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 28|Letter 28]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 29|Letter 29]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 30|Letter 30]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 31|Letter 31]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 32|Letter 32]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 33|Letter 33]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 34|Letter 34]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 35|Letter 35]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 36|Letter 36]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 37|Letter 37]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 38|Letter 38]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 41|Letter 41]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 42|Letter 42]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 43|Letter 43]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 44|Letter 44]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 45|Letter 45]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 46|Letter 46]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 47|Letter 47]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 48|Letter 48]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 49|Letter 49]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 50|Letter 50]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 51|Letter 51]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 52|Letter 52]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 53|Letter 53]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 54|Letter 54]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 55|Letter 55]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 56|Letter 56]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 57|Letter 57]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 58|Letter 58]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 59|Letter 59]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 60|Letter 60]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 61|Letter 61]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 62|Letter 62]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 63|Letter 63]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 64|Letter 64]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 65|Letter 65]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 66|Letter 66]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 67|Letter 67]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 68|Letter 68]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 69|Letter 69]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 70|Letter 70]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 71|Letter 71]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 72|Letter 72]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 73|Letter 73]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 74|Letter 74]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 75|Letter 75]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 76|Letter 76]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 77|Letter 77]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 78|Letter 78]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 79|Letter 79]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 80|Letter 80]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 81|Letter 81]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 82|Letter 82]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 83|Letter 83]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 84|Letter 84]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 85|Letter 85]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 86|Letter 86]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 87|Letter 87]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 88|Letter 88]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 89|Letter 89]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 90|Letter 90]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 91|Letter 91]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 92|Letter 92]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 93|Letter 93]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 94|Letter 94]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 95|Letter 95]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 96|Letter 96]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 97|Letter 97]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 98|Letter 98]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 99|Letter 99]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 100|Letter 100]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 101|Letter 101]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 102|Letter 102]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 103|Letter 103]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 104|Letter 104]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 105|Letter 105]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 106|Letter 106]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 107|Letter 107]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 108|Letter 108]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 109|Letter 109]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 110|Letter 110]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 111|Letter 111]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 112|Letter 112]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 113|Letter 113]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 114|Letter 114]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 115|Letter 115]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 116|Letter 116]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 117|Letter 117]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 118|Letter 118]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 119|Letter 119]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 120|Letter 120]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 121|Letter 121]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 122|Letter 122]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 123|Letter 123]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 124|Letter 124]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 125|Letter 125]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 126|Letter 126]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 127|Letter 127]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 128|Letter 128]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 129|Letter 129]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 130|Letter 130]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 131|Letter 131]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 132|Letter 132]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 133|Letter 133]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 134|Letter 134]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 135|Letter 135]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 136|Letter 136]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 137|Letter 137]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 138|Letter 138]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 139|Letter 139]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 140|Letter 140]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 141|Letter 141]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 142|Letter 142]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 143|Letter 143]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 144|Letter 144]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 145|Letter 145]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 146|Letter 146]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 147|Letter 147]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 148|Letter 148]] — c. 357–378
+- [[Letter 149|Letter 149]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 150|Letter 150]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 151|Letter 151]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 152|Letter 152]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 153|Letter 153]] — c. 357–378
+- [[Letter 154|Letter 154]] — c. 357–378
+- [[Letter 155|Letter 155]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 156|Letter 156]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 157|Letter 157]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 158|Letter 158]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 159|Letter 159]] — c. 357–378
+- [[Letter 160|Letter 160]] — c. 357–378
+- [[Letter 161|Letter 161]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 162|Letter 162]] — c. 357–378
+- [[Letter 163|Letter 163]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 164|Letter 164]] — c. 357–378
+- [[Letter 165|Letter 165]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 167|Letter 167]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 168|Letter 168]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 169|Letter 169]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 170|Letter 170]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 171|Letter 171]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 172|Letter 172]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 173|Letter 173]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 174|Letter 174]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 175|Letter 175]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 176|Letter 176]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 177|Letter 177]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 178|Letter 178]] — c. 357–378
+- [[Letter 179|Letter 179]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 180|Letter 180]] — c. 357–378
+- [[Letter 181|Letter 181]] — c. 357–378
+- [[Letter 182|Letter 182]] — c. 357–378
+- [[Letter 183|Letter 183]] — c. 357–378
+- [[Letter 184|Letter 184]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 185|Letter 185]] — c. 357–378
+- [[Letter 186|Letter 186]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 188|Letter 188]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 189|Letter 189]] — c. 357–378
+- [[Letter 190|Letter 190]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 191|Letter 191]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 192|Letter 192]] — c. 357–378
+- [[Letter 193|Letter 193]] — c. 357–378
+- [[Letter 194|Letter 194]] — c. 357–378
+- [[Letter 195|Letter 195]] — c. 357–378
+- [[Letter 196|Letter 196]] — c. 357–378
+- [[Letter 197|Letter 197]] — c. 357–378
+- [[Letter 198|Letter 198]] — c. 357–378
+- [[Letter 200|Letter 200]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 201|Letter 201]] — c. 357–378
+- [[Letter 202|Letter 202]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 203|Letter 203]] — c. 357–378
+- [[Letter 204|Letter 204]] — c. 357–378
+- [[Letter 205|Letter 205]] — c. 357–378
+- [[Letter 206|Letter 206]] — c. 357–378
+- [[Letter 207|Letter 207]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 208|Letter 208]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 209|Letter 209]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 210|Letter 210]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 211|Letter 211]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 212|Letter 212]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 213|Letter 213]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 214|Letter 214]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 215|Letter 215]] — c. 357–378
+- [[Letter 216|Letter 216]] — c. 357–378
+- [[Letter 217|Letter 217]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 218|Letter 218]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 219|Letter 219]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 220|Letter 220]] — c. 357–378
+- [[Letter 221|Letter 221]] — c. 357–378
+- [[Letter 222|Letter 222]] — c. 357–378
+- [[Letter 223|Letter 223]] — c. 357–378
+- [[Letter 224|Letter 224]] — c. 357–378
+- [[Letter 225|Letter 225]] — c. 357–378
+- [[Letter 226|Letter 226]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 227|Letter 227]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 228|Letter 228]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 229|Letter 229]] — c. 357–378
+- [[Letter 230|Letter 230]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 231|Letter 231]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 232|Letter 232]] — c. 357–378
+- [[Letter 233|Letter 233]] — c. 357–378
+- [[Letter 234|Letter 234]] — c. 357–378
+- [[Letter 235|Letter 235]] — c. 357–378
+- [[Letter 236|Letter 236]] — c. 357–378
+- [[Letter 237|Letter 237]] — c. 357–378
+- [[Letter 238|Letter 238]] — c. 357–378
+- [[Letter 239|Letter 239]] — c. 357–378
+- [[Letter 240|Letter 240]] — c. 357–378
+- [[Letter 241|Letter 241]] — c. 357–378
+- [[Letter 242|Letter 242]] — c. 357–378
+- [[Letter 243|Letter 243]] — c. 357–378
+- [[Letter 244|Letter 244]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 245|Letter 245]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 246|Letter 246]] — c. 357–378
+- [[Letter 247|Letter 247]] — c. 357–378
+- [[Letter 248|Letter 248]] — c. 357–378
+- [[Letter 249|Letter 249]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 250|Letter 250]] — c. 357–378
+- [[Letter 251|Letter 251]] — c. 357–378
+- [[Letter 252|Letter 252]] — c. 357–378
+- [[Letter 253|Letter 253]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 254|Letter 254]] — c. 357–378
+- [[Letter 255|Letter 255]] — c. 357–378
+- [[Letter 256|Letter 256]] — c. 357–378
+- [[Letter 257|Letter 257]] — c. 357–378
+- [[Letter 258|Letter 258]] — c. 357–378
+- [[Letter 259|Letter 259]] — c. 357–378
+- [[Letter 260|Letter 260]] — c. 357–378
+- [[Letter 261|Letter 261]] — c. 357–378
+- [[Letter 262|Letter 262]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 263|Letter 263]] — c. 357–378
+- [[Letter 264|Letter 264]] — c. 357–378
+- [[Letter 265|Letter 265]] — c. 357–378
+- [[Letter 266|Letter 266]] — c. 357–378
+- [[Letter 267|Letter 267]] — c. 357–378
+- [[Letter 268|Letter 268]] — c. 357–378
+- [[Library/Church Fathers/Basil_the_Great/Letter 269|Letter 269]] — c. 357–378
+- [[Letter 270|Letter 270]] — c. 357–378
+- [[Letter 271|Letter 271]] — c. 357–378
+- [[Letter 272|Letter 272]] — c. 357–378
+- [[Letter 273|Letter 273]] — c. 357–378
+- [[Letter 274|Letter 274]] — c. 357–378
+- [[Letter 275|Letter 275]] — c. 357–378
+- [[Letter 276|Letter 276]] — c. 357–378
+- [[Letter 277|Letter 277]] — c. 357–378
+- [[Letter 278|Letter 278]] — c. 357–378
+- [[Letter 279|Letter 279]] — c. 357–378
+- [[Letter 280|Letter 280]] — c. 357–378
+- [[Letter 281|Letter 281]] — c. 357–378
+- [[Letter 282|Letter 282]] — c. 357–378
+- [[Letter 283|Letter 283]] — c. 357–378
+- [[Letter 284|Letter 284]] — c. 357–378
+- [[Letter 285|Letter 285]] — c. 357–378
+- [[Letter 286|Letter 286]] — c. 357–378
+- [[Letter 287|Letter 287]] — c. 357–378
+- [[Letter 288|Letter 288]] — c. 357–378
+- [[Letter 289|Letter 289]] — c. 357–378
+- [[Letter 290|Letter 290]] — c. 357–378
+- [[Letter 291|Letter 291]] — c. 357–378
+- [[Letter 292|Letter 292]] — c. 357–378
+- [[Letter 293|Letter 293]] — c. 357–378
+- [[Letter 294|Letter 294]] — c. 357–378
+- [[Letter 295|Letter 295]] — c. 357–378
+- [[Letter 299|Letter 299]] — c. 357–378
+- [[Letter 303|Letter 303]] — c. 357–378
+- [[Letter 306|Letter 306]] — c. 357–378
+- [[Letter 334|Letter 334]] — c. 357–378
+- [[Letter 335|Letter 335]] — c. 357–378
+- [[Letter 337|Letter 337]] — c. 357–378
+- [[Letter 339|Letter 339]] — c. 357–378
+- [[Letter 342|Letter 342]] — c. 357–378
+- [[Letter 344|Letter 344]] — c. 357–378
+- [[Letter 348|Letter 348]] — c. 357–378
+- [[Letter 350|Letter 350]] — c. 357–378
+- [[Letter 351|Letter 351]] — c. 357–378
+- [[Letter 353|Letter 353]] — c. 357–378
+- [[Letter 356|Letter 356]] — c. 357–378
+- [[Letter 359|Letter 359]] — c. 357–378
+- [[Letter 360|Letter 360]] — c. 357–378
+- [[Letter 366|Letter 366]] — c. 357–378

@@ -1,0 +1,28 @@
+---
+title: "May 12"
+book: "Faith's Checkbook"
+author: "Charles H. Spurgeon"
+source: "Christian Classics Ethereal Library (ccel.org)"
+tags:
+  - spurgeon
+  - spurgeon-books
+  - devotional
+---
+
+# May 12
+
+*Faith’s Checkbook* — Charles H. Spurgeon
+
+**SERVANTS HONORED**
+
+> Whoso keepeth the fig tree shall eat the fruit thereof; so he that waiteth on his master shall be honored" Prov. 27:18
+
+He who tends the fig tree has figs for his pains, and he who waits on a good master has honor as his reward. Truly the Lord Jesus is the very best of masters, and it is an honor to be allowed to do the least act for His sake. To serve some lords is to watch over a crab tree and eat the crabs as one's wages; but to serve my Lord Jesus is to keep a fig tree of the sweetest figs. His service is in itself delight, continuance in it is promotion, success in it is blessedness below, and the reward for it is glory above.
+
+Our greatest honors will be gathered in that season when the figs will be ripe, even in the next world. Angels who are now our servitors will bear us home when our day's work is done. Heaven, where Jesus is, will be our honorable mansion, eternal bliss our honorable portion, and the Lord Himself our honorable companion. Who can imagine the full meaning of this promise, "He that waiteth on his master shall be honored"?
+
+Lord, help me to wait upon my Master. Let me leave all idea of honor to the hour when thou thyself shalt honor me. May thy Holy Spirit make me a lowly and patient worker and waiter!
+
+
+---
+[[FCB May 11|← May 11]] · [[Faith's Checkbook|Faith’s Checkbook Contents]] · [[FCB May 13|May 13 →]]

@@ -1,0 +1,36 @@
+---
+title: "That There is no Matter in God"
+work: "Summa Contra Gentiles"
+book: "Book One — God"
+book_no: 1
+chapter: 17
+author: "Thomas Aquinas"
+translator: "Anton C. Pegis (Hanover House, 1955–57), ed. Joseph Kenny O.P."
+source: "https://isidore.co/aquinas/english/ContraGentiles1.htm"
+tags:
+  - aquinas
+  - summa-contra-gentiles
+  - written/13th-century
+---
+
+# Chapter 17. That There is no Matter in God
+
+*Book One — God, Chapter 17* — Summa Contra Gentiles
+
+[1] From this it is likewise evident that God is not matter.
+
+[2] Whatever matter is, it is in potency.
+
+[3] Matter, furthermore, is not a principle of acting. That is why, according to Aristotle, the efficient cause and matter do not coincide [ *Physics* II, 7]. But, as we have said, it belongs to God to be the first efficient cause of things. Therefore, He is not matter.
+
+[4] Moreover, for those who reduced all things to matter as to the first cause it follows that natural things exist by chance. Aristotle argues against these thinkers in *Physics* II [8]. Hence, if God, Who is the first cause, is the material cause of things, it follows that all things exist by chance.
+
+[5] Again, matter does not become the cause of something actual except by being altered and changed. But if, as we have proved, God is absolutely immobile, He cannot in any way be the cause of things according to the mode of matter.
+
+[6] Now, the Catholic faith professes this truth, namely, it asserts that God has created all things, not out of His own substance, but out of nothing.
+
+[7] On this point, however, the madness of David of Dinant stands confounded. He dared to assert that God is the same as prime matter on the ground that, if He were not, He would have to differ from it by some differences, and thus they would not be simple. For in the being that differs from another by a difference, the difference itself produces a composition. David’s position was the result of ignorance. He did not know how to distinguish between difference and diversity. The different, as is determined in *Metaphysics* X [3], is said relationally, for every different is different by something. Something is called diverse, however, absolutely, from the fact that it is not the same. Difference, therefore, must be sought among those things that agree in something, for we must point to something in them according to which they differ: for example, two species agree in genus and must therefore be distinguished by differences. But in things that agree in nothing we need not seek the whereby they differ; they are diverse by themselves. In the same way, opposite differences are distinguished from one another. For they do not share in the genus as a part of their essence, and therefore, since they are by themselves diverse, there is no need to seek that by which they differ. In this way, too, God and prime matter are distinguished: one is pure act, the other is pure potency, and they agree in nothing.
+
+
+---
+[[SCG I.16 That There is no Passive Potency in God|← I.16. That There is no Passive Potency in God]] · [[Book One - God|Book One — God Contents]] · [[SCG I.18 That There is no Composition in God|I.18. That There is no Composition in God →]]

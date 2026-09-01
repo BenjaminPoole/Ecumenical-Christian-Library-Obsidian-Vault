@@ -1,0 +1,25 @@
+---
+title: "Section CI."
+author: "Martin Luther"
+translator: "Henry Cole (1823)"
+work: "The Bondage of the Will"
+chapter: 105
+year: "1525"
+source: "CCEL, Henry Cole translation - public domain"
+tags:
+  - protestant-reformers
+  - martin-luther
+---
+
+# 105. Section CI.
+
+Sect. CI. — AND with respect to that of Malachi which Paul annexes, “Jacob have I loved, but Esau have I hated;” (Mal. i. 2-3). that, the Diatribe perverts by a threefold contrivance. The first is – “If (it says) you stick to the letter, God does not love as we love, nor does He hate any one: because, passions of this kind do not pertain unto God.” —
+
+What do I hear! Are we now inquiring *whether or not* God loves and hates, and not rather *why* He loves and hates? Our inquiry is, from what merit it is in us that He loves or hates. We know well enough, that God does not love or hate as we do; because, we love and hate mutably, but He loves and hates from an eternal and immutable nature; and hence it is, that accidents and passions do not pertain unto Him.
+
+And it is this very state of the truth, that of necessity proves “Free-will” to be nothing at all; seeing that, the love and hatred of God towards men is immutable and eternal; existing, not only before there was any merit or work of “Free-will,” but before the worlds were made; and that, all things take place in us from necessity, accordingly as He loved or loved not from all eternity. So that, not the love of God only, but even the *manner* of His love imposes on us necessity. Here then it may be seen, how much its invented ways of escape profit the Diatribe; for the more it attempts to get away from the truth, the more it runs upon it; with so little success does it fight against it!
+
+But be it so, that your trope stands good — that the love of God is the *effect* of love, and the hatred of God the *effect* of hatred. Does, then, that effect take place without, and independent of, the *will* of God? Will you here say also, that God does not *will* as we do, and that the passion of *willing* does not pertain to Him? If then those effects take place, they do not take place but according to the *will* of God. Hence, therefore, what God wills, that He loves and hates. Now then, tell me, for what merit did God love Jacob or hate Esau, before they wrought, or were born? Wherefore it stands manifest, that Paul most rightly adduces Malachi in support of the passage from Moses: that is, that God therefore called Jacob before he was born, because He loved him; but that He was not first loved by Jacob, nor moved to love him from any merit in him. So that, in the cases of Jacob and Esau, it is shewn — what ability there is in our “Free-will”!
+
+---
+[[Luther BW 104 Section C|← 104. Section C]] · [[Library/protestant reformers/Martin Luther/The Bondage of the Will/bondage-index|Contents]] · [[Luther BW 106 Section CII|106. Section CII →]]

@@ -1,0 +1,27 @@
+---
+title: "PAUL'S CONVERTS LIVING EPISTLES"
+author: "Martin Luther"
+translator: "John Nicholas Lenker and others"
+work: "Sermons of Martin Luther"
+chapter: 15
+year: "1520s-1540s"
+source: "CCEL, from The Sermons of Martin Luther (Lenker edition, 1905-09) - public domain"
+tags:
+  - protestant-reformers
+  - martin-luther
+---
+
+# 15. PAUL'S CONVERTS LIVING EPISTLES
+
+## PAUL’S CONVERTS LIVING EPISTLES
+
+5\. Inasmuch as his activity among them is his testimonial, and they themselves are aware that through his ministerial office he has constituted them a church, he calls them an epistle written by himself; not with ink and in paragraphs, not on paper or wood, nor engraved upon hard rock as the Ten Commandments written upon tables of stone, which Moses placed before the people, but written by the Holy Spirit upon fleshly tables—hearts of tender flesh. The Spirit is the ink or the inscription, yes, even the writer himself; but the pencil or pen and the hand of the writer is the ministry of Paul.
+
+6\. This figure of a written epistle is, however, in accord with Scripture usage. Moses commands (Deut 6:6-9; 11, 18) that the Israelites write the Ten Commandments in all places where they walked or stood upon the posts of their houses, and upon their gates, and ever have them before their eyes and in their hearts. Again (Prov 7:2-3), Solomonsays: “Keep my commandments and...my law as the apple of thine eye. Bind them upon thy fingers; write them upon the tablet of thy heart.” He speaks as a father to his child when giving the child an earnest charge to remember a certain thing—“Dear child, remember this; forget it not; keep it in thy heart.” Likewise, God says in the book of Jeremiah the prophet (ch. 31, 33), “I will put my law in their inward parts, and in their heart will I write it.” Here man’s heart is represented as a sheet, or slate, or page, whereon is written the preached Word; for the heart is to receive and securely keep the Word. In this sense Paul says: “We have, by our ministry, written a booklet or letter upon your heart, which witnesses that you believe in God the Father, Son and Holy Ghost and have the assurance that through Christ you are redeemed and saved. This testimony is what is written on your heart. The letters are not characters traced with ink or crayon, but the living thoughts, the fire and force of the heart.
+
+7\. Note further, that it is his ministry to which Paul ascribes the preparation of their heart thereon and the inscription which constitutes them “living epistles of Christ.” He contrasts his ministry with the blind fancies of those fanatics who seek to receive, and dream of having, the Holy Spirit without the oral word; who, perchance, creep into a corner and grasp the Spirit through dreams, directing the people away from the preached Word and visible ministry. But Paul says that the Spirit, through his preaching, has wrought in the hearts of his Corinthians, to the end that Christ lives and is mighty in them. After such statement he bursts into praise of the ministerial office, comparing the message, or preaching, of Moses with that of himself and the apostles. He says:
+
+“Such confidence have we through Christ to Godward: not that we are sufficient of ourselves, to account anything as from ourselves; but our sufficiency is from God
+
+---
+[[Luther Sermon 14 GOSPEL TRANSCENDS LAW|← 14. GOSPEL TRANSCENDS LAW]] · [[Library/protestant reformers/Martin Luther/Sermons/sermons-index|Contents]] · [[Luther Sermon 16 TRUE PREACHERS COMMISSIONED BY GOD|16. TRUE PREACHERS COMMISSIONED BY GOD →]]

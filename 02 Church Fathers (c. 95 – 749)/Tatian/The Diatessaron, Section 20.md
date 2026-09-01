@@ -1,0 +1,38 @@
+---
+title: "The Diatessaron, Section 20"
+author: "Tatian"
+translator:
+  - "Hope W. Hogg"
+series: "Ante-Nicene Fathers"
+volume: "9"
+year: "1896"
+source: "http://www.newadvent.org/fathers/100220.htm"
+written: "c. 170 (Diatessaron)"
+earliest_ms: "c. 250 Dura fragment (disputed); Arabic version 12th c. on"
+corpus_file: "Tatian_100220.xml"
+tags:
+  - church-fathers
+  - written/2nd-century
+---
+
+# The Diatessaron, Section 20
+
+1 And Jesus knew within himself that his disciples were murmuring because of 2 that, and he said to them, Does this trouble you? What if you should see the Son 3 of man then ascend to the place where he was of old? It is the spirit that quickens, and the body profits nothing: the words that I speak unto you are spirit 4 and life. But there are some of you that do not believe. And Jesus knew beforehand who they were who should not believe, and who it was that should betray 5 him. And he said to them, Therefore I said to you, No man can come unto me, if that has not been given him by the Father.
+
+6 [Arabic, p. 78] And because of this word many of his disciples turned back and walked 7 not with him. And Jesus said to the twelve, Do you also wish to 8 go away? Simon Cephas answered and said, My Lord, to whom shall we go? You 9 have the words of eternal life. And we have believed and known that you are the 10 Messiah, the Son of the living God. Jesus said to them, Did not I choose you, 11 ye company of the twelve, and of you one is a devil? He said that because of Judas the son of Simon Iscariot; for he, being of the twelve, was purposed to betray him.
+
+12 And while he was speaking, one of the Pharisees came asking of him that he 13 would eat with him: and he went in, and reclined to meat. And that Pharisee, when 14 he saw it, marvelled that he had not first cleansed himself before his eating. Jesus said to him, Now do ye Pharisees wash the outside of the cup and the dish, and you think that you are cleansed; but your inside is full of injustice and wickedness.
+
+15, 16 You of little mind, did not he that made the outside make the inside? Now give what you have in alms, and everything shall be clean unto you.
+
+17, 18 And there came to him Pharisees and scribes, come from Jerusalem. And when they saw some of his disciples eating bread while they had not washed their hands, 19 they found fault. For all of the Jews and the Pharisees, if they wash not their 20 hands thoroughly, eat not; for they held to the ordinance of the elders. And they ate not what was bought from the market, except they washed it; and many other things did they keep of what they had received, such as the washing of cups, and 21 measures, and vessels of brass, and couches. And scribes and Pharisees asked him, [Arabic, p. 79] Why do your disciples not walk according to the ordinances of the elders, but 22 eat bread without washing their hands? Jesus answered and said to them, Why do ye also overstep the command of God by reason of your ordinance? 23 God said, Honour your father and your mother; and, Whosoever reviles his father and 24 his mother shall surely die. But ye say, If a man say to his father or to his mother, 25 What you receive from me is an offering, — and you allow him not to do anything 26 for his father or his mother; and you make void and reject the word of God by reason of the ordinance that you have ordained and commanded, such as the washing 27 of cups and measures, and what resembles that you do much. And ye forsook 28 the command of God, and held to the ordinance of men. Do ye well to wrong 29 the command of God in order that you may establish your ordinance? You hypocrites, well did Isaiah the prophet prophesy concerning you, and say,
+
+> 30 This people honours me with its lips; But their heart is very far from me. 31 But in vain do they fear me, In that they teach the commands of men.
+
+32 And Jesus called all the multitude, and said to them, Hear me, all of you, and 33 understand: nothing without the man, which then enters him, is able to defile him; 34 but what goes out of him, that it is which defiles the man. He that has ears 35 that hear, let him hear. Then his disciples drew near, and said to him, Do you know 36 that the Pharisees which heard this word were angry? He answered and said to them, Every plant which my Father which is in heaven planted not shall be 37 [Arabic, p. 80] uprooted. Let them alone; for they are blind leading blind. And if the blind lead the blind, both of them shall fall into a hollow.
+
+38 And when Jesus entered the house from the multitude, Simon Cephas asked him, 39 and said to him, My Lord, explain to us that parable. He said to them, Do you also thus not understand? Do you not know that everything that enters into the 40 man from without cannot defile him; because it enters not into his heart; it enters into his stomach only, and thence is cast forth in the cleansing which makes 41 clean all the food? The thing which goes forth from the mouth of the man proceeds 42 from his heart, and it is that which defiles the man. From within the 43 heart of men proceed evil thoughts, fornication, adultery, theft, false witness, murder, injustice, wickedness, deceit, stupidity, evil eye, calumny, pride, foolishness: 44 these evils all of them from within proceed from the heart, and they are the things 45 which defile the man: but if a man eat while he washes not his hands, he is not defiled.
+
+46 And Jesus went out thence, and came to the borders of Tyre and Sidon. And he entered into a certain house, and desired that no man should know it; and 47 he could not be hid. But straightway a Canaanitish woman, whose daughter had an 48, 49 unclean spirit, heard of him. And that woman was a Gentile of Emesa of Syria. And she came out after him, crying out, and saying, Have mercy upon me, my Lord, you 50 son of David; for my daughter is seized in an evil way by Satan. And he answered [Arabic, p. 81] her not a word. And his disciples came and besought him, and said, Send 51 her away: for she cries after us. He answered and said to them, I was 52 not sent except to the sheep that are gone astray of the house of Israel. But she came and worshipped him, and said, My Lord, help me, have mercy upon me.
+
+53 Jesus said to her, It is not seemly that the children's bread should be taken and 54 thrown to the dogs. But she said, Yea, my Lord: the dogs also eat of the crumbs 55 that fall from their masters' tables, and live. Then said Jesus unto her, O woman, 56 great is your faith: it shall be unto you as you have desired. Go then your way; and 57 because of this word, the devil is gone out of your daughter. And her daughter was 58 healed in that hour. And that woman went away to her house, and found her daughter laid upon the bed, and the devil gone out of her.

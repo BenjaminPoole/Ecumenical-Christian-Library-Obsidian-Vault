@@ -1,0 +1,24 @@
+---
+title: "Letter 64"
+author: "Athanasius"
+translator:
+  - "Archibald Robertson"
+series: "Nicene and Post-Nicene Fathers, Second Series"
+volume: "4"
+year: "1892"
+source: "http://www.newadvent.org/fathers/2806064.htm"
+written: "c. 328–373"
+earliest_ms: "10th–11th c. Greek mss; Syriac/Coptic versions from 6th c."
+corpus_file: "Athanasius_2806064.xml"
+tags:
+  - church-fathers
+  - written/4th-century
+---
+
+# Letter 64
+
+To Diodorus (fragment).
+
+To my lord, son, and most beloved fellow-minister Diodorus [bishop of Tyre], Athanasius greeting in the Lord.
+
+I thank my Lord, Who is everywhere establishing His doctrine, and chiefly so by means of His own sons, such as actual fact shows you to be. For before your Reverence wrote, we knew how great grace has been brought to pass in Tyre by means of your perseverance. And we rejoice with you that by your means Tyre also has learned the right word of piety. And I indeed took an opportunity of writing to you, longed-for and beloved: but I marvel at your not having replied to my letter. Be not then slow to write at once, knowing that you give me refreshment, as a son to his father, and make me exceeding glad, as a herald of truth. And enter upon no controversy with the heretics, but overcome their argumentativeness with silence, their ill-will with courtesy. For thus your speech shall be 'with grace, seasoned with salt,' while they [will be judged] by the conscience of all.

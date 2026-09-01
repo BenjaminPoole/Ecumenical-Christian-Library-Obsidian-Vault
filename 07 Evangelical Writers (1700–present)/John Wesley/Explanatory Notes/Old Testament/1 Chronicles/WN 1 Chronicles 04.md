@@ -1,0 +1,39 @@
+---
+title: "1 Chronicles 4"
+author: "John Wesley"
+work: "Explanatory Notes upon the Old Testament"
+book: "1 Chronicles"
+chapter: 4
+year: "1755/1765"
+source: "biblehub.com (Wesley's Explanatory Notes)"
+tags:
+  - wesley
+  - wesley-notes
+---
+
+# 1 Chronicles 4
+
+**4:1** The sons - The posterity: for only Pharez was his immediate son. But they are all mentioned here only to shew Shobal's descent from Judah.
+
+**4:9** Honourably - For courage, and for fervent piety. She records this, that it might be a memorandum to herself, to be thankful to God as long as she lived, for bringing her through that sorrow: and a memorandum to him, that she bore him into a vale of tears, in which he might expect few days and full of trouble. And the sorrow in his name might serve to put a seriousness upon his spirit.
+
+**4:10** Called - When he was undertaking some great and dangerous service. Enlarge - Drive out these Canaanites, whom thou hast commanded us to root out. Grieve - That it may not oppress and overcome
+
+**4:12** Rechab - From these are sprung the present inhabitants of Rechab, a town not elsewhere mentioned.
+
+**4:14** Father - Of the inhabitants of the valley.
+
+**4:21** Shelah - Having treated of the posterity of Judah by Pharez, and by Zara, he now comes to his progeny by Shelah.
+
+**4:22** Had dominion - Which they ruled in the name and for the use of the kings of Judah, to whom Moab was subject from David's time. Ancient things - The sense is those blessed times are long since past. Our ancestors had the dominion over the Heathen, but their degenerate posterity are slaves in Chaldea, were they are employed as potters or gardeners, or in other servile works.
+
+**4:23** There are - He seems to oppose their present servitude to their former glory, and to shew their mean spirits that had rather tarry among the Heathen to do their drudgery, than return to Jerusalem to serve God and enjoy their freedom. The king - Of Babylon: esteeming it a greater honour to serve that earthly monarch in the meanest employments, than to serve the king of kings in his temple.
+
+**4:27** Of Judah - The tribe of Simeon did not increase proportionably to the tribe of Judah in which they dwelt; as appears by those two catalogues, Numb 1:22 26:14, which is to be ascribed to God's curse upon them, delivered by the mouth of holy Jacob, Gen 49:5 - 7, and signified by Moses's neglect of them when he blessed all the other tribes.
+
+**4:31** Their cities - Several of these cities though given to Simeon by Joshua, yet through the sloth or cowardice of that tribe, were not taken from the Philistines, until David's time, who took some of them; and, the Simeonites having justly forfeited their right to them by their neglect, gave them to his own tribe. For it is evident concerning Ziklag, one of them, that it was in the Philistines hands in David's time, and by them given to him, and by him annexed to the tribe of Judah, 1Sam 27:6.
+
+**4:40** Fat pasture, and c. - Those who thus dwelt (as we do) in a fruitful country, and whose land is wide and quiet and peaceable, have reason to own themselves indebted to that God, who appoints the bounds of our habitation. Of Ham - The Canaanites, who descended from Ham. And accordingly these words contain a reason, why they went and possessed this place, because it was not in the hands of their brethren of Judah, but in the possession of that people which they had authority to expel.
+
+---
+[[WN 1 Chronicles 03|← 1 Chronicles 3]] · [[Library/John Wesley/Explanatory Notes/Explanatory Notes — Old Testament|Contents]] · [[WN 1 Chronicles 05|1 Chronicles 5 →]]

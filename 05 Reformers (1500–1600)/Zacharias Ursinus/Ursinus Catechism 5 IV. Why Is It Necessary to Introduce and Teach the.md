@@ -1,0 +1,39 @@
+---
+title: "IV. Why Is It Necessary to Introduce and Teach the Catechism in the Church?"
+author: "Zacharias Ursinus"
+translator: "G. W. Willard"
+work: "What is Catechism?"
+chapter: 5
+year: "1584"
+source: "CCEL, from Ursinus's Commentary on the Heidelberg Catechism - public domain"
+tags:
+  - protestant-reformers
+  - zacharias-ursinus
+---
+
+# 5. IV. Why Is It Necessary to Introduce and Teach the Catechism in the Church?
+
+This necessity may be urged,
+
+1\. Because it is the command of God: “Ye shall teach them to your children” etc. (Deut. 11. 19.)
+
+2\. Because of the divine glory which demands that God be not only rightly known and worshipped by those of adult age, but also by children, according as it is. said, “Out of the mouth of babes and sucklings hast thou ordained strength.” (Ps. 8. 2.)
+
+3\. On account of our comfort and salvation; for without a true knowledge of God and his Son Jesus Christ, no one that has attained to years of discretion and understanding can be saved, or have any sure comfort that he is accepted in the sight of God. Hence it is said, “This is life eternal that they might know thee, the only true God, and Jesus Christ, whom thou hast sent,” And again, “Without faith it is impossible to please God.” (John 17. 3, Heb. 11. 6.) And not only so, but no one believes on him of whom he knows nothing, or has not heard; for, “How shall they believe in him of whom they have not heard?” “So then faith cometh by hearing, and hearing by the word of God.” (Rom. 10. 14, 17.) It is necessary, therefore, for all those who will be saved, to lay hold of, and embrace the doctrine of Christ, which is the chief and fundamental doctrine of the gospel. But, in order that this may be done, there must be instructions imparted to this effect and of necessity, some brief and simple form of doctrine, suited and adapted to the young, and such as are unlearned.
+
+4\. For the preservation of society and the church. All past history proves that religion and the worship of God, the exercise and practice of piety, honesty, justice, and truth, are of the greatest importance to the well-being and perpetuation of the church and of the commonwealth. But it is in vain that we look for these things among barbarous nations, since they have never been known to produce the fruits of Piety and virtue. Hence, there is a necessity that we should be trained to the practice of these things from our earliest years; because the heart of man is depraved and evil from his youth; yea, such is the corruption of our nature, that unless we early commence the work of reformation and moral training, we too late apply a remedy when, through long delay, the evil principles and inclinations of the heart have become so strengthened and confirmed, as to bid defiance to the restraints we may then wish to impose upon them. If we are not correctly instructed in our childhood out of the sacred Scriptures concerning God and his will, and do not then commence the practice of piety, it is with great difficulty, if ever, we are drawn away from these errors which are, as it were, born in us, or which we have imbibed from, our youth, and that we are led to abandon the vices in which we have been brought up, and to which we have been accustomed. If, therefore, the church and state are to be preserved from degeneracy and final destruction, it is of the utmost importance that this depravity of our nature should, in due time, be met with proper restraints, and be subdued.
+
+5\. There is a necessity that all persons should be made acquainted with the rule and standard according to which we are to judge and decide, in relation to the various opinions and dogmas of men, that we may not be led into error, and be seduced thereby, according to the commandment which is given in relation to this subject, “Beware of false prophets.” “Prove all things.” “Try the spirits whether they are of God.” (Matt. 7. 15, 1 Thess. 5. 21, 1 John 4. l.) But the law and the Apostle’s creed, which are the chief parts of the catechism, constitute the rule and standard according to which we are to judge of the opinions of men, from which we may see the great importance of a familiar acquaintance with them.
+
+6\. Those who have properly studied and learned the Catechism, are generally better prepared to understand and appreciate the sermons which they hear from time to time, inasmuch as they can easily refer and reduce those things which they hear out of the word of God, to the different heads of the catechism to which they appropriately belong, whilst, on the other hand, those who have not enjoyed this preparatory training, hear sermons for the most part, with but little profit to themselves.
+
+7\. The importance of catechisation may be urged in view of its peculiar adaptedness to those learners who are of weak and uncultivated minds, who require instruction in a short, plain, and perspicuous manner, as we have it in the catechism, and would not, on account of their youth and weakness of capacity, be able to understand it, if presented in a lengthy and more difficult form.
+
+8\. It is also necessary, for the purpose of distinguishing and separating the youths, and such as are unlearned, from schismatics and profane heathen, which can most effectually be done by a judicious course of catechetical instruction.
+
+Lastly. A knowledge of the catechism is especially important for those who are to act as teachers, because they ought to have a more intimate acquaintance with the doctrine of the church than others, as well on account of their calling, that they may one day be able to instruct others, as on account of the many facilities which they have for obtaining a knowledge of this doctrine, which it becomes them diligently to improve, that they may, like Timothy, become well acquainted with the Holy Scriptures, and “be good ministers of Jesus Christ, nourished up in the words of faith, and of a good doctrine, whereunto they have attained.” (1. Tim. 4, 6.)
+
+To these considerations, which clearly show the importance of catechisation, we may add many others of great weight, especially with the great mass of mankind, such as the arguments which may be drawn from the end of our creation, and from the prolongation and preservation of our lives from childhood to youth, and from youth to manhood, etc. We might also speak of the excellency of the object of the doctrine of the catechism, which is the highest good, even God himself, and might show the effect of such a course of instruction, which is a knowledge of this highest good, and a participation therein, which is something vastly more important and desirable than all the treasures of this world. This is that pearl of great price hidden in the field of the church, concerning which Christ speaks in Matt. 13:44, and on account of which Christians in former times suffered martyrdom, with their little children. We may here refer to the example of Origen, of which we have an account in the sixth book and third chapter of the Ecclesiastical History of Eusebius. So the fourth book and sixteenth chapter of the history of Theodoret may be read to the same purpose. But if we are ignorant of the doctrine and glory of Christ, who from among us would be willing to suffer on their account? And how can it be otherwise but that we will be ignorant of these things, unless we are taught and instructed in them from our childhood? A neglect of the catechism is, therefore, one of the chief causes why there are so many at the present day tossed about by every wind of doctrine, and why so many fall from Christ to Anti-christ.
+
+---
+[[Ursinus Catechism 4 III. What Are the Parts or Principal Heads of the|← 4. III. What Are the Parts or Principal]] · [[Library/protestant reformers/Zacharias Ursinus/catechism-index|Contents]] · [[Ursinus Catechism 6 V. What Is the Design of the Catechism, And of the the|6. V. What Is the Design of the Catechism →]]

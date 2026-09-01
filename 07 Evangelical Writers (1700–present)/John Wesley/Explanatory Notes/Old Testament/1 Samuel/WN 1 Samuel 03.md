@@ -1,0 +1,43 @@
+---
+title: "1 Samuel 3"
+author: "John Wesley"
+work: "Explanatory Notes upon the Old Testament"
+book: "1 Samuel"
+chapter: 3
+year: "1755/1765"
+source: "biblehub.com (Wesley's Explanatory Notes)"
+tags:
+  - wesley
+  - wesley-notes
+---
+
+# 1 Samuel 3
+
+**3:1** Before Eli - That is, under his inspection and direction. Word - The word of prophecy, or the revelation of God's will to and by the prophets. Precious - Rare or scarce, such things being most precious in mens' esteem, whereas common things are generally despised. Open vision - God did not impart his Mind by way of vision or revelation openly, or to any public person, to whom others might resort for satisfaction, though he might privately reveal himself to some pious persons for their particular direction. This is premised, as a reason why Samuel understood not, when God called him once or twice.
+
+**3:2** His place - In the court of the tabernacle.
+
+**3:3** Went out - Before the lights of the golden candlestick were put out in the morning.
+
+**3:7** Did not know - He was not acquainted with God in that extraordinary or prophetical way. And this ignorance of Samuel's served God's design, that his simplicity might give Eli the better assurance of the truth of God's call, and message to Samuel.
+
+**3:10** Came and stood - Before, he spake to him at a distance, even from the holy oracle between the cherubim: but now, to prevent all farther mistake, the voice came near to him, as if the person speaking had been standing near him.
+
+**3:12** In that day - In that time which I have appointed for this work, which was about twenty or thirty years after this threatning. So long space of repentance God allows to this wicked generation. When I begin, and c. - Tho' this vengeance shall be delayed for a season, to manifest my patience, and incite them to repentance; yet when once I begin to inflict, I shall not desist 'till I have made a full end.
+
+**3:13** Restrained them not - He contented himself with a cold reproof, and did not punish, and effectually restrain them. They who can, and do not restrain others from sin, make themselves partakers of the guilt. Those in authority will have a great deal to answer for, if the sword they bear be not a terror to evil - doers.
+
+**3:14** Have sworn - Or, I do swear: the past tense being commonly put for the present in the Hebrew tongue. Unto - Or, concerning it. Purged - That is, the punishment threatened against Eli and his family, shall not he prevented by all their sacrifices, but shall infallibly be executed.
+
+**3:15** Doors - Altho' the tabernacle, whilst it was to be removed from place to place in the wilderness, had no doors, but consisted only of curtains, and had hangings before the entrance, instead of doors; yet when it was settled in one place, as now it was in Shiloh, it was enclosed within some solid building, which had doors and posts, and other parts belonging to it. Feared - The matter of the vision or revelation, partly from the reverence he bore to his person, to whom he was loth to be a messenger of such sad tidings; partly, lest if he had been hasty to utter it, Eli might think him guilty of arrogancy or secret complacency in his calamity.
+
+**3:17** God do so, and c. - God inflict the same evils upon thee, which I suspect he hath pronounced against me, and greater evils too.
+
+**3:18** It is the Lord - This severe sentence is from the sovereign Lord of the world, who hath an absolute right to dispose of me and all his creatures; who is in a special manner the ruler of the people of Israel, to whom it properly belongs to punish all mine offences; whose chastisement I therefore accept.
+
+**3:19** Fail, and c. - That is, want its effect: God made good all his predictions. A metaphor from precious liquors, which when they are spilt upon the ground, are altogether useless.
+
+**3:20** From Dan, and c. - Thro' the whole Land, from the northern bound Dan, to the southern, Beersheba; which was the whole length of the Land.
+
+---
+[[WN 1 Samuel 02|← 1 Samuel 2]] · [[Library/John Wesley/Explanatory Notes/Explanatory Notes — Old Testament|Contents]] · [[WN 1 Samuel 04|1 Samuel 4 →]]

@@ -1,0 +1,22 @@
+---
+title: "CHAP. II"
+author: "Theodore Beza"
+work: "A Briefe Declaration of the Chiefe Points of Christian Religion (The Table of Predestination)"
+chapter: 9
+year: "1575"
+source: "EEBO-TCP A68592 keyed transcription (public domain), 16th-century English translation - original spelling"
+tags:
+  - protestant-reformers
+  - theodore-beza
+---
+
+# 9. CHAP. II
+
+## CHAP. II.
+
+(1) Rom. 11. d. 33. (2) Iob. 9. 10. 11. & 12. Ro. 9. d. 20. (3) Eph. 1. b. 9. 11] Gen. 27. c. 20.] Exo. 21. c. 13.] Iob. 23. c. 13.] Pro. 16. d. 33. in the same, 20 c. 24. & 21. a. 1. Esay 14. f. 27.] in the same. 46. a. 4. d. 10.] Iere. 10. d. 23.] Dav. 4. g. 32.] Matth. 10. c. 29] Gala. 1. a. 4. (4) Ephe. 2. a. 2 (5.) Ge. 45. b. 8.] in the same. 50. c. 19.] Exo. 4. c. 21.] in the same. 7. a. 3. & 9. c. 12. & 10. 1. 1. f. 20. g. 27. and 11. d. 10. and 14. a. 4. 8. d. 17.] Deut. 2. f. 30.] Ios. 11. d. 20.] 1 Sam. 2. e. 25.] 2. Sa. 12. c. 11.] in the same. 16. c. 11. & 24. a. 1.] 1. Reg. 12. c. 15.] in the same. 22. d. 22] 2. Reg. 18. c. 25.] 2. Cro. 10. c. 15.] in the same. 11. a. 4. & 22. c. 7. & 25. f. 20.] Nehem. 9. f. 37.] Iob 1 b. 11. d. 21.] in the same. 23. c. 14. & 34. d. 30. & 37. b. 13.] Psal. 50. c. 25.] Esa. 10. d. 15.] in the same. 54. g. 16. and 63. d. 17.] Ioh. 12. f. 40.] Act. 2. d. 23.] in the same. 4. f. 28] Ro. 9. d. 18. 19.] in the same. 11. d. 32.] with Gal. 3. d. 22.] 1. Thes. 3. a. 3. (6) Prou. 16. a. 4. (7) Esa. 43 b. 7.] Ephe. 1. b. 6.] Ro. 9. c. 23. (8) Rom. 8. f. 29. 30.] in the same. 9. b. 8. e. 21] 1. Cor. 2. b. 17.] Ephes. 1. a. 4.] 2. Thes. 2. c. 13.] 1. Pet. 1 a. 2. (9) Exo. 9. d. 16.] Prou. 16. a. 4.] Rom. 3. a. 5.] in the same. 9. e. 22.] Esa. 54. g. 16. (10) Den. 4. f. 37.] in the same. 7. b. 7. 8.] Ios. 24. a. 2.] Psal. 44. a. 4.] Eze. 16. a. 6. g. 60.] Iohn 15. c. 16. 19.] Act. 13. g. 48] in the same. 22. c. 14.] Ro. 5. a. 6.] in the same. 9. c. 11. 12. 13. 15. d. 16. 18. c. 23] in the same. 11. a. 7. d. 3] 1. Cor. 4. b. 7.] Eph. 1 a. 4. 5. b. 11.] in the same. 2. b. 10.] Colos. 1. b. 12.] 2. Tim. 1. c. 9. (11) Mat. 25. c. 34.] Ioh. 6. e. 40. 45.] Act. 13 g. 48.] Rom. 8. f. 29. 30.] in the same. 9. b. 8. c. 11. 12. d. 16. c 23.] in the same. 11. a. 7.] eph. 1. a. 4. 5. b. 9. 11.] 2. Tim. 2. c. 19.] 1. Cori⟨…⟩ 2. b. 7. c. 10. (12) Ose: 13. c. 9.] Ioh: 3. c. 19. (13) Rom. 9. c. 23. (14) Exod. 9. c. 16.] Psal. 33. c. 15.] Prou. 16. a. 4.] Rom. 9. c. 11. 12. 13. Where he saith not onely, that Esau was ordeyned to be hated before hee did any euill (for in so saying, he should not seeme to exclude any thing, but actuall sinne, and incredulitie) but saith expresly, before he was borne, whereby he excludeth the originall sinne, and all that, which might be considered in the person of Esau by his birth, from the cause of the hate.
+
+Therfore anone after, vvhen hee sheweth how the reprobate murmur, and reply, hee doth not say, that they speake in this sort; Why doth not GOD hate others alike, seeing they are also borne in the same corruption that wee bee? the Apostle speaketh no such words, but hee saith their reason is in this sort; Who can resist his vvill? for heereof mans reason ⟨…⟩thereth, that they are vniustly conde~ned. And yet S. Paul doth not answere, that God would so, because hee saw that they would be corrupt, & so consequentlie, that the cause of his decree should be grou~ded on their corruption (the which answer had bin clear and resolute, if it had been true) but forasmuch as hee saith plainlie, it so pleased GOD, and it was not in their power to change this his good pleasure, hee brideseth mans wisedome, that it might reuerence and wonder at Gods mysteries, as it is most iust to doe. And also incourageth the elect, to honour the grace of GOD, which is declared and made famous by such a comparison. In this sort then, the other places of the scripture which conduct and lift vs vp to behold the soueraigne will of God, which is the only rule of iustice, ought to be expounded. Esa. 54. g. 16.] 1. Sam. 2. c. 25.] Ioh. 6. g. 64. 65. in the same. 10. d. 26] in the same. 12. f. 39. 1. Pet. 2. b. 8.] & in diuers other places. (15) 2. Thessa. 2. c. 10. 11. 12.] Rom. 11. *c.* 20.] 2. Cor. 4. 2. 3. 4.] Heb. 12 c. 17 (16) Rom. 8. ⟨…⟩. 30.] Ephe. 1. a. 4. 5.
+
+---
+[[Beza Sum 8 CHAP. VIII|← 8. CHAP. VIII]] · [[Library/protestant reformers/Theodore Beza/A Briefe Declaration of the Chiefe Points of Christian Religion/briefe-declaration-index|Contents]] · [[Beza Sum 10 CHAP. III|10. CHAP. III →]]

@@ -1,0 +1,22 @@
+---
+title: "Harmony of the Gospels, Book III, Chapter 19"
+author: "Augustine"
+translator:
+  - "S.D.F. Salmond"
+series: "Nicene and Post-Nicene Fathers, First Series"
+volume: "6"
+year: "1888"
+source: "http://www.newadvent.org/fathers/1602319.htm"
+written: "c. 400"
+earliest_ms: "5th century (earliest copies)"
+corpus_file: "Augustine_of_Hippo_1602319.xml"
+tags:
+  - church-fathers
+  - written/4th-century
+---
+
+# Harmony of the Gospels, Book III, Chapter 19
+
+## Chapter 19. Of the Rending of the Veil of the Temple, and of the Question Whether Matthew and Mark Really Harmonize with Luke with Respect to the Order in Which that Incident Took Place.
+
+56. Matthew proceeds thus: And, behold, the veil of the temple was rent in two from the top to the bottom. Mark's version is also as follows: And the veil of the temple was rent in two from the top to the bottom. Luke likewise gives a statement in similar terms: And the veil of the temple was rent in the midst. He does not introduce it, however, in the same order. For, with the intention of attaching miracle to miracle, he has told us first how the sun was darkened, and then has deemed it right to subjoin the said sentence in immediate succession, namely, And the veil of the temple was rent in the midst. Thus it would appear that he has introduced at an earlier point this incident, which really took place when the Lord expired, so as to give us there a summary description of the circumstances relating to the drinking of the vinegar, and the loud voice, and the death itself, which are understood to have taken place previous to the rending of the veil, and after the darkness had come in. For Matthew has inserted this sentence, And, behold, the veil of the temple was rent, in immediate succession to the statement, And Jesus, crying again with a loud voice, yielded up the ghost; and has thus given us clearly to understand that the time when the veil was rent was after Jesus had given up His spirit. If, however, he had not added the words, And behold, but had said simply, And the veil of the temple was rent, it would have been uncertain whether Mark and he had narrated the incident in the form of a recapitulation, while Luke had kept the exact order, or whether Luke had given the summary account of what these others had introduced in the correct historical succession.

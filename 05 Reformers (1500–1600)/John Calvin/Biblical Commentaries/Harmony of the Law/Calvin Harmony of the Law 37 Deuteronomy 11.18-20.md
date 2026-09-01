@@ -1,0 +1,31 @@
+---
+title: "Deuteronomy 11:18-20"
+author: "John Calvin"
+translator: "Charles William Bingham"
+work: "Harmony of the Law"
+book: "Preface to the Law"
+chapter: 37
+year: "1563"
+source: "CCEL calcom03, Calvin Translation Society"
+tags:
+  - calvin-commentaries
+---
+
+# 37. Deuteronomy 11:18-20
+
+**deuteronomy 11**
+
+**ANOTHER REPETITION**
+
+**18.** Therefore shall ye lay up these my words in your heart, and in your soul, and bind them for a sign upon your hand, that they may be as frontlets between your eyes.
+
+**19.** And ye shall teach them your children, speaking of them when thou sittest in thine house, and when thou walkest by the way, when thou liest down, and when thou risest up.
+
+**20.** And thou shalt write them upon the door-posts of thine house, and upon thy gates.
+
+**18.** *Therefore shall ye lay up these my words.* He again demands their serious attention, lest if the doctrine he propounds should be only lightly and carelessly received, it should speedily be let slip; for to lay up in, or on, the heart, is the same as to hide deeply in it; although, where the word “soul” is added, the “heart” refers to the mind, or the intellectual faculties. In fine, he commands them to have the Law not only impressed on the mind, but embraced with sincere affection. In the next place, he commands that aid to the memory which we have just considered, viz., that they should wear the precepts on the arms and foreheads; as if God should constantly meet them, to arouse their senses. For (as has been said) God had no regard to the bands themselves, but would have them seen on their arms and foreheads for another object, viz.,[^1] to suggest and renew their care for religion. Again, He appointed them to occupy the place of ornaments, in order to accustom the people to take their chief delight in meditating on the Law. Thus that foolish ambition is sufficiently refuted, when hypocrites sought after a reputation for holiness by their fringes and other fopperies, as well as that gross error of the whole people, in thinking that they discharged their duty to God by their outward dress. What follows afterwards, that the precepts should be written on the gates of their cities, and on their private houses, tends to the same thing; for we have said, that since men’s minds are prone to vanity, and are easily distracted by innumerable allurements, they have need of such stays to hold them back. And this object is plainly expressed, when He commands them severally to speak of the precepts of the Law, whether they are sitting at home, or going abroad, or lying down, or rising up; because without diligent exercise, it usually happens that whatever men have once learnt is soon lost. He adds, also, another effect of this diligence, viz., that not only should each of them consult their own individual advantage, but also teach their children, whereby God’s Law would ever be maintained in rigor by perpetual succession.
+
+---
+[[Calvin Harmony of the Law 36 Deuteronomy 6.6-9|← 36. Deuteronomy 6.6-9]] · [[Library/protestant reformers/John Calvin/Biblical Commentaries/Harmony of the Law/harmony-of-the-law-index|Contents]] · [[Calvin Harmony of the Law 38 Deuteronomy 27.1-4,8|38. Deuteronomy 27.1-4,8 →]]
+
+[^1]: C’est de renouveler aux enfans d’Israel la pensee, qu ils devoyent avoir de s’enquerir de sa volonte;” to renew in the children of Israel the care they ought to have in inquiring as to His will. — *Fr.*

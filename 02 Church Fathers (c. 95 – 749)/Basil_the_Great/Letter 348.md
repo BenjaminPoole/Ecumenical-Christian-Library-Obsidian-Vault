@@ -1,0 +1,24 @@
+---
+title: "Letter 348"
+author: "St. Basil"
+translator:
+  - "Blomfield Jackson"
+series: "Nicene and Post-Nicene Fathers, Second Series"
+volume: "8"
+year: "1895"
+source: "http://www.newadvent.org/fathers/3202348.htm"
+written: "c. 357–378"
+earliest_ms: "9th–10th century (earliest Greek copies)"
+corpus_file: "Basil_the_Great_3202348.xml"
+tags:
+  - church-fathers
+  - written/4th-century
+---
+
+# Letter 348
+
+ST. BASIL OF CAESAREA
+
+Basil to Libanius.
+
+If γριπίζειν is the same thing as to gain, and this is the meaning of the phrase which your sophistic ingenuity has got from the depths of Plato, consider, my dear sir, who is the more hard to be got from, I who am thus impaled by your epistolary skill, or the tribe of Sophists, whose craft is to make money out of their words. What bishop ever imposed tribute by his words? What bishop ever made his disciples pay taxes? It is you who make your words marketable, as confectioners make honey-cakes. See how you have made the old man leap and bound! However, to you who make such a fuss about your declamations, I have ordered as many rafters to be supplied as there were fighters at Thermopylæ, all of goodly length, and, as Homer has it, long-shadowing, which the sacred Alphæus has promised to restore.

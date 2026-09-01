@@ -1,0 +1,34 @@
+---
+title: "That God is Truth"
+work: "Summa Contra Gentiles"
+book: "Book One — God"
+book_no: 1
+chapter: 60
+author: "Thomas Aquinas"
+translator: "Anton C. Pegis (Hanover House, 1955–57), ed. Joseph Kenny O.P."
+source: "https://isidore.co/aquinas/english/ContraGentiles1.htm"
+tags:
+  - aquinas
+  - summa-contra-gentiles
+  - written/13th-century
+---
+
+# Chapter 60. That God is Truth
+
+*Book One — God, Chapter 60* — Summa Contra Gentiles
+
+[1] From the foregoing it is evident that God Himself is truth.
+
+[2] Truth is a certain perfection of understanding or of intellectual operation, as has been said. But the understanding of God is His substance. Furthermore, since this understanding is, as we have shown, the divine being, it is not perfected through any superadded perfection; it is perfect through itself, in the same manner as we have shown of the divine being. It remains, therefore, that the divine substance is truth itself.
+
+[3] Again, according to the Philosopher, truth is a certain goodness of the intellect. But God is His own goodness, as we have shown above. Therefore, He is likewise His own truth.
+
+[4] Furthermore, nothing can be said of God by participation, since He is His own being, which participates in nothing. But, as was shown above, there is truth in God. If, then, it is not said by participation, it must be said essentially. Therefore, God is His truth.
+
+[5] Moreover, although, according to the Philosopher, the true is properly not in things but in the mind, a thing is at times said to be true when it reaches in a proper way the act of its own nature. Hence, Avicenna says in his *Metaphysics* that “the truth of a thing is the property of the being established in each thing” [VIII, 6]. This is so in so far as each thing is of a nature to give a true account of itself and in so far as it imitates the model of itself which is in the divine mind. But God is His essence. Therefore, whether we speak of the truth of the intellect or of the truth of a thing, God is His truth.
+
+[6] This is confirmed by the authority of our Lord, Who says of Himself: “I am the way, and the truth, and the life” (John 14:6).
+
+
+---
+[[SCG I.59 That the Truth of Enunciables is not Excluded from|← I.59. That the Truth of Enunciables is not Excluded from God]] · [[Book One - God|Book One — God Contents]] · [[SCG I.61 That God is the Purest Truth|I.61. That God is the Purest Truth →]]

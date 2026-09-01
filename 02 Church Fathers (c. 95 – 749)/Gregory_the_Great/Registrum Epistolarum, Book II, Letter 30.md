@@ -1,0 +1,24 @@
+---
+title: "Registrum Epistolarum, Book II, Letter 30"
+author: "Gregory the Great"
+translator:
+  - "James Barmby"
+series: "Nicene and Post-Nicene Fathers, Second Series"
+volume: "12"
+year: "1895"
+source: "http://www.newadvent.org/fathers/360202030.htm"
+written: "590–604"
+earliest_ms: "8th century (earliest register collections)"
+corpus_file: "Gregory_the_Great_360202030.xml"
+tags:
+  - church-fathers
+  - written/6th-century
+---
+
+# Registrum Epistolarum, Book II, Letter 30
+
+To Maurilius and Vitalianus.
+
+Gregory to Maurilius and Vitalianus, magistris militum.
+
+We have entreated your Glory through our son Vitalianus both by word and letter, charging you to communicate with him. But on the eleventh day of the month of January Ariulph sent us this letter which we forward to you. Wherefore, when you have read it, see if the people of Suana have stood fast in the fidelity they promised to the republic, and take adequate hostages from them, such as you can rely on; and moreover bind them anew by oaths, restoring to them what you took from them in the way of a pledge, and bringing them to a right mind by your discourses. But, should you quite distinctly ascertain that they have treated with Ariulph about their surrender to him, or at any rate have given him hostages, as the letter of Ariulph which we have forwarded to you leads us to suspect, then (after wholesome deliberation, lest your souls or mine be burdened with respect to our oaths), do whatever you may judge to be of advantage to the republic. But let your Glory so act that neither anything be done for which we could be blamed by our adversaries, nor (which may the Lord avert) anything neglected which the advantage of the republic requires. Furthermore, my glorious sons, take anxious heed, since the enemy, so far as I have ascertained, has an army collected, and is said to be stationed at Narina; and if, God being angry with him, he should resolve to bend his course hitherward, do you plunder his positions so far as the Lord may aid you, or certainly let those whom you send carefully require night-watches, lest news of any sad event should reach us.

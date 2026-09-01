@@ -1,0 +1,90 @@
+---
+title: "The Definition"
+council: "Nicaea II (787)"
+council_type: "Ecumenical"
+ecumenical_no: 7
+convened: "A.D. 787"
+location: "Nicaea"
+translator: "Henry Percival"
+series: "Nicene and Post-Nicene Fathers, Second Series"
+volume: "14"
+edition_year: "1900"
+source: "https://www.newadvent.org/fathers/3819.htm"
+tags:
+  - church-councils
+  - written/8th-century
+---
+
+# The Definition
+
+The holy and Ecumenical synod, which by the grace of God and most pious command of the God-beloved and orthodox Emperors, Constantine and Leo, now assembled in the imperial residence city, in the temple of the holy and inviolate Mother of God and Virgin Mary, surnamed in Blachernæ, have decreed as follows.
+
+Satan misguided men, so that they worshipped the creature instead of the Creator. The Mosaic law and the prophets cooperated to undo this ruin; but in order to save mankind thoroughly, God sent his own Son, who turned us away from error and the worshipping of idols, and taught us the worshipping of God in spirit and in truth. As messengers of his saving doctrine, he left us his Apostles and disciples, and these adorned the Church, his Bride, with his glorious doctrines. This ornament of the Church the holy Fathers and the six Ecumenical Councils have preserved inviolate. But the before-mentioned demi-urgos of wickedness could not endure the sight of this adornment, and gradually brought back idolatry under the appearance of Christianity. As then Christ armed his Apostles against the ancient idolatry with the power of the Holy Spirit, and sent them out into all the world, so has he awakened against the new idolatry his servants our faithful Emperors, and endowed them with the same wisdom of the Holy Spirit. Impelled by the Holy Spirit they could no longer be witnesses of the Church being laid waste by the deception of demons, and summoned the sanctified assembly of the God-beloved bishops, that they might institute at a synod a scriptural examination into the deceitful coloring of the pictures (ὁμοιωμάτων) which draws down the spirit of man from the lofty adoration (λατρείας) of God to the low and material adoration (λατρείαν) of the creature, and that they, under divine guidance, might express their view on the subject.
+
+Our holy synod therefore assembled, and we, its 338 members, follow the older synodal decrees, and accept and proclaim joyfully the dogmas handed down, principally those of the six holy Ecumenical Synods. In the first place the holy and ecumenical great synod assembled at Nice, etc.
+
+After we had carefully examined their decrees under the guidance of the Holy Spirit, we found that the unlawful art of painting living creatures blasphemed the fundamental doctrine of our salvation— namely, the Incarnation of Christ, and contradicted the six holy synods. These condemned Nestorius because he divided the one Son and Word of God into two sons, and on the other side, Arius, Dioscorus, Eutyches, and Severus, because they maintained a mingling of the two natures of the one Christ.
+
+Wherefore we thought it right, to show forth with all accuracy, in our present definition the error of such as make and venerate these, for it is the unanimous doctrine of all the holy Fathers and of the six Ecumenical Synods, that no one may imagine any kind of separation or mingling in opposition to the unsearchable, unspeakable, and incomprehensible union of the two natures in the one hypostasis or person. What avails, then, the folly of the painter, who from sinful love of gain depicts that which should not be depicted — that is, with his polluted hands he tries to fashion that which should only be believed in the heart and confessed with the mouth? He makes an image and calls it Christ. The name Christ signifies God and man. Consequently it is an image of God and man, and consequently he has in his foolish mind, in his representation of the created flesh, depicted the Godhead which cannot be represented, and thus mingled what should not be mingled. Thus he is guilty of a double blasphemy— the one in making an image of the Godhead, and the other by mingling the Godhead and manhood. Those fall into the same blasphemy who venerate the image, and the same woe rests upon both, because they err with Arius, Dioscorus, and Eutyches, and with the heresy of the Acephali. When, however, they are blamed for undertaking to depict the divine nature of Christ, which should not be depicted, they take refuge in the excuse: We represent only the flesh of Christ which we have seen and handled. But that is a Nestorian error. For it should be considered that that flesh was also the flesh of God the Word, without any separation, perfectly assumed by the divine nature and made wholly divine. How could it now be separated and represented apart? So is it with the human soul of Christ which mediates between the Godhead of the Son and the dulness of the flesh. As the human flesh is at the same time flesh of God the Word, so is the human soul also soul of God the Word, and both at the same time, the soul being deified as well as the body, and the Godhead remained undivided even in the separation of the soul from the body in his voluntary passion. For where the soul of Christ is, there is also his Godhead; and where the body of Christ is, there too is his Godhead. If then in his passion the divinity remained inseparable from these, how do the fools venture to separate the flesh from the Godhead, and represent it by itself as the image of a mere man? They fall into the abyss of impiety, since they separate the flesh from the Godhead, ascribe to it a subsistence of its own, a personality of its own, which they depict, and thus introduce a fourth person into the Trinity. Moreover, they represent as not being made divine, that which has been made divine by being assumed by the Godhead. Whoever, then, makes an image of Christ, either depicts the Godhead which cannot be depicted, and mingles it with the manhood (like the Monophysites), or he represents the body of Christ as not made divine and separate and as a person apart, like the Nestorians.
+
+The only admissible figure of the humanity of Christ, however, is bread and wine in the holy Supper. This and no other form, this and no other type, has he chosen to represent his incarnation. Bread he ordered to be brought, but not a representation of the human form, so that idolatry might not arise. And as the body of Christ is made divine, so also this figure of the body of Christ, the bread, is made divine by the descent of the Holy Spirit; it becomes the divine body of Christ by the mediation of the priest who, separating the oblation from that which is common, sanctifies it.
+
+The evil custom of assigning names to the images does not come down from Christ and the Apostles and the holy Fathers; nor have these left behind them any prayer by which an image should be hallowed or made anything else than ordinary matter.
+
+If, however, some say, we might be right in regard to the images of Christ, on account of the mysterious union of the two natures, but it is not right for us to forbid also the images of the altogether spotless and ever-glorious Mother of God, of the prophets, apostles, and martyrs, who were mere men and did not consist of two natures; we may reply, first of all: If those fall away, there is no longer need of these. But we will also consider what may be said against these in particular. Christianity has rejected the *whole* of heathenism, and so not merely heathen sacrifices, but also the heathen worship of images. The Saints live on eternally with God, although they have died. If anyone thinks to call them back again to life by a dead art, discovered by the heathen, he makes himself guilty of blasphemy. Who dares attempt with heathenish art to paint the Mother of God, who is exalted above all heavens and the Saints? It is not permitted to Christians, who have the hope of the resurrection, to imitate the customs of demon-worshippers, and to insult the Saints, who shine in so great glory, by common dead matter.
+
+Moreover, we can prove our view by Holy Scripture and the Fathers. In the former it is said: God is a Spirit: and they that worship him must worship him in spirit and in truth; and: You shall not make you any graven image, or any likeness of anything that is in heaven above, or that is in the earth beneath; on which account God spoke to the Israelites on the Mount, from the midst of the fire, but showed them no image. Further: They changed the glory of the incorruptible God into an image made like to corruptible man,...and served the creature more than the Creator. [*Several other passages, even less to the point, are cited*.]
+
+The same is taught also by the holy Fathers. [*The Synod appeals to a spurious passage from Epiphanius and to one inserted into the writings of Theodotus of Ancyra, a friend of St. Cyril's; to utterances — in no way striking — of Gregory of Nazianzum, of SS. Chrysostom, Basil, Athanasius of Amphilochius and of Eusebius Pamphili, from his* Letter to the Empress Constantia, *who had asked him for a picture of Christ*.]
+
+Supported by the Holy Scriptures and the Fathers, we declare unanimously, in the name of the Holy Trinity, that there shall be rejected and removed and cursed out of the Christian Church every likeness which is made out of any material and color whatever by the evil art of painters.
+
+Whoever in future dares to make such a thing, or to venerate it, or set it up in a church, or in a private house, or possesses it in secret, shall, if bishop, presbyter, or deacon, be deposed; if monk or layman, be anathematised, and become liable to be tried by the secular laws as an adversary of God and an enemy of the doctrines handed down by the Fathers. At the same time we ordain that no incumbent of a church shall venture, under pretext of destroying the error in regard to images, to lay his hands on the holy vessels in order to have them altered, because they are adorned with figures. The same is provided in regard to the vestments of churches, cloths, and all that is dedicated to divine service. If, however, the incumbent of a church wishes to have such church vessels and vestments altered, he must do this only with the assent of the holy Ecumenical patriarch and at the bidding of our pious Emperors. So also no prince or secular official shall rob the churches, as some have done in former times, under the pretext of destroying images. All this we ordain, believing that we speak as does the Apostle, for we also believe that we have the spirit of Christ; and as our predecessors who believed the same thing spoke what they had synodically defined, so we believe and therefore do we speak, and set forth a definition of what has seemed good to us following and in accordance with the definitions of our Fathers.
+
+(1) If anyone shall not confess, according to the tradition of the Apostles and Fathers, in the Father, the Son and the Holy Ghost one godhead, nature and substance, will and operation, virtue and dominion, kingdom and power in three subsistences, that is in their most glorious Persons, let him be anathema.
+
+(2) If anyone does not confess that one of the Trinity was made flesh, let him be anathema.
+
+(3) If anyone does not confess that the holy Virgin is truly the Mother of God, let him be anathema.
+
+(4) If anyone does not confess one Christ both God and man, let him be anathema.
+
+(5) If anyone does not confess that the flesh of the Lord is life-giving because it is the flesh of the Word of God, let him be anathema.
+
+(6) If anyone does not confess two natures in Christ, let him be anathema.
+
+(7) If anyone does not confess that Christ is seated with God the Father in body and soul, and so will come to judge, and that he will remain God forever without any grossness, let him be anathema.
+
+(8) If anyone ventures to represent the divine image (χαρακτήρ) of the Word after the Incarnation with material colors, let him be anathema!
+
+(9) If anyone ventures to represent in human figures, by means of material colors, by reason of the incarnation, the substance or person (*ousia* or *hypostasis*) of the Word, which cannot be depicted, and does not rather confess that even after the Incarnation he [i.e., the Word] cannot be depicted, let him be anathema!
+
+(10) If anyone ventures to represent the hypostatic union of the two natures in a picture, and calls it Christ, and thus falsely represents a union of the two natures, let him be anathema!
+
+(11) If anyone separates the flesh united with the person of the Word from it, and endeavours to represent it separately in a picture, let him be anathema!
+
+(12) If anyone separates the one Christ into two persons, and endeavours to represent Him who was born of the Virgin separately, and thus accepts only a relative (σχετική) union of the natures, let him be anathema.
+
+(13) If anyone represents in a picture the flesh deified by its union with the Word, and thus separates it from the Godhead, let him be anathema.
+
+(14) If anyone endeavours to represent by material colors, God the Word as a mere man, who, although bearing the form of God, yet has assumed the form of a servant in his own person, and thus endeavours to separate him from his inseparable Godhead, so that he thereby introduces a quaternity into the Holy Trinity, let him be anathema.
+
+(15) If anyone shall not confess the Holy Ever-Virgin Mary, truly and properly the Mother of God, to be higher than every creature whether visible or invisible, and does not with sincere faith seek her intercessions as of one having confidence in her access to our God, since she bore him, let him be anathema.
+
+(16) If anyone shall endeavour to represent the forms of the Saints in lifeless pictures with material colors which are of no value (for this notion is vain and introduced by the devil), and does not rather represent their virtues as living images in himself, let him be anathema.
+
+(17) If anyone denies the profit of the invocation of Saints, let him be anathema.
+
+(18) If anyone denies the resurrection of the dead, and the judgment, and the condign retribution to everyone, endless torment and endless bliss, let him be anathema.
+
+(19) If anyone does not accept this our Holy and Ecumenical Seventh Synod, let him be anathema from the Father and the Son and the Holy Ghost, and from the seven holy Ecumenical Synods!
+
+[*Then follows the prohibition of the making or teaching any other faith, and the penalties for disobedience. After this follow the acclamations*.]
+
+The divine Kings Constantine and Leo said: Let the holy and ecumenical synod say, if with the consent of all the most holy bishops the definition just read has been set forth.
+
+The holy synod cried out: Thus we all believe, we all are of the same mind. We have all with one voice and voluntarily subscribed. This is the faith of the Apostles. Many years to the Emperors! They are the light of orthodoxy! Many years to the orthodox Emperors! God preserve your Empire! You have now more firmly proclaimed the inseparability of the two natures of Christ! You have banished all idolatry! You have destroyed the heresies of Germanus [of Constantinople], George and Mansur [μανσουρ, John Damascene]. Anathema to Germanus, the double-minded, and worshipper of wood! Anathema to George, his associate, to the falsifier of the doctrine of the Fathers! Anathema to Mansur, who has an evil name and Saracen opinions! To the betrayer of Christ and the enemy of the Empire, to the teacher of impiety, the perverter of Scripture, Mansur, anathema! The Trinity has deposed these three!
+
+
+---
+[[Nicaea II — Extracts from the Acts|← Extracts from the Acts]] · [[Nicaea II (787)|Contents]] · [[Nicaea II — Decree|The Decree →]]

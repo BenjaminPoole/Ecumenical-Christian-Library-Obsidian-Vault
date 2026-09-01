@@ -1,0 +1,24 @@
+---
+title: "Registrum Epistolarum, Book I, Letter 28"
+author: "Gregory the Great"
+translator:
+  - "James Barmby"
+series: "Nicene and Post-Nicene Fathers, Second Series"
+volume: "12"
+year: "1895"
+source: "http://www.newadvent.org/fathers/360201028.htm"
+written: "590–604"
+earliest_ms: "8th century (earliest register collections)"
+corpus_file: "Gregory_the_Great_360201028.xml"
+tags:
+  - church-fathers
+  - written/6th-century
+---
+
+# Registrum Epistolarum, Book I, Letter 28
+
+To Sebastian, Bishop of Rhisinum [in Dalmatia].
+
+Gregory to Sebastian, etc.
+
+Although I deserved to receive no letters from your Blessedness, yet I also do not forget my own forgetfulness; I blame my negligence, I stir up my sluggishness with goads of love, that one who will not pay what he owes of his own accord, may learn even under blows to render it. Furthermore, I inform you that I have prepared a full representation, with urgent prayers to our most pious lords, to the effect that they ought to have sent the most blessed Lord patriarch Anastasius, with the use of the pallium granted him, to the threshold of the blessed Peter, prince of the apostles, to celebrate with me the solemnities of Mass; to the end that, though he were not allowed to return to his See, he might at least live with me, retaining his dignity. But of the reason that has arisen for keeping back what I had thus written the bearer of these presents will inform you. Nevertheless, ascertain the mind of the said lord Anastasius, and inform me in your letters of whatever he may wish to be done in this business.

@@ -1,0 +1,24 @@
+---
+title: "Registrum Epistolarum, Book XIII, Letter 38"
+author: "Gregory the Great"
+translator:
+  - "James Barmby"
+series: "Nicene and Post-Nicene Fathers, Second Series"
+volume: "13"
+year: "1898"
+source: "http://www.newadvent.org/fathers/360213038.htm"
+written: "590–604"
+earliest_ms: "8th century (earliest register collections)"
+corpus_file: "Gregory_the_Great_360213038.xml"
+tags:
+  - church-fathers
+  - written/6th-century
+---
+
+# Registrum Epistolarum, Book XIII, Letter 38
+
+To Phocas, Emperor.
+
+Gregory to Phocas Augustus.
+
+It pleases us to consider, with rejoicings and great thanksgivings, what praises we owe to Almighty God, that the yoke of sadness has been removed, and we have come to times of liberty under the imperial Piety of your Benignity. For that your Serenity has not found a deacon of the Apostolic See resident at the court according to ancient custom, is not owing to my negligence, but to most grave necessity. For, while all the ministers of this our Church shrunk and fled with fear from times of such oppression and hardship, it was not possible to impose on any of them the duty of going to the royal city to remain at the court. But now that they have learned that your Clemency, by the ordering of God's grace, has attained to the summit of Empire, those who had before greatly feared to go there hasten even of themselves to your feet, moved thereto by joy. But, seeing that some of them are so weak from old age as to be hardly able to bear the toil, and some are deeply engaged in ecclesiastical cares, and the bearer of these presents, who was the first of all our guardians (defensores), has been long well known to me for his diligence, and proved in life, faith, and character, I have judged him fit to be sent to the feet of your Piety. I have accordingly, by God's permission, made him a deacon, and have been at pains to send him to you with all speed, that he may be able, when a convenient time is found, to inform your Clemency of all that is being done in these parts. To him I beg your Serenity to deign to incline your pious ears, that you may find it in your power to have pity on us all the more speedily as you learn the more truly from his account what our affliction is. For in what manner by the daily swords, and by how many invasions, of the Lombards, lo now for the length of five and thirty years, we have been oppressed, by no words of description can we fully express. But we trust in the Almighty Lord, that He will complete for us the good things of His consolation which He has begun, and that, having raised up pious lords in the republic, He will also extinguish cruel enemies. And so may the Holy Trinity guard your life for many years, so that we may the longer rejoice in the good of your Piety, which we have received after long waiting.

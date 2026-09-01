@@ -1,0 +1,22 @@
+---
+title: "Letter 91"
+author: "Theodoret"
+translator:
+  - "Blomfield Jackson"
+series: "Nicene and Post-Nicene Fathers, Second Series"
+volume: "3"
+year: "1892"
+source: "http://www.newadvent.org/fathers/2707091.htm"
+written: "c. 431–453"
+earliest_ms: "11th–12th century (earliest Greek collections)"
+corpus_file: "Theodoret_2707091.xml"
+tags:
+  - church-fathers
+  - written/5th-century
+---
+
+# Letter 91
+
+To the Prefect Eutrechius.
+
+I well know, and need no words to tell me, how your excellency regards me. Actions speak more clearly than words, but I have been anxious for you to know the cause of the accusation that is brought against me. For I am suffering under a most extraordinary charge, being at one and the same time attacked as unmarried, and as having been married twice. If my present calumniators assert that I am falsifying the apostolic doctrine, why in the world, instead of accusing me in my absence, do they not attempt to convict me face to face? This fact alone is enough to give utter refutation to their lies, for it is because they know that I have innumerable witnesses to the apostolic character of my doctrines that they have urged an undefended indictment against me. Lawful judges must on the contrary keep one ear unbiassed for the accused. If they give both to the pleadings of the opponents, and deliver a sentence acceptable to them, I shall put up with the injustice as bringing me nearer to the kingdom of heaven, and shall await that impartial tribunal, where there is neither prosecutor, nor counsel, nor witness, nor distinction in rank, but judgment of deeds and words and righteous retribution. For, it is said, we must all appear before the judgment seat of Christ that every one may receive the things done in his body according to that he has done whether it be good or bad.

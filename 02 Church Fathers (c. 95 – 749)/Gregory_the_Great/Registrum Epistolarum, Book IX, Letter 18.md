@@ -1,0 +1,24 @@
+---
+title: "Registrum Epistolarum, Book IX, Letter 18"
+author: "Gregory the Great"
+translator:
+  - "James Barmby"
+series: "Nicene and Post-Nicene Fathers, Second Series"
+volume: "13"
+year: "1898"
+source: "http://www.newadvent.org/fathers/360209018.htm"
+written: "590–604"
+earliest_ms: "8th century (earliest register collections)"
+corpus_file: "Gregory_the_Great_360209018.xml"
+tags:
+  - church-fathers
+  - written/6th-century
+---
+
+# Registrum Epistolarum, Book IX, Letter 18
+
+To Romanus, Guardian (Defensorem).
+
+Gregory to Romanus, etc.
+
+Our care for the purpose before us prompts us to commit the looking after ecclesiastical interests to active persons. And so, since we have found you, Romanus, to have been a trusty and diligent guardian, we have thought fit to commit to your government from this present second indiction the patrimony of the holy Roman Church, which by the mercy of God we serve, lying in the parts about Syracuse, Catania, Agrigento, and Mile (partibus Milensibus). Hence it is needful that you go there immediately, that, in consideration of the divine judgment, and in memory also of our admonition, you may study to acquit yourself so efficiently and faithfully that you may be found to incur no risk for negligence or fraud, which God forbid should be the case. But act thus all the more in order that you may be commended to divine grace for your faithfulness and industry. Moreover, we have sent orders according to custom to the familia of the same patrimony, that there may be nothing to hinder your carrying out what has been enjoined you.

@@ -1,0 +1,207 @@
+---
+title: "NPNF2 3 — Theodoret, Jerome, Gennadius, Rufinus: Historical Writings"
+series: "Nicene and Post-Nicene Fathers, Series II"
+volume: 3
+tags:
+  - church-fathers
+  - volume-index
+---
+
+# NPNF2 3: Theodoret, Jerome, Gennadius, Rufinus: Historical Writings
+
+*Nicene and Post-Nicene Fathers, Series II, Volume 3 — 185 works.*
+Up: [[Library/Church Fathers/index|Church Fathers]]
+
+## [[Theodoret|Theodoret]]
+
+- [[Counter-statements to Cyril's 12 Anathemas|Counter-statements to Cyril's 12 Anathemas]] — 430–431
+- [[Demonstrations by Syllogisms|Demonstrations by Syllogisms]] — c. 447
+- [[Dialogue 1|Dialogue 1]] — c. 447
+- [[Dialogue 2|Dialogue 2]] — c. 447
+- [[Dialogue 3|Dialogue 3]] — c. 447
+- [[Dialogues, Prologue|Dialogues, Prologue]] — c. 447
+- [[Ecclesiastical History, Book I|Ecclesiastical History, Book I]] — c. 449–450
+- [[Library/Church Fathers/Theodoret/Ecclesiastical History, Book II|Ecclesiastical History, Book II]] — c. 449–450
+- [[Library/Church Fathers/Theodoret/Ecclesiastical History, Book III|Ecclesiastical History, Book III]] — c. 449–450
+- [[Library/Church Fathers/Theodoret/Ecclesiastical History, Book IV|Ecclesiastical History, Book IV]] — c. 449–450
+- [[Library/Church Fathers/Theodoret/Ecclesiastical History, Book V|Ecclesiastical History, Book V]] — c. 449–450
+- [[Library/Church Fathers/Theodoret/Letter 1|Letter 1]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 2|Letter 2]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 3|Letter 3]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 4|Letter 4]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 5|Letter 5]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 6|Letter 6]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 7|Letter 7]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 8|Letter 8]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 9|Letter 9]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 10|Letter 10]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 11|Letter 11]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 12|Letter 12]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 13|Letter 13]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 14|Letter 14]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 15|Letter 15]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 16|Letter 16]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 17|Letter 17]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 18|Letter 18]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 19|Letter 19]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 20|Letter 20]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 21|Letter 21]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 22|Letter 22]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 23|Letter 23]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 24|Letter 24]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 25|Letter 25]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 26|Letter 26]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 27|Letter 27]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 28|Letter 28]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 29|Letter 29]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 30|Letter 30]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 31|Letter 31]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 32|Letter 32]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 33|Letter 33]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 34|Letter 34]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 35|Letter 35]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 36|Letter 36]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 37|Letter 37]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 38|Letter 38]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 39|Letter 39]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 40|Letter 40]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 41|Letter 41]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 42|Letter 42]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 43|Letter 43]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 44|Letter 44]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 45|Letter 45]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 46|Letter 46]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 47|Letter 47]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 48|Letter 48]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 49|Letter 49]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 50|Letter 50]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 51|Letter 51]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 52|Letter 52]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 53|Letter 53]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 54|Letter 54]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 55|Letter 55]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 56|Letter 56]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 57|Letter 57]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 58|Letter 58]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 59|Letter 59]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 60|Letter 60]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 61|Letter 61]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 62|Letter 62]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 63|Letter 63]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 64|Letter 64]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 65|Letter 65]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 66|Letter 66]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 67|Letter 67]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 68|Letter 68]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 69|Letter 69]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 70|Letter 70]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 71|Letter 71]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 72|Letter 72]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 73|Letter 73]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 74|Letter 74]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 75|Letter 75]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 76|Letter 76]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 77|Letter 77]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 78|Letter 78]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 79|Letter 79]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 80|Letter 80]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 81|Letter 81]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 82|Letter 82]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 83|Letter 83]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 84|Letter 84]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 85|Letter 85]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 86|Letter 86]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 87|Letter 87]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 88|Letter 88]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 89|Letter 89]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 90|Letter 90]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 91|Letter 91]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 92|Letter 92]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 93|Letter 93]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 94|Letter 94]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 95|Letter 95]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 96|Letter 96]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 97|Letter 97]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 98|Letter 98]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 99|Letter 99]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 100|Letter 100]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 101|Letter 101]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 102|Letter 102]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 103|Letter 103]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 104|Letter 104]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 105|Letter 105]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 106|Letter 106]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 107|Letter 107]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 108|Letter 108]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 109|Letter 109]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 110|Letter 110]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 111|Letter 111]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 112|Letter 112]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 113|Letter 113]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 114|Letter 114]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 115|Letter 115]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 116|Letter 116]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 117|Letter 117]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 118|Letter 118]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 119|Letter 119]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 120|Letter 120]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 121|Letter 121]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 122|Letter 122]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 123|Letter 123]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 124|Letter 124]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 125|Letter 125]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 126|Letter 126]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 127|Letter 127]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 128|Letter 128]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 129|Letter 129]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 130|Letter 130]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 131|Letter 131]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 132|Letter 132]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 133|Letter 133]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 134|Letter 134]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 135|Letter 135]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 136|Letter 136]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 137|Letter 137]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 138|Letter 138]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 139|Letter 139]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 140|Letter 140]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 141|Letter 141]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 142|Letter 142]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 143|Letter 143]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 144|Letter 144]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 145|Letter 145]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 146|Letter 146]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 147|Letter 147]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 150|Letter 150]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 151|Letter 151]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 152|Letter 152]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 153|Letter 153]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 157|Letter 157]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 158|Letter 158]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 162|Letter 162]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 166|Letter 166]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 167|Letter 167]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 168|Letter 168]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 169|Letter 169]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 170|Letter 170]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 171|Letter 171]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 172|Letter 172]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 173|Letter 173]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 174|Letter 174]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 175|Letter 175]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 176|Letter 176]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 177|Letter 177]] — c. 431–453
+- [[Library/Church Fathers/Theodoret/Letter 178|Letter 178]] — c. 431–453
+
+## [[Jerome|Jerome]]
+
+- [[Apology Against Rufinus, Book I|Apology Against Rufinus, Book I]] — 401–402
+- [[Apology Against Rufinus, Book II|Apology Against Rufinus, Book II]] — 401–402
+- [[Apology Against Rufinus, Book III|Apology Against Rufinus, Book III]] — 401–402
+- [[De Viris Illustribus|De Viris Illustribus]] — 392–393
+
+## [[Rufinus|Rufinus]]
+
+- [[Library/Church Fathers/Rufinus/Apology|Apology]] — 400–401
+- [[Commentary on the Apostles' Creed|Commentary on the Apostles' Creed]] — c. 404
+- [[Library/Church Fathers/Rufinus/Prefaces|Prefaces]] — c. 397–410

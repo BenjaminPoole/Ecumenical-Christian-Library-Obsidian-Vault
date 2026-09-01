@@ -1,0 +1,30 @@
+---
+title: "Letter 63"
+author: "Jerome"
+translator:
+  - "W.H. Fremantle"
+  - "G. Lewis"
+  - "W.G. Martley"
+series: "Nicene and Post-Nicene Fathers, Second Series"
+volume: "6"
+year: "1893"
+source: "http://www.newadvent.org/fathers/3001063.htm"
+written: "c. 374–420"
+earliest_ms: "6th century (earliest copies)"
+corpus_file: "Jerome_3001063.xml"
+tags:
+  - church-fathers
+  - written/4th-century
+---
+
+# Letter 63
+
+To Theophilus
+
+Jerome to the most blessed pope Theophilus.
+
+1. Your holiness will remember that at the time when you kept silence towards me, I never ceased to do my duty by writing to you, not taking so much into account what you in the exercise of your discretion were then doing as what it became me to do. And now that I have received a letter from your grace, I see that my reading of the gospel has not been without fruit. For if the frequent prayers of a woman changed the determination of an unyielding judge, how much more must my constant appeals have softened a fatherly heart like yours?
+
+2. I thank you for your reminder concerning the canons of the Church. Truly, whom the Lord loves he chastens, and scourges every son whom he receives. Still I would assure you that nothing is more my aim than to maintain the rights of Christ, to keep to the lines laid down by the fathers, and always to remember the faith of Rome; that faith which is praised by the lips of an apostle, and of which the Alexandrian church boasts to be a sharer.
+
+3. Many religious persons are displeased that you are so long-suffering in regard to that shocking heresy, and that you suppose yourself able by such lenity to amend those who are attacking the Church's vitals. They believe that, while you are waiting for the penitence of a few, your action is fostering the boldness of abandoned men and making their party stronger. Farewell in Christ.

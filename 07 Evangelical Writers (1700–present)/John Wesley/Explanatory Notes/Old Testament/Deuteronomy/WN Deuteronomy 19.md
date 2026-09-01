@@ -1,0 +1,31 @@
+---
+title: "Deuteronomy 19"
+author: "John Wesley"
+work: "Explanatory Notes upon the Old Testament"
+book: "Deuteronomy"
+chapter: 19
+year: "1755/1765"
+source: "biblehub.com (Wesley's Explanatory Notes)"
+tags:
+  - wesley
+  - wesley-notes
+---
+
+# Deuteronomy 19
+
+**19:2** In the midst of the land - Namely, beyond Jordan, as there were three already appointed on this side Jordan: In the midst of the several parts of their land, to which they might speedily flee from all the parts of the land.
+
+**19:3** Prepare thee a way - Distinguish it by evident marks, and make it plain and convenient, to prevent mistakes and delays.
+
+**19:8** Enlarge thy coast - As far as Euphrates.
+
+**19:9** If thou shalt keep all these commandments - But the Jewish writers themselves own, that the condition not being performed, the promise of enlarging their coast was not fulfilled, so that there was no need for three more cities of refuge. Yet the holy, blessed God, say they, did not command it in vain, for in the day's of Messiah the Prince, they shall be added. They expect it in the letter: but we know, it has in Christ its spiritual accomplishment. For the borders of the Gospel - Israel are inlarged according to the promise: and in the Lord our righteousness, refuge is provided for all that by faith fly to him.
+
+**19:15** Rise - Or be established, accepted, owned as sufficient: it is the same word which in the end of the verse is rendered, be established.
+
+**19:16** A safe witness - A single witness, though he speak truth, is not to be accepted for the condemnation of another man, but if he be convicted of false witness, this is sufficient for his own condemnation.
+
+**19:21** Eye for eye - What punishment the law allotted to the accused, if he had been convicted, the same shall the false accuser bear.
+
+---
+[[WN Deuteronomy 18|← Deuteronomy 18]] · [[Library/John Wesley/Explanatory Notes/Explanatory Notes — Old Testament|Contents]] · [[WN Deuteronomy 20|Deuteronomy 20 →]]

@@ -1,0 +1,44 @@
+---
+title: "Matthew 6:25-30;Luke 12:22-28"
+author: "John Calvin"
+translator: "William Pringle"
+work: "Harmony of the Evangelists"
+chapter: 59
+year: "1555"
+source: "CCEL calcom31, Calvin Translation Society"
+tags:
+  - calvin-commentaries
+---
+
+# 59. Matthew 6:25-30;Luke 12:22-28
+
+**MATTHEW 6:25-30; LUKE 12:22-28**
+
+**25**. Therefore I say to you, Do not be anxious about your life, what you shall eat and drink, or for you body, what clothes you shall wear: is not the life of more value than food, and the body of more value than clothing? **26**. Look at the fowls of heaven, for they neither sow nor reap, nor collect into granaries, and your heavenly Father feedeth them: are you not more excellent than they are? **27**. And which of you, by anxious care, can add to his stature one cubit? **28**. And why are you anxious about clothing? Con sider the lilies of the field, how they grow: they neither toil nor spin. **29**. But I say to you, That even Solomon in all hs glory [^1] was not clothed like one of these. **30**. But if God so clothes the grass of the field, which is today, and tomorrow is cast into the oven, shall he not much more clothe you, O you of little faith?
+
+Throughout the whole of this discourse, Christ reproves that *excessive* anxiety, with which men torment themselves, about food and clothing, and, at the same time, applies a remedy for curing this disease. When he forbids them to be *anxious,* this is not to be taken literally, as if he intended to take away from his people all care. We know that men are born on the condition of having some care; and, indeed, this is not the least portion of the miseries, which the Lord has laid upon us as a punishment, in order to humble us. But immoderate care is condemned for two reasons: either because in so doing men tease and vex themselves to no purpose, by carrying their anxiety farther than is proper or than their calling demands; or because they claim more for themselves than they have a right to do, and place such a reliance on their own industry, that they neglect to call upon God. We ought to remember this promise: though unbelievers shall “rise up early, and sit up late, and eat the bread of sorrows,” yet believers will obtain, through the kindness of God, rest and sleep, (Psalm 127:2.) Though the children of God are not free from toil and anxiety, yet, properly speaking, we do not say that they are anxious about life: because, through their reliance on the providence of God, they enjoy calm repose.
+
+Hence it is easy to learn, how far we ought to be *anxious about food* Each of us ought to labor, as far as his calling requires and the Lord commands; and each of us ought to be led by his own wants to call upon God. Such anxiety holds an intermediate place between indolent carelessness and the unnecessary torments by which unbelievers kill themselves. But if we give proper attention to the words of Christ, we shall find, that he does not forbid every kind of care, but only what arises from distrust. Be *not anxious,* says he, *what you shall eat, or what you shall drink* That belongs to those who tremble for fear of poverty or hunger, as if they were to be in want of food every moment.
+
+**Matthew 6:25.** *Is not the life of more value than food?* He argues from the greater to the less. He had forbidden them to be excessively anxious about the way in which life might be supported; and he now assigns the reason. The Lord, who has given life itself, will not suffer us to want what is necessary for its support. And certainly we do no small dishonor to God, when we fail to trust that he will give us necessary food or clothing; as if he had thrown us on the earth at random. He who is fully convinced, that the Author of our life has an intimate knowledge of our condition, will entertain no doubt that he will make abundant provision for our wants. Whenever we are seized by any fear or anxiety about food, let us remember, that God will take care of the life which he gave us.
+
+**26.** *Look at the fowls of the air* This is the remedy I spoke of, for teaching us to rely on the providence of God: for of all cares, which go beyond bounds, unbelief is the mother. The only cure for covetousness is to embrace the promises of God, by which he assures us that he will take care of us. In the same manner, the Apostle, wishing to withdraw believers from *covetousness,* confirms that doctrine: *for he hath said, I will never leave thee, nor forsake thee,* (Hebrews 13:5.) The substance of the exhortation is, that we ought to trust in God, by whom none of his own people, however mean their condition may be, are disregarded.
+
+*Your heavenly Father feedeth them* This deserves careful attention: for, though we are unable to explain the manner in which their life is supported, which of us is in the habit of considering that their life depends on the providence of God, which he is pleased to extend even to them? But if it is thoroughly fixed in our minds, *that the fowls* are supplied with food by the hand of God, there will be no difficulty in expecting it for ourselves, who are formed after his image, and reckoned among his children. *They neither sow nor reap* By these words it is far from being our Lord’s intention to encourage us to indolence and sluggishness. All that he means is, that, though other means fail, the providence of God is alone sufficient for us, for it supplies the animals abundantly with every thing that they need.
+
+Instead *of fowls, (*τὰ πετεινὰ*,*) Luke uses the word *ravens,* (τοὺς κόρακας,) alluding perhaps to that passage in the Psalms, *who giveth food to the young ravens that call upon him,* (Psalm 67: 9.) Some think that David expressly mentioned *the ravens,* because they are immediately deserted by their parents,[^2] and therefore must have their food brought to them by God. Hence it is evident, that Christ intended nothing more than to teach his people to throw all their cares on God.
+
+**27.** *Which of you by anxious care, etc* *?* Here our Lord condemns another fault, which is almost always connected with immoderate anxiety about food: and that is, when a mortal man, claiming more than he has a right to do, does not hesitate, in sacrilegious hardihood, to go beyond his limits.
+
+“O Lord, I know (says Jeremiah) that the way of man is not in himself it is not in man that walketh to direct his steps,”  
+(Jeremiah 10:23.)
+
+You scarcely meet with one person in a hundred, who does not venture to make any promises that he thinks fit on his own industry and power. The consequence is, that those who take credit to themselves for their prosperity, do not hesitate to lose sight of God, when they enter into any undertaking. To restrain this mad rashness, Christ tells us, that whatever contributes to the support of our life depends wholly on the blessing of God. The meaning is: “It is foolish in men to weary themselves, because all our labors are unnecessary and fruitless, and all our anxieties are to no purpose, unless so far as God blesses them.” This is more clearly expressed by Luke, *If you cannot do even that which is least, why are you anxious about the rest?* These words show plainly, that Christ reproves not only distrust, but pride, because men ascribe much more than they ought to their own skill.
+
+**29.** *Not even Solomon in all his glory* This means, that the kindness of God, which is gloriously displayed in herbs and flowers, exceeds all that men can accomplish by their wealth or power, or in any other way. Believers ought to be convinced that, though all means fail, they will want nothing that is necessary for their full satisfaction, provided they continue to enjoy the blessing of God alone. *O you of little faith* In this respect Christ justly accuses us of deficiency or weakness of faith: for the more powerfully we are affected, according to our own grovelling views, by anxiety about the present life, the more do we show our unbelief, if every thing does not happen to our wish. Many persons, accordingly, who in great prosperity appear to possess faith or at least to have a tolerable share of it, tremble when any danger of poverty presents itself.
+
+---
+[[Calvin Harmony of the Evangelists 58 Matthew 6.22-24|← 58. Matthew 6.22-24]] · [[Library/protestant reformers/John Calvin/Biblical Commentaries/Harmony of the Evangelists/harmony-of-the-evangelists-index|Contents]] · [[Calvin Harmony of the Evangelists 60 Matthew 6.31-34|60. Matthew 6.31-34 →]]
+
+[^1]: “En toute sa gloire, *ou, avec toute sa gloire*;” — “in all his glory, or, *with all his glory* *”*
+[^2]: “Pource que le pere et 1a mere les abandonnent incontinent qu'ils sont nais;” — “because their parents forsake them as soon as they are born.”

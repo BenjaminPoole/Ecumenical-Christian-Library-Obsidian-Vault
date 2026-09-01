@@ -1,0 +1,28 @@
+---
+title: "The Diatessaron, Section 38"
+author: "Tatian"
+translator:
+  - "Hope W. Hogg"
+series: "Ante-Nicene Fathers"
+volume: "9"
+year: "1896"
+source: "http://www.newadvent.org/fathers/100238.htm"
+written: "c. 170 (Diatessaron)"
+earliest_ms: "c. 250 Dura fragment (disputed); Arabic version 12th c. on"
+corpus_file: "Tatian_100238.xml"
+tags:
+  - church-fathers
+  - written/2nd-century
+---
+
+# The Diatessaron, Section 38
+
+1, 2 And Jesus came to Bethany, and found him already four days in the grave. And Bethany was beside Jerusalem, and its distance from it was a sum of fifteen furlongs; 3 and many of the Jews came unto Mary and Martha, to comfort their heart 4 because of their brother. And Martha, when she heard that Jesus had come, went 5 out to meet him: but Mary was sitting in the house. Martha then said to Jesus, 6 My Lord, if you had been here, my brother had not died. But I know now that, 7 whatever you shall ask of God, he will give you. Jesus said to her, Your brother shall 8 rise. Martha said to him, I know that he shall rise in the resurrection at the last day. 9 Jesus said to her, I am the resurrection, and the life: whosoever believes in 10 [Arabic, p. 144] me, even though he die, he shall live: and every living one that believes 11 in me shall never die. Do you believe this? She said to him, Yea, my Lord: I believe that you are the Messiah, the Son of God, that comes into the 12 world. And when she had said that, she went and called Mary her sister secretly, 13 and said to her, Our Master has come, and summons you. And Mary, when 14 she heard, rose in haste, and came unto him. (And Jesus then had not come into 15 the village, but was in the place where Martha met him.) And the Jews also that were with her in the house, to comfort her, when they saw that Mary rose up and went out in haste, went after her, because they supposed that she was going to the 16 tomb to weep. And Mary, when she came to where Jesus was, and saw him, fell at his feet, and said to him, If you had been here, my Lord, my brother had 17 not died. And Jesus came; and when he saw her weeping, and the Jews that were 18 with her weeping, he was troubled in himself, and sighed; and he said, In what 19 place have ye laid him? And they said to him, Our Lord, come and see. And 20 the tears of Jesus came. The Jews therefore said, See the greatness of his love for 21 him! But some of them said, Could not this man, who opened the eyes of that 22 blind man, have caused that this man also should not die? And Jesus came to the place of burial, being troubled within himself. And the place of burial was a cave, 23 and a stone was placed at its door. Jesus therefore said, Take these stones away. Martha, the sister of him that was dead, said to him, My Lord, he has come to 24 stink for some time: he has been four days dead. Jesus said to her, Did not I say 25 [Arabic, p. 145] unto you, If you believe, you shall see the glory of God? And they removed those stones. And Jesus lifted his eyes on high, and said, My Father, 26 I thank you since you heard me. And I know that you at all times hear me: but I say this unto you because of this multitude that is standing, that they 27 may believe that you sent me. And when he had said that, he cried with a 28 loud voice, Lazarus, come forth. And that dead man came out, having his hands and feet bound with bandages, and his face wrapped in a scarf. Jesus said to them, Loose him, and let him go.
+
+29 And many of the Jews which came unto Mary, when they saw the deed of Jesus, 30 believed in him. But some of them went to the Pharisees, and informed them of all that Jesus did.
+
+31 And the chief priests and the Pharisees gathered, and said, What shall we do? 32 for lo, this man does many signs. And if we leave him thus, all men will believe 33 in him: and the Romans will come and take our country and people. And one of them, who was called Caiaphas, the chief priest he was in that year, said to them, 34 You know not anything, nor consider that it is more advantageous for us that one 35 man should die instead of the people, and not that the whole people perish. And this he said not of himself: but because he was the chief priest of that year, he 36 prophesied that Jesus was to die instead of the people; and not instead of the people alone, but that he might gather the scattered children of God together. 37 And from that day they considered how to kill him.
+
+38 [Arabic, p. 146] And Jesus did not walk openly among the Jews, but departed thence to a place near the wilderness, to a town called Ephraim; and he was there, going 39 about with his disciples. And the passover of the Jews was near: and many went 40 up from the villages unto Jerusalem before the feast, to purify themselves. And they sought for Jesus, and said one to another in the temple, What think ye of his 41 holding back from the feast? And the chief priests and the Pharisees had given commandment, that, if any man knew in what place he was, he should reveal it to them, that they might take him.
+
+42 And when the days of his going up were accomplished, he prepared himself that 43 he might go to Jerusalem. And he sent messengers before him, and departed, and 44 entered into a village of Samaria, that they might make ready for him. And they 45 received him not, because he was prepared for going to Jerusalem. And when James and John his disciples saw it, they said to him, Our Lord, will you that we speak, and fire come down from heaven, to extirpate them, as did Elijah also? 46 And Jesus turned, and rebuked them, and said, You know not of what spirit you are. 47 Verily the Son of man did not come to destroy lives, but to give life. And they went to another village.

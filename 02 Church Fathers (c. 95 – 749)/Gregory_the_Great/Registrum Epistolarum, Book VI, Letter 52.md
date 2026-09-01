@@ -1,0 +1,26 @@
+---
+title: "Registrum Epistolarum, Book VI, Letter 52"
+author: "Gregory the Great"
+translator:
+  - "James Barmby"
+series: "Nicene and Post-Nicene Fathers, Second Series"
+volume: "12"
+year: "1895"
+source: "http://www.newadvent.org/fathers/360206052.htm"
+written: "590–604"
+earliest_ms: "8th century (earliest register collections)"
+corpus_file: "Gregory_the_Great_360206052.xml"
+tags:
+  - church-fathers
+  - written/6th-century
+---
+
+# Registrum Epistolarum, Book VI, Letter 52
+
+To Pelagius and Serenus, Bishops.
+
+Gregory to Pelagius of Turni and Serenus of Masilia (Marseilles) Bishops of Gaul. A paribus.
+
+Although with priests who have the charity that is well pleasing to God religious men need no commendation, yet, since an apt time for writing has offered itself, we have thought well to send a letter to your Fraternity, mentioning that we have sent into your parts, with the help of the Lord, for the benefit of souls, the servant of God Augustine, of whose earnestness we are assured, with other servants of God. Him your Holiness must needs assist with priestly earnestness, and hasten to afford him your succour. We have also enjoined him, that so you may be the more ready to support him, to make you fully acquainted with the matter he has in hand, knowing that, when it is known to you, you will lend yourselves with entire devotion for God's sake to succour him as the case requires.
+
+Moreover, we commend in all ways to your charity our common son the presbyter Candidus, whom we have sent for the government of the patrimony of our Church. Given on the tenth day of the Kalends of August, Indiction 14.

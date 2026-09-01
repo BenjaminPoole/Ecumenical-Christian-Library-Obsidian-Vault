@@ -1,0 +1,26 @@
+---
+title: "How the Human Reason is Related to the Truth of Faith"
+work: "Summa Contra Gentiles"
+book: "Book One — God"
+book_no: 1
+chapter: 8
+author: "Thomas Aquinas"
+translator: "Anton C. Pegis (Hanover House, 1955–57), ed. Joseph Kenny O.P."
+source: "https://isidore.co/aquinas/english/ContraGentiles1.htm"
+tags:
+  - aquinas
+  - summa-contra-gentiles
+  - written/13th-century
+---
+
+# Chapter 8. How the Human Reason is Related to the Truth of Faith
+
+*Book One — God, Chapter 8* — Summa Contra Gentiles
+
+[1] There is also a further consideration. Sensible things, from which the human reason takes the origin of its knowledge, retain within themselves some sort of trace of a likeness to God. This is so imperfect, however, that it is absolutely inadequate to manifest the substance of God. For effects bear within themselves, in their own way, the likeness of their causes, since an agent produces its like; yet an effect does not always reach to the full likeness of its cause. Now, the human reason is related to the knowledge of the truth of faith (a truth which can be most evident only to those who see the divine substance) in such a way that it can gather certain likenesses of it, which are yet not sufficient so that the truth of faith may be comprehended as being understood demonstratively or through itself. Yet it is useful for the human reason to exercise itself in such arguments, however weak they may be, provided only that there be present no presumption to comprehend or to demonstrate. For to be able to see something of the loftiest realities, however thin and weak the sight may be, is, as our previous remarks indicate, a cause of the greatest joy.
+
+[2] The testimony of Hilary agrees with this. Speaking of this same truth, he writes as follows in his *De Trinitate* [II, 10, ii]: “Enter these truths by believing, press forward, persevere. And though I may know that you will not arrive at an end, yet I will congratulate you in your progress. For, though he who pursues the infinite with reverence will never finally reach the end, yet he will always progress by pressing onward. But do not intrude yourself into the divine secret, do not, presuming to comprehend the sum total of intelligence, plunge yourself into the mystery of the unending nativity; rather, understand that these things are incomprehensible.”
+
+
+---
+[[SCG I.7 That the Truth of Reason is not Opposed to the|← I.7. That the Truth of Reason is not Opposed to the Truth of the Christian Faith]] · [[Book One - God|Book One — God Contents]] · [[SCG I.9 The Order and Manner of Procedure in the Present|I.9. The Order and Manner of Procedure in the Present Work →]]

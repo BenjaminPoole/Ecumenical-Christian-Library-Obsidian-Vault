@@ -1,0 +1,20 @@
+---
+title: "CHAP. IIII"
+author: "Theodore Beza"
+work: "A Briefe Declaration of the Chiefe Points of Christian Religion (The Table of Predestination)"
+chapter: 11
+year: "1575"
+source: "EEBO-TCP A68592 keyed transcription (public domain), 16th-century English translation - original spelling"
+tags:
+  - protestant-reformers
+  - theodore-beza
+---
+
+# 11. CHAP. IIII
+
+## CHAP. IIII.
+
+(1) Ioh. 9. g. 41. (2) Ro. 1. b. 18.] in the same. 7. b. 14. & 8. b. 17.] 1. Cor. 2. b. 4.] 2. Cor. 3. b. 5.] Eph. 2. a. 3. (3) Rom. 7. b. 10. (4) Mat. 1. d. 20] Luk. 1. d. 35. (5) Ioh. 1. b. 14] 1. Ioh. 1. a. 1. 2. 3. (6) Rom. 1. a. 3. 4. 2. Cor. 5. d. 19.] Col. 2. b. 9. (7) Rom. 8. a. 3. (8) Mat. 3. d. 15.] in the same. 5. c. 17.] Rom. 5. d. 18.] 1. Cor. b. 30. (9) Esa. 53. a. 4. b. 5. 7. d. 11.] 10. 3. d. 25.] Act. 20. f. 28] Colo. 1. c. 20.] Ro. 5. d. 19.] 1. Pet. 2. d. 24.] in the same. 3. d. 18.] 2. Cor. 5. d. 21. (10) Rom. 6. a. 3. 4. 5. &c] Colo. 3. a. 1.] in the same. b. 12] Ioh. 17. c. 19.] Hebr. 9. d. 13. in the same. 10. c. 14. (11) Rom. 5. c. 15. 16. 17. d. 20 (12) Rom. 8. f. 31.] Ioh. 3. b. 16 (13) Ioh. 17. a. 2. b. 6. 9. 11. 12. d. 23. (14) Gen. 3. b. 15.] in the same. 22. d. 18.] Rom. 3. d. 25 & 16. d. 25.] 1. Cor. 2. b. 7.] Gal. 3. c. 6.] Ephe. 1. a. 5.] Colos. ⟨…⟩. d. 26.] 1. Tim. 1. c. 9.] T⟨…⟩t. 1. 1. 2.] 1. Pet. 1. d. 20. (15) Ios. 24. a. 1.] Ezec. 1⟨…⟩. a. 8. 9.] Ela. 65. a. 1.] Ephe. 2. a. 3. 4. 5. c. 12.] Rom. 5. b. 10.] 1. Pet. 1. b. 10. (16) Ioh. 9. g. 41. Ioh. 3. c. 19. (17) Rom. 1. c. 19.] in the same. 2. c. 15.] Act. 14. c. 17. (18) Rom. 1. c. 9.] in the same. 2. c. 15.] Act. 14. c. 17. (19) Rom. 7. b. 7.] 1. Tim. 2. b. 5.] 2. Tim. 2. d. 25. 26. Act. 2. f. 37. 38.] 1. Ioh. 2. a. 1. (20) Ioh. 1. b. 12.] in the same. 3. b. 16.] Rom. 1. b. 16. and almost in euerie passage of the whole Scripture (21) Rom. 8. a. 1.] 1. Ioh. 2. a. 1. (22) Ioh. 1. b. 12. c 3. ⟨…⟩. 16.] Rom. 1. b. 16 & 5. a. 1. (23) Ro. 10. b. 8. c. 17] 2. Cor. 5. d. 18. 19] Iam. 1. c. 18.] 1. Pet. 1. d. 25. (24.) Ep. 1. a. 5. b. 9.] Col. 1. d. 27 (25) Ro. 6. d. 19. 20 (26) Gen. 3. b. 8.] Ioh. 6. c. 47. g. 65. (27). Rom 5. b. 10.] in the same. 8. b. 7. (28) Ioh. 6. f. 47. (29) Esa. 53. ⟨…⟩. 1. a.] Ioh. 12. f. 39. (30) Mat. 13. b. 11.] Ioh. e. 4. b. 10.] in the same. 3. a. 3.] 1. Cor. 2. d. 14.] (31) 2. Cor. 3. b. 5. (32) Eze⟨…⟩. 11. d. 19] in the same. 36. ⟨…⟩. 26.] Psal. 51. a. 12. (33) Ioh. 60. 41. (34) Ioh. 6. e. 45.] in the same. 16. b. 13.] Psalm. 119. 33. (35) Psal. 119 130.] Eph. 1. c. 17. (36) Esa. 50. b. 5.] Psal. 40. b. 17. & 119. 18. 73. 130.] Colo. 1. b. 9] Esa. 50. b. 5.] Ier. 31. c. 18.] 2. Tim. 2. d. 25. (37) Lu. 24. g. 45.] Act. 16. c. 14 (38) 1. Corin. 2. c. 10 11. 12. d. 16] Col. 1. d. 26. 27.] Eph 1. d. 18. 19.] 1. Iohn 3. d. 24.] in the same. 5. d. 20. (39) Rom. 8. c. 15.] Gal. 4. a. 6. (40) Ro. 8. c. 14.] 1. Ioh. 3. b. 10. c. 14.] in the same. 4. b. 14.] Phi. 2. b. 13.] Ioh. 8. b. 36.] Ro. 6. c. 18. (41) Mar. 16. c. 16] Act. 2. f. 38.] Ro. 6. a. 3. 4.] Gal. 3. d. 27.] Colos. 2. b. 12] Ephe. 5. e. 26.] 1. Pet. 2. d. 21] 1. Cor. 10. b. 16] Ro. 4. b. 11. (42) 1. Co. 1. d. 30. (43) Rom. 3. c. 20. 21. 22.] in the same 4. a. 2. 5. & 1. and in diuerse other places (44) (45) Numb. 23. c. 19.] Psalm. 23. b. 6.] in the same. 27. a. 1. 2. 3. Psal. 91. at large. Mat. 24. b. 24] Ioh. 6. d. 37.] in the same. 17. c. 15. & 10. c. 28. 29.] Rom. 5. a. 2. 3. 5.] in the same. 8. c. 15. 16. g. 38. 39.] 1. Cor. 2. c. 12. d. 16.] 2. Corin. 13. b. 5. Ephes. 1. b. 9.] Phil. 1. a. 6.] 1. Thes. 5. d. 24.] 2. Corinth. 1. d. 21.] I am. 1. 1. 6.] Hebr. 4. d. 16.] in the same. 10. d. 22.] 1. Iohn 4. d. 17. (46) So Moises, Aaron, Dauid, Peter fell. 1. Ioh. 1. 4. 8. (47) Rom. 6. a. 1. 2. &c.] 1. Ioh. 3. b. 9. 10.] in the same. 4. d. 20.] 2. Pet. 1. b. 9. (48) Eph. 2. b. 10. and 1. a. 4. (49) 1. Tim. 2. b. 5.] Heb. 9. d. 15. (50) Gen. 17. a. 7 (51) Exod. 20. b. 6. (52) 1. Cor. 7. 14. (53) Ioh. 6. d. 37.
+
+---
+[[Beza Sum 10 CHAP. III|← 10. CHAP. III]] · [[Library/protestant reformers/Theodore Beza/A Briefe Declaration of the Chiefe Points of Christian Religion/briefe-declaration-index|Contents]] · [[Beza Sum 12 CHAP. V|12. CHAP. V →]]

@@ -1,0 +1,38 @@
+---
+title: "Session VII - Extracts from the Acts"
+council: "Constantinople II (553)"
+council_type: "Ecumenical"
+ecumenical_no: 5
+convened: "A.D. 553"
+location: "Constantinople"
+translator: "Henry Percival"
+series: "Nicene and Post-Nicene Fathers, Second Series"
+volume: "14"
+edition_year: "1900"
+source: "https://www.newadvent.org/fathers/3812.htm"
+tags:
+  - church-councils
+  - written/6th-century
+---
+
+# Session VII - Extracts from the Acts
+
+(*From the Paris manuscript found in* Hardouin *Concilia*, Tom. III., 171 et seqq.; Mansi, Tom. ix., 346 et seqq. *This speech is not found in full in any other ms. The Ballerini [Hefele notes] raise objections to the genuineness of the additions* [in Noris. *Opp.*, Tom. IV., 1037], but Hefele does not consider the objections of serious moment. [*Hist. of the Councils*, Vol. IV., p. 323, note 2.] *All the mss. agree that* The most glorious quæster of the sacred palace, Constantine, was sent by the most pious Emperor, and when he had entered the Council spoke as follows: Certum est vestræ beatitudini, quantum, etc. *The rest of the speech differs in the different manuscripts. I follow that of Paris.*)
+
+You know how much care the most invincible Emperor has always had that the contention raised up by certain persons with regard to the Three Chapters should have a termination....For this intent he has required the most religious Vigilius to assemble with you and draw up a decree on this matter in accordance with the Orthodox faith. Although therefore, Vigilius has already frequently condemned the Three Chapters in writing, and has done this also by word of mouth in the presence of the Emperor, and of the most glorious judges and of many members of this synod, and has always been ready to smite with anathema the defenders of Theodore of Mopsuestia, and the letter which was attributed to Ibas, and the writings of Theodoret which he set forth against the orthodox faith and against the twelve capitula of the holy Cyril: yet he has refused to do this in communion with you and your synod.
+
+Yesterday Vigilius sent Servus Dei, a most reverend Subdeacon of the Roman Church, and invited Belisarius, Cethegus, as also Justinus and Constantine the most glorious consuls, as well as bishops Theodore, Ascidas, Benignus, and Phocas, to come to him as he wished to give through them an answer to the Emperor. They came, but speedily returned and informed the most pious lord, that we had visited Vigilius, the most religious bishop, and that he had said to us: We have called you for this reason, that you may know what things have been done in the past days. To this end I have written a document about the disputed Three Chapters, addressed to the most pious Emperor, pray be good enough to read it, and to carry it to his Serenity. But when we had heard this and had seen the document written to your serenity, we said to him that we could not by any means receive any document written to the most pious Emperor without his bidding. But you have deacons for running with messages, by whom you can send it. He, however, said to us: You now know that I have made the document. But we, bishops, answered him: If your blessedness is willing to meet together with us and the most holy Patriarchs, and the most religious bishops, and to treat of the Three Chapters and to give, in unison with us all, a suitable form of the orthodox faith, as the Holy Apostles and the holy Fathers and the four Councils have done, we will hold you as our head, as a father and primate. But if your holiness has drawn up a document for the Emperor, you have errand-runners, as we have said; send it by them. And when he had heard these things from us, he sent Servus Dei the Subdeacon, who now awaits the answer of your serenity. And when his Piety had heard this, he commanded through the aforesaid most religious and glorious men, the before-named subdeacon to carry back this message to the most religious Vigilius: We invited him (*you*) to meet together with the most blessed patriarchs and other religious bishops, and with them in common to examine and judge the Three Chapters. But since you have refused to do this, and you say that you alone have written by yourself somewhat on the Three Chapters; if you have condemned them, in accordance with those things which you did before, we have already many such statements and need no more; but if you have written now something contrary to these things which were done by you before, you have condemned yourself by your own writing, since you have departed from orthodox doctrine and have defended impiety. And how can you expect us to receive such a document from you?
+
+And when this answer was given by the most pious Emperor, he did not send through the same deacon any document in writing from himself. And all this was done without writing as also to your blessedness.
+
+[*He then, according to all the mss., presented certain documents to be read, in the ms. printed by Labbe and Cossart, Tom. V., col.* 549 *et seqq. These are fewer than in the Paris ms., which last also contains the following just after the reading of the documents and after the Council had declared that they proved the Emperor's zeal for the faith*.]
+
+Constantine, the most glorious Quæstor, said: While I am still present at your holy council by reason of the reading of the documents which have been presented to you, I would say that the most pious Emperor has sent a minute (*formam*), to your Holy Synod, concerning the name of Vigilius, that it be no more inserted in the holy diptychs of the Church, on account of the impiety which he defended. Neither let it be recited by you, nor retained, either in the church of the royal city, or in other churches which are entrusted to you and to the other bishops in the State committed by God to his rule. And when you hear this minute, again you will perceive by it how much the most serene Emperor cares for the unity of the holy churches and for the purity of the holy mysteries.
+
+[The letter was then read.]
+
+The holy Synod said: What has seemed good to the most pious Emperor is congruous to the labours which he bears for the unity of the churches. Let us preserve unity to (*ad*) the Apostolic See of the most holy Church of ancient Rome, carrying out all things according to the tenor of what has been read. De proposita vero quæstione quod jam promisimus procedat.
+
+
+---
+[[Constantinople II — Session I - Extracts from the Acts|← Session I - Extracts from the Acts]] · [[Constantinople II (553)|Contents]] · [[Constantinople II — Sentence of the Synod|The Sentence of the Synod →]]

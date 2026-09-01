@@ -1,0 +1,49 @@
+---
+title: "Ruth 2"
+author: "John Wesley"
+work: "Explanatory Notes upon the Old Testament"
+book: "Ruth"
+chapter: 2
+year: "1755/1765"
+source: "biblehub.com (Wesley's Explanatory Notes)"
+tags:
+  - wesley
+  - wesley-notes
+---
+
+# Ruth 2
+
+**2:2** Glean - Which was permitted to the poor, and the stranger, Deut 24:19, nor was she ashamed to confess her poverty, nor would she eat the bread of idleness. In whose sight - For though it was their duty to permit this, yet she thought it might perhaps be denied her; at least, that it became her modestly and humbly to acknowledge their kindness herein.
+
+**2:3** Her hap - It was a chance in reference to second causes, but ordered by God's providence. God wisely orders small events, even those that seem altogether contingent. Many a great affair is brought about by a little turn, fortuitous as to men, but designed by God.
+
+**2:4** Said, and c - They expressed their piety, even in their civil conversation, and worldly transactions; which now so many are ashamed of.
+
+**2:7** I pray - She did not boldly intrude herself, but modestly ask leave of us. 'Till now - She is not retired through idleness, for she hath been diligent and constant in her labours. The house - In the little house or tent, which was set up in the fields at these times, and was necessary in those hot countries, where the labourers might retire for a little repose or repast. Being weary with her continued labours, she comes hither to take a little rest.
+
+**2:8** Maidens - Not by the young men, to avoid both occasion of sin, and matter of scandal. Herein he shews his piety and prudence.
+
+**2:9** Touch - So as to offer any incivility or injury to thee.
+
+**2:10** Fell - This was the humblest posture of reverence, either civil when performed to men, or religious, when to God. Take knowledge - That is, shew any respect and kindness to me.
+
+**2:12** Wings - That is, protection and care. An allusion either to hens, which protect and cherish their young ones under their wings; or to the wings of the Cherubim, between which God dwelt.
+
+**2:13** Tho' I be not - I humbly implore the continuance of thy good opinion of me, though I do not deserve it, being a person more mean, necessitous, and, obscure, a stranger, and one born of heathen parents, and not of the holy and honourable people of Israel, as they are.
+
+**2:14** She sat - Not with or among them, but at some little distance from them, as one inferior to them. It is no disparagement to the finest hand, to be reached forth to the needy.
+
+**2:17** An Ephah - About a bushel.
+
+**2:18** Reserved - At dinner, after she had eaten and was sufficed, or satisfied.
+
+**2:19** Where hast thou gleaned to - day? - It is a good question to ask ourselves in the evening, Where have I gleaned to - day? What improvements have I made in grace or knowledge? What have I learned or done, which will turn to account?
+
+**2:20** To the dead - That is, which he formerly shewed to those who are now dead, my husband and his sons whilst they were living, and now continues to us.
+
+**2:21** Harvest - Both barley - harvest, and wheat - harvest. She tells what kindness Boaz had shewed her; but not, how he had commended her. Humility teaches not only not to praise ourselves, but not to be forward in repeating the praise which others have given us.
+
+**2:22** Other field - Whereby thou wilt both expose thyself to many inconveniences, which thou mayst expect from strangers; and incur his displeasure, as if thou didst despise his kindness.
+
+---
+[[WN Ruth 1|← Ruth 1]] · [[Library/John Wesley/Explanatory Notes/Explanatory Notes — Old Testament|Contents]] · [[WN Ruth 3|Ruth 3 →]]

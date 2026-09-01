@@ -1,0 +1,22 @@
+---
+title: "The Letter of Bede to Abbot Albinus"
+author: "Bede"
+work: "Minor Historical Works"
+year: "c. 700–735"
+source: "archive.org: The Minor Historical Works of Venerable Bede, ed. J. A. Giles (1843) — uncorrected OCR; occasional printed side-notes may intrude into the text"
+tags:
+  - venerable-bede
+  - bede-minor
+---
+
+
+# The Letter of Bede to Abbot Albinus
+
+Bede, the Servant of Christ, to the most Beloved and Reverend Father Albinus, Health!
+
+I have thankfully received the testimonies of your love which you have condescended to send me by the hands of our venerable brother Nothelm the priest, and especially your letter, in which you have shown so much solicitude, this second time, to give me aid and information for my Ecclesiastical History, a work which I first undertook at your instigation. Wherefore also I have with great propriety sent it to you, as I was able to finish it, to be copied.* But I intend to repay you by forwarding to you another volume for the same purpose, as I find, also, is consistent with your own wishes, namely, that which I have lately published on the building of Solomon's temple, and its allegorical signification. And I humbly beseech you, most loving father, and Christ's servants who are with you, to intercede fervently with the righteous in behalf of my frailty; and to admonish those, to whom you shall show my work, to do the same. Fare you well, my good and ever loving father in Christ.
+
+* This Epistle appears to have been written about the year 734, to which period Bede brought down his Church History.
+
+---
+[[Library/Venerable Bede/Minor Historical Works/Minor Historical Works|Minor Historical Works]] · [[Library/Venerable Bede/Venerable Bede|Venerable Bede]]

@@ -1,0 +1,37 @@
+---
+title: "Luke 10:17-20"
+author: "John Calvin"
+translator: "William Pringle"
+work: "Harmony of the Evangelists"
+chapter: 96
+year: "1555"
+source: "CCEL calcom32, Calvin Translation Society"
+tags:
+  - calvin-commentaries
+---
+
+# 96. Luke 10:17-20
+
+**Luke 10:17-20**
+
+**17**. And the seventy returned with joy, saying, Lord, even the devils are subject to us in thy name. [^1] **18**. And he said to them, I beheld Satan falling from heaven like lightning. **19**. Lo, I give you power to tread on serpents and scorpions, and on all the power of the enemy, and nothing shall hurt you. **20**. Nevertheless, rejoice not in this, that the spirits are subject to you; but rejoice, because your names are written in heaven.
+
+**17.** *And the seventy returned.* It is evident, that the faith of the *seventy* disciples in the words of Christ had not been full and complete, when they *returned,* exulting over it as a thing new and unexpected, that they had cast out *devils* by the power of Christ. Nay, they had received this power accompanied by a command. At the same time, I have no doubt that, when they departed, they were convinced that nothing which the Master had said to them would fail of its accomplishment; but afterwards, when the matter proceeded to an extent which surpassed their expectations, they were astonished at the sight. [^2] And this is frequently the case with believers, that they receive from the word but a slight perception of the Divine power, and are afterwards excited to admiration by actual experience. What was the nature of that joy will more clearly appear from Christ’s reply.
+
+**18.** *I beheld Satan* From one instance Christ leads them to the whole class; for he commanded his Gospel to be published for the very purpose of overturning Satan’s kingdom. [^3] So then, while the disciples rested solely on that demonstration which they had obtained from experience, Christ reminds them, that the power and efficacy of their doctrine extends farther, and that its tendency is to extirpate the tyranny which Satan exercises over the whole human race. We have now ascertained the meaning of the words. When Christ commanded that his Gospel should be preached, he did not at all attempt a matter of doubtful result, but foresaw the approaching ruin of Satan. [^4] Now since the Son of God cannot be deceived, and this exercise of his foresight relates to the whole course of the Gospel, we have no reason to doubt, that whenever he raises up faithful teachers, he will crown their labor with prosperous success.
+
+Hence we infer, that our deliverance from the bondage of Satan is effected in no other way than through the Gospel; and that those only make actual proficiency in the Gospel, in whom Satan loses his power, so that sin is destroyed, and they begin to live to the righteousness of God. We ought also to attend to the comparison which he employs, that the thunder of the Gospel makes *Satan fall like lightning;* for it expresses the divine and astonishing power of the doctrine, which throws down, in a manner so sudden and violent, the prince of the world armed with such abundant forces. It expresses also the wretched condition of men, on whose heads fall the darts of Satan, who rules in the air, and holds the world in subjection under his feet, till Christ appear as a Deliverer.
+
+**19.** *Lo, I give you power.* This is said by way of admission. Christ does not affirm that the gift of which they now boast is not illustrious, but reminds them, that they ought to keep their eye chiefly on something loftier still, and not remain satisfied with outward miracles. He does not altogether condemn their joy, as if it were groundless, but shows it to be faulty in this respect, that they were immoderately delighted with a temporal favor, and did not elevate their minds higher. To this disease even the godly are almost all liable. Though the goodness of God is received by them with gratitude, yet the acts of the Divine kindness do not assist them, as they ought to do, by becoming ladders for ascending to heaven. This makes it necessary that the Lord should, as it were, stretch out his hand to raise them up, that they may not rest satisfied with the earth, but may aspire to heavenly renovation. *The power of the enemy* is the name given by him to every kind of annoyance; for all that is hostile to us is wielded against us by Satan. I do not mean that every thing which tends to injure men is placed at his disposal; but that, being armed with the curse of God, he endeavors to turn to our destruction all his chastisements, and seizes them as weapons for the purpose of wounding us.
+
+**20.** *Your names are written.* As it was the design of Christ to withdraw his disciples from a transitory joy, that they might glory in eternal life, he leads them to its origin and source, which is, that they were chosen by God and adopted as his children. He might indeed have commanded them to rejoice that they had been regenerated by the Spirit of God, (Titus 3:5,) and become *new creatures in Christ,* (2 Corinthians 5:17;) that they had been *enlightened* (Ephesians 1:18) in the hope of salvation, and had received *the earnest of the inheritance,* (Ephesians 1:14.) But he intended to point out, that the source from which all these benefits had flowed was the free election of God, that they might not claim any thing for themselves. Reasons for praising God are no doubt furnished by those acts of his kindness which we feel *within* us; but eternal election, which is *without* us, shows more clearly that our salvation rests on the pure goodness [^5] of God. The metaphorical expression, *your names are written in heaven,* means, that they were acknowledged by God as His children and heirs, as if they had been inscribed in a register. [^6]
+
+---
+[[Calvin Harmony of the Evangelists 95 Matthew 11.20-24|← 95. Matthew 11.20-24]] · [[Library/protestant reformers/John Calvin/Biblical Commentaries/Harmony of the Evangelists/harmony-of-the-evangelists-index|Contents]] · [[Calvin Harmony of the Evangelists 97 Matthew 11.25-30|97. Matthew 11.25-30 →]]
+
+[^1]: “Par ton Nom;” — “by thy Name.”
+[^2]: “Ils furent esmerveillez et esbahis de voir cela advenir;” — “they were astonished and overwhelmed at seeing that happen.”
+[^3]: “A ceste fin de renverser et destruire;” — “for the very purpose of overthrowing and destroying.”
+[^4]: “Christ n’a point entreprins, ou essaye une chose a l’aventure, et de laquelle l’issue fust incertaine: mais a veu que la ruine de Satan s’en en-suyvroit;” — “Christ did not undertake or attempt a thing at random, and the result of which was uncertain; but saw that the ruin of Satan would follow from it.”
+[^5]: “La pure et simple bonte;” — “the pure and simple goodness.”
+[^6]: “Comme s’ils estoyent escrits en une rolle, ou enregistrez en quelque livre;” — “as if they were written in a roll, or registered in some book.”

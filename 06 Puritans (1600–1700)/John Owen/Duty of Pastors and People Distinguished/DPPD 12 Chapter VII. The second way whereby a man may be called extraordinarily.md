@@ -1,0 +1,54 @@
+---
+title: "Chapter VII. The second way whereby a man may be called extraordinarily"
+author: "John Owen"
+work: "Duty of Pastors and People Distinguished"
+section: 12
+source: "Christian Classics Ethereal Library (ccel.org)"
+tags:
+  - puritans
+  - john-owen
+---
+
+# Chapter VII. The second way whereby a man may be called extraordinarily
+
+## Chapter VII.
+
+*The second way whereby a man may be called extraordinarily.*
+
+Secondly, A man may be extraordinarily called to the preaching and publishing of God’s word *by a concurrence of Scripture rules*, directory for such occasions, occurrences, and opportunities of time, place, and persons, as he liveth in and under. Rules in this kind may be drawn either from express precept or approved practice. Some of these I shall intimate, and leave it to the indifferent reader to judge whether or no they hold in the application; and all that in this kind I shall propose, I do with submission to better judgments.
+
+1\. Consider, then, that of our Saviour to St Peter, Luke xxii. 32, “When thou art converted, strengthen thy brethren;” which containing nothing but an application of one of the prime dictates of the law of nature, cannot, ought not, to be restrained unto men of any peculiar calling as such. Not to multiply many of this kind (whereof in the Scripture is plenty), add only that of St James, James v. 19, 20, “Brethren, if any of you do err from the truth, and one convert him, let him know, that he which converteth the sinner from the error of his way shall save a soul from death,” etc. From these and the like places it appears to me, that, —
+
+There is a general obligation on all Christians to promote the conversion and instruction of sinners, and men erring from the right way.
+
+2\. Again, consider that of our Saviour, Matt. v. 15, “Men do not light a candle and put it under a bushel, but on a candlestick, and it giveth light unto all that are in the house;” to which add that of the apostle, “If any thing be revealed to another that sitteth by, let the first hold his peace,” 1 Cor. xiv. 30: which words, although primarily they intend extraordinary immediate revelations, yet I see no reason why in their equity and extent they may not be directory for the use of things revealed unto us by Scripture light. At least, we may deduce from them, by the way of analogy, that, —
+
+Whatsoever necessary truth is revealed to any out of the word of God, not before known, he ought to have an uncontradicted liberty of declaring that truth, provided that he use such regulated ways for that his declaration as the church wherein he liveth (if a right church) cloth allow.
+
+3\. Farther, see Amos iii. 8, “The lion hath roared, who will not fear? the Lord God hath spoken, who can but prophesy?” and Jer. xx. 9, “Then I said, I will not make mention of him, nor speak any more in his name. But his word was in mine heart as a burning fire shut up in my bones; and I was weary with forbearing, and I could not stay;” with the answer of Peter and John to the rulers of the Jews, Acts iv. 19, 20, “Whether it be right in the sight of God to hearken unto you more than unto God, judge ye; for we cannot but speak the things which we have seen and heard.” Whence it appears, that, —
+
+Truth revealed unto any carries along with it an unmovable persuasion of conscience (which is powerfully obligatory) that it ought to be published and spoken to others.
+
+That none may take advantage of this to introduce confusion into our congregations, I gave a sufficient caution in the second rule.
+
+Many other observations giving light to the business in hand might be taken from the common dictates of nature, concurring with many general precepts we have in the Scripture, but, omitting them, the next thing I propose is the practice, etc., —
+
+1\. Of our Saviour Christ himself, who did not only pose the doctors when he was but twelve years old, Luke ii. 46, but also afterward preached in the synagogue of Nazareth, chap. iv. 16–22, being neither doctor, nor scribe, nor Levite, but of the tribe of Judah (concerning which tribe it is evident that Moses spake nothing concerning the priesthood).
+
+2\. Again, in the eighth of the Acts, great persecution arising against the church after the death of Stephen, “they were all scattered abroad from Jerusalem,” verse 1, — that is, all the faithful members of the church, — who being thus dispersed, “went everywhere preaching the word,” verse 4; and to this their publishing of the gospel (having no warrant but the general engagement of all Christians to further the propagation of Christ’s kingdom), occasioned by their own persecution, the Lord gave such a blessing, that they were thereby the first planters of a settled congregation among the Gentiles, they and their converts being the first that were honoured by the name of Christians, Acts xi. 21, 26.
+
+3\. Neither is the example of St Paul altogether impertinent, who with his companions repaired unto the synagogues of the Jews, and taught them publicly, yea, upon their own request, Acts xiii. 15. Apollos also spake boldly and preached fervently when he knew only the baptism of John, and needed himself farther instruction. Acts xviii. 24–26. It should seem, then, in that juncture of time, he that was instructed in any truth not ordinarily known might publicly acquaint others with it, though he himself were ignorant in other points of high concernment; yet, perhaps, now it is not possible that any occurrences should require a precise imitation of what was not only lawful but also expedient in that dawning towards the clear day of the last unchangeable revelation of God’s will. Now, in these and the like there is so much variety, such several grounds and circumstances, that no direct rule can from them be drawn; only, they may give strength to what from the former shall be concluded.
+
+For a farther light to this discourse, consider what desolate estate the church of God hath been, may be, and at this present in divers places is, reduced to. Her silver may become dross, and her wine be mixed with water, the faithful city becoming a harlot; her shepherds may be turned into dumb, sleeping dogs, and devouring wolves; the watchmen may be turned smiters, her prophets to prophesy falsely, and her priests to bear rule by lies; the commandments of God being made void by the traditions of men, superstition, human inventions, will-worship, may defile and contaminate the service of God; yea, and greater abominations may men possessing Moses’ chair by succession do.[^1] Now, that the temple of God hath been thus made a den of thieves, that the abomination of desolation hath been set up in the holy place, is evident from the Jewish and Christian church; for in the one it was clearly so when the government of it was devolved to the scribes and Pharisees, and in the other when the man of sin had exalted himself in the midst thereof. Now, suppose a man living in the midst and height of such a sad apostasy, when a universal darkness had spread itself over the face of the church; if the Lord be pleased to reveal unto him out of his word some points of faith, then either not at all known or generally disbelieved, yet a right belief whereof is necessary to salvation; and, farther, out of the same word shall discover unto him the wickedness of that apostasy, and the means to remove it, — I demand whether that man, without expecting any call from the fomenters and maintainers of those errors with which the church at that time is only not destroyed, may not preach, publish, and publicly declare the said truths to others (the knowledge of them being so necessary for the good of their souls), and conclude himself thereunto called of God, by virtue of the fore-named and other the like rules? Truly, for my part (under correction), I conceive he may, nay, he ought; neither is any other outward call requisite to constitute him a preacher of the gospel than the consent of God’s people to be instructed by him. For instance: suppose that God should reveal the truth of the gospel to “a mere layman” (as they say) in Italy, so that he be fully convinced thereof, what shall he now do? abstain from publishing it, though he be persuaded in conscience that a great door of utterance might be granted unto him, only because some heretical, simoniacal, wicked, antichristian prelate hath not ordained him minister, who yet would not do it unless he will subscribe to those errors and heresies which he is persuaded to be such? Truly, I think by so abstaining he should sin against *the law of charity*, in seeing, not the ox or ass of his brother falling into the pit, but their precious souls sinking to everlasting damnation, and not preventing it when he might; and were he indeed truly angry with his whole nation, he might have the advantage of an Italian revenge.
+
+Moreover, he should sin against the *precept* of Christ, by hiding his light under a bushel, and napkening up his talent, an increase whereof will be required of him at the last day. Now, with this I was always so well satisfied, that I ever deemed all curious disquisition after the outward vocation of our first reformers, Luther, Calvin, etc., altogether needless, the case in their days being exactly that which I have laid down.
+
+Come we now to the third and last way whereby men, not partakers of any outward ordinary vocation, may yet receive a sufficient warrant for the preaching and publishing of the gospel, and that by some outward act of Providence guiding them thereunto. For example: put case a Christian man should, by any chance of providence, be cast, by shipwreck, or otherwise upon the country of some barbarous people that never heard of the name of Christ, and there, by His goodness that brought him thither, be received amongst them into civil human society, may he not, nay, ought he not, to preach Christ unto them? and if God give a blessing to his endeavours, may he not become a pastor to the converted souls? None, I hope, makes any doubt of it; and in the primitive times nothing was more frequent than such examples. Thus were the Indians and the Moors turned to the faith, as you may see in Eusebius; yea, great was the liberty which in the first church was used in this kind, presently after the supernatural gift of tongues ceased amongst men.
+
+
+---
+[^1]: Ezek. xxii. 27, 28, viii. 13.
+
+
+---
+[[DPPD 11 Chapter VI. What assurance men extraordinarily called can give to others that|← Chapter VI. What assurance men extraordinarily called can give to others that they are so called in the former way]] · [[Duty of Pastors and People Distinguished|Contents]] · [[DPPD 13 Chapter VIII. Of the liberty and duty of gifted uncalled Christians in the|Chapter VIII. Of the liberty and duty of gifted uncalled Christians in the exercise of divers acts of God’s worship →]]

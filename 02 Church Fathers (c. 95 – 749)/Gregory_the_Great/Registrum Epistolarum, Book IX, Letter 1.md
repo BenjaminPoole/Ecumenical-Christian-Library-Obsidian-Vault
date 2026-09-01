@@ -1,0 +1,24 @@
+---
+title: "Registrum Epistolarum, Book IX, Letter 1"
+author: "Gregory the Great"
+translator:
+  - "James Barmby"
+series: "Nicene and Post-Nicene Fathers, Second Series"
+volume: "13"
+year: "1898"
+source: "http://www.newadvent.org/fathers/360209001.htm"
+written: "590–604"
+earliest_ms: "8th century (earliest register collections)"
+corpus_file: "Gregory_the_Great_360209001.xml"
+tags:
+  - church-fathers
+  - written/6th-century
+---
+
+# Registrum Epistolarum, Book IX, Letter 1
+
+To Januarius, Bishop of Caralis (Cagliari).
+
+Gregory to Januarius, etc.
+
+The preacher of Almighty God, Paul the apostle, says, Rebuke not an elder. But this rule of his is to be observed in cases where the fault of an elder does not draw through his example the hearts of the younger into ruin. But, when an elder sets an example to the young for their ruin, he is to be smitten with severe rebuke. For it is written, You are all a snare to the young. And again the prophet says, The sinner being an hundred years old is accursed. But so great wickedness has been reported to us of your old age that, unless we were humanely disposed, we should smite you with a definitive curse. For it has been told me that on the Lord's day, before celebrating the solemnities of mass, you went forth to plough up the crop of the bearer of these presents, and after ploughing it up celebrated the solemnities of mass. Also, after the solemnities of mass you did not fear to root up the landmarks of that possession. What punishment ought to follow such deeds all who hear of them know. We had, however, been in doubt as to so great perversity in you as this; but our son Cyriacus the abbot, having been questioned by us, declared that when he was at Caralis he knew it to be the case. And, seeing that we still spare your gray hairs, bethink you at length, old man, and restrain yourself from such levity of behaviour, and perversity of deeds. The nearer you are approaching death, the more careful and fearful ought you to become. And indeed a sentence of punishment had been launched against you; but, since we know your simplicity accompanying your old age, we meanwhile hold our peace. Those, however, by whose advice you have done these things we decree to be excommunicated for two months; but so that, if within the space of two months anything should happen to them after the manner of humanity they be not deprived of the blessing of the viaticum. But henceforth be cautious to stand aloof from their counsels, lest, if you be their disciple in evil whose master you ought to have been in good, we no longer spare either your simplicity or your old age.

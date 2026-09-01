@@ -1,0 +1,22 @@
+---
+title: "Letter 36"
+author: "Theodoret"
+translator:
+  - "Blomfield Jackson"
+series: "Nicene and Post-Nicene Fathers, Second Series"
+volume: "3"
+year: "1892"
+source: "http://www.newadvent.org/fathers/2707036.htm"
+written: "c. 431–453"
+earliest_ms: "11th–12th century (earliest Greek collections)"
+corpus_file: "Theodoret_2707036.xml"
+tags:
+  - church-fathers
+  - written/5th-century
+---
+
+# Letter 36
+
+To Pompianus, Bishop of Emesa.
+
+I know very well that your means are small and your heart is great, and that in your case generosity is not prevented by limited resources. I therefore introduce to your holiness the admirable and excellent Celestinianus, once enjoying much wealth and prosperity, but now escaped from the hands of the barbarians with nothing but freedom, and having no means of livelihood except the mercy of men like your piety. And cares crowd round him, for travelling with him are his wife, children and servants, whom he has brought with him from no motives but those of humanity, for he cannot think it right to dismiss them when they refuse to abandon him. I beg you of your goodness to make him known to our wealthy citizens, for I think that, after being informed by your holiness and seeing how soon prosperity may fall away, they will bethink them of our common humanity, and, in imitation of your magnanimity, will give him such help as they can.

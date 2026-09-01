@@ -1,0 +1,49 @@
+---
+title: "2 Samuel 17"
+author: "John Wesley"
+work: "Explanatory Notes upon the Old Testament"
+book: "2 Samuel"
+chapter: 17
+year: "1755/1765"
+source: "biblehub.com (Wesley's Explanatory Notes)"
+tags:
+  - wesley
+  - wesley-notes
+---
+
+# 2 Samuel 17
+
+**17:2** And I will, and c. - That such a wretch as Absalom should aim at his father's throat is not strange. But that the body of the people, to whom David had been so great a blessing, should join with him in it, is amazing. But the finger of God was in it. Let not the best of parents, or the best of princes think it strange, if they are injured by those who should be their support and joy, when they (like David) have provoked God to turn against them.
+
+**17:5** Call Hushai - A wonderful effect of Divine Providence, influencing his heart, that he could not rest in Ahithophel's counsel, though it was so evidently wise, and approved by the general consent of his whole party; and that he should desire Hushai's advice, though neither his reputation for wisdom was equal to Ahithophel's, nor had he yet given anyone proof of his fidelity to Absalom. But there is no contending with that God who can arm a man against himself, and destroy him by his own mistakes and passions.
+
+**17:9** Pit - Having been often accustomed to that course, and well acquainted with in all hiding - places from Saul's time. In one of them, unknown to us, he will lurk with some of his chosen men, and lie in ambush for us; and, when they see a fit opportunity, they will suddenly come forth and surprize some of our men, when they least expect it, and probably at first put them to flight. Some - Namely, of Absalom's men sent against David. At the first - Implying, that their good success at first would mightily animate David's men to proceed vigorously in the fight, and intimidate Absalom's army, and consequently would be both a presage and an occasion of their total defeat.
+
+**17:11** I counsel - His pretence was, that they might make sure, though slow work: his design was to gain David time, that he might increase his army, and make better provision for the battle; and that the present heat of the people might be cooled, and they might bethink themselves of their duty, and return to their allegiance. Thou - For thy presence will put life and courage into thy soldiers, who will be ambitious to shew their skill and courage in defending thy person, when they know that all their actions are observed by him who hath the distribution of rewards and punishments in his hands. Besides, the glory of the victory will be wholly thine, which now Ahithophel seeks to get to himself.
+
+**17:12** As dew - That is, plenteously, suddenly, irresistibly, and on all sides; for so the dew falls.
+
+**17:13** Bring ropes - It is an hyperbolical expression, suited to the vain - glorious temper of this insolent young man: implying, that they would do so if they could not destroy him another way: or, that they should be enough to do so, if there were occasion. River - Adjoining to the city; it being usual to build cities near some river, both for defence, and for other accommodations.
+
+**17:14** Absalom and all, and c. - Be it observed, to the comfort of all that fear God, he turns all mans hearts as the rivers of water. He stands in the congregation of the mighty, has an over - ruling hand in all counsels, and a negative voice in all resolves, and laughs at mens projects against his children.
+
+**17:16** Lodge not - Lest the king's and people's mind's change, and Ahithophel persuade the king to pursue you speedily.
+
+**17:17** Enrogel - Or, the fullers well. A place near Jerusalem, Josh 15:7 18:16. Wench - Pretending to go thither to wash some cloaths, or to draw water.
+
+**17:19** Spread corn - Under pretence of drying it by the sun: which shews it was summer - time.
+
+**17:20** Over the brook of water - That is, over Jordan. This was a manifest lie.
+
+**17:23** Hanged himself - See here contempt poured upon the wisdom of man! He that was more renowned for policy than ever any man was, played the fool with himself more than ever any man did. See likewise honour done to the justice of God! The wicked is snared in the work of his own hands.
+
+**17:24** Passed - Not speedily, but when all the men of Israel were gathered together according to Hushai's counsel.
+
+**17:25** Nahash - Nahash is the name of Jesse's wife, by whom he had this Abigail, as he had Zeruiah by another wife; so they were sisters by the father, but not by the mother.
+
+**17:27** Shobi - Who, as it may seem, disliked and disowned that barbarous action to the ambassadors; and therefore, when the rest were destroyed, was left king or governor of the residue of the Ammonites. Machir - See above chap.9:4.
+
+**17:29** In - Having been in the wilderness. Thus God sometimes makes up to his people that comfort from strangers, which they are disappointed of in their own families.
+
+---
+[[WN 2 Samuel 16|← 2 Samuel 16]] · [[Library/John Wesley/Explanatory Notes/Explanatory Notes — Old Testament|Contents]] · [[WN 2 Samuel 18|2 Samuel 18 →]]

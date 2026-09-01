@@ -1,0 +1,32 @@
+---
+title: "Registrum Epistolarum, Book III, Letter 3"
+author: "Gregory the Great"
+translator:
+  - "James Barmby"
+series: "Nicene and Post-Nicene Fathers, Second Series"
+volume: "12"
+year: "1895"
+source: "http://www.newadvent.org/fathers/360203003.htm"
+written: "590–604"
+earliest_ms: "8th century (earliest register collections)"
+corpus_file: "Gregory_the_Great_360203003.xml"
+tags:
+  - church-fathers
+  - written/6th-century
+---
+
+# Registrum Epistolarum, Book III, Letter 3
+
+To John, Abbot.
+
+Gregory to John, etc.
+
+Your Love has requested me that brother Boniface might be ordained Prior (præpositus) in your monastery; as to which request I wonder much why it has not been done before. For since the time when I caused him to be given to you you ought already to have ordained him.
+
+With regard to the tunic of Saint John, I have been altogether gratified by your anxiety to tell me of it. But let your Love endeavour to send me this tunic, or (better still) this same bishop who has it, with his clergy and with the tunic itself, to the end that we may enjoy the blessing thereof, and be able to derive benefit from this bishop and his clergy. I have been desirous of putting an end to the cause that is pending with Florianus, and have already advanced to him as much as eighty solidi, which I believe he proposes should be given him in compensation for the monastery 's debt; and I am altogether desirous that this cause should be settled, inasmuch as Stephen the chartularius is said to be urgent that the aforesaid Florianus should transfer it to public cognizance, and it is distasteful to us to be engaged in a public lawsuit. Wherefore we must needs make some concession, so as to be able to bring this same cause to a composition. When this shall have been done, we will inform your Love of it.
+
+But do thou give your whole attention to the souls of the brethren. Let it be now enough that the reputation of the monastery has been stained through your negligence. Do not often go abroad. Appoint an agent for these causes, and do thou leave yourself time for reading and prayer.
+
+Be attentive to hospitality; as far as you are able, give to the poor; yet so as to keep what ought to be restored to Florianus. Moreover, among the brethren of your monastery whom I see I do not find addiction to reading. Wherefore you must needs consider how great a sin it is, that God should have sent you alimony from the offerings of others, and you should neglect learning the commandments of God.
+
+Further, with regard to the six twelfths, unless we see the original deed, or a copy of it, we can do nothing. But I have sent an order to the servant of God, Florentinus, that, if the truth should be made apparent to him, he restore to you the six twelfths; after the restoration of which we will either grant the remaining six twelfths on lease or commute the revenue.

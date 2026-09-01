@@ -1,0 +1,34 @@
+---
+title: "That the Intellect of a Separate Substance is Always in Act of Understanding"
+work: "Summa Contra Gentiles"
+book: "Book Two — Creation"
+book_no: 2
+chapter: 97
+author: "Thomas Aquinas"
+translator: "James F. Anderson (Hanover House, 1955–57), ed. Joseph Kenny O.P."
+source: "https://isidore.co/aquinas/english/ContraGentiles2.htm"
+tags:
+  - aquinas
+  - summa-contra-gentiles
+  - written/13th-century
+---
+
+# Chapter 97. That the Intellect of a Separate Substance is Always in Act of Understanding
+
+*Book Two — Creation, Chapter 97* — Summa Contra Gentiles
+
+[1] The truth of this statement clearly emerges from what was said above.
+
+[2] For, whatever is sometimes in act and sometimes in potentiality is measured by time. But the intellect of a separate substance is above time, as we have just shown. Therefore, it is not sometimes in act of understanding and sometimes not.
+
+[3] Moreover, there is always actually present in every living substance some vital operation with which it is endowed by its very nature, although other operations are sometimes present potentially. Thus, the process of nourishment is perpetual in animals, but not sensation. Now, as preceding considerations make clear, separate substances are living substances, and the only vital operation which they have is understanding. It follows that they are by their very nature always actually understanding.
+
+[4] Then, too, the philosophers teach that the separate substances move the heavenly bodies by their intellect. But the movement of the heavenly bodies is always continuous. Therefore, the act of understanding exercised by separate substances is continuous and perpetual.
+
+[5] And the same conclusion follows even if that teaching is denied, because separate substances are higher than the heavenly bodies; so that, if the proper operation of a heavenly body, namely, its movement, is continuous, for all the more reason will the proper operation of separate substances, namely, understanding, be continuous.
+
+[6] Furthermore, whatever sometimes operates and sometimes does not operate is moved either through itself or by accident. Changes occurring in the sensible part of our nature, then, are responsible for the fact that we are sometimes understanding and sometimes not understanding, as Aristotle observes in *Physics* VIII [6]. But separate substances are not moved through themselves, since they are not bodies, nor are they moved by accident, because they are not united to bodies; so that in them understanding, which is their proper operation, is not intermittent, but continuous.
+
+
+---
+[[SCG II.96 That Separate Substances Do not Receive Their|← II.96. That Separate Substances Do not Receive Their Knowledge from Sensible Things]] · [[Book Two - Creation|Book Two — Creation Contents]] · [[SCG II.98 How One Separate Substance Understands Another|II.98. How One Separate Substance Understands Another →]]

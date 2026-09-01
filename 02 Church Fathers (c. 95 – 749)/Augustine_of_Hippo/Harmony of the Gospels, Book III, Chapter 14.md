@@ -1,0 +1,22 @@
+---
+title: "Harmony of the Gospels, Book III, Chapter 14"
+author: "Augustine"
+translator:
+  - "S.D.F. Salmond"
+series: "Nicene and Post-Nicene Fathers, First Series"
+volume: "6"
+year: "1888"
+source: "http://www.newadvent.org/fathers/1602314.htm"
+written: "c. 400"
+earliest_ms: "5th century (earliest copies)"
+corpus_file: "Augustine_of_Hippo_1602314.xml"
+tags:
+  - church-fathers
+  - written/4th-century
+---
+
+# Harmony of the Gospels, Book III, Chapter 14
+
+## Chapter 14. Of the Harmony Preserved Among All the Evangelists on the Subject of the Two Robbers Who Were Crucified Along with Him.
+
+51. Matthew continues his narrative in the following terms: Then were there two robbers crucified with Him, one on the right hand, and another on the left. Mark and Luke give it also in a similar form. Neither does John raise any question of difficulty, although he has made no mention of those robbers. For he says, And two other with Him, on either side one,and Jesus in the midst. But there would have been a contradiction if John had spoken of these others as innocent, while the former evangelists called them robbers.

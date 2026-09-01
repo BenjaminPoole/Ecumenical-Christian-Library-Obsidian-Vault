@@ -1,0 +1,24 @@
+---
+title: "Registrum Epistolarum, Book IX, Letter 19"
+author: "Gregory the Great"
+translator:
+  - "James Barmby"
+series: "Nicene and Post-Nicene Fathers, Second Series"
+volume: "13"
+year: "1898"
+source: "http://www.newadvent.org/fathers/360209019.htm"
+written: "590–604"
+earliest_ms: "8th century (earliest register collections)"
+corpus_file: "Gregory_the_Great_360209019.xml"
+tags:
+  - church-fathers
+  - written/6th-century
+---
+
+# Registrum Epistolarum, Book IX, Letter 19
+
+To the Husbandmen (Colonos) of the Syracusan Patrimony.
+
+Gregory to the Coloni, etc.
+
+I would have you know that we have arranged for you to be put under the care of our guardian (defensoris). And accordingly we order you to obey him without any reluctance in what he may see fit to do, and enjoin on you to be done, for the advantage of the Church. We have given him such power as to enable him to inflict strict punishment on those who may attempt to be disobedient or contumacious. And we have likewise charged him that he delay not with instant attention to recover to ecclesiastical jurisdiction any slaves who are in hiding outside their limits, or any one by whom boundaries have been invaded. For know that he has been warned on his peril, that he presume not ever under any kind of excuse to do any wrong or robbery in regard to what belongs to others.

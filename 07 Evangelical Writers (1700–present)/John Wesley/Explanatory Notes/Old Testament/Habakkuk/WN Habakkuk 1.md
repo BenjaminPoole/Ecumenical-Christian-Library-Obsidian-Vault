@@ -1,0 +1,43 @@
+---
+title: "Habakkuk 1"
+author: "John Wesley"
+work: "Explanatory Notes upon the Old Testament"
+book: "Habakkuk"
+chapter: 1
+year: "1755/1765"
+source: "biblehub.com (Wesley's Explanatory Notes)"
+tags:
+  - wesley
+  - wesley-notes
+---
+
+# Habakkuk 1
+
+**1:1** The burden - The prophet seems to speak of these grievous things, as a burden which he himself groaned under.
+
+**1:4** Therefore - Because the wicked go on with impunity. The law - The whole law, moral, ceremonial, and judicial. Is slacked - Is slighted, and not observed. Go forth - From magistrates, judges, and public officers. Doth compass about - As it were besieges, with design to oppress and ruin.
+
+**1:5** Behold ye - Here God begins to answer the prophet. Among the heathen - See what judgments have been executed upon the heathen for like sins.
+
+**1:6** Bitter - Cruel, and without mercy. Hasty - Speedy in executing their merciless purposes.
+
+**1:7** Their judgment - The law they observe, is their own will. Their dignity - Their authority is all from themselves, without respect to any other law or rule whatever.
+
+**1:8** The evening wolves - Which with fasting in the day, came out in the evening, fierce and ravenous. Shall spread - All over the land.
+
+**1:9** For violence - To enrich themselves by making a prey of all. Their faces - Their very countenances shall be as blasting as the east - wind.
+
+**1:10** At the kings - Which opposed their designs. And take it - By mighty mounts cast up.
+
+**1:12** Shall not die - Be utterly destroyed. Ordained - Set up, and designed. Them - The Chaldean kingdom. For judgment - To execute this judgment, which is tempered with mercy. For correction - To chastise, not to destroy.
+
+**1:14** And makest - Not infusing cruel appetites, but permitting them to act according to such appetite which was already in them. As the fishes - Of which the greater greedily devour the smaller. Creeping things - Which in the waters are food for the lesser fry; so the world, like the sea, is wholly oppression. No ruler - None to defend the weak, or restrain the mighty.
+
+**1:15** They - The Chaldeans draw out all alike, good or bad. In their net - Destroying many together. And gather - As if they could never have enough, they drive men into their nets.
+
+**1:16** They sacrifice - Ascribe the praise of their victories. Their net - To their own contrivances, diligence, and power.
+
+**1:17** Empty their net - As fisher - men empty the full net to fill it again.
+
+---
+[[WN Nahum 3|← Nahum 3]] · [[Library/John Wesley/Explanatory Notes/Explanatory Notes — Old Testament|Contents]] · [[WN Habakkuk 2|Habakkuk 2 →]]

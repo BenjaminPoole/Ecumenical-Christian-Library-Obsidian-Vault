@@ -1,0 +1,24 @@
+---
+title: "Registrum Epistolarum, Book XII, Letter 8"
+author: "Gregory the Great"
+translator:
+  - "James Barmby"
+series: "Nicene and Post-Nicene Fathers, Second Series"
+volume: "13"
+year: "1898"
+source: "http://www.newadvent.org/fathers/360212008.htm"
+written: "590–604"
+earliest_ms: "8th century (earliest register collections)"
+corpus_file: "Gregory_the_Great_360212008.xml"
+tags:
+  - church-fathers
+  - written/6th-century
+---
+
+# Registrum Epistolarum, Book XII, Letter 8
+
+To Columbus, Bishop of Numidia.
+
+Gregory to Columbus, etc.
+
+How serious, and intolerable even to be heard of, is the complaint of Donadeus, the bearer of these presents, who describes himself as having been a deacon, will be made manifest to your Fraternity by the petition presented by him, which is contained in what is subjoined below. But, since it has come to our ears that he had been deposed for bodily sin, let your Love make full enquiry into this, and, if it is so, let him be consigned to penance, that he may free himself by tears from the bond of the profligacy of which he has been guilty. If, however, he should be proved innocent of any such transgression, all that his petition contains must be enquired into with diligent examination by you, together with the primate of the council, and others our brethren and fellow bishops. And, if his complaint is supported by the truth, let both such strictness of canonical discipline be brought to bear on his bishop Victor, who has not lighted to commit so great a wickedness against God and his own priestly profession, that he may understand the wickedness of what he has done; and let the man himself be restored to his order: for it is indeed preposterous, and confessedly against ecclesiastical order, that any one whom his own fault or crime does not depose from the rank of the office which he fills should be deprived invalidly at the will of this or that person.

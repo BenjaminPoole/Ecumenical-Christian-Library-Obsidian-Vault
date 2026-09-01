@@ -1,0 +1,59 @@
+---
+title: "Jeremiah 8"
+author: "John Trapp"
+work: "A Commentary or Exposition upon the Old and New Testaments"
+book: "Jeremiah"
+chapter: 8
+year: "1647-1662"
+source: "archive.org: John Trapp's Bible Commentary (JohnTrappsBibleCommentaries, per-book EPUBs)"
+tags:
+  - john-trapp
+  - trapp-commentary
+---
+
+# Jeremiah 8
+
+**Ver. 1.** At that time they shall bring out the bones.] They shall not suffer the dead to rest in their graves, maxime propter ornamenta in sepulchris condita, chiefly for the treasure the Chaldees shall there look for. See 2 Chronicles 36:19 Ne 2:3; Joseph. Antiq., lib. xiii. c. 15. /Apc Bar 2:24. For extremity of despite also, dead men’s bones have been digged up. Pope Formosus was so dealt with by his successor, Stephanus VI, and many of the holy martyrs by their barbarous persecutors. Cardinal Pool had a purpose to have taken up King Henry VIII’s body at Windsor, and to have burned it, but was prevented by death. Charles V would not violate Luther’s grave, though he were solicited so to do when he had conquered Saxony. But if he had, it had been never the worse with Luther; who, being asked where he would rest, answered, Sub coelo: coelo tegitur qui caret urna. Under the sky: the sky is the covering for those who lose their funeral urn. Of all fowl, we most hate and detest the crows; and of all beasts the jackals, a kind of foxes in Barbary; because the one digs up the graves and devours the flesh, the other picketh out the eyes of the dead. A.D. 897. Acts and Mon., 1905. Ibid., 1784.
+
+**Ver. 2.** And they shall spread them before the sun.] Whom these idolaters had worshipped while they were alive, and thought they could never do enough for, as is hinted by those many expressions in the text. Whom they have loved, and whom they have served, &c.] Innuitur poena talionis, saith Piscator. Their dead bodies shall lie unburied in the sight of these their deities, who could do them no good either alive or dead.
+
+**Ver. 3.** And death shall be chosen rather than life.] Vae victis. Alas O survivers, they being captives, and sorely oppressed, shall sing that doleful ditty, “ O terque quaterque beati Queis ante ora patrum, Solymae sub moenibus altis Contigit oppetere.” Oh how happy were they that perished during the siege, or in the surprisal of the city! Life indeed is sweet, as we say; and man is a life loving creature, said that heathen; but it may happen that life shall be a burden and a bitterness. How oft doth Job unwish it, and how fain would Elijah have been rid of it! So little cause is there that any good man should be either fond of life, or afraid of death.
+
+**Ver. 4.** Shall they fall, and not arise?] Or, When men fall, will they not arise? Or, Will not one that hath turned aside return? To fall may befall any man; but shall he lie there, and not essay to get up again? To lose his way may be incident to the wisest; but who but a fool would not make haste to get into the right way again Errare humanum est: perseverare, diabolicum. To error is human, to continue erring is devilish. And yet these stubborn Jews refuse to rise or return.
+
+**Ver. 5.** Why then is this people of Jerusalem? &c.] Why else but because they are void of all true reason, and quite beside themselves in point of salvation? Their pertinace, or rather pervicacy, in sinning is altogether insuperable. Monoceros interimi potest, capri non potest. The unicorn is able to be killed, the billy goat can not. They hold fast deceit.] They hold close to their false prophets, or rather a false heart of their own hath deceived them. *[as Jeremiah 8:11]* A deceived heart hath turned them aside. *[as Isaiah 44:20; see there]*
+
+**Ver. 7.** Yea, the stork in the heaven knoweth her appointed times.] These souls, though wanting reason, know well when to change quarters, whether against summer, as the stork, turtle, and swallow, or against winter, as the crane. But my people know not the judgment of the Lord.] Whether his summer of grace offered, or his winter of punishment threatened; to embrace the one or to prevent the other. See a like dissimilitude and opposition, Isaiah 1:3.
+
+**Ver. 8.** How do ye say, We are wise?] If ye were so, ye would never say so. "Surely I am more brutish than any man," said holy Agur. (Proverbs 30:2) This only I know, that I know nothing, said Socrates. Neither know I so much as this, that I know just nothing, said a third. How could these in the text say, "We are wise," when the fowls of the air outwitted them? Compare Job 35:11. The law of the Lord is with us.] Vox est Pharisaeorum. The voice is of the Pharisees. So the Jesuits to this day (as of old the Gnostics) will needs be held the only knowing men. The empire of learning belongeth to the Jesuits, say they; a Jesuit cannot be a heretic. Iungantur in unum, dies cum nocte, lux cum tenebris, &c., May they join into one, day with night, light with darkness &c, i.e., Let day and night be jumbled together, light and darkness, heat and cold, health and sickness, life and death; so may there be some likelihood that a Jesuit may be a heretic, saith one of them. The Church is the soul of the world, the clergy of the Church, and we of the clergy, saith another. Lo, certainly in vain made he it,] i.e., The law, for any good use that this people or their leaders put it to. See Hosea 8:12 Ro 2:17-25. Casaub. ex Apologista.
+
+**Ver. 9.** The wise men are ashamed.] They have cause to be ashamed of their gross ignorance and folly, (Jeremiah 8:7,8) and greater cause than ever humble Augustine had to say, Scientia mea me damnat, My knowledge undoeth me. Lo, they have rejected the word of the Lord.] As to any holy practice, their knowledge is only apprehensive and notional, not affective and practical. And what wisdom is in them?] q.d., None worth speaking of; they lose their civil praises, because not wise to salvation.
+
+**Ver. 10.** Therefore will I give their wives.] For a punishment of their rejecting my Word, which ought to be received with all reverence and good affection. The Turks do so highly respect the Koran (which is their Bible), that if a Christian do but sit upon it, though unwittingly, they presently put him to death. For every one, &c.] See Jeremiah 6:13. Dilher. Elect., lib. i. cap. 2.
+
+**Ver. 11.** For they have healed.] See Jeremiah 6:14.
+
+**Ver. 12.** Were they ashamed?] See Jeremiah 6:15.
+
+**Ver. 13.** I will surely consume them, saith the Lord.] Texitur hic quasi tragoediae scena. Constructed here just as a theatre tragedy. Here followeth a kind of tragedy, saith an expositor; God is brought in threatening, the prophet bewailing, the people despairing, and yet bethinking themselves of some shelter and safeguard, if they knew where to find it, &c. There shall be no grapes on the vine, nor figs.] But instead thereof I will "give them waters of gall to drink." (Jeremiah 8:14) Tremeliius and Piscator read it thus: There are no grapes on the vine, nor figs on the fig tree, yea, the leaves are fallen; that is, say they, there is no power of godliness found among them, no, not so much as any profession, neither fruit nor leaf. And the things that I have given them shall pass away.] I will "curse their blessings," (Malachi 2:2) and destroy them after that I have done them good. (Joshua 24:2-13)
+
+**Ver. 14.** Why do we sit still?] Here the people speak (see on Jeremiah 8:13), being grievously frightened upon the coming of the Chaldees, and thereupon consulting what course to take; but all would not do. (Jeremiah 8:16) Let us be silent.] Sic silent pavidi mures coram fele. So they were as a panic struck mouse in the eyes of a cat. For the Lord our God hath put us to silence.] Hath expelled our courage and stopped our mouths. And hath given us water of gall to drink.] Succum cicutae, juice of hemlock, our bane, our death’s draught; so that now we know, by woeful experience, what an evil and bitter thing sin is; for a drop of honey we have now a sea of gall.
+
+**Ver. 15.** We looked for peace, but no good came.] Our false prophets have merely deluded us. So poor souls, when stung by the friars’ sermons, were set to penances and good deeds, which stilled them for a while, but could not yield them any lasting comfort. The soul is still ready to shift and shark in every bycorner for ease; but that will not be till it comes to Christ.
+
+**Ver. 16.** The snorting of his horses was heard from Dan.] See Jeremiah 4:15. This caused in the Jews’ hearts a motion of trepidation. *[cf. Job 39:20]* It is the privilege of believers in nothing to be terrified by their adversaries, (Philippians 1:28) but with the horse spoken of, (Job 39:22) to mock at fear, and not to turn back from the dint of the sword.
+
+**Ver. 17.** Behold, I will send serpents, cockatrices,] i.e., Chaldees, no less virulent than serpents, as violent as horses. Serpentum tot sunt venena quot genera, tot pernicies quot species, tot dolores quot colores, saith an ancient. Serpents are of several sorts, but all poisonous and pernicious. The basilisk or cockatrice here instanced (the worst sort of serpents, say the Septuagint here) goeth not upon the belly, as other serpents, but erect from the middle part, and doth so infect the air, that by the pestilent breath coming therefrom fruits are killed, and men being but looked upon by it, and birds flying over it; stones also are broken thereby, and all other serpents put to flight. And they shall bite you.] There is an elegance in the original. Isidor., lib. xii. cap. 2. Diod., Piscator.
+
+**Ver. 18.** When I would comfort myself, &c.] Or, as some render it, O my comfort against sorrow, i.e., O my God; others, My recreation is joined with sorrow.
+
+**Ver. 19.** Behold, the voice of the cry.] This was it that broke the good prophet’s heart, the shrieks of his people. Is not the Lord in Zion?] Thus in their distress they leaned upon the Lord, *[as Micah 3:11]* and inquired after him, whom in their prosperity they made little reckoning of. Why have they provoked me to anger?] q.d., The fault is merely in themselves, who have driven me out from among them by their idolatries. Haec est querela hypocritarum. This is the complain of the hypocrites— Oecol.
+
+**Ver. 20.** The harvest is past, the summer is ended.] They had set God a time, and looked for help that summer at farthest; but the Lord, as he never faileth in his own time, so he seldom comes at ours. Let us think we hear our poor brethren in Piedmont, Poland, Pomerania, complaining to us in this sort, and be excited to help them by our prayers and reliefs, &c.
+
+**Ver. 21.** For the hurt of the daughter of my people am I hurt, I am black.] Or, I go in black, mourner like; for I am denigrated and contemned for bewailing my people’s misery, who neither feel nor fear hurt.
+
+**Ver. 22.** Is there no balm in Gilead?] Yes, surely, there or nowhere; in Gilead grew a balsam, good to make salves for all sores, they say. This balsam grew there only in two large gardens, which belonged to the king. The nature of the tree could not abide iron, but presently died if cut never so small a depth; they used, therefore, glass, bone knives, sharp stones, to get the gum out of the tree. Is there no physician there?] Or, No surgeon there, where this medicinal simple so aboundeth but this people’s sorrow is immedicable, their disease desperate— docta plus valet arte malum. The learned is more strong by the knowledge of evil. The balm of the soul is prayer, saith the Chaldee paraphrast; is repentance, saith Jerome; is Christ applied by faith, say we. Sanguis medici est curatio phrenetici. The blood of the doctor is the cure of the mad. To this almighty Physician no disease can be incurable.
+
+---
+[[JT Jeremiah 07|← Jeremiah 7]] · [[Library/John Trapp/Old Testament/John Trapp — Old Testament|Contents]] · [[JT Jeremiah 09|Jeremiah 9 →]]

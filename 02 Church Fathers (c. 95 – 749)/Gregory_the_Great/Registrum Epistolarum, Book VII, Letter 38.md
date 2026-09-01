@@ -1,0 +1,24 @@
+---
+title: "Registrum Epistolarum, Book VII, Letter 38"
+author: "Gregory the Great"
+translator:
+  - "James Barmby"
+series: "Nicene and Post-Nicene Fathers, Second Series"
+volume: "12"
+year: "1895"
+source: "http://www.newadvent.org/fathers/360207038.htm"
+written: "590–604"
+earliest_ms: "8th century (earliest register collections)"
+corpus_file: "Gregory_the_Great_360207038.xml"
+tags:
+  - church-fathers
+  - written/6th-century
+---
+
+# Registrum Epistolarum, Book VII, Letter 38
+
+To Donus, Bishop.
+
+Gregory to Donus, Bishop of Messana (Messene).
+
+The ordinances both of the sacred canons and of the laws allow the utensils of the Church to be sold for the redemption of captives. And so, seeing that Faustinus, the bearer of these presents, is proved to have contracted a debt of three hundred and thirty solidi for the purpose of redeeming his daughters from the yoke of captivity, and that, thirty thereof having been repaid, it is certain that he has not sufficient means for the repayment of the remaining sum, we exhort your Fraternity by this communication that you by all means give him fifteen pounds, taking his receipt for the same, out of the silver in your hands belonging to the Meriensian Church, of which he is known to be a soldier; so that, it being sold, and the debt paid, he may be freed from the bond of his obligation. But of this also your Fraternity should be careful, that in case of the aforesaid Church having so much current coin, he should receive from it the amount above-written; but otherwise you must needs supply him for the purpose in view with the sum we have stated from the consecrated vessels. For, as it is a very serious thing to sell idly ecclesiastical utensils, so on the other hand it is wrong, under pressing necessity of this kind, for an exceedingly desolated Church to prefer its property to its captives, or to loiter in redeeming them.

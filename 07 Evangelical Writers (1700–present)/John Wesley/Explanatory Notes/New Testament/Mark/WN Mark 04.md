@@ -1,0 +1,57 @@
+---
+title: "Mark 4"
+author: "John Wesley"
+work: "Explanatory Notes upon the New Testament"
+book: "Mark"
+chapter: 4
+year: "1755/1765"
+source: "CCEL EPUB (Wesley's Notes on the Bible)"
+tags:
+  - wesley
+  - wesley-notes
+---
+
+# Mark 4
+
+**1.** Matt. xiii, 1; Luke viii, 4.
+
+**2.** He taught them many things by parables - After the usual manner of the eastern nations, to make his instructions more agreeable to them, and to impress them the more upon attentive hearers. A parable signifies not only a simile or comparison, and sometimes a proverb, but any kind of instructive speech, wherein spiritual things are explained and illustrated by natural, Prov. i, 6. To understand a proverb and the interpretation - The proverb is the literal sense, the interpretation is the spiritual resting in the literal sense killeth, but the spiritual giveth life.
+
+**3.** Hearken - This word he probably spoke with a loud voice, to stop the noise and hurry of the people.
+
+**10.** When he was alone - That is, retired apart from the multitude.
+
+**11.** To them that are without - So the Jews termed the heathens: so our Lord terms all obstinate unbelievers: for they shall not enter into his kingdom: they shall abide in outer darkness.
+
+**12.** So that seeing they see and do not perceive - They would not see before now they could not, God having given them up to the blindness which they had chosen.
+
+**13.** Know ye not this parable? - Which is as it were the foundation of all those that I shall speak hereafter; and is so easy to be understood?
+
+**19.** The desire of other things choke the word - A deep and important truth! The desire of any thing, otherwise than as it leads to happiness in God, directly tends to barrenness of soul. Entering in - Where they were not before. Let him therefore who has received and retained the word, see that no other desire then enter in, such as perhaps till then he never knew. It becometh unfruitful - After the fruit had grown almost to perfection.
+
+**21.** And he said, Is a candle - As if he had said, I explain these things to you, I give you this light, not to conceal, but to impart it to others. And if I conceal any thing from you now, it is only that it may be more effectually manifested hereafter. Matt. v, 15; Luke viii, 16; xi, 33.
+
+**22.** Matt. x, 26; Luke viii, 17.
+
+**24.** Take heed what ye hear - That is, attend to what you hear, that it may have its due influence upon you. With what measure you mete - That is, according to the improvement you make of what you have heard, still further assistance shall be given. And to you that hear - That is, with improvement.
+
+**25.** He that hath - That improves whatever he has received, to the good of others, as well as of his own soul. Matt. xiii, 12; Luke viii, 18.
+
+**26.** So is the kingdom of God - The inward kingdom is like seed which a man casts into the ground - This a preacher of the Gospel casts into the heart. And he sleeps and rises night and day - That is, he has it continually in his thoughts. Meantime it springs and grows up he knows not how - Even he that sowed it cannot explain how it grows. For as the earth by a curious kind of mechanism, which the greatest philosophers cannot comprehend, does as it were spontaneously bring forth first the blade, then the ear, then the full corn in the ear: so the soul, in an inexplicable manner, brings forth, first weak graces, then stronger, then full holiness: and all this of itself, as a machine, whose spring of motion is within itself. Yet observe the amazing exactness of the comparison. The earth brings forth no corn (as the soul no holiness) without both the care and toil of man, and the benign influence of heaven.
+
+**29.** He putteth in the sickle - God cutteth down and gathereth the corn into his garner.
+
+**30.** Matt. xiii, 31; Luke xiii, 18.
+
+**33.** He spake the word as they were able to hear it - Adapting it to the capacity of his hearers; and speaking as plain as he could without offending them. A rule never to be forgotten by those who instruct others.
+
+**35.** Matt. viii, 23; Luke viii, 22.
+
+**36.** They take him as he was in the vessel - They carried him immediately in the same vessel from which he had been preaching to the people.
+
+**38.** On the pillow - So we translate it, for want of a proper English expression, for that particular part of the vessel near the rudder, on which he lay.
+
+**39.** Peace - Cease thy tossing: Be still - Cease thy roaring; literally, Be thou gagged.
+
+---
+[[WN Mark 03|← Mark 3]] · [[Library/John Wesley/Explanatory Notes/Explanatory Notes — New Testament|Contents]] · [[WN Mark 05|Mark 5 →]]

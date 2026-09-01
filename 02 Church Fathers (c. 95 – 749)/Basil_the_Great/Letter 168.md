@@ -1,0 +1,24 @@
+---
+title: "Letter 168"
+author: "St. Basil"
+translator:
+  - "Blomfield Jackson"
+series: "Nicene and Post-Nicene Fathers, Second Series"
+volume: "8"
+year: "1895"
+source: "http://www.newadvent.org/fathers/3202168.htm"
+written: "c. 357–378"
+earliest_ms: "9th–10th century (earliest Greek copies)"
+corpus_file: "Basil_the_Great_3202168.xml"
+tags:
+  - church-fathers
+  - written/4th-century
+---
+
+# Letter 168
+
+ST. BASIL OF CAESAREA
+
+To Antiochus.
+
+I mourn for the Church that is deprived of the guidance of such a shepherd. But I have so much the more ground for congratulating you on being worthy of the privilege of enjoying, at such a moment, the society of one who is fighting such a good fight in the cause of the truth, and I am sure that you, who nobly support and stimulate his zeal, will be thought worthy by the Lord of a lot like his. What a blessing, to enjoy in unbroken quiet the society of the man so rich in learning and experienced in life! Now, at least, you must, I am sure, know how wise he is. In days gone by his mind was necessarily given to many divided cares, and you were too busy a man to give your sole heed to the spiritual fountain which springs from his pure heart. God grant that you may be a comfort to him, and never yourself want consolation from others. I am sure of the disposition of your heart, alike from the experience which I, for a short time, have had of you, and from the exalted teaching your illustrious instructor, with whom to pass one single day is a sufficient provision for the journey to salvation.

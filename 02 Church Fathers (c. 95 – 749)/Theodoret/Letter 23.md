@@ -1,0 +1,22 @@
+---
+title: "Letter 23"
+author: "Theodoret"
+translator:
+  - "Blomfield Jackson"
+series: "Nicene and Post-Nicene Fathers, Second Series"
+volume: "3"
+year: "1892"
+source: "http://www.newadvent.org/fathers/2707023.htm"
+written: "c. 431–453"
+earliest_ms: "11th–12th century (earliest Greek collections)"
+corpus_file: "Theodoret_2707023.xml"
+tags:
+  - church-fathers
+  - written/5th-century
+---
+
+# Letter 23
+
+To the Patrician Areobindas.
+
+In distributing wealth and poverty among men the Creator and Governor of all gives no unjust judgment, but gives the poverty of the poor to the rich as a means of usefulness. So He brings chastisement upon men not merely in the infliction of punishment for their faults, but to provide the wealthy with opportunities for showing kindness to mankind. This year the Lord has sent us scourges, far less than our sins, but enough to distress the husbandmen, of whose sufferings I lately made your magnificence acquainted through your own hinds. Pity, I beseech you, the tillers of the ground, who have spent their toil with but very little result. Be this bad year a suggestion of spiritual abundance, and do ye through the exercise of compassion gather in the harvest of the compassion of God. On this account the excellent Dionysius has hurried to your greatness to tell you of the trouble, that he may receive the remedy. He carries this letter, like a suppliant's branch of olive, in the hope that by its means he may receive greater kindness.

@@ -1,0 +1,49 @@
+---
+title: "Ezekiel 17"
+author: "John Wesley"
+work: "Explanatory Notes upon the Old Testament"
+book: "Ezekiel"
+chapter: 17
+year: "1755/1765"
+source: "biblehub.com (Wesley's Explanatory Notes)"
+tags:
+  - wesley
+  - wesley-notes
+---
+
+# Ezekiel 17
+
+**17:2** A riddle - A dark saying. The house of Israel - The remainders of the house of Israel, whether of the ten, or of the two tribes.
+
+**17:3** A great eagle - Nebuchadnezzar king of Babylon is compared to a great eagle, the king of birds, swift, strong, rapacious. Great wings - Mighty provinces on each side of his kingdom. Long winged - His kingdom was widely extended. Full of feathers - And full of people. Divers colours - Who were of divert nations, languages and manners. Lebanon - Jerusalem the chief city of the country where this great, fruitful and pleasant hill was. And took - Took, captive and carried away with him the king of Judah, Jehoiachin. The cedar - The nation.
+
+**17:4** The top - Both the king of Judah, now eighteen years old, and the nobles and chief of the land. Into a land - Babylon, which was a city of mighty trade.
+
+**17:5** The seed - Mattaniah, whom he called Zedekiah. Planted - Settled him on the throne of Judah. As a willow - The prophet compares this new made king to a willow, which grows no where so well as near great waters.
+
+**17:6** Of low stature - They grew and flourish, while they owned their state tributary to Babylon. Toward him - Nebuchadnezzar as their protector, and sovereign lord. The roots - All the firmness, fruitfulness, and life of this state, was in subjection to him.
+
+**17:7** Another - The king of Egypt. This vine - Zedekiah, his nobles and people. Did bend - Sought his friendship. Shot forth - Sent ambassadors, and trusted to the power of Egypt. Water it - That they might add to their greatness, as trees grow by seasonable watering them. By the furrows - Alluding to the manner of watering used in Egypt, by furrows or trenches to convey the water from the river Nile.
+
+**17:8** Was planted - By Nebuchadnezzar, in a very hopeful condition, where it might have been fruitful, and flourished.
+
+**17:9** Say - Tell them what will be the issue of all this, and tell it to them in my name. It prosper - Shall Zedekiah and his people thrive by this? Pull up - Utterly overthrow this kingdom. Cut Off - Put to the sword the children of Zedekiah, and of the nobles. The leaves - All the promising hope they had shall vanish. Without great power - The king of Babylon shall do this easily, when it is God that sends him. For God needs not great power and many people, to effect his purposes. He can without any difficulty overturn a sinful king and kingdom, and make no more of it than we do of rooting up a tree that cumbers the ground.
+
+**17:10** Yea - Suppose this vine were planted by the help of Egypt. The east wind - When the king of Babylon, who like the blasting wind comes from the north - east, shall but touch it, it shall wither. In the furrows - Even amidst its greatest helps, to make it flourish.
+
+**17:15** He - Zedekiah. Shall he break - Can perjury be the way for deliverance?
+
+**17:18** Given his hand - Solemnly confirming the oath.
+
+**17:20** Plead - I will punish him.
+
+**17:21** All - Not strictly, but the greatest part.
+
+**17:22** The highest branch - Of the royal seed; of the highest branch that is heir to the throne; namely, the Messiah. An high mountain - Upon mount Zion. Eminent - Not for outward splendor, but for spiritual advantages.
+
+**17:23** In the mountain - In Jerusalem. All fowl - All nations. In the shadow - There they shall find peace and safety.
+
+**17:24** The trees - The great ones on earth. The high tree - The kingdom of Babylon, which was brought low indeed, when overthrown by Darius and Cyrus.
+
+---
+[[WN Ezekiel 16|← Ezekiel 16]] · [[Library/John Wesley/Explanatory Notes/Explanatory Notes — Old Testament|Contents]] · [[WN Ezekiel 18|Ezekiel 18 →]]

@@ -1,0 +1,24 @@
+---
+title: "Registrum Epistolarum, Book VI, Letter 9"
+author: "Gregory the Great"
+translator:
+  - "James Barmby"
+series: "Nicene and Post-Nicene Fathers, Second Series"
+volume: "12"
+year: "1895"
+source: "http://www.newadvent.org/fathers/360206009.htm"
+written: "590–604"
+earliest_ms: "8th century (earliest register collections)"
+corpus_file: "Gregory_the_Great_360206009.xml"
+tags:
+  - church-fathers
+  - written/6th-century
+---
+
+# Registrum Epistolarum, Book VI, Letter 9
+
+To Donus, Bishop.
+
+Gregory to Donus, Bishop of Messana (Messene).
+
+Moved by the benevolence of the Apostolic See, and by the order of ancient custom, we have thought fit to grant to you, who art known to have undertaken the office of government in the Church of Messana, the use of the pallium; to wit, at such times and in such manner as we dispute not that your predecessor used it; at the same time warning you that, as you rejoice in having received from us a decoration of this kind to the honour of your priestly office, so also thou strive, by probity of manners and deeds, to adorn, to the glory of Christ, the office which you have undertaken under our authority. For so will you be conspicuous for decorations mutually answering to each other, if with such an habiliment of the body as this all good qualities of your soul also agree. For all the privileges which are known to have been granted of old to your Church we confirm by our authority, and decree that they shall continue inviolate.

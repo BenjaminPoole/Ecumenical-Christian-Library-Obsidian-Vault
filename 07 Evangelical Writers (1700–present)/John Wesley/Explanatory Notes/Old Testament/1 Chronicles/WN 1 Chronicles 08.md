@@ -1,0 +1,23 @@
+---
+title: "1 Chronicles 8"
+author: "John Wesley"
+work: "Explanatory Notes upon the Old Testament"
+book: "1 Chronicles"
+chapter: 8
+year: "1755/1765"
+source: "biblehub.com (Wesley's Explanatory Notes)"
+tags:
+  - wesley
+  - wesley-notes
+---
+
+# 1 Chronicles 8
+
+**8:6** These - These following, ver.7, because he here speaks of them who were removed. He describes the sons of Benjamin by the places of their habitation, without an exact account of their parents; because their genealogies were broken by that almost total extirpation of this tribe, Judg 20:29 - 48.
+
+**8:28** Heads of the fathers, and c. - Particular notice is taken of these, that others, at their return from captivity, might be induced to settle there too, which it seems few were willing to do, because it was the post of danger. Many great and mighty nations were then upon earth, and many illustrious men in them, whose names are buried in perpetual oblivion, while the names of multitudes of the Israel of God, are here carefully preserved in everlasting remembrance: a figure of God's writing the names of his spiritual Israel, in the Lamb's book of life.
+
+**8:40** Archers - Heb. that tread the bow; for the bows of steel, which these used, required great strength to bend them; which therefore they did by treading the bow with their feet, and pulling the string with both their hands.
+
+---
+[[WN 1 Chronicles 07|← 1 Chronicles 7]] · [[Library/John Wesley/Explanatory Notes/Explanatory Notes — Old Testament|Contents]] · [[WN 1 Chronicles 09|1 Chronicles 9 →]]

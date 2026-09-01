@@ -1,0 +1,28 @@
+---
+title: "Homily on Ephesians"
+author: "Chrysostom"
+translator:
+  - "Gross Alexander"
+series: "Nicene and Post-Nicene Fathers, First Series"
+volume: "13"
+year: "1889"
+source: "http://www.newadvent.org/fathers/230100.htm"
+written: "c. 393–397"
+earliest_ms: "6th century (Syriac versions); Greek mss 9th c. on"
+corpus_file: "John_Chrysostom_230100.xml"
+tags:
+  - church-fathers
+  - written/4th-century
+---
+
+# Homily on Ephesians
+
+Ephesus is the metropolis of Asia. It was dedicated to Diana, whom especially they worshipped there as their great goddess. Indeed so great was the superstition of her worshippers, that when her temple was burnt, they would not so much as divulge the name of the man who burnt it.
+
+The blessed John the Evangelist spent the chief part of his time there: he was there when he was banished, and there he died. It was there too that Paul left Timothy, as he says in writing to him, As I exhorted you to tarry at Ephesus.
+
+Most of the philosophers also, those more particularly who flourished in Asia, were there; and even Pythagoras himself is said to have come from thence; perhaps because Samos, whence he really came, is an island of Ionia. It was the resort also of the disciples of Parmenides, and Zeno, and Democritus, and you may see a number of philosophers there even to the present day.
+
+These facts I mention, not merely as such, but with a view of showing that Paul would needs take great pains and trouble in writing to these Ephesians. He is said indeed to have entrusted them, as being persons already well-instructed, with his profoundest conceptions; and the Epistle itself is full of sublime thoughts and doctrines.
+
+He wrote the Epistle from Rome, and, as he himself informs us, in bonds. Pray for me, that utterance may be given unto me, in opening my mouth to make known with boldness the mystery of the Gospel, for which I am an ambassador in chains. It abounds with sentiments of overwhelming loftiness and grandeur. Thoughts which he scarcely so much as utters any where else, he here plainly declares; as when he says, To the intent that now unto the principalities and the powers in the heavenly places might be made known through the Church the manifold wisdom of God. And again; He raised us up with him, and made us to sit with him in heavenly places. And again; Which in other generations was not made known unto the sons of men, as it has now been revealed unto His holy apostles and prophets in the Spirit, that the Gentiles are fellow-heirs, and fellow-partakers of the promise in Christ.

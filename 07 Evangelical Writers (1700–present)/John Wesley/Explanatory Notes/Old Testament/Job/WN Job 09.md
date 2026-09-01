@@ -1,0 +1,81 @@
+---
+title: "Job 9"
+author: "John Wesley"
+work: "Explanatory Notes upon the Old Testament"
+book: "Job"
+chapter: 9
+year: "1755/1765"
+source: "biblehub.com (Wesley's Explanatory Notes)"
+tags:
+  - wesley
+  - wesley-notes
+---
+
+# Job 9
+
+**9:2** I know - That God is just in all his ways, that he doth ordinarily bless the righteous, and punish the wicked. Before God - And I know that no man is absolutely just, if God be severe to mark what is amiss in him.
+
+**9:3** One - One accusation among a thousand which God shall produce against him.
+
+**9:4** He - He is infinitely wise, and searcheth all mens hearts and ways, and discovers a multitude of sins which mens short sighted - eyes cannot see; and therefore can charge them with innumerable evils, where they thought themselves innocent, and sees far more malignity than men could discern in their sins. Mighty - So that whether men contend with God by wisdom or by strength: God will be conqueror. Hardened himself - Obstinately contended with him. The devil promised himself that Job in the day of his affliction, would curse and speak ill of God. But instead of that, he sets himself to honour God, and speak highly of him. As ill pained as he is, and as much as he is taken up with his own miseries, when he has occasion to mention the wisdom and power of God, he forgets his complaints and expatiates with a flood of eloquence on that glorious subject.
+
+**9:5** Who - He proceeds to give evidence of the Divine power and wisdom. Removeth - Suddenly and unexpectedly. They - The mountains, to which he ascribes sense and knowledge figuratively. In anger - In token of his displeasure with the men that live upon them.
+
+**9:6** The earth - Great portions of it, by earthquakes, or by removing islands. Pillars - The deep and inward parts of it, which like pillars supported those parts that appear to our view.
+
+**9:8** Who. and c. - A farther description of a black and tempestuous season, wherein the heavens seem to be brought down nearer to the earth. Treadeth - Represseth and ruleth them when they rage and are tempestuous: for treading upon any thing, signifies in scripture using power and dominion over it.
+
+**9:9** Ordereth - Disposeth them, governeth their rising and setting, and all their influences. These he names as constellations of greatest eminency; but under them he seems to comprehend all the stars, which as they were created by God, so are under his government. Arcturus is a northern constellation, near that called the Bear. Orion is a more southerly constellation, that rises to us in December. The Pleiades is a constellation not far from Orion, which we call the seven stars: by the chambers, (or inmost chambers, as the word signifies) of the south, he seems to understand those stars and constellations which are toward the southern pole, which are called inward chambers, because they are for the most part hid and shut up from these parts of the world.
+
+**9:10** Doth great things, and c. - Job here says the same that Eliphaz had said, chap.5:9, and in the original, in the very same words, with design to shew his full agreement with him, touching the Divine perfections.
+
+**9:11** Goeth - He works by his providence in ways of mercy or judgment. Passeth - He goeth from place to place: from one action to another: he speaks of God after the manner of men.
+
+**9:12** Taketh - If he determines to take away from any man his children or servants, or estate, who is able to restrain him from doing it? Or who dare presume to reprove him for it? And therefore far be it from me to quarrel with God, whereof you untruly accuse me.
+
+**9:13** Helpers - Those who undertake to uphold and defend one another against him. Stoop - Fall and are crushed by him.
+
+**9:14** How shall I - Since no creature can resist his power, and no man can comprehend his counsels and ways; how can I contend with him? Answer his allegations and arguments, produced against me.
+
+**9:15** Tho' - Though I were not conscious to myself of any sin. Would not - I durst not undertake to plead my cause against him; or maintain my integrity before him, because he knows me better than I know myself. Supplication - That he would judge favourably of me and my cause, and not according to the rigour of his justice.
+
+**9:16** Yet - I could not believe that God had indeed granted my desire, because I am still full of the tokens of his displeasure; and therefore should conclude that it was but a pleasant dream, and not a real thing.
+
+**9:17** Breaketh - Unexpectedly, violently, and irrecoverably. Cause - Not simply without any desert of his, but without any special cause of such singular afflictions; and peculiar and extraordinary guilt, such as his friends charged him with.
+
+**9:18** Breath - My pains are continual, and I have not so much as a breathing time free from them.
+
+**9:19** If - If my cause were to be decided by power. Is Strong - Stronger than I. Judgment - If I would contend with him in a way of right. Who - There is no superior judge that can summon him and me together.
+
+**9:20** Justify - If I plead against God mine own righteousness and innocency.
+
+**9:21** Perfect - If I should think myself perfect, yet I would not know, not acknowledge, my soul; I could not own nor plead before God the integrity of my soul, but would only make supplication to my judge, I would abhor, or condemn my life, I would not trust to the integrity either of my soul and heart, or of my life, so as to justify myself before the pure and piercing eyes of the all - seeing God.
+
+**9:22** This - In the other things which you have spoken of God's greatness, and justice, I do not contend with you, but this one thing I do, and must affirm against you. He - God sends afflictions promiscuously upon good and bad men.
+
+**9:23** Suddenly - If some common judgment come upon a people. Laugh - God will be well pleased, to see how the same scourge, which is the perdition of the wicked, is the trial of the innocent, and of their faith, which will be found unto praise and honour and glory.
+
+**9:24** The earth - The dominion over it. Into - Into their power. As good men are frequently scourged, so the wicked are advanced. Faces - Meantime he covers the faces of wise and good men, fit to be judges, and buries them alive in obscurity, perhaps suffers them to be condemned, and their faces covered as criminals, by those to whom the earth is given. This is daily done: if it be not God that doth it, where and who is he that doth?
+
+**9:25** Now - What he had said of the calamities which God frequently inflicts upon good men, he now exemplifies in himself. My days - The days of my life. Post - Who rides upon swift horses. See - I enjoy no good in them. Seeing is often put for experiencing either good or evil.
+
+**9:26** Eagle - Which flies swiftly, especially when in the sight of his prey. See here how swift the motion of time is! It is always upon the wing, hastening to its period. What little need have we of past - times! What great need to redeem time, which runs out, runs on so fast toward eternity! And how vain are the enjoyments of time, which we may be deprived of, even while time continues! Our day may be longer than our sunshine: and when that is gone, it is as if it had never been.
+
+**9:28** Afraid - I find all such endeavours vain; for if my griefs be suspended for a time, yet my fears continue. Will not - I plainly perceive thou, O God, (to whom he makes a sudden address, as he doth also, ver.31,) wilt not clear my innocency by removing those afflictions which make them judge me guilty of some great crime. Words proceeding from despair and impatience.
+
+**9:29** I shall - I shall be used like a wicked man still. Why - Why then should I comfort myself with vain hopes of deliverance, as thou advisest me.
+
+**9:30** If - If I clear myself from all imputations, and fully prove my innocency before men.
+
+**9:31** Yet - God would prove him to be a most guilty creature, notwithstanding all his purity before men. Abhor - I shall be so filthy, that my own clothes, if they had any sense in them, would abhor to touch me.
+
+**9:32** A man - But one infinitely superior to me in majesty, and power, and wisdom, and justice. That - That I should presume to debate my cause with him. Come - Face to face, to plead upon equal terms.
+
+**9:33** Days - man - Or, umpire. Lay his hand - Order and govern us in pleading; and oblige us to stand to his decision. Our Lord Jesus is now the blessed days - man, who has mediated between heaven and earth, has laid his hand upon us both: to him the father hath committed all judgment. But this was not made so clear then, as it is now by the gospel, which leaves no room for such a complaint as this.
+
+**9:34** Fear - The fear and dread of his majesty and justice. Let him not deal with me according to his perfect justice, but according to his grace and clemency.
+
+**9:35** Then - I would speak freely for myself, being freed from that dread, which takes away my spirit and courage. It is not - I am not free from his terror, and therefore cannot plead my cause with him.
+
+---
+[[WN Job 08|← Job 8]] · [[Library/John Wesley/Explanatory Notes/Explanatory Notes — Old Testament|Contents]] · [[WN Job 10|Job 10 →]]

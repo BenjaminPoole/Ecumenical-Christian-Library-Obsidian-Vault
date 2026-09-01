@@ -1,0 +1,61 @@
+---
+title: "Isaiah 48"
+author: "John Trapp"
+work: "A Commentary or Exposition upon the Old and New Testaments"
+book: "Isaiah"
+chapter: 48
+year: "1647-1662"
+source: "archive.org: John Trapp's Bible Commentary (JohnTrappsBibleCommentaries, per-book EPUBs)"
+tags:
+  - john-trapp
+  - trapp-commentary
+---
+
+# Isaiah 48
+
+**Ver. 1.** Hear ye this, O house of Jacob.] Ye stiffnecked of Israel, and "uncircumcised in heart and ears, who do always resist the Holy Ghost," (Acts 7:51) to you be it spoken; for to the "Israelites indeed" enough hath been said of this subject already. Which are called by the name of Israel] Sed nomen inane crimen immane. Ye are "called Jews, and make your boast of God," (Romans 2:17) having a form of knowledge, (Romans 2:20) and of godliness, (2 Timothy 3:5) and that is all; the voice of Jacob, but the hands of Esau. Let such fear Jacob’s fear, "My father perhaps will feel me, and I shall seem to him as a deceiver; and I shall bring a curse upon me, and not a blessing." (Genesis 27:12) It is sure enough. And are come forth out of the waters of Judah,] i.e., Out of the bowels, *[as Genesis 15:4]* as waters out of a spring. (Deuteronomy 33:28 Psalms 68:26) Judah was the tribe royal: hence they so gloried, and remained "ruling with God, and faithful with the saints," when other tribes revolted. Which swear by the name of the Lord.] And not of Baal. And make mention of the God of Israel.] Who was near in their mouths, but far from their reins. (Jeremiah 12:2 Psalms 50:16) Religionem simulabant, cum in cute essent nequissimi. Arrant hypocrites. But not in truth, nor in righteousness,] i.e., Without faith and sound conversion. Picti estis Israelitae, estis hypocritae. Pro יממ videtur hic legendum יעממ
+
+**Ver. 2.** For they call themselves of the holy city.] Inhabitants of Jerusalem and men of Judah; yea, they swore by their city and temple, as appeareth in the gospel, and cried out, ad ravim usque, " The temple of the Lord, the temple of the Lord," (Jeremiah 7:4) like as the Romists now do, The Church, the Church, glorying in the false and empty title of Roman Catholics. Sed grande est Christianum esse, non dici, saith Jerome; and it is a great vanity, saith the poet, “ Respicere ad fumos et nomina vana Catonum. ” And stay themselves.] As far as a few good words will go. See on Micah 3:11. The Lord of hosts is his name.] So said these hypocrites, bearing themselves bold upon so great a God, who had all creatures at his command.
+
+**Ver. 3.** I have declared the former things.] This God had said oft before; but being now to conclude this comfortable sermon, he repeats here the heads of what had been spoken in the seven foregoing chapters.
+
+**Ver. 4.** Because I knew that thou art obstinate.] Heb., Hard, obdurate; therefore do I so inculcate these things, if by any means I may mollify thee. Hypocrites are harder to be wrought upon than other sinners. And thy neck is an iron sinew.] Thou art utterly averse from, yea, adverse to any good; no more bended thereunto than if the body had for every sinew a plate of iron. And thy brow brass.] Sinews of iron argue a natural impotence, and somewhat more; but brows of brass impudence in evil; quando pudet non esse impudentes, when men are shameless in sin, setting it "upon the cliff of the rock," (Ezekiel 24:7) and "declaring it as Sodom." (Isaiah 3:9)
+
+**Ver. 5.** I have even from the beginning, &c.] See Isaiah 48:3. It is probable that there were many among the Jews who, when they saw themselves to be so punished, and the heathen prospered, would be ready to think that the God of Israel either could not or would not do for his people, as those devil gods did for theirs. For their help, therefore, under such a temptation, God was pleased to foretell his people what good or evil should betide them, and accordingly to accomplish it.
+
+**Ver. 6.** Thou hast heard, see all this.] Here God extorteth from them a confession of the aforesaid truth, and urgeth them to attest and publish it.
+
+**Ver. 7.** They are created now,] i.e., They are now brought to light by my revelations and predictions. Behold, I knew them.] By my gods or diviners, or by my natural sagacity.
+
+**Ver. 8.** Yea, thou heardest not; yea, thou knewest not.] "Yea," so oft used here, is very emphatic, and showeth how hardly sinners are borne down, and made to believe plain truths where they are prepossessed with conceits to the contrary. And wast called a transgressor from the womb.] Ever since thou madest and worshippedst a golden calf in the wilderness, *[See Trapp on "Ps 58:3"]* and art still as good at resisting the Holy Ghost as ever thy fathers were. (Acts 7:51)
+
+**Ver. 9.** For my name’s sake will I defer mine anger.] Heb., Prolong it. Here he setteth forth the cause of his patience toward so perverse a people, viz., the sole respect to his own glory, whereof he is so tender, and so loath to be a loser in. Propter me faciam. And for my praise.] The praise of my might and mercy. That I cut thee not off.] Which I would do, "were it not that I feared the wrath of the enemy, lest thine adversaries should behave themselves strangely, and lest they should say, Our hand is high, and the Lord hath not done all this." (Deuteronomy 32:27)
+
+**Ver. 10.** Behold, I have refined thee, but not with silver.] Much less as gold, which is wont to be fined most exactly, and to the uttermost, because these precious metals will not perish by fire. But thou hast more dross in thee than good ore; therefore I have refined thee with favour, (Psalms 118:18) Ne totus disperires, lest I should undo thee; for if thy punishment should be commensurate to thine offence thou must needsly perish. I have chosen thee in the furnace of affliction,] i.e., In affliction, which is as a furnace or crucible. See Ezekiel 20:37. Non agam summo iure tecum. -Jun.
+
+**Ver. 11.** For mine own sake, even for mine own sake.] This is oft repeated, that it may once be well observed. Bene cavet Spiritus Sanctus ubique in Scripturis ne nostris operibus salutem tribuamus; it is Oecolampadius’s note upon the first verse of this chapter, i.e., the Holy Ghost doth everywhere in Scripture take course that we ascribe not our safety to our own works. See on Isaiah 43:13. For how should my name be polluted?] As it will be by the blasphemous heathens, who else will say that their gods are fortiores et faventiores, more powerful and more merciful than the God of the Hebrews. Thus the Turks at this day, when they have beaten the Christians, cry up their Mohammed as mightier than Christ. And I will not give my glory to another.] Press this in prayer: it is an excellent argument. (Exodus 32:12 Joshua 7:9 Psalms 79:9,10 115:1,2) The saints, after all other arguments used, hunc quasi arietem admovent, mind God of his glory engaged, and then doubt not to prevail with him.
+
+**Ver. 12.** I am he.] Heb., Hu; this the Rabbis make to be one of the names of God. Sanchez here observeth, that by this threefold "I" is meant the holy Trinity: the deity of Jesus Christ is rightly proved from this text, compared with Revelation 1:11 22:13.
+
+**Ver. 13.** My hand hath also laid the foundation of the earth.] My left hand, say the Rabbis, as "my right hand spanned the heavens"; that is, meted them out as a workman doth his work. God did but "call unto them" both, "and they stood up together." Vain therefore and needless was the disputation of the Samerites and the Hillelites among the Jews, whether was first created the heaven or the earth? Oecolamp., in loc.
+
+**Ver. 14.** The Lord hath loved him,] i.e., Cyrus. He so loveth his people that for their sakes he loveth all their benefactors and well wishers. See Genesis 12:3. He will do his pleasure.] See Isaiah 43:14.
+
+**Ver. 15.** I have brought him.] Heb., Made him to go, or caused him to come, who of himself had no such mind to come on such a design. Herodotus telleth us that Cyrus had once resolved to abandon the siege of Babylon as unfeasible: but God altered his mind, as we here read, and prospered his work.
+
+**Ver. 16.** Come ye near unto me and hear this.] God calleth often for audience, as knowing our dulness and crossness, our oscitance and inadvertence: a good mirror for ministers. I have not spoken in secret.] See Isaiah 41:26. From the time that it was, there am I,] viz., At the creation. *[as Proverbs 8:22,23]* Or, I have from everlasting been the author of that counsel by which all these things have had, as it were, their first beginning; and afterwards, in their appointed time, I have brought them forth by my power. And now the Lord God and his Spirit hath sent me,] i.e., Me, Isaiah the prophet, whose writings should therefore be prized and believed by us as most authentic and authoritative, because he was commissioned by the blessed Trinity. Diod.
+
+**Ver. 17.** I am the Lord thy God which teacheth thee to profit.] And do therefore so oft call upon thee to hear me, not for any benefit to myself, but to thee alone. And the truth is, in all the commandments of God, if they were open to us, if we did see the ground of them, we should see there were so much reason for them, and so much good to be got by them, that if God did not command them, yet it would be best for us to practise them. Which leadeth thee by the way that thou shouldest go.] Heb., Making thee to tread in the way thou shalt walk, carefully choosing thy steps for thee, and setting thy foot right: thus "he led Joseph like a sheep," (Psalms 80:1) and "Israel through the deep, as a horse in the wilderness, that they should not stumble." (Isaiah 63:13) Thrice happy are the saints in such a guide. "The steps of a good man are ordered by the Lord, and he delighteth in his way." (Psalms 37:23)
+
+**Ver. 18.** Oh that thou hadst hearkened to my commandments.] See the like wishes, Deuteronomy 32:29 5:29 Ps 81:13, implying that so they might have redeemed many sorrows, escaped many miseries. Then had thy peace been as a river] "Great peace have all they that love God’s law, and nothing shall offend them," (Psalms 119:165) they shall have a confluence of all comforts and contentments: yet ever with an exception of the cross, as need requireth. And thy righteousness as the waves of the sea.] Which are perpetual, fluctus fluctum trudit.
+
+**Ver. 19.** Thy seed also had been as the sand.] As was promised to Abraham, and performed to his posterity; such a μυριομακαριοτης there is in godliness, and in doing of God’s commandments so great reward. His name should not have been cut off.] As it was of old among the heathens (see Horace, Juvenal, Martial, &c.), and is at this day among the Turks, who usually swear, Iudaeus sim si fallam, &c. See Zechariah 8:13. *[See Trapp on "Zec 8:13"]*
+
+**Ver. 20.** Go ye forth of Babylon.] The word among the Jews that despaired of ever returning from Babylon: but the prophet, by an unexpected alarm, commandeth them to return, showing how and why they should do so, and carrieth himself no otherwise than as if he had been a captain in the midst of those captives, &c.
+
+**Ver. 21.** And they thirsted not when he led, &c.] Your fathers did not of old: nor shall you now in your return homeward. The Jews tell us of many miracles then wrought also, but we read of no such matter in Ezra; and we know that God’s pilgrims shall want no necessary accommodation: that he will be sure to see to.
+
+**Ver. 22.** There is no peace, saith the Lord, unto the wicked.] Babylon’s best days are past: therefore go ye forth of her. (Isaiah 48:20) The wicked of what nation soever that hearken not to God’s commandments, *[as Isaiah 48:18]* well they may have a truce, but no true peace certainly. That which they have is pax infida, pax incerta (as that of the Romans with the Samnites), a peace no peace; and how can it be better so long as their wickednesses and witchcrafts are so many? (2 Kings 9:22) Tranquillitas illa tempestas erit; as after a south wind arose Euroclydon, (Acts 27:13,14) so, after a false peace, storm and tempest everlasting: this shall be the portion of their cup (Psalms 11:6) See Isaiah 57:20,21. Liv. Hist., lib. ix.
+
+---
+[[JT Isaiah 47|← Isaiah 47]] · [[Library/John Trapp/Old Testament/John Trapp — Old Testament|Contents]] · [[JT Isaiah 49|Isaiah 49 →]]
