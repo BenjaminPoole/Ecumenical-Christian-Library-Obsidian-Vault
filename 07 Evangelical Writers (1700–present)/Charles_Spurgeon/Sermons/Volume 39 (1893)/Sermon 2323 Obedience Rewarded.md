@@ -6,6 +6,7 @@ sermon_no: 2323
 volume: 39
 year: "1893"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1893"
 tags:
   - spurgeon
   - spurgeon-sermons

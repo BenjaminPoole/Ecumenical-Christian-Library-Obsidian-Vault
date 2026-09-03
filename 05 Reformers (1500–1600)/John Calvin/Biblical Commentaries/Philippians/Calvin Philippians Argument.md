@@ -5,6 +5,7 @@ translator: "John Pringle"
 work: "Commentary on Philippians"
 year: "1548"
 source: "CCEL calcom42, Calvin Translation Society"
+written: "1548"
 tags:
   - calvin-commentaries
 ---

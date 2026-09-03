@@ -6,6 +6,7 @@ sermon_no: 3462
 volume: 61
 year: "1915"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1915"
 tags:
   - spurgeon
   - spurgeon-sermons

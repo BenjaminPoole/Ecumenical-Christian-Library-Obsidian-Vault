@@ -6,6 +6,7 @@ sermon_no: 1237
 volume: 21
 year: "1875"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1875"
 tags:
   - spurgeon
   - spurgeon-sermons

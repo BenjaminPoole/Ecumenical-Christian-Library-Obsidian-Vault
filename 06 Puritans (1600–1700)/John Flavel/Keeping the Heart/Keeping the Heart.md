@@ -1,6 +1,7 @@
 ---
 title: "Keeping the Heart"
 author: "John Flavel"
+written: "1668"
 tags:
   - puritans
   - john-flavel

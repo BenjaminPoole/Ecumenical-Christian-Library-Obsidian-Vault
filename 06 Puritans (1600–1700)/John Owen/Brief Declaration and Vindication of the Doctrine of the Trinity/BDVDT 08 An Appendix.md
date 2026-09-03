@@ -4,6 +4,7 @@ author: "John Owen"
 work: "Brief Declaration and Vindication of the Doctrine of the Trinity"
 section: 8
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1669"
 tags:
   - puritans
   - john-owen

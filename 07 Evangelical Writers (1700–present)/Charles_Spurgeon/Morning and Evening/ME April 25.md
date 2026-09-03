@@ -3,6 +3,7 @@ title: "April 25"
 book: "Morning and Evening"
 author: "Charles H. Spurgeon"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1865"
 tags:
   - spurgeon
   - spurgeon-books

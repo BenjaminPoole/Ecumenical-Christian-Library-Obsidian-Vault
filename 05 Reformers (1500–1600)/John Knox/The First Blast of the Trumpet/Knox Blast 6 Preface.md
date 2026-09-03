@@ -5,6 +5,7 @@ work: "The First Blast of the Trumpet Against the Monstrous Regiment of Women"
 chapter: 6
 year: "1558"
 source: "CCEL, Edward Arber's English Scholar's Library edition (1878) - public domain"
+written: "1558"
 tags:
   - protestant-reformers
   - john-knox

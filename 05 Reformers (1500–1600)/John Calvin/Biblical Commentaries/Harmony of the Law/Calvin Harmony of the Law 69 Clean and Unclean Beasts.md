@@ -7,6 +7,7 @@ book: "The Law: The First Commandment"
 chapter: 69
 year: "1563"
 source: "CCEL calcom04, Calvin Translation Society"
+written: "1563"
 tags:
   - calvin-commentaries
 ---

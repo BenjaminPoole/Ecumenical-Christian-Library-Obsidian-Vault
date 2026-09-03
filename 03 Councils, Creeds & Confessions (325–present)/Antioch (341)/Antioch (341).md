@@ -3,6 +3,7 @@ title: "Antioch (341)"
 council_type: "Local"
 convened: "A.D. 341"
 location: "Antioch"
+written: "341"
 tags:
   - church-councils
   - council-index

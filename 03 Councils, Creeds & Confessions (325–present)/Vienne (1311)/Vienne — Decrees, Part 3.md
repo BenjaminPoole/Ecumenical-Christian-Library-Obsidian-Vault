@@ -8,6 +8,7 @@ location: "Vienne"
 translator: "Norman P. Tanner"
 edition_year: "1990"
 source: "https://www.papalencyclicals.net/councils/ecum15.htm"
+written: "1311–1312"
 tags:
   - church-councils
   - written/14th-century

@@ -6,6 +6,7 @@ work: "The Epistles of St Peter and St Jude Preached and Explained"
 chapter: 4
 year: "1523"
 source: "CCEL read pages (EPUB is a stub), Gillett translation (New York, 1859) - public domain"
+written: "1523"
 tags:
   - protestant-reformers
   - martin-luther

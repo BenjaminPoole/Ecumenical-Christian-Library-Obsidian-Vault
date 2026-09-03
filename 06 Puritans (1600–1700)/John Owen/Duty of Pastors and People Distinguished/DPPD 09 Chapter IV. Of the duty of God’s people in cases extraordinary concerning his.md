@@ -4,6 +4,7 @@ author: "John Owen"
 work: "Duty of Pastors and People Distinguished"
 section: 9
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1644"
 tags:
   - puritans
   - john-owen

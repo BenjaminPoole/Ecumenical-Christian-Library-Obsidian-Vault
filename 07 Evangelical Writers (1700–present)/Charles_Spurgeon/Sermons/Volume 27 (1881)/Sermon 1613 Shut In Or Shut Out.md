@@ -6,6 +6,7 @@ sermon_no: 1613
 volume: 27
 year: "1881"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1881"
 tags:
   - spurgeon
   - spurgeon-sermons

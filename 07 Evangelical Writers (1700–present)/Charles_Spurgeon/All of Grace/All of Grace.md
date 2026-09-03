@@ -1,5 +1,6 @@
 ---
 title: "All of Grace"
+written: "1886"
 tags:
   - spurgeon
   - spurgeon-index

@@ -5,6 +5,7 @@ translator: "Rev. Canon Roberts"
 category: "Roman History"
 era: "c. 27 BC"
 source: "Project Gutenberg (ebook #44318)"
+written: "c. 27 BC"
 tags:
   - historical-works
   - classical

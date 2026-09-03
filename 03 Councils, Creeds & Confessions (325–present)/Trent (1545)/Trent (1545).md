@@ -4,6 +4,7 @@ council_type: "Ecumenical"
 ecumenical_no: 19
 convened: "A.D. 1545–1563"
 location: "Trent (Trento)"
+written: "1545–1563"
 tags:
   - church-councils
   - council-index

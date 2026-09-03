@@ -4,6 +4,7 @@ council_type: "Ecumenical"
 ecumenical_no: 15
 convened: "A.D. 1311–1312"
 location: "Vienne"
+written: "1311–1312"
 tags:
   - church-councils
   - council-index

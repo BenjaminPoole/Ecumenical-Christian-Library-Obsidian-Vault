@@ -4,6 +4,7 @@ author: "John Wesley"
 work: "A Plain Account of Christian Perfection"
 year: "1777"
 source: "CCEL EPUB"
+written: "1777"
 tags:
   - wesley
   - wesley-treatises

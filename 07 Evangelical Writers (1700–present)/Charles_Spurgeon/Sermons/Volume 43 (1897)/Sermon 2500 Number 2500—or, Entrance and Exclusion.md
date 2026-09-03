@@ -6,6 +6,7 @@ sermon_no: 2500
 volume: 43
 year: "1897"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1897"
 tags:
   - spurgeon
   - spurgeon-sermons

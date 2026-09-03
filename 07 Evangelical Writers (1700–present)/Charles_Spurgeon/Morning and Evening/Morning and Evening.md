@@ -1,5 +1,6 @@
 ---
 title: "Morning and Evening"
+written: "1865"
 tags:
   - spurgeon
   - spurgeon-index

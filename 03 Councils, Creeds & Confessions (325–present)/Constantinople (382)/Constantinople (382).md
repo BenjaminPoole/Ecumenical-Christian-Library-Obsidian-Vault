@@ -3,6 +3,7 @@ title: "Constantinople (382)"
 council_type: "Local"
 convened: "A.D. 382"
 location: "Constantinople"
+written: "382"
 tags:
   - church-councils
   - council-index

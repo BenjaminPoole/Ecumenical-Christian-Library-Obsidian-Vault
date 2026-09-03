@@ -4,6 +4,7 @@ author: "John Wesley"
 work: "Minutes of Some Late Conversations (The Large Minutes)"
 year: "1753"
 source: "Project Gutenberg (Works, 3rd ed., vols. 14-15)"
+written: "1753"
 tags:
   - wesley
   - wesley-treatises

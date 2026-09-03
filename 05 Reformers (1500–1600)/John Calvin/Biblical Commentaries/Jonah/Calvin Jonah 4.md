@@ -6,6 +6,7 @@ work: "Commentary on Jonah"
 chapter: 4
 year: "1559"
 source: "CCEL calcom28, Calvin Translation Society"
+written: "1559"
 tags:
   - calvin-commentaries
 ---

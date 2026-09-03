@@ -5,6 +5,7 @@ work: "The Works of John Knox, Volume 1"
 chapter: 25
 year: "1846"
 source: "CCEL, David Laing edition (Edinburgh, 1895) - public domain"
+written: "1846"
 tags:
   - protestant-reformers
   - john-knox

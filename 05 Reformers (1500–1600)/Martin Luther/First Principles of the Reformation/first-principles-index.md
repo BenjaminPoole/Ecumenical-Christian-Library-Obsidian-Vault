@@ -3,6 +3,7 @@ title: "First Principles of the Reformation"
 author: "Martin Luther"
 translator: "Henry Wace and C. A. Buchheim (1883)"
 year: "1520"
+written: "1520"
 tags:
   - protestant-reformers
   - martin-luther

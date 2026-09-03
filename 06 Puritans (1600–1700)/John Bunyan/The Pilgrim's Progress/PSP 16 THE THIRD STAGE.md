@@ -4,6 +4,7 @@ author: "John Bunyan"
 work: "The Pilgrim's Progress"
 section: 16
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1678–1684"
 tags:
   - puritans
   - john-bunyan

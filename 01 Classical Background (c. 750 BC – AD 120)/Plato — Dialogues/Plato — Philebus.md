@@ -5,6 +5,7 @@ translator: "Benjamin Jowett"
 category: "Greek Philosophy"
 era: "4th century BC"
 source: "Project Gutenberg (ebook #1744)"
+written: "4th century BC"
 tags:
   - historical-works
   - classical

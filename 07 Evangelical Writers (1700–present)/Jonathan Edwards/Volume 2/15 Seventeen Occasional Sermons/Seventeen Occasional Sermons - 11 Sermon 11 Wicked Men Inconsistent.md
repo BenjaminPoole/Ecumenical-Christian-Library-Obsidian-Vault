@@ -6,6 +6,7 @@ volume: 2
 series: "The Works of Jonathan Edwards (Banner of Truth)"
 source: "https://ccel.org/ccel/edwards/works2"
 epub_file: "works2.xv.xi.html"
+written: "c. 1730s–1750s (preached; published in Edwards' collected Works)"
 tags:
   - jonathan-edwards
 ---

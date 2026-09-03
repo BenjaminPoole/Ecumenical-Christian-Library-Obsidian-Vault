@@ -5,6 +5,7 @@ year: "1571"
 tradition: "Anglican (English Reformation)"
 source: "https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/book-common-prayer/articles-religion"
 edition: "Original 1571/1662 English text (Book of Common Prayer)"
+written: "1571"
 tags:
   - reformation-confessions
   - written/16th-century

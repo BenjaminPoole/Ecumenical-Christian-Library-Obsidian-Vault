@@ -5,6 +5,7 @@ translator: "John Owen"
 work: "Commentary on Lamentations"
 year: "1563"
 source: "CCEL calcom21, Calvin Translation Society"
+written: "1563"
 tags:
   - calvin-commentaries
 ---

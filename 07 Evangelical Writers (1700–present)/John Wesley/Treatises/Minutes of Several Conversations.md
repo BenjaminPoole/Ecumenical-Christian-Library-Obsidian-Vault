@@ -4,6 +4,7 @@ author: "John Wesley"
 work: "Minutes of Several Conversations"
 year: "1789"
 source: "Project Gutenberg (Works, 3rd ed., vols. 14-15)"
+written: "1789"
 tags:
   - wesley
   - wesley-treatises

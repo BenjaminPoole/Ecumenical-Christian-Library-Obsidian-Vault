@@ -4,6 +4,7 @@ author: "Henry Scougal"
 work: "The Life of God in the Soul of Man"
 section: 1
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1677"
 tags:
   - puritans
   - henry-scougal

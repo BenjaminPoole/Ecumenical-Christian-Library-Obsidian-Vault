@@ -4,6 +4,7 @@ author: "Thomas Watson"
 work: "The Art of Divine Contentment"
 section: 5
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1653"
 tags:
   - puritans
   - thomas-watson

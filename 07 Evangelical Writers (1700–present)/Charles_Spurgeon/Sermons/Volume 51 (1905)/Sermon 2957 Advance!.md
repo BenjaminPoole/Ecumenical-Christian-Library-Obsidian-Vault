@@ -6,6 +6,7 @@ sermon_no: 2957
 volume: 51
 year: "1905"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1905"
 tags:
   - spurgeon
   - spurgeon-sermons

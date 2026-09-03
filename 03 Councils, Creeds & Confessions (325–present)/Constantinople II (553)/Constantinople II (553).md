@@ -4,6 +4,7 @@ council_type: "Ecumenical"
 ecumenical_no: 5
 convened: "A.D. 553"
 location: "Constantinople"
+written: "553"
 tags:
   - church-councils
   - council-index

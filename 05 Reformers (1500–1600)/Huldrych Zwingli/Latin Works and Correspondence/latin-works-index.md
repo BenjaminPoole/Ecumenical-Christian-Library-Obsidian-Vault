@@ -3,6 +3,7 @@ title: "The Latin Works and Correspondence of Huldreich Zwingli"
 author: "Huldrych Zwingli"
 translator: "ed. S. M. Jackson, W. J. Hinke and C. N. Heller"
 year: "1510-1531"
+written: "1510-1531"
 tags:
   - protestant-reformers
   - huldrych-zwingli

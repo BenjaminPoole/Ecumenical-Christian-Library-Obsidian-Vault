@@ -8,6 +8,7 @@ location: "Trent (Trento)"
 translator: "J. Waterworth"
 edition_year: "1848"
 source: "https://history.hanover.edu/texts/trent/ct21.html"
+written: "1545–1563"
 tags:
   - church-councils
   - written/16th-century

@@ -6,6 +6,7 @@ sermon_no: 2670
 volume: 46
 year: "1900"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1900"
 tags:
   - spurgeon
   - spurgeon-sermons

@@ -4,6 +4,7 @@ author: "John Bunyan"
 work: "The Holy War"
 section: 18
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1682"
 tags:
   - puritans
   - john-bunyan

@@ -5,6 +5,7 @@ work: "Writings and Disputations relative to the Lord's Supper"
 chapter: 16
 year: "1550-1557"
 source: "archive.org theworksofthomas0ps1, Parker Society (1844); converted from archive.org OCR of the printed volume; recurring OCR letterform errors corrected programmatically (see _sources/ocrfix_log.md) - residual errors may remain"
+written: "1550-1557"
 tags:
   - protestant-reformers
   - thomas-cranmer

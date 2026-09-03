@@ -7,6 +7,7 @@ book: "Book I — Of the Knowledge of God the Creator"
 chapter: 7
 year: "1559"
 source: "CCEL, Beveridge translation (1845)"
+written: "1559"
 tags:
   - institutes
 ---

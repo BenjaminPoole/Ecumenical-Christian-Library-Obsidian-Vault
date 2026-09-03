@@ -4,6 +4,7 @@ author: "Savoy Assembly"
 work: "The Savoy Declaration"
 section: 2
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1658"
 tags:
   - puritans
   - savoy-assembly

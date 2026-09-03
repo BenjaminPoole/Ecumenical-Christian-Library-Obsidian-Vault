@@ -5,6 +5,7 @@ translator: "Henry Beveridge"
 work: "A Treatise on Relics"
 year: "1543"
 source: "CCEL treatise_relics.xml (Johnstone & Hunter 2nd ed., 1870); translation first published for the Calvin Translation Society, 1844"
+written: "1543"
 tags:
   - calvin-treatises
 ---

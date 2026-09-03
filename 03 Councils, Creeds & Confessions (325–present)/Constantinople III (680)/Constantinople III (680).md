@@ -4,6 +4,7 @@ council_type: "Ecumenical"
 ecumenical_no: 6
 convened: "A.D. 680–681"
 location: "Constantinople"
+written: "680–681"
 tags:
   - church-councils
   - council-index

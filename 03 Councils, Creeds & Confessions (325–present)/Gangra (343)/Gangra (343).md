@@ -3,6 +3,7 @@ title: "Gangra (343)"
 council_type: "Local"
 convened: "c. A.D. 343"
 location: "Gangra (Paphlagonia)"
+written: "c. A.D. 343"
 tags:
   - church-councils
   - council-index

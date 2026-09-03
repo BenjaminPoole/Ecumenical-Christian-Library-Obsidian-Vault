@@ -4,6 +4,7 @@ author: "John Owen"
 work: "Death of Death in the Death of Christ"
 section: 40
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1647"
 tags:
   - puritans
   - john-owen

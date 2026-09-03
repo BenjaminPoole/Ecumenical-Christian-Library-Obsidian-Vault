@@ -3,6 +3,7 @@ title: "Plato — Dialogues"
 author: "Plato"
 category: "Greek Philosophy"
 era: "4th century BC"
+written: "4th century BC"
 tags:
   - historical-works
   - classical

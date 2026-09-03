@@ -4,6 +4,7 @@ author: "John Wesley"
 work: "The Character of a Methodist"
 year: "1742"
 source: "Project Gutenberg (Works, 3rd ed., vols. 14-15)"
+written: "1742"
 tags:
   - wesley
   - wesley-treatises

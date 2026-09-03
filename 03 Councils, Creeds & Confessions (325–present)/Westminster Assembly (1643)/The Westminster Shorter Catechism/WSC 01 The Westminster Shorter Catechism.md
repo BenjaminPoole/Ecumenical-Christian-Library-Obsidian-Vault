@@ -4,6 +4,7 @@ author: "Westminster Assembly"
 work: "The Westminster Shorter Catechism"
 section: 1
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1647"
 tags:
   - puritans
   - westminster-assembly

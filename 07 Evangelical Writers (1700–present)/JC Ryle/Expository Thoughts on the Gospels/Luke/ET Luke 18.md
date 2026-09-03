@@ -6,6 +6,7 @@ book: "Luke"
 chapter: 18
 year: "1858"
 source: "Grace Gems (gracegems.org) — modernised text"
+written: "1858"
 tags:
   - jc-ryle
   - expository-thoughts

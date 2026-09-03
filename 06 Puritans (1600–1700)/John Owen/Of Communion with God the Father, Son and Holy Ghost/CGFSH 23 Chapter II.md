@@ -4,6 +4,7 @@ author: "John Owen"
 work: "Of Communion with God the Father, Son and Holy Ghost"
 section: 23
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1657"
 tags:
   - puritans
   - john-owen

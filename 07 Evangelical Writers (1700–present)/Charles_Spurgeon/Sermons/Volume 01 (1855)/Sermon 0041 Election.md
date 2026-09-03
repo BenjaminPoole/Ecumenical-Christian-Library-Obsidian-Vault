@@ -6,6 +6,7 @@ sermon_no: 41
 volume: 1
 year: "1855"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1855"
 tags:
   - spurgeon
   - spurgeon-sermons

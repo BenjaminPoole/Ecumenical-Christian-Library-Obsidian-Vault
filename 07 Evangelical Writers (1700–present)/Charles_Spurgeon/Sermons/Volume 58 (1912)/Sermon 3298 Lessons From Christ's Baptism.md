@@ -6,6 +6,7 @@ sermon_no: 3298
 volume: 58
 year: "1912"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1912"
 tags:
   - spurgeon
   - spurgeon-sermons

@@ -5,6 +5,7 @@ work: "The Prophete Jonas"
 chapter: 1
 year: "1531"
 source: "Project Gutenberg #24890 (Arber reprint, 1871) - public domain"
+written: "1531"
 tags:
   - protestant-reformers
   - william-tyndale

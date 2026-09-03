@@ -3,6 +3,7 @@ title: "Demosthenes — Public Orations"
 author: "Demosthenes"
 category: "Greek Oratory"
 era: "4th century BC"
+written: "4th century BC"
 tags:
   - historical-works
   - classical

@@ -4,6 +4,7 @@ author: "John and Charles Wesley"
 work: "The Poetical Works of John and Charles Wesley"
 year: "1739-1740"
 source: "CCEL EPUB (Osborn ed., vol. 1)"
+written: "1739-1740"
 tags:
   - wesley
   - wesley-poetry

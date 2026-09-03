@@ -5,6 +5,7 @@ translator: "John Owen"
 work: "Commentary on Romans"
 year: "1540"
 source: "CCEL calcom38, Calvin Translation Society"
+written: "1540"
 tags:
   - calvin-commentaries
 ---

@@ -4,6 +4,7 @@ author: "J. C. Ryle"
 work: "Christian Leaders of the Last Century"
 year: "1854"
 source: "Project Gutenberg (ebook #34727) — Ryle’s original text"
+written: "1854"
 tags:
   - jc-ryle
   - ryle-christian-leaders

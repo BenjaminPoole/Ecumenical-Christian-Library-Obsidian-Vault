@@ -5,6 +5,7 @@ translator: "Henry Beveridge"
 work: "Commentary on Joshua"
 year: "1564"
 source: "CCEL calcom07, Calvin Translation Society"
+written: "1564"
 tags:
   - calvin-commentaries
 ---

@@ -5,6 +5,7 @@ work: "Miscellaneous Writings and Letters"
 chapter: 1
 year: "1533-1556"
 source: "archive.org theworksofthomas0ps2, Parker Society (1846); converted from archive.org OCR of the printed volume; recurring OCR letterform errors corrected programmatically (see _sources/ocrfix_log.md) - residual errors may remain"
+written: "1533-1556"
 tags:
   - protestant-reformers
   - thomas-cranmer

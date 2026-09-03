@@ -2,6 +2,7 @@
 title: "Writings and Disputations relative to the Lord's Supper"
 author: "Thomas Cranmer"
 year: "1550-1557"
+written: "1550-1557"
 tags:
   - protestant-reformers
   - thomas-cranmer

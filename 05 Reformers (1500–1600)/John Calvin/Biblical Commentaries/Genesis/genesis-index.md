@@ -3,6 +3,7 @@ title: "Commentary on Genesis"
 author: "John Calvin"
 translator: "John King"
 year: "1554"
+written: "1554"
 tags:
   - calvin-commentaries
 ---

@@ -4,6 +4,7 @@ author: "John Owen"
 work: "Of the Mortification of Sin in Believers"
 section: 14
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1656"
 tags:
   - puritans
   - john-owen

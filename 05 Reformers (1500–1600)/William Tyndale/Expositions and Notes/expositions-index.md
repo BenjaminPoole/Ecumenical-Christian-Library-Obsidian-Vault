@@ -2,6 +2,7 @@
 title: "Expositions and Notes on Sundry Portions of the Holy Scriptures"
 author: "William Tyndale"
 year: "1531-1536"
+written: "1531-1536"
 tags:
   - protestant-reformers
   - william-tyndale

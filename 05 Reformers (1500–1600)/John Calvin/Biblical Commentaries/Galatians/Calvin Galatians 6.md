@@ -6,6 +6,7 @@ work: "Commentary on Galatians"
 chapter: 6
 year: "1548"
 source: "CCEL calcom41, Calvin Translation Society"
+written: "1548"
 tags:
   - calvin-commentaries
 ---

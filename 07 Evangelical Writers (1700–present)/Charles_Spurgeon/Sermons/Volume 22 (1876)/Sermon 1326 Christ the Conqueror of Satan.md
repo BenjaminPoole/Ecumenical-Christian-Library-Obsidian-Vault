@@ -7,6 +7,7 @@ volume: 22
 year: "1876"
 text: "Genesis 3:16"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1876"
 tags:
   - spurgeon
   - spurgeon-sermons

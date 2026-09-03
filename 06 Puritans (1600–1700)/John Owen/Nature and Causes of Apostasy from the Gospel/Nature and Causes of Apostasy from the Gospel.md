@@ -1,6 +1,7 @@
 ---
 title: "Nature and Causes of Apostasy from the Gospel"
 author: "John Owen"
+written: "1676"
 tags:
   - puritans
   - john-owen

@@ -1,6 +1,7 @@
 ---
 title: "Duty of Pastors and People Distinguished"
 author: "John Owen"
+written: "1644"
 tags:
   - puritans
   - john-owen

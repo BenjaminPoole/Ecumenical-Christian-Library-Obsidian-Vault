@@ -4,6 +4,7 @@ author: "J. C. Ryle"
 work: "Practical Religion"
 year: "1878"
 source: "Project Gutenberg (ebook #38162)"
+written: "1878"
 tags:
   - jc-ryle
   - ryle-practical-religion

@@ -5,6 +5,7 @@ translator: "William Pringle"
 work: "Commentary on Ephesians"
 year: "1548"
 source: "CCEL calcom41, Calvin Translation Society"
+written: "1548"
 tags:
   - calvin-commentaries
 ---

@@ -5,6 +5,7 @@ translator: "John Owen"
 work: "Commentary on Hebrews"
 year: "1549"
 source: "CCEL calcom44, Calvin Translation Society"
+written: "1549"
 tags:
   - calvin-commentaries
 ---

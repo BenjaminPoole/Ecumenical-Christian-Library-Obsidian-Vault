@@ -6,6 +6,7 @@ book: "John"
 chapter: 11
 year: "1865"
 source: "Grace Gems (gracegems.org) — modernised text"
+written: "1865"
 tags:
   - jc-ryle
   - expository-thoughts

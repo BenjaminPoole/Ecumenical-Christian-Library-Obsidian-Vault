@@ -6,6 +6,7 @@ work: "Commentary on 1 Corinthians"
 chapter: 4
 year: "1546"
 source: "CCEL calcom39, Calvin Translation Society"
+written: "1546"
 tags:
   - calvin-commentaries
 ---

@@ -6,6 +6,7 @@ work: "Commentary on John"
 chapter: 3
 year: "1553"
 source: "CCEL calcom34, Calvin Translation Society"
+written: "1553"
 tags:
   - calvin-commentaries
 ---

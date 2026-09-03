@@ -6,6 +6,7 @@ sermon_no: 3102
 volume: 54
 year: "1908"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1908"
 tags:
   - spurgeon
   - spurgeon-sermons

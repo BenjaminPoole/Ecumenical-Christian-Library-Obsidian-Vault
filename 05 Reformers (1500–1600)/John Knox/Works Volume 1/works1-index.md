@@ -2,6 +2,7 @@
 title: "The Works of John Knox, Volume 1"
 author: "John Knox"
 year: "1846"
+written: "1846"
 tags:
   - protestant-reformers
   - john-knox

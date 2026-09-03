@@ -3,6 +3,7 @@ title: "Synod of Emden (1571)"
 council_type: "Synod"
 convened: "A.D. 1571"
 location: "Emden"
+written: "1571"
 tags:
   - church-councils
   - council-index

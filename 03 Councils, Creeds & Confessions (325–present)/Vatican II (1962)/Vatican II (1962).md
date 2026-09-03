@@ -4,6 +4,7 @@ council_type: "Ecumenical"
 ecumenical_no: 21
 convened: "A.D. 1962–1965"
 location: "Rome (Vatican)"
+written: "1962–1965"
 tags:
   - church-councils
   - council-index

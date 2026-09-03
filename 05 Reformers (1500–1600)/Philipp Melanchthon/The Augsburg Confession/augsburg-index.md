@@ -3,6 +3,7 @@ title: "The Augsburg Confession"
 author: "Philipp Melanchthon"
 translator: "F. Bente and W. H. T. Dau"
 year: "1530"
+written: "1530"
 tags:
   - protestant-reformers
   - philipp-melanchthon

@@ -3,6 +3,7 @@ title: "The Epistles of St Peter and St Jude Preached and Explained"
 author: "Martin Luther"
 translator: "E. H. Gillett (1859)"
 year: "1523"
+written: "1523"
 tags:
   - protestant-reformers
   - martin-luther

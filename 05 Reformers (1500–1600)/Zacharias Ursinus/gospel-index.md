@@ -3,6 +3,7 @@ title: "What is the Gospel?"
 author: "Zacharias Ursinus"
 translator: "G. W. Willard"
 year: "1584"
+written: "1584"
 tags:
   - protestant-reformers
   - zacharias-ursinus

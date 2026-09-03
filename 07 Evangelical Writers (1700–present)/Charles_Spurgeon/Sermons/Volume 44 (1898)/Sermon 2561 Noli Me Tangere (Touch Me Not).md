@@ -6,6 +6,7 @@ sermon_no: 2561
 volume: 44
 year: "1898"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1898"
 tags:
   - spurgeon
   - spurgeon-sermons

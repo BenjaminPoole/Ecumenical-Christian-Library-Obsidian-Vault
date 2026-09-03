@@ -4,6 +4,7 @@ author: "John Wesley"
 work: "A Farther Appeal to Men of Reason and Religion, Part II"
 year: "1745"
 source: "Project Gutenberg (Works, 3rd ed., vols. 14-15)"
+written: "1745"
 tags:
   - wesley
   - wesley-treatises

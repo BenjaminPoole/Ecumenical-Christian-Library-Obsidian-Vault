@@ -5,6 +5,7 @@ work: "The Upper Room"
 chapter: 7
 year: "1888"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1888"
 tags:
   - jc-ryle
   - ryle-upper-room

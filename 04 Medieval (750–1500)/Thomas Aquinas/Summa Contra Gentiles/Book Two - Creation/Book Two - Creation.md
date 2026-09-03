@@ -1,5 +1,6 @@
 ---
 title: "Summa Contra Gentiles — Book Two — Creation"
+written: "c. 1259–1265"
 tags:
   - aquinas
   - summa-contra-gentiles

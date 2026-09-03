@@ -3,6 +3,7 @@ title: "Reply to Sadoleto"
 author: "John Calvin"
 translator: "Henry Beveridge"
 year: "1539"
+written: "1539"
 tags:
   - calvin-treatises
 ---

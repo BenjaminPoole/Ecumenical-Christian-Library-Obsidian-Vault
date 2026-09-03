@@ -2,6 +2,7 @@
 title: "The Fundamentals: A Testimony to the Truth"
 editor: "A. C. Dixon, Louis Meyer, R. A. Torrey"
 year: "1910–1915"
+written: "1910–1915"
 tags:
   - the-fundamentals
 ---

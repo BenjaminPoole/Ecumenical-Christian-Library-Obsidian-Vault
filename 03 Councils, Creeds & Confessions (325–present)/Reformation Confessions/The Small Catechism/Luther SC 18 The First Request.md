@@ -6,6 +6,7 @@ work: "The Small Catechism"
 chapter: 18
 year: "1529"
 source: "CCEL / Project Wittenberg, tr. Robert E. Smith from the Triglot Concordia German text - freely distributed, not public domain"
+written: "1529"
 tags:
   - protestant-reformers
   - martin-luther

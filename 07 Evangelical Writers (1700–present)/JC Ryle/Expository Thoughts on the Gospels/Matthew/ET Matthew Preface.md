@@ -5,6 +5,7 @@ work: "Expository Thoughts on the Gospels"
 book: "Matthew"
 year: "1856"
 source: "Grace Gems (gracegems.org) — modernised text"
+written: "1856"
 tags:
   - jc-ryle
   - expository-thoughts

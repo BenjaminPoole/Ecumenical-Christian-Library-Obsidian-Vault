@@ -3,6 +3,7 @@ title: "Proverbs 23:26. The Heart: A Gift for God"
 book: "Sermons on Proverbs"
 author: "Charles H. Spurgeon"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "c. 1855–1892 (preached across Spurgeon's ministry)"
 tags:
   - spurgeon
   - spurgeon-books

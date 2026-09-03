@@ -3,6 +3,7 @@ title: "The Large Catechism"
 author: "Martin Luther"
 translator: "F. Bente and W. H. T. Dau"
 year: "1529"
+written: "1529"
 tags:
   - protestant-reformers
   - martin-luther

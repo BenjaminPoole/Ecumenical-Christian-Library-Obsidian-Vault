@@ -4,6 +4,7 @@ author: "John Wesley"
 work: "A Short History of Methodism"
 year: "1765"
 source: "Project Gutenberg (Works, 3rd ed., vols. 14-15)"
+written: "1765"
 tags:
   - wesley
   - wesley-treatises

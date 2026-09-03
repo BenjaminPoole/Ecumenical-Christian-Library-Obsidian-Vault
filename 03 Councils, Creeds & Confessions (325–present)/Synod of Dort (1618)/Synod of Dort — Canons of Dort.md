@@ -7,6 +7,7 @@ location: "Dordrecht (Dort)"
 translator: "Philip Schaff (ed.), English text of the Reformed [Dutch] Church in America"
 edition_year: "1877"
 source: "https://www.ccel.org/ccel/schaff/creeds3.iv.xvi.html"
+written: "1618–1619"
 tags:
   - church-councils
   - written/17th-century

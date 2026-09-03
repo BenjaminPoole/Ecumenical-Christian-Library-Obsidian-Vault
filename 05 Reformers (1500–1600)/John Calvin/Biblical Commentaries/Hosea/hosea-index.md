@@ -3,6 +3,7 @@ title: "Commentary on Hosea"
 author: "John Calvin"
 translator: "John Owen"
 year: "1557"
+written: "1557"
 tags:
   - calvin-commentaries
 ---

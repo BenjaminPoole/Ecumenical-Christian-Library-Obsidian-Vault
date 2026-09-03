@@ -2,6 +2,7 @@
 title: "Biblical Commentaries"
 author: "John Calvin"
 year: "1540–1565"
+written: "1540–1565"
 tags:
   - calvin-commentaries
 ---

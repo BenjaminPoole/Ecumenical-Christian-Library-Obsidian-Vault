@@ -3,6 +3,7 @@ title: "Neocaesarea (315)"
 council_type: "Local"
 convened: "c. A.D. 315"
 location: "Neocaesarea"
+written: "c. A.D. 315"
 tags:
   - church-councils
   - council-index

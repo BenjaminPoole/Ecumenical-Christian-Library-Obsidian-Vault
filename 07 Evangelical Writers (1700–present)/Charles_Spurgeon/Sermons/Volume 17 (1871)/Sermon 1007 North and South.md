@@ -6,6 +6,7 @@ sermon_no: 1007
 volume: 17
 year: "1871"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1871"
 tags:
   - spurgeon
   - spurgeon-sermons

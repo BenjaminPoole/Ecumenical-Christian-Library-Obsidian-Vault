@@ -6,6 +6,7 @@ work: "Apology of the Augsburg Confession"
 chapter: 4
 year: "1531"
 source: "CCEL, Triglot Concordia (St. Louis: Concordia, 1921) - public domain"
+written: "1531"
 tags:
   - protestant-reformers
   - philipp-melanchthon

@@ -7,6 +7,7 @@ volume: 7
 year: "1861"
 text: "John 3:18"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1861"
 tags:
   - spurgeon
   - spurgeon-sermons

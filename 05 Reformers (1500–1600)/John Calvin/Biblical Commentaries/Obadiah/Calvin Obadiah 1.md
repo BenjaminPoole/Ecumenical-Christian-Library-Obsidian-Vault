@@ -6,6 +6,7 @@ work: "Commentary on Obadiah"
 chapter: 1
 year: "1559"
 source: "CCEL calcom27, Calvin Translation Society"
+written: "1559"
 tags:
   - calvin-commentaries
 ---

@@ -6,6 +6,7 @@ sermon_no: 1437
 volume: 24
 year: "1878"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1878"
 tags:
   - spurgeon
   - spurgeon-sermons

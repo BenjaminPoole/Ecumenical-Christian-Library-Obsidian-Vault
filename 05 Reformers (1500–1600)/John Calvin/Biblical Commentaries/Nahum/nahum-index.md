@@ -3,6 +3,7 @@ title: "Commentary on Nahum"
 author: "John Calvin"
 translator: "John Owen"
 year: "1559"
+written: "1559"
 tags:
   - calvin-commentaries
 ---

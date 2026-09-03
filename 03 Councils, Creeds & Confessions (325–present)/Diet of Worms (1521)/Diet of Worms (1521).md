@@ -3,6 +3,7 @@ title: "Diet of Worms (1521)"
 council_type: "Diet"
 convened: "A.D. 1521"
 location: "Worms"
+written: "1521"
 tags:
   - church-councils
   - council-index

@@ -6,6 +6,7 @@ sermon_no: 267
 volume: 5
 year: "1859"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1859"
 tags:
   - spurgeon
   - spurgeon-sermons

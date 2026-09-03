@@ -5,6 +5,7 @@ work: "An Answer to Sir Thomas More's Dialogue"
 chapter: 1
 year: "1531"
 source: "archive.org, Parker Society ed. Henry Walter (1850); converted from archive.org OCR of the printed volume; recurring OCR letterform errors corrected programmatically (see _sources/ocrfix_log.md) - residual errors may remain"
+written: "1531"
 tags:
   - protestant-reformers
   - william-tyndale

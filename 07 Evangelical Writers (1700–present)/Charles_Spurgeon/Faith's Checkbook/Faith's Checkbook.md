@@ -1,5 +1,6 @@
 ---
 title: "Faith's Checkbook"
+written: "1888"
 tags:
   - spurgeon
   - spurgeon-index

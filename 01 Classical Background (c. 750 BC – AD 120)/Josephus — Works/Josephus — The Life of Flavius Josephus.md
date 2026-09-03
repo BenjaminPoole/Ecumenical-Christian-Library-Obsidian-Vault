@@ -5,6 +5,7 @@ translator: "William Whiston"
 category: "Jewish History"
 era: "1st century AD"
 source: "Project Gutenberg (ebook #2846)"
+written: "1st century AD"
 tags:
   - historical-works
   - classical

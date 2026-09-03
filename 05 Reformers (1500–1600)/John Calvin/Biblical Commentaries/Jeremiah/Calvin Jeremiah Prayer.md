@@ -5,6 +5,7 @@ translator: "John Owen"
 work: "Commentary on Jeremiah"
 year: "1563"
 source: "CCEL calcom17, Calvin Translation Society"
+written: "1563"
 tags:
   - calvin-commentaries
 ---

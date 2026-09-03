@@ -1,6 +1,7 @@
 ---
 title: "Truth and Innocence Vindicated"
 author: "John Owen"
+written: "1669"
 tags:
   - puritans
   - john-owen

@@ -6,6 +6,7 @@ sermon_no: 3545
 volume: 63
 year: "1917"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1917"
 tags:
   - spurgeon
   - spurgeon-sermons

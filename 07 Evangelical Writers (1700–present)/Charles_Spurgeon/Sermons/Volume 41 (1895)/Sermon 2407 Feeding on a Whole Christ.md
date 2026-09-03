@@ -6,6 +6,7 @@ sermon_no: 2407
 volume: 41
 year: "1895"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1895"
 tags:
   - spurgeon
   - spurgeon-sermons

@@ -1,6 +1,7 @@
 ---
 title: "Grace and Duty of being Spiritually Minded"
 author: "John Owen"
+written: "1681"
 tags:
   - puritans
   - john-owen

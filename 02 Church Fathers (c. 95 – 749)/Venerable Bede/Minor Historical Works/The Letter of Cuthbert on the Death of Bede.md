@@ -4,6 +4,7 @@ author: "Cuthbert (Bede's pupil)"
 work: "Minor Historical Works"
 year: "735"
 source: "Project Gutenberg #38326 (Sellar), front matter"
+written: "735"
 tags:
   - venerable-bede
   - bede-minor

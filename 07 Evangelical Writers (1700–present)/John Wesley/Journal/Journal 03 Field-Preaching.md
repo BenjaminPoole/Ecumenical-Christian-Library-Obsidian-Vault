@@ -5,6 +5,7 @@ work: "The Journal of John Wesley"
 chapter: 3
 year: "1903"
 source: "CCEL EPUB (Parker abridged edition, 1903)"
+written: "1903"
 tags:
   - wesley
   - wesley-journal

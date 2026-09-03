@@ -4,6 +4,7 @@ author: "John Owen"
 work: "Inquiry into the Original, Nature, Institution, Power, Order, and Communion of Evangelical Churches"
 section: 2
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1689 (published posthumously)"
 tags:
   - puritans
   - john-owen

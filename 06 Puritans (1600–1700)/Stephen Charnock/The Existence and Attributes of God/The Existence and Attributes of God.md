@@ -1,6 +1,7 @@
 ---
 title: "The Existence and Attributes of God"
 author: "Stephen Charnock"
+written: "1682 (published posthumously)"
 tags:
   - puritans
   - stephen-charnock

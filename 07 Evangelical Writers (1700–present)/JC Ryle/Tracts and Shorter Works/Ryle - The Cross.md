@@ -4,6 +4,7 @@ author: "J. C. Ryle"
 work: "The Cross"
 year: "1860"
 source: "Project Gutenberg (ebook #62001)"
+written: "1860"
 tags:
   - jc-ryle
   - ryle-tracts

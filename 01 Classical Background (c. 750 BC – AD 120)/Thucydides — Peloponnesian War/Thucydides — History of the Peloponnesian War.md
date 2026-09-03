@@ -5,6 +5,7 @@ translator: "Richard Crawley"
 category: "Greek History"
 era: "c. 400 BC"
 source: "Project Gutenberg (ebook #7142)"
+written: "c. 400 BC"
 tags:
   - historical-works
   - classical

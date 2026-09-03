@@ -6,6 +6,7 @@ book: "1 Corinthians"
 chapter: 2
 year: "1755/1765"
 source: "CCEL EPUB (Wesley's Notes on the Bible)"
+written: "1755/1765"
 tags:
   - wesley
   - wesley-notes

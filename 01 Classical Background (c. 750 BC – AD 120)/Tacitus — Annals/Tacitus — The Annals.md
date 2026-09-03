@@ -5,6 +5,7 @@ translator: "Alfred John Church & William Jackson Brodribb"
 category: "Roman History"
 era: "c. AD 117"
 source: "Wikisource — Church & Brodribb translation (1876)"
+written: "c. AD 117"
 tags:
   - historical-works
   - classical

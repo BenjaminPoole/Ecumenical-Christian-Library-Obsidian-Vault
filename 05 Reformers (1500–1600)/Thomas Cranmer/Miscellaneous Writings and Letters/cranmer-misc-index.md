@@ -2,6 +2,7 @@
 title: "Miscellaneous Writings and Letters"
 author: "Thomas Cranmer"
 year: "1533-1556"
+written: "1533-1556"
 tags:
   - protestant-reformers
   - thomas-cranmer

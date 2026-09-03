@@ -3,6 +3,7 @@ title: "Trullo (692)"
 council_type: "Local"
 convened: "A.D. 692"
 location: "Constantinople (in Trullo)"
+written: "692"
 tags:
   - church-councils
   - council-index

@@ -6,6 +6,7 @@ sermon_no: 3232
 volume: 57
 year: "1911"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1911"
 tags:
   - spurgeon
   - spurgeon-sermons

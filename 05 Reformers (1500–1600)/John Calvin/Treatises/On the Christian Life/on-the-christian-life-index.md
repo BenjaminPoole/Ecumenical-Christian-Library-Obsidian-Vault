@@ -3,6 +3,7 @@ title: "On the Christian Life"
 author: "John Calvin"
 translator: "Henry Beveridge"
 year: "1559"
+written: "1559"
 tags:
   - calvin-treatises
 ---

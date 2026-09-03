@@ -6,6 +6,7 @@ work: "Institutes of the Christian Religion"
 book: "Book II — Of the Knowledge of God the Redeemer, in Christ, as First Manifested to the Fathers, Under the Law, and Thereafter to Us Under the Gospel"
 year: "1559"
 source: "CCEL, Beveridge translation (1845)"
+written: "1559"
 tags:
   - institutes
 ---

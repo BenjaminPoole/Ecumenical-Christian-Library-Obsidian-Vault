@@ -6,6 +6,7 @@ work: "First Principles of the Reformation"
 chapter: 11
 year: "1520"
 source: "CCEL, Wace & Buchheim edition (London, 1883) - public domain"
+written: "1520"
 tags:
   - protestant-reformers
   - martin-luther

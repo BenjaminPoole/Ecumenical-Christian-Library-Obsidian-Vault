@@ -6,6 +6,7 @@ work: "The Smalcald Articles"
 chapter: 3
 year: "1537"
 source: "CCEL, Triglot Concordia (St. Louis: Concordia, 1921) - public domain"
+written: "1537"
 tags:
   - protestant-reformers
   - martin-luther

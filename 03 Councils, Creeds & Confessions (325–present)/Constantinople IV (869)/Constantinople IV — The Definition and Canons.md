@@ -8,6 +8,7 @@ location: "Constantinople"
 translator: "Norman P. Tanner"
 edition_year: "1990"
 source: "https://www.papalencyclicals.net/councils/ecum08.htm"
+written: "869–870"
 tags:
   - church-councils
   - written/9th-century

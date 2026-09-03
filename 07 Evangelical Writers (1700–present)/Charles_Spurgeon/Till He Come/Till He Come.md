@@ -1,5 +1,6 @@
 ---
 title: "Till He Come"
+written: "1896"
 tags:
   - spurgeon
   - spurgeon-index

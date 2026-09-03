@@ -4,6 +4,7 @@ author: "J. C. Ryle"
 work: "What Is Your Hope?"
 year: "n.d."
 source: "Grace Gems (gracegems.org) — modernised text"
+written: "n.d."
 tags:
   - jc-ryle
   - ryle-tracts

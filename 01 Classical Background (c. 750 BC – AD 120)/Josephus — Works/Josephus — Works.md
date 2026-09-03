@@ -3,6 +3,7 @@ title: "Josephus — Works"
 author: "Flavius Josephus"
 category: "Jewish History"
 era: "1st century AD"
+written: "1st century AD"
 tags:
   - historical-works
   - classical

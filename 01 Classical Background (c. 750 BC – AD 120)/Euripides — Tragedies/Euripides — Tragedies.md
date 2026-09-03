@@ -3,6 +3,7 @@ title: "Euripides — Tragedies"
 author: "Euripides"
 category: "Greek Tragedy"
 era: "5th century BC"
+written: "5th century BC"
 tags:
   - historical-works
   - classical

@@ -6,6 +6,7 @@ work: "Commentary on Genesis (Chapters 1-9)"
 chapter: 20
 year: "1544"
 source: "Project Gutenberg #48193 and #27978, Lenker translation (1904) - public domain"
+written: "1544"
 tags:
   - protestant-reformers
   - martin-luther

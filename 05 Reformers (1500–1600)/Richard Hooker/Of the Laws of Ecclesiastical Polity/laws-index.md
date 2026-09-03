@@ -2,6 +2,7 @@
 title: "Of the Laws of Ecclesiastical Polity"
 author: "Richard Hooker"
 year: "1594-1662"
+written: "1594-1662"
 tags:
   - protestant-reformers
   - richard-hooker

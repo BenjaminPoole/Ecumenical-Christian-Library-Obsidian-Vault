@@ -2,6 +2,7 @@
 title: "The History of the Reformation of Religion in Scotland"
 author: "John Knox"
 year: "1587"
+written: "1587"
 tags:
   - protestant-reformers
   - john-knox

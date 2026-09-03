@@ -6,6 +6,7 @@ sermon_no: 1102
 volume: 19
 year: "1873"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1873"
 tags:
   - spurgeon
   - spurgeon-sermons

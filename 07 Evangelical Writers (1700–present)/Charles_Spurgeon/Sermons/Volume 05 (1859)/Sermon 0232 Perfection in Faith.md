@@ -6,6 +6,7 @@ sermon_no: 232
 volume: 5
 year: "1859"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1859"
 tags:
   - spurgeon
   - spurgeon-sermons

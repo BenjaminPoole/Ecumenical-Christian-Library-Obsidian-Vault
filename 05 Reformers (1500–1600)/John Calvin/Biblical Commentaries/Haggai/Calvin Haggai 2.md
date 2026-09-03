@@ -6,6 +6,7 @@ work: "Commentary on Haggai"
 chapter: 2
 year: "1559"
 source: "CCEL calcom29, Calvin Translation Society"
+written: "1559"
 tags:
   - calvin-commentaries
 ---

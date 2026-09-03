@@ -2,6 +2,7 @@
 title: "Works of Martin Luther (Philadelphia Edition) - further treatises"
 author: "Martin Luther"
 year: "1517-1522"
+written: "1517-1522"
 tags:
   - protestant-reformers
   - martin-luther

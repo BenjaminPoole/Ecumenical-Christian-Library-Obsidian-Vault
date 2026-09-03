@@ -1,6 +1,7 @@
 ---
 title: "The Pilgrim's Progress"
 author: "John Bunyan"
+written: "1678–1684"
 tags:
   - puritans
   - john-bunyan

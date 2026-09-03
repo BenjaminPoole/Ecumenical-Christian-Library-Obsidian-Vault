@@ -3,6 +3,7 @@ title: "Commentary on 1 John"
 author: "John Calvin"
 translator: "John Owen"
 year: "1551"
+written: "1551"
 tags:
   - calvin-commentaries
 ---

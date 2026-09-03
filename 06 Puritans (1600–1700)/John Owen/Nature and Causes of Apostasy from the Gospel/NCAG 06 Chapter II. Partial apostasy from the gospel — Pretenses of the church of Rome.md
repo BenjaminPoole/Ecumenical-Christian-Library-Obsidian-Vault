@@ -4,6 +4,7 @@ author: "John Owen"
 work: "Nature and Causes of Apostasy from the Gospel"
 section: 6
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1676"
 tags:
   - puritans
   - john-owen

@@ -6,6 +6,7 @@ sermon_no: 2454
 volume: 42
 year: "1896"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1896"
 tags:
   - spurgeon
   - spurgeon-sermons

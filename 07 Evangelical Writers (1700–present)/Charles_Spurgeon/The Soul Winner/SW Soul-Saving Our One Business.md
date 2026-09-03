@@ -2,6 +2,7 @@
 title: "Soul-Saving Our One Business"
 book: "The Soul Winner"
 author: "Charles H. Spurgeon"
+written: "1895"
 tags:
   - spurgeon
   - spurgeon-books

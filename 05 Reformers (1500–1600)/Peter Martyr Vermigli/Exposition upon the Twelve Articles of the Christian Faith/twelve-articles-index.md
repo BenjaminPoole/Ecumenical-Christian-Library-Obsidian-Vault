@@ -2,6 +2,7 @@
 title: "Exposition upon the Twelve Articles of the Christian Faith"
 author: "Peter Martyr Vermigli"
 year: "1544"
+written: "1544"
 tags:
   - protestant-reformers
   - peter-martyr-vermigli

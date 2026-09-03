@@ -5,6 +5,7 @@ translator: "William Pringle"
 work: "Commentary on John"
 year: "1553"
 source: "CCEL calcom34, Calvin Translation Society"
+written: "1553"
 tags:
   - calvin-commentaries
 ---

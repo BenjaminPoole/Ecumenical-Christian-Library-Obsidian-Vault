@@ -1,5 +1,6 @@
 ---
 title: "The Soul Winner"
+written: "1895"
 tags:
   - spurgeon
   - spurgeon-index

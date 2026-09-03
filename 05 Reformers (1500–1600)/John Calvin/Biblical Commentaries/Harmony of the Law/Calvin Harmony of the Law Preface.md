@@ -5,6 +5,7 @@ translator: "Charles William Bingham"
 work: "Harmony of the Law"
 year: "1563"
 source: "CCEL calcom03, Calvin Translation Society"
+written: "1563"
 tags:
   - calvin-commentaries
 ---

@@ -4,6 +4,7 @@ author: "Bede"
 work: "Minor Historical Works"
 year: "c. 700–735"
 source: "archive.org: The Minor Historical Works of Venerable Bede, ed. J. A. Giles (1843) — uncorrected OCR; occasional printed side-notes may intrude into the text"
+written: "c. 700–735"
 tags:
   - venerable-bede
   - bede-minor

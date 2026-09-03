@@ -4,6 +4,7 @@ author: "J. C. Ryle"
 work: "Light from Old Times — Introduction"
 year: "1890"
 source: "Grace Gems (gracegems.org) — modernised text"
+written: "1890"
 tags:
   - jc-ryle
   - ryle-tracts

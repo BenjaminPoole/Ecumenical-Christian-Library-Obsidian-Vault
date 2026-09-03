@@ -1,6 +1,7 @@
 ---
 title: "Practical Exposition upon Psalm Cxxx"
 author: "John Owen"
+written: "1668"
 tags:
   - puritans
   - john-owen

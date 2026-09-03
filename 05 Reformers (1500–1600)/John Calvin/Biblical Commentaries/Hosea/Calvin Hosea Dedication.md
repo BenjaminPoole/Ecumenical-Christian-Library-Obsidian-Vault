@@ -5,6 +5,7 @@ translator: "John Owen"
 work: "Commentary on Hosea"
 year: "1557"
 source: "CCEL calcom26, Calvin Translation Society"
+written: "1557"
 tags:
   - calvin-commentaries
 ---

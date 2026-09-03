@@ -4,6 +4,7 @@ author: "John Owen"
 work: "Review of the Annotations of Hugo Grotius"
 section: 3
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1656"
 tags:
   - puritans
   - john-owen

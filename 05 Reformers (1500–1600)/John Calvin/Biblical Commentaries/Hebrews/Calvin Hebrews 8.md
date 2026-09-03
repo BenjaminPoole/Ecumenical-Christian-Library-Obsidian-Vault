@@ -6,6 +6,7 @@ work: "Commentary on Hebrews"
 chapter: 8
 year: "1549"
 source: "CCEL calcom44, Calvin Translation Society"
+written: "1549"
 tags:
   - calvin-commentaries
 ---

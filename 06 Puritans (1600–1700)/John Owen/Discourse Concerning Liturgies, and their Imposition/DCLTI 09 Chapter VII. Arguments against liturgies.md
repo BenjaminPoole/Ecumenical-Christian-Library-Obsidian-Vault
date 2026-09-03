@@ -4,6 +4,7 @@ author: "John Owen"
 work: "Discourse Concerning Liturgies, and their Imposition"
 section: 9
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1662"
 tags:
   - puritans
   - john-owen

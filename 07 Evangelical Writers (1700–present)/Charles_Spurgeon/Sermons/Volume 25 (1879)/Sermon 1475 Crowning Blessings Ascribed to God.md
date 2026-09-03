@@ -6,6 +6,7 @@ sermon_no: 1475
 volume: 25
 year: "1879"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1879"
 tags:
   - spurgeon
   - spurgeon-sermons

@@ -1,5 +1,6 @@
 ---
 title: "A Puritan Catechism"
+written: "1855"
 tags:
   - spurgeon
   - spurgeon-index

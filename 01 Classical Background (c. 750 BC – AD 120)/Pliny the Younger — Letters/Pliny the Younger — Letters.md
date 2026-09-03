@@ -5,6 +5,7 @@ translator: "William Melmoth"
 category: "Roman Letters"
 era: "c. AD 100"
 source: "Project Gutenberg (ebook #2811)"
+written: "c. AD 100"
 tags:
   - historical-works
   - classical

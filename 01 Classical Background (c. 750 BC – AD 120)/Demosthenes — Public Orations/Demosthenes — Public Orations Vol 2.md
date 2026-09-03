@@ -5,6 +5,7 @@ translator: "Arthur Wallace Pickard-Cambridge"
 category: "Greek Oratory"
 era: "4th century BC"
 source: "Project Gutenberg (ebook #9061)"
+written: "4th century BC"
 tags:
   - historical-works
   - classical

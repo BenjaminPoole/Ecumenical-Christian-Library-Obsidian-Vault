@@ -1,6 +1,7 @@
 ---
 title: "Sacramental Discourses"
 author: "John Owen"
+written: "c. 1669–1682 (published posthumously)"
 tags:
   - puritans
   - john-owen

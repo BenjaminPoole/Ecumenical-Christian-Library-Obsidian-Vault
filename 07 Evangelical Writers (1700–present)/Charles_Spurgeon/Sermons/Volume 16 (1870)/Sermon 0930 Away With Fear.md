@@ -6,6 +6,7 @@ sermon_no: 930
 volume: 16
 year: "1870"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1870"
 tags:
   - spurgeon
   - spurgeon-sermons

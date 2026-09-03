@@ -6,6 +6,7 @@ volume: 1
 series: "The Works of Jonathan Edwards (Banner of Truth)"
 source: "https://ccel.org/ccel/edwards/works1"
 epub_file: "works1.xii.vi.viii.html"
+written: "1739 (preached); published 1774 (posthumously)"
 tags:
   - jonathan-edwards
 ---

@@ -2,6 +2,7 @@
 title: "The Faculty of Impromptu Speech"
 book: "Lectures to My Students"
 author: "Charles H. Spurgeon"
+written: "1875–1894"
 tags:
   - spurgeon
   - spurgeon-books

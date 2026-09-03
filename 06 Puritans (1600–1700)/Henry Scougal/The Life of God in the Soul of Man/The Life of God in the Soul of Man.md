@@ -1,6 +1,7 @@
 ---
 title: "The Life of God in the Soul of Man"
 author: "Henry Scougal"
+written: "1677"
 tags:
   - puritans
   - henry-scougal

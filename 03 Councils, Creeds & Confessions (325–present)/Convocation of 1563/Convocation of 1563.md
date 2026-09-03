@@ -3,6 +3,7 @@ title: "Convocation of 1563"
 council_type: "Convocation"
 convened: "A.D. 1563"
 location: "London (Canterbury)"
+written: "1563"
 tags:
   - church-councils
   - council-index

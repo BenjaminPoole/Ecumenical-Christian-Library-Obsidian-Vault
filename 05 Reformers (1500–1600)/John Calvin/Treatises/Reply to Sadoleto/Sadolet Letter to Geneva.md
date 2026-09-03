@@ -5,6 +5,7 @@ translator: "Henry Beveridge"
 work: "Reply to Sadoleto"
 year: "1539"
 source: "Tracts Relating to the Reformation vol. 1 (CTS, 1844), Beveridge translation; converted from uncorrected archive.org OCR — occasional character errors may remain"
+written: "1539"
 tags:
   - calvin-treatises
 ---

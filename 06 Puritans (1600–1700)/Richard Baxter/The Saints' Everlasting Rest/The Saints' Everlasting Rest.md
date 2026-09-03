@@ -1,6 +1,7 @@
 ---
 title: "The Saints' Everlasting Rest"
 author: "Richard Baxter"
+written: "1650"
 tags:
   - puritans
   - richard-baxter

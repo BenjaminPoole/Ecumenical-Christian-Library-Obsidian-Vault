@@ -6,6 +6,7 @@ book: "Proverbs"
 chapter: 9
 year: "1647-1662"
 source: "archive.org: John Trapp's Bible Commentary (JohnTrappsBibleCommentaries, per-book EPUBs)"
+written: "1647-1662"
 tags:
   - john-trapp
   - trapp-commentary

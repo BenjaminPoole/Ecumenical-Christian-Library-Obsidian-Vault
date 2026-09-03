@@ -7,6 +7,7 @@ volume: 17
 year: "1871"
 text: "Hebrews 4:16"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1871"
 tags:
   - spurgeon
   - spurgeon-sermons

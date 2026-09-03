@@ -4,6 +4,7 @@ author: "John Owen"
 work: "Several Practical Cases of Conscience Resolved"
 section: 8
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1721 (published posthumously)"
 tags:
   - puritans
   - john-owen

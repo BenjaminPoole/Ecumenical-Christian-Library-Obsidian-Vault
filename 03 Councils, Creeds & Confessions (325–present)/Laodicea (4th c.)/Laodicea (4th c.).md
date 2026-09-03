@@ -3,6 +3,7 @@ title: "Laodicea (4th c.)"
 council_type: "Local"
 convened: "4th century"
 location: "Laodicea (Phrygia)"
+written: "4th century"
 tags:
   - church-councils
   - council-index

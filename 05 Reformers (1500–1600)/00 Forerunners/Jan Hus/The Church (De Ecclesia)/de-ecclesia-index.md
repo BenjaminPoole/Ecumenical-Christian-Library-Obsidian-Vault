@@ -3,6 +3,7 @@ title: "The Church (De Ecclesia)"
 author: "Jan Hus"
 translator: "David S. Schaff (1915)"
 year: "1413"
+written: "1413"
 tags:
   - protestant-reformers
   - jan-hus

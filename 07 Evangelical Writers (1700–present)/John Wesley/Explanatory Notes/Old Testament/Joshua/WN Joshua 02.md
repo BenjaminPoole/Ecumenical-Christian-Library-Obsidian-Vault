@@ -6,6 +6,7 @@ book: "Joshua"
 chapter: 2
 year: "1755/1765"
 source: "biblehub.com (Wesley's Explanatory Notes)"
+written: "1755/1765"
 tags:
   - wesley
   - wesley-notes

@@ -4,6 +4,7 @@ author: "John Owen"
 work: "Sermons of John Owen"
 section: 81
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "c. 1646–1683 (various occasions, published posthumously)"
 tags:
   - puritans
   - john-owen

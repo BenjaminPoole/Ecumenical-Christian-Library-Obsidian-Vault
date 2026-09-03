@@ -1,6 +1,7 @@
 ---
 title: "Pneumatologia"
 author: "John Owen"
+written: "1674"
 tags:
   - puritans
   - john-owen

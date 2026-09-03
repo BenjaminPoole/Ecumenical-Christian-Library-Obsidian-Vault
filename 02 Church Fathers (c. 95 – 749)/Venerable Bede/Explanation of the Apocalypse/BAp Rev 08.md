@@ -4,6 +4,7 @@ author: "Bede"
 work: "Explanation of the Apocalypse"
 year: "c. 710–716"
 source: "archive.org: The Explanation of the Apocalypse, tr. Rev. Edw. Marshall (1878) — uncorrected OCR"
+written: "c. 710–716"
 tags:
   - venerable-bede
   - bede-apocalypse

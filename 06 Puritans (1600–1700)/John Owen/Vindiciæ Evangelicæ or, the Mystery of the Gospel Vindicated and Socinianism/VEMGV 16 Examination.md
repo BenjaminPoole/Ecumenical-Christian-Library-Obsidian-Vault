@@ -4,6 +4,7 @@ author: "John Owen"
 work: "Vindiciæ Evangelicæ or, the Mystery of the Gospel Vindicated and Socinianism Examined"
 section: 16
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1655"
 tags:
   - puritans
   - john-owen

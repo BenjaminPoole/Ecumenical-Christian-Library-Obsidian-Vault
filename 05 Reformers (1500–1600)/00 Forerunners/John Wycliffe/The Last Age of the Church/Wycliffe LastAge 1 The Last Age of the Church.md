@@ -5,6 +5,7 @@ work: "The Last Age of the Church"
 chapter: 1
 year: "1356"
 source: "Project Gutenberg #70258, ed. J. H. Todd (Dublin, 1840) - public domain"
+written: "1356"
 tags:
   - protestant-reformers
   - john-wycliffe

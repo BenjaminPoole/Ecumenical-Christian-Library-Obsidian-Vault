@@ -4,6 +4,7 @@ author: "John Flavel"
 work: "Keeping the Heart"
 section: 18
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1668"
 tags:
   - puritans
   - john-flavel

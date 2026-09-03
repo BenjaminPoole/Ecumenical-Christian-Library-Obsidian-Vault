@@ -3,6 +3,7 @@ title: "Herodotus — The Histories"
 author: "Herodotus"
 category: "Greek History"
 era: "c. 430 BC"
+written: "c. 430 BC"
 tags:
   - historical-works
   - classical

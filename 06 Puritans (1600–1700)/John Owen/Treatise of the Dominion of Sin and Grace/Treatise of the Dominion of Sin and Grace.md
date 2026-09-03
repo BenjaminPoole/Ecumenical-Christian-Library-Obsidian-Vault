@@ -1,6 +1,7 @@
 ---
 title: "Treatise of the Dominion of Sin and Grace"
 author: "John Owen"
+written: "1688 (published posthumously)"
 tags:
   - puritans
   - john-owen

@@ -6,6 +6,7 @@ sermon_no: 175
 volume: 4
 year: "1858"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1858"
 tags:
   - spurgeon
   - spurgeon-sermons

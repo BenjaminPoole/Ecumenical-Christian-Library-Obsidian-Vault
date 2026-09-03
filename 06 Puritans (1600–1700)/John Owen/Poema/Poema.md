@@ -1,6 +1,7 @@
 ---
 title: "Poema"
 author: "John Owen"
+written: "1654 (occasional verse for Cromwell's Dutch peace, in Musarum Oxoniensium Elaiophoria)"
 tags:
   - puritans
   - john-owen

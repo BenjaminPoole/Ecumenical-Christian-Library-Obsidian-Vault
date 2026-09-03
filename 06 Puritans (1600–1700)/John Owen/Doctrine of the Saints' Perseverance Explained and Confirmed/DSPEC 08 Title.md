@@ -4,6 +4,7 @@ author: "John Owen"
 work: "Doctrine of the Saints' Perseverance Explained and Confirmed"
 section: 8
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1654"
 tags:
   - puritans
   - john-owen

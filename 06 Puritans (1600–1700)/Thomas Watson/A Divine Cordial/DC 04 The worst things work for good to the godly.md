@@ -4,6 +4,7 @@ author: "Thomas Watson"
 work: "A Divine Cordial"
 section: 4
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1663"
 tags:
   - puritans
   - thomas-watson

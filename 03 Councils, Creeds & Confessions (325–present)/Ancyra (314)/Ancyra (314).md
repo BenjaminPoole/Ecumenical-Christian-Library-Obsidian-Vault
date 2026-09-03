@@ -3,6 +3,7 @@ title: "Ancyra (314)"
 council_type: "Local"
 convened: "A.D. 314"
 location: "Ancyra (Ankara)"
+written: "314"
 tags:
   - church-councils
   - council-index

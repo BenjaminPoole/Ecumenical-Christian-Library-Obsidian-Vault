@@ -3,6 +3,7 @@ title: "Commentary on 2 Corinthians"
 author: "John Calvin"
 translator: "John Pringle"
 year: "1546"
+written: "1546"
 tags:
   - calvin-commentaries
 ---

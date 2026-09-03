@@ -1,6 +1,7 @@
 ---
 title: "Doctrine of Justification by Faith"
 author: "John Owen"
+written: "1677"
 tags:
   - puritans
   - john-owen

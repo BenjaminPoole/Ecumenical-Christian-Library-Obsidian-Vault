@@ -7,6 +7,7 @@ volume: 8
 year: "1862"
 text: "Mark 1:15"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1862"
 tags:
   - spurgeon
   - spurgeon-sermons

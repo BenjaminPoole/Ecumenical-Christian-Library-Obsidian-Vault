@@ -6,6 +6,7 @@ sermon_no: 2863
 volume: 49
 year: "1903"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1903"
 tags:
   - spurgeon
   - spurgeon-sermons

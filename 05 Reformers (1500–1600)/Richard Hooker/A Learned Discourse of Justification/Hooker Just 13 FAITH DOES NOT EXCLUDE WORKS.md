@@ -5,6 +5,7 @@ work: "A Learned Discourse of Justification, Works, and How the Foundation of Fa
 chapter: 13
 year: "1585"
 source: "CCEL - public domain"
+written: "1585"
 tags:
   - protestant-reformers
   - richard-hooker

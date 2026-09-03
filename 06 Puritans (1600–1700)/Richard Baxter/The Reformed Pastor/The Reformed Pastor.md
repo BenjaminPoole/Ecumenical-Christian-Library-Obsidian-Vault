@@ -1,6 +1,7 @@
 ---
 title: "The Reformed Pastor"
 author: "Richard Baxter"
+written: "1656"
 tags:
   - puritans
   - richard-baxter

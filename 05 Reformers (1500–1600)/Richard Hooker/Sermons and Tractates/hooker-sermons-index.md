@@ -2,6 +2,7 @@
 title: "Sermons and Tractates"
 author: "Richard Hooker"
 year: "1585-1600"
+written: "1585-1600"
 tags:
   - protestant-reformers
   - richard-hooker

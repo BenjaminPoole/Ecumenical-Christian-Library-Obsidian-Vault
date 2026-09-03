@@ -6,6 +6,7 @@ work: "The Augsburg Confession"
 chapter: 20
 year: "1530"
 source: "Project Gutenberg #275, Triglot Concordia (Concordia, 1921) - public domain"
+written: "1530"
 tags:
   - protestant-reformers
   - philipp-melanchthon

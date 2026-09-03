@@ -3,6 +3,7 @@ title: "Diet of Augsburg (1530)"
 council_type: "Diet"
 convened: "A.D. 1530"
 location: "Augsburg"
+written: "1530"
 tags:
   - church-councils
   - council-index

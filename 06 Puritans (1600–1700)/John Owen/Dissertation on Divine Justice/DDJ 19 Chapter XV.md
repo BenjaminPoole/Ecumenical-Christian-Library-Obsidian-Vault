@@ -4,6 +4,7 @@ author: "John Owen"
 work: "Dissertation on Divine Justice"
 section: 19
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1653"
 tags:
   - puritans
   - john-owen

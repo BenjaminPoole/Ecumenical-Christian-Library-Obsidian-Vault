@@ -3,6 +3,7 @@ title: "Lecture 1: A Chat about Commentaries"
 book: "Commenting and Commentaries"
 author: "Charles H. Spurgeon"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1876"
 tags:
   - spurgeon
   - spurgeon-books

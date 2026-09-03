@@ -4,6 +4,7 @@ author: "John Owen"
 work: "Two Short Catechisms"
 section: 15
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1645"
 tags:
   - puritans
   - john-owen

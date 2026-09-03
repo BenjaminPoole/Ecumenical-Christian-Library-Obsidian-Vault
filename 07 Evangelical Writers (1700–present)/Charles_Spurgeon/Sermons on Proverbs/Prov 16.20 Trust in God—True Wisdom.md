@@ -3,6 +3,7 @@ title: "Proverbs 16:20. Trust in God—True Wisdom"
 book: "Sermons on Proverbs"
 author: "Charles H. Spurgeon"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "c. 1855–1892 (preached across Spurgeon's ministry)"
 tags:
   - spurgeon
   - spurgeon-books

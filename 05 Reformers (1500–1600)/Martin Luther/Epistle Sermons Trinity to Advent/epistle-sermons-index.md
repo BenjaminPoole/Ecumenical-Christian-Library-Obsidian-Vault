@@ -3,6 +3,7 @@ title: "Epistle Sermons, Vol. 3: Trinity Sunday to Advent"
 author: "Martin Luther"
 translator: "John Nicholas Lenker and others"
 year: "1544"
+written: "1544"
 tags:
   - protestant-reformers
   - martin-luther

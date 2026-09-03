@@ -5,6 +5,7 @@ translator: "Theodore Alois Buckley / Gilbert Murray"
 category: "Greek Tragedy"
 era: "5th century BC"
 source: "Project Gutenberg (ebook #15081)"
+written: "5th century BC"
 tags:
   - historical-works
   - classical

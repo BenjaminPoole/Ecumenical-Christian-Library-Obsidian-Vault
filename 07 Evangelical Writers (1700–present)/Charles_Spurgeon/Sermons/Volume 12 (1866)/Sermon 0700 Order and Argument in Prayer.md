@@ -7,6 +7,7 @@ volume: 12
 year: "1866"
 text: "Job 23:3,4"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1866"
 tags:
   - spurgeon
   - spurgeon-sermons

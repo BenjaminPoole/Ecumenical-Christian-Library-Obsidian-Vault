@@ -4,6 +4,7 @@ author: "J. C. Ryle"
 work: "Shall We Know One Another in Heaven?"
 year: "n.d."
 source: "Grace Gems (gracegems.org) — modernised text"
+written: "n.d."
 tags:
   - jc-ryle
   - ryle-tracts

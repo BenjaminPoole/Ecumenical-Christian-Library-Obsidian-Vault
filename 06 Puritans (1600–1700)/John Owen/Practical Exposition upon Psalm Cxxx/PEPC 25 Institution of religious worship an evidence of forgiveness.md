@@ -4,6 +4,7 @@ author: "John Owen"
 work: "Practical Exposition upon Psalm Cxxx"
 section: 25
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1668"
 tags:
   - puritans
   - john-owen

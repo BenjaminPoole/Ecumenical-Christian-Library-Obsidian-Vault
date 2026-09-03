@@ -1,6 +1,7 @@
 ---
 title: "Discourse concerning Evangelical Love, Church Peace, and Unity"
 author: "John Owen"
+written: "1672"
 tags:
   - puritans
   - john-owen

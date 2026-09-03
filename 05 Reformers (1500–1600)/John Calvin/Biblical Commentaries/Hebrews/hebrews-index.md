@@ -3,6 +3,7 @@ title: "Commentary on Hebrews"
 author: "John Calvin"
 translator: "John Owen"
 year: "1549"
+written: "1549"
 tags:
   - calvin-commentaries
 ---

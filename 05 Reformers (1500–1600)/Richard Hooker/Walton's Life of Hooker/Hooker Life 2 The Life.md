@@ -4,6 +4,7 @@ author: "Izaak Walton"
 work: "The Life of Mr. Richard Hooker"
 year: "1665"
 source: "Online Library of Liberty EPUB of Keble's 7th ed. (Clarendon Press, 1888) - public domain"
+written: "1665"
 tags:
   - protestant-reformers
   - richard-hooker

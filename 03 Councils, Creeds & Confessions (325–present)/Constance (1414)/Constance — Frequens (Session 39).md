@@ -8,6 +8,7 @@ location: "Constance"
 translator: "Norman P. Tanner"
 edition_year: "1990"
 source: "https://www.papalencyclicals.net/councils/ecum16.htm"
+written: "1414–1418"
 tags:
   - church-councils
   - written/15th-century

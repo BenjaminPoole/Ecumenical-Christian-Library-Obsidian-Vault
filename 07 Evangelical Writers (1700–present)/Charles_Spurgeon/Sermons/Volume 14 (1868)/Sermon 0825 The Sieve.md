@@ -6,6 +6,7 @@ sermon_no: 825
 volume: 14
 year: "1868"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1868"
 tags:
   - spurgeon
   - spurgeon-sermons

@@ -1,6 +1,7 @@
 ---
 title: "Of Communion with God the Father, Son and Holy Ghost"
 author: "John Owen"
+written: "1657"
 tags:
   - puritans
   - john-owen

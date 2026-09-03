@@ -4,6 +4,7 @@ author: "John Wesley"
 work: "A Plain Account of the People Called Methodists"
 year: "1749"
 source: "Project Gutenberg (Works, 3rd ed., vols. 14-15)"
+written: "1749"
 tags:
   - wesley
   - wesley-treatises

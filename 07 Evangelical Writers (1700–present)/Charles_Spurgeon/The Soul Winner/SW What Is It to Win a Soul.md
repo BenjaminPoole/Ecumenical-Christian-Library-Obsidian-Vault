@@ -2,6 +2,7 @@
 title: "What Is It to Win a Soul?"
 book: "The Soul Winner"
 author: "Charles H. Spurgeon"
+written: "1895"
 tags:
   - spurgeon
   - spurgeon-books

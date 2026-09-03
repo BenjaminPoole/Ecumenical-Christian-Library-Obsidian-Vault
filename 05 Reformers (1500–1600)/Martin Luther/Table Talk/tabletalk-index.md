@@ -3,6 +3,7 @@ title: "Table Talk"
 author: "Martin Luther"
 translator: "William Hazlitt (1848)"
 year: "1566"
+written: "1566"
 tags:
   - protestant-reformers
   - martin-luther

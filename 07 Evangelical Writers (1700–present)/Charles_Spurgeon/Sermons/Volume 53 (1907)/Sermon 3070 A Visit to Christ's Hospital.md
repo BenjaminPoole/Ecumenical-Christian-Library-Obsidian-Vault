@@ -6,6 +6,7 @@ sermon_no: 3070
 volume: 53
 year: "1907"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1907"
 tags:
   - spurgeon
   - spurgeon-sermons

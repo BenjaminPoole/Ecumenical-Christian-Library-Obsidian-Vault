@@ -3,6 +3,7 @@ title: "The Common Places"
 author: "Peter Martyr Vermigli"
 translator: "Anthonie Marten (1583)"
 year: "1583"
+written: "1583"
 tags:
   - protestant-reformers
   - peter-martyr-vermigli

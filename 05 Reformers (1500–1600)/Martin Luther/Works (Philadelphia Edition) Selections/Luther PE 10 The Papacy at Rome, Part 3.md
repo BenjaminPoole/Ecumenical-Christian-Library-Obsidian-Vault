@@ -5,6 +5,7 @@ work: "Works of Martin Luther (Philadelphia Edition) - further treatises"
 chapter: 10
 year: "1517-1522"
 source: "Project Gutenberg #31604 and #34904, Works of Martin Luther (Holman, 1915-16) - public domain"
+written: "1517-1522"
 tags:
   - protestant-reformers
   - martin-luther

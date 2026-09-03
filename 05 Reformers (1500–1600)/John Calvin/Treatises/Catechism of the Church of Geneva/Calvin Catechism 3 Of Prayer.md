@@ -6,6 +6,7 @@ work: "Catechism of the Church of Geneva"
 chapter: 3
 year: "1545"
 source: "Tracts Relating to the Reformation vol. 2 (CTS, 1849), Beveridge translation; converted from uncorrected archive.org OCR — occasional character errors may remain"
+written: "1545"
 tags:
   - calvin-treatises
 ---

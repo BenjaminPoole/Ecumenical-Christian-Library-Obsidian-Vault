@@ -4,6 +4,7 @@ author: "William Gurnall"
 work: "The Christian in Complete Armour"
 section: 17
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1655–1662"
 tags:
   - puritans
   - william-gurnall

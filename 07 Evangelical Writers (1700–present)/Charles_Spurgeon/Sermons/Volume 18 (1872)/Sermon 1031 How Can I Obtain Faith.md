@@ -6,6 +6,7 @@ sermon_no: 1031
 volume: 18
 year: "1872"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1872"
 tags:
   - spurgeon
   - spurgeon-sermons

@@ -6,6 +6,7 @@ sermon_no: 615
 volume: 11
 year: "1865"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1865"
 tags:
   - spurgeon
   - spurgeon-sermons

@@ -2,6 +2,7 @@
 title: "A Treatise of the Cohabitation of the Faithful with the Unfaithful"
 author: "Heinrich Bullinger"
 year: "1555"
+written: "1555"
 tags:
   - protestant-reformers
   - heinrich-bullinger

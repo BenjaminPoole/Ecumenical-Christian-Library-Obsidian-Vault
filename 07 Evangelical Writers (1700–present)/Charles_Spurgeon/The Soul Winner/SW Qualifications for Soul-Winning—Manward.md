@@ -2,6 +2,7 @@
 title: "Qualifications for Soul-Winning—Manward"
 book: "The Soul Winner"
 author: "Charles H. Spurgeon"
+written: "1895"
 tags:
   - spurgeon
   - spurgeon-books

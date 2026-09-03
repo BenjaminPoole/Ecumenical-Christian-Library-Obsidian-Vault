@@ -4,6 +4,7 @@ author: "Westminster Assembly"
 work: "The Westminster Confession of Faith"
 section: 2
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1646"
 tags:
   - puritans
   - westminster-assembly

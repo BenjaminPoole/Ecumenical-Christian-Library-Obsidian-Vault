@@ -6,6 +6,7 @@ work: "Commentary on Acts"
 chapter: 27
 year: "1552/1554"
 source: "CCEL calcom37, Calvin Translation Society"
+written: "1552/1554"
 tags:
   - calvin-commentaries
 ---

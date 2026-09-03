@@ -1,6 +1,7 @@
 ---
 title: "A Divine Cordial"
 author: "Thomas Watson"
+written: "1663"
 tags:
   - puritans
   - thomas-watson

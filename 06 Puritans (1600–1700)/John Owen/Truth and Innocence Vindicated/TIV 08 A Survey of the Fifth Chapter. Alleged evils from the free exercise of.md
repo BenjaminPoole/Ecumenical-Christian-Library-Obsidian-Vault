@@ -4,6 +4,7 @@ author: "John Owen"
 work: "Truth and Innocence Vindicated"
 section: 8
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1669"
 tags:
   - puritans
   - john-owen

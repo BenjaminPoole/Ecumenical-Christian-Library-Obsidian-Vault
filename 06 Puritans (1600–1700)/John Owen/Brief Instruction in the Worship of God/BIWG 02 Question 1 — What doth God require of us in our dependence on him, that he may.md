@@ -4,6 +4,7 @@ author: "John Owen"
 work: "Brief Instruction in the Worship of God"
 section: 2
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1667"
 tags:
   - puritans
   - john-owen

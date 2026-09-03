@@ -6,6 +6,7 @@ book: "Mark"
 chapter: 5
 year: "1857"
 source: "Grace Gems (gracegems.org) — modernised text"
+written: "1857"
 tags:
   - jc-ryle
   - expository-thoughts

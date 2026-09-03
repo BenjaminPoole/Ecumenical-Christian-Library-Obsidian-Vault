@@ -6,6 +6,7 @@ sermon_no: 2727
 volume: 47
 year: "1901"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1901"
 tags:
   - spurgeon
   - spurgeon-sermons

@@ -1,6 +1,7 @@
 ---
 title: "Display of Arminianism"
 author: "John Owen"
+written: "1642"
 tags:
   - puritans
   - john-owen

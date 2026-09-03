@@ -6,6 +6,7 @@ sermon_no: 451
 volume: 8
 year: "1862"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1862"
 tags:
   - spurgeon
   - spurgeon-sermons

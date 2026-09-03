@@ -5,6 +5,7 @@ translator: "Arthur S. Way"
 category: "Greek Tragedy"
 era: "5th century BC"
 source: "Wikisource — Way (1929)"
+written: "5th century BC"
 tags:
   - historical-works
   - classical

@@ -3,6 +3,7 @@ title: "Westminster Assembly (1643)"
 council_type: "Assembly"
 convened: "A.D. 1643–1653"
 location: "London (Westminster)"
+written: "1643–1653"
 tags:
   - church-councils
   - council-index

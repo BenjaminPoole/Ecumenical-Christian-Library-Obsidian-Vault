@@ -4,6 +4,7 @@ council_type: "Ecumenical"
 ecumenical_no: 4
 convened: "A.D. 451"
 location: "Chalcedon"
+written: "451"
 tags:
   - church-councils
   - council-index

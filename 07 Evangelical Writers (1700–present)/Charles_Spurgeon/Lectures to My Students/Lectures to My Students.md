@@ -1,5 +1,6 @@
 ---
 title: "Lectures to My Students"
+written: "1875–1894"
 tags:
   - spurgeon
   - spurgeon-index

@@ -1,6 +1,7 @@
 ---
 title: "Meditations and Discourses on the Glory of Christ"
 author: "John Owen"
+written: "1684 (published posthumously)"
 tags:
   - puritans
   - john-owen

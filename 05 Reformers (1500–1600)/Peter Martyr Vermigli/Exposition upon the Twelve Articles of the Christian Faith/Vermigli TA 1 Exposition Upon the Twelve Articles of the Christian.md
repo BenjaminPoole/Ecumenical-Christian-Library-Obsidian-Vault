@@ -5,6 +5,7 @@ work: "Exposition upon the Twelve Articles of the Christian Faith"
 chapter: 1
 year: "1544"
 source: "Monergism compiled ePub - freely distributed"
+written: "1544"
 tags:
   - protestant-reformers
   - peter-martyr-vermigli

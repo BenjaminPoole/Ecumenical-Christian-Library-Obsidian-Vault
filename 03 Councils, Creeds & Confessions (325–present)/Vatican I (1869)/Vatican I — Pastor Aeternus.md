@@ -8,6 +8,7 @@ location: "Rome (Vatican Basilica)"
 translator: "Norman P. Tanner"
 edition_year: "1990"
 source: "https://www.papalencyclicals.net/councils/ecum20.htm"
+written: "1869–1870"
 tags:
   - church-councils
   - written/19th-century

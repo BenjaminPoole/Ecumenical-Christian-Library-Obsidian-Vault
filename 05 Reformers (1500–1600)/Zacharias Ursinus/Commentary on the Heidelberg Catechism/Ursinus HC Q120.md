@@ -6,6 +6,7 @@ work: "Commentary on the Heidelberg Catechism"
 chapter: 120
 year: "1584"
 source: "Monergism compiled ePub of the G. W. Willard translation (Columbus, 1852) - public domain"
+written: "1584"
 tags:
   - protestant-reformers
   - zacharias-ursinus

@@ -6,6 +6,7 @@ sermon_no: 2380
 volume: 40
 year: "1894"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1894"
 tags:
   - spurgeon
   - spurgeon-sermons

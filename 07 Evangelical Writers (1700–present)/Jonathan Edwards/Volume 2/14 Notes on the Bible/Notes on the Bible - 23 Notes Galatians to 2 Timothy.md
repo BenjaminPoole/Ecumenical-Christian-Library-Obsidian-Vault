@@ -6,6 +6,7 @@ volume: 2
 series: "The Works of Jonathan Edwards (Banner of Truth)"
 source: "https://ccel.org/ccel/edwards/works2"
 epub_file: "works2.xiv.xxiii.html"
+written: "c. 1724–1758 (Edwards' private notebooks); published posthumously"
 tags:
   - jonathan-edwards
 ---

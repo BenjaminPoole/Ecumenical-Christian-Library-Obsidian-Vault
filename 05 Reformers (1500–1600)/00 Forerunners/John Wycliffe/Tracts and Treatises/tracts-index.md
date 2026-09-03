@@ -2,6 +2,7 @@
 title: "Tracts and Treatises of John de Wycliffe"
 author: "John Wycliffe"
 year: "1370s-1384"
+written: "1370s-1384"
 tags:
   - protestant-reformers
   - john-wycliffe

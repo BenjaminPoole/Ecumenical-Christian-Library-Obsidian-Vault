@@ -7,6 +7,7 @@ book: "The Song of Moses"
 chapter: 193
 year: "1563"
 source: "CCEL calcom06, Calvin Translation Society"
+written: "1563"
 tags:
   - calvin-commentaries
 ---

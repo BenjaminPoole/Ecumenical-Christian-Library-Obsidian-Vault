@@ -1,5 +1,6 @@
 ---
 title: "John Trapp — New Testament"
+written: "1647"
 tags:
   - john-trapp
   - trapp-commentary

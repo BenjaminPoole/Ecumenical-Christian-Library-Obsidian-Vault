@@ -5,6 +5,7 @@ translator: "John Pringle"
 work: "Commentary on 2 Corinthians"
 year: "1546"
 source: "CCEL calcom40, Calvin Translation Society"
+written: "1546"
 tags:
   - calvin-commentaries
 ---

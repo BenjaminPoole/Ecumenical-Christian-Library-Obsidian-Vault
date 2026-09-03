@@ -5,6 +5,7 @@ translator: "John Owen"
 work: "Commentary on Malachi"
 year: "1559"
 source: "CCEL calcom30, Calvin Translation Society"
+written: "1559"
 tags:
   - calvin-commentaries
 ---

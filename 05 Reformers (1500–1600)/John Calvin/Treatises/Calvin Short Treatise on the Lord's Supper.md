@@ -5,6 +5,7 @@ translator: "Henry Beveridge"
 work: "Short Treatise on the Lord's Supper"
 year: "1541"
 source: "Tracts Relating to the Reformation vol. 2 (CTS, 1849), Beveridge translation; converted from uncorrected archive.org OCR — occasional character errors may remain"
+written: "1541"
 tags:
   - calvin-treatises
 ---

@@ -3,6 +3,7 @@ title: "Sermons of Martin Luther"
 author: "Martin Luther"
 translator: "John Nicholas Lenker and others"
 year: "1520s-1540s"
+written: "1520s-1540s"
 tags:
   - protestant-reformers
   - martin-luther

@@ -4,6 +4,7 @@ work: "The Treasury of David"
 author: "Charles H. Spurgeon"
 psalm: 39
 source: "The Spurgeon Archive (archive.spurgeon.org)"
+written: "1865–1885"
 tags:
   - spurgeon
   - treasury-of-david

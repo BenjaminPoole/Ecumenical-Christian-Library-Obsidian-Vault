@@ -6,6 +6,7 @@ sermon_no: 162
 volume: 3
 year: "1857"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1857"
 tags:
   - spurgeon
   - spurgeon-sermons

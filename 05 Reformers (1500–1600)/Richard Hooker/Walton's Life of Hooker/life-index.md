@@ -2,6 +2,7 @@
 title: "The Life of Mr. Richard Hooker"
 author: "Izaak Walton"
 year: "1665"
+written: "1665"
 tags:
   - protestant-reformers
   - richard-hooker

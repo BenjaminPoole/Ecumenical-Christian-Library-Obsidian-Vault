@@ -5,6 +5,7 @@ work: "The History of the Reformation of Religion in Scotland"
 chapter: 14
 year: "1587"
 source: "CCEL, from the edition of C. J. Guthrie - public domain"
+written: "1587"
 tags:
   - protestant-reformers
   - john-knox

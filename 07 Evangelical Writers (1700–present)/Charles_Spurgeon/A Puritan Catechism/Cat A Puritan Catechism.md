@@ -3,6 +3,7 @@ title: "A Puritan Catechism"
 book: "A Puritan Catechism"
 author: "Charles H. Spurgeon"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1855"
 tags:
   - spurgeon
   - spurgeon-books

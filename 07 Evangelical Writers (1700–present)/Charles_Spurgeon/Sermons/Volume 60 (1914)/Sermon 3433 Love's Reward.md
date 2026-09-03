@@ -6,6 +6,7 @@ sermon_no: 3433
 volume: 60
 year: "1914"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1914"
 tags:
   - spurgeon
   - spurgeon-sermons

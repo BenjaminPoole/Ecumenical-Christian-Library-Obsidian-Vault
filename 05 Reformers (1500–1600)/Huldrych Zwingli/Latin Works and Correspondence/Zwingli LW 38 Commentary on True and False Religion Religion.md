@@ -6,6 +6,7 @@ work: "The Latin Works and Correspondence of Huldreich Zwingli"
 chapter: 38
 year: "1510-1531"
 source: "archive.org latinworkscorres01-03zwin (Heidelberg Press, 1912-1929); converted from archive.org OCR of the printed volume; recurring OCR letterform errors corrected programmatically (see _sources/ocrfix_log.md) - residual errors may remain"
+written: "1510-1531"
 tags:
   - protestant-reformers
   - huldrych-zwingli

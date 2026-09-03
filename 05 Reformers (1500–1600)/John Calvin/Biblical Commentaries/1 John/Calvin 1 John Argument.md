@@ -5,6 +5,7 @@ translator: "John Owen"
 work: "Commentary on 1 John"
 year: "1551"
 source: "CCEL calcom45, Calvin Translation Society"
+written: "1551"
 tags:
   - calvin-commentaries
 ---

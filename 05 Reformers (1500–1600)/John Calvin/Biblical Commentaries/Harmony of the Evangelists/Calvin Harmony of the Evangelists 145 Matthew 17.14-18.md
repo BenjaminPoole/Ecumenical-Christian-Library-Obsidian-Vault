@@ -6,6 +6,7 @@ work: "Harmony of the Evangelists"
 chapter: 145
 year: "1555"
 source: "CCEL calcom32, Calvin Translation Society"
+written: "1555"
 tags:
   - calvin-commentaries
 ---

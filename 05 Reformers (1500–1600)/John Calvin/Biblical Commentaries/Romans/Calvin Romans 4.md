@@ -6,6 +6,7 @@ work: "Commentary on Romans"
 chapter: 4
 year: "1540"
 source: "CCEL calcom38, Calvin Translation Society"
+written: "1540"
 tags:
   - calvin-commentaries
 ---

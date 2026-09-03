@@ -3,6 +3,7 @@ title: "Pliny the Elder — Natural History"
 author: "Pliny the Elder"
 category: "Roman Natural History"
 era: "AD 77"
+written: "AD 77"
 tags:
   - historical-works
   - classical

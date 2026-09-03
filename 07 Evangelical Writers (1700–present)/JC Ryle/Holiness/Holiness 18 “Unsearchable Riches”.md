@@ -5,6 +5,7 @@ work: "Holiness"
 chapter: 18
 year: "1877"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1877"
 tags:
   - jc-ryle
   - ryle-holiness

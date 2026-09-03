@@ -1,6 +1,7 @@
 ---
 title: "Two Short Catechisms"
 author: "John Owen"
+written: "1645"
 tags:
   - puritans
   - john-owen

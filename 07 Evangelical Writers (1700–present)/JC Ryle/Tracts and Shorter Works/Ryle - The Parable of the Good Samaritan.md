@@ -4,6 +4,7 @@ author: "J. C. Ryle"
 work: "The Parable of the Good Samaritan"
 year: "n.d."
 source: "Grace Gems (gracegems.org) — modernised text"
+written: "n.d."
 tags:
   - jc-ryle
   - ryle-tracts

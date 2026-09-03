@@ -5,6 +5,7 @@ work: "A Treatise of the Cohabitation of the Faithful with the Unfaithful"
 chapter: 5
 year: "1555"
 source: "Project Gutenberg #22151 (1555 English translation) - public domain"
+written: "1555"
 tags:
   - protestant-reformers
   - heinrich-bullinger

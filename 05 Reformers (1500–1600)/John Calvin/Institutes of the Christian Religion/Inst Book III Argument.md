@@ -6,6 +6,7 @@ work: "Institutes of the Christian Religion"
 book: "Book III — The Mode of Obtaining the Grace of Christ. The Benefits It Confers, and the Effects Resulting from It"
 year: "1559"
 source: "CCEL, Beveridge translation (1845)"
+written: "1559"
 tags:
   - institutes
 ---

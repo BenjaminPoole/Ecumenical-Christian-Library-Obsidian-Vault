@@ -6,6 +6,7 @@ work: "The Large Catechism"
 chapter: 14
 year: "1529"
 source: "CCEL, Triglot Concordia (St. Louis: Concordia, 1921) - public domain"
+written: "1529"
 tags:
   - protestant-reformers
   - martin-luther

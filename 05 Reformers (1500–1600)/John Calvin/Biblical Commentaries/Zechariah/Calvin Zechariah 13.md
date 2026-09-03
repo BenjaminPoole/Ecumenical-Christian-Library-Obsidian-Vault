@@ -6,6 +6,7 @@ work: "Commentary on Zechariah"
 chapter: 13
 year: "1559"
 source: "CCEL calcom30, Calvin Translation Society"
+written: "1559"
 tags:
   - calvin-commentaries
 ---

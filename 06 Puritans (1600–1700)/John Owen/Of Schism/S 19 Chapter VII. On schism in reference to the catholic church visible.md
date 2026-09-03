@@ -4,6 +4,7 @@ author: "John Owen"
 work: "Of Schism"
 section: 19
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1657"
 tags:
   - puritans
   - john-owen

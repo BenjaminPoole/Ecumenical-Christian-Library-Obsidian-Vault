@@ -6,6 +6,7 @@ sermon_no: 3144
 volume: 55
 year: "1909"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1909"
 tags:
   - spurgeon
   - spurgeon-sermons

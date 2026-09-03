@@ -3,6 +3,7 @@ title: "Carthage (257)"
 council_type: "Local"
 convened: "A.D. 257"
 location: "Carthage"
+written: "257"
 tags:
   - church-councils
   - council-index

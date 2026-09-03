@@ -3,6 +3,7 @@ title: "Proverbs 4:23. The Great Reservoir"
 book: "Sermons on Proverbs"
 author: "Charles H. Spurgeon"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "c. 1855–1892 (preached across Spurgeon's ministry)"
 tags:
   - spurgeon
   - spurgeon-books

@@ -4,6 +4,7 @@ council_type: "Ecumenical"
 ecumenical_no: 1
 convened: "A.D. 325"
 location: "Nicaea (Iznik)"
+written: "325"
 tags:
   - church-councils
   - council-index

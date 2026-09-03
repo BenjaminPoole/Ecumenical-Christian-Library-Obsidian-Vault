@@ -4,6 +4,7 @@ author: "John Owen"
 work: "Eshcol; a Cluster of the Fruit of Canaan"
 section: 5
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1648"
 tags:
   - puritans
   - john-owen

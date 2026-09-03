@@ -3,6 +3,7 @@ title: "December 11"
 book: "Faith's Checkbook"
 author: "Charles H. Spurgeon"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1888"
 tags:
   - spurgeon
   - spurgeon-books

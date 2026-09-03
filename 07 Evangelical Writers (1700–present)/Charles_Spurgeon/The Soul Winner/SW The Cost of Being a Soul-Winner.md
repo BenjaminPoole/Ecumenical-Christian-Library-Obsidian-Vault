@@ -2,6 +2,7 @@
 title: "The Cost of Being a Soul-Winner"
 book: "The Soul Winner"
 author: "Charles H. Spurgeon"
+written: "1895"
 tags:
   - spurgeon
   - spurgeon-books

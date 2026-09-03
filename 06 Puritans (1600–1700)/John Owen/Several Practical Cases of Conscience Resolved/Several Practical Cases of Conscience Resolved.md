@@ -1,6 +1,7 @@
 ---
 title: "Several Practical Cases of Conscience Resolved"
 author: "John Owen"
+written: "1721 (published posthumously)"
 tags:
   - puritans
   - john-owen

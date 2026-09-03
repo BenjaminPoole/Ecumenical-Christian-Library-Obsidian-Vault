@@ -6,6 +6,7 @@ work: "Institutes of the Christian Religion"
 book: "Book IV — Of the Holy Catholic Church"
 year: "1559"
 source: "CCEL, Beveridge translation (1845)"
+written: "1559"
 tags:
   - institutes
 ---

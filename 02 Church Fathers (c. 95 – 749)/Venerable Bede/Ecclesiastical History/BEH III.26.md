@@ -5,6 +5,7 @@ work: "Ecclesiastical History of the English People"
 book: "Book III"
 year: "731"
 source: "Project Gutenberg #38326 (Sellar's revision of Giles, 1907)"
+written: "731"
 tags:
   - venerable-bede
   - bede-history

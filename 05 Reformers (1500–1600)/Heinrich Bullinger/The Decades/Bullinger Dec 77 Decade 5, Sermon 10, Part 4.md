@@ -6,6 +6,7 @@ work: "The Decades"
 chapter: 77
 year: "1549-1551"
 source: "archive.org Parker Society edition (1849-52), tr. H. I.; converted from archive.org OCR of the printed volume; recurring OCR letterform errors corrected programmatically (see _sources/ocrfix_log.md) - residual errors may remain"
+written: "1549-1551"
 tags:
   - protestant-reformers
   - heinrich-bullinger

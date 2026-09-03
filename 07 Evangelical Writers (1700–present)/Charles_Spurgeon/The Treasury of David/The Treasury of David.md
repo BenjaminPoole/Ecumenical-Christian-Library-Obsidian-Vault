@@ -1,5 +1,6 @@
 ---
 title: "The Treasury of David"
+written: "1865–1885"
 tags:
   - spurgeon
   - spurgeon-index

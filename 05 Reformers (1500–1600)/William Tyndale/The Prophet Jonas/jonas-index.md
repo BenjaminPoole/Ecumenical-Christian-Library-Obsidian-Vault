@@ -2,6 +2,7 @@
 title: "The Prophete Jonas"
 author: "William Tyndale"
 year: "1531"
+written: "1531"
 tags:
   - protestant-reformers
   - william-tyndale

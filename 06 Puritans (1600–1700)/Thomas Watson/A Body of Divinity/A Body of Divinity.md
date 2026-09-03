@@ -1,6 +1,7 @@
 ---
 title: "A Body of Divinity"
 author: "Thomas Watson"
+written: "1692 (published posthumously)"
 tags:
   - puritans
   - thomas-watson

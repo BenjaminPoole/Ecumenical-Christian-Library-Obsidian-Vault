@@ -2,6 +2,7 @@
 title: "The Confession of the Faith of the Switzerlands (First Helvetic Confession)"
 author: "George Wishart (translator)"
 year: "1536"
+written: "1536"
 tags:
   - protestant-reformers
   - george-wishart

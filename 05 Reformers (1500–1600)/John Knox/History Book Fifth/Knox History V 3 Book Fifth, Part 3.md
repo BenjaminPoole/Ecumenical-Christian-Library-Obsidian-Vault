@@ -5,6 +5,7 @@ work: "The History of the Reformation in Scotland, Book Fifth"
 chapter: 3
 year: "1644"
 source: "Project Gutenberg #40886, Works of John Knox vol. 2 (Laing ed.) - public domain"
+written: "1644"
 tags:
   - protestant-reformers
   - john-knox

@@ -5,6 +5,7 @@ work: "Sermons on Several Occasions"
 sermon: 10
 year: "1872"
 source: "Wesley Center Online (Jackson 1872 edition)"
+written: "1872"
 tags:
   - wesley
   - wesley-sermons

@@ -3,6 +3,7 @@ title: "The Bondage of the Will"
 author: "Martin Luther"
 translator: "Henry Cole (1823)"
 year: "1525"
+written: "1525"
 tags:
   - protestant-reformers
   - martin-luther

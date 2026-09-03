@@ -7,6 +7,7 @@ volume: 2
 year: "1856"
 text: "1 Thess. 5:6"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1856"
 tags:
   - spurgeon
   - spurgeon-sermons

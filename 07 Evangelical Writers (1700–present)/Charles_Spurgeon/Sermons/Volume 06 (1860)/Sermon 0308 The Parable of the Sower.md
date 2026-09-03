@@ -7,6 +7,7 @@ volume: 6
 year: "1860"
 text: "Luke 8:4-8"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1860"
 tags:
   - spurgeon
   - spurgeon-sermons

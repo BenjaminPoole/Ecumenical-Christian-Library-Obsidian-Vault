@@ -4,6 +4,7 @@ council_type: "Ecumenical"
 ecumenical_no: 18
 convened: "A.D. 1512–1517"
 location: "Rome (Lateran Palace)"
+written: "1512–1517"
 tags:
   - church-councils
   - council-index

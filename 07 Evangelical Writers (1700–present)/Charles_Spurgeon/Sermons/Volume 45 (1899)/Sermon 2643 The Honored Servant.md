@@ -6,6 +6,7 @@ sermon_no: 2643
 volume: 45
 year: "1899"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1899"
 tags:
   - spurgeon
   - spurgeon-sermons

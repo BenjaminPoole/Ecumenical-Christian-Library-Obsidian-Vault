@@ -3,6 +3,7 @@ title: "Commentary on Acts"
 author: "John Calvin"
 translator: "Henry Beveridge"
 year: "1552/1554"
+written: "1552/1554"
 tags:
   - calvin-commentaries
 ---

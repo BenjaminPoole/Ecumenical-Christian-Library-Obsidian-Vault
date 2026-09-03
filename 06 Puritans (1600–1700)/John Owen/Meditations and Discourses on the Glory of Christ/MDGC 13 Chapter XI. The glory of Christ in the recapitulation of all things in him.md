@@ -4,6 +4,7 @@ author: "John Owen"
 work: "Meditations and Discourses on the Glory of Christ"
 section: 13
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1684 (published posthumously)"
 tags:
   - puritans
   - john-owen

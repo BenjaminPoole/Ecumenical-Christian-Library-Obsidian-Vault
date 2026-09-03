@@ -1,6 +1,7 @@
 ---
 title: "Of Schism"
 author: "John Owen"
+written: "1657"
 tags:
   - puritans
   - john-owen

@@ -4,6 +4,7 @@ council_type: "Ecumenical"
 ecumenical_no: 20
 convened: "A.D. 1869–1870"
 location: "Rome (Vatican Basilica)"
+written: "1869–1870"
 tags:
   - church-councils
   - council-index

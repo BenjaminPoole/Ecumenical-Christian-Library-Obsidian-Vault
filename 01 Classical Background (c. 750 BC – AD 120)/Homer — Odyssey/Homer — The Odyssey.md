@@ -5,6 +5,7 @@ translator: "Samuel Butler"
 category: "Greek Epic"
 era: "8th century BC"
 source: "Project Gutenberg (ebook #1727)"
+written: "8th century BC"
 tags:
   - historical-works
   - classical

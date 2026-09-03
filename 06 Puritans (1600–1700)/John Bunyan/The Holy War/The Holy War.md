@@ -1,6 +1,7 @@
 ---
 title: "The Holy War"
 author: "John Bunyan"
+written: "1682"
 tags:
   - puritans
   - john-bunyan

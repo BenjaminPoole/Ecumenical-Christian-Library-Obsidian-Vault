@@ -5,6 +5,7 @@ translator: "W. A. McDevitte & W. S. Bohn"
 category: "Roman History"
 era: "c. 58–49 BC"
 source: "Project Gutenberg (ebook #10657)"
+written: "c. 58–49 BC"
 tags:
   - historical-works
   - classical

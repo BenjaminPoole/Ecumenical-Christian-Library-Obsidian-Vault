@@ -1,6 +1,7 @@
 ---
 title: "The Art of Divine Contentment"
 author: "Thomas Watson"
+written: "1653"
 tags:
   - puritans
   - thomas-watson

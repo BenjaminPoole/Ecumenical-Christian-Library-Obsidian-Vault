@@ -3,6 +3,7 @@ title: "Commentary on Joshua"
 author: "John Calvin"
 translator: "Henry Beveridge"
 year: "1564"
+written: "1564"
 tags:
   - calvin-commentaries
 ---

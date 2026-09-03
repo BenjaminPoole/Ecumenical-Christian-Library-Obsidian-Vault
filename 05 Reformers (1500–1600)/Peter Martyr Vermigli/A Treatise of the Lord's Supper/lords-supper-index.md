@@ -2,6 +2,7 @@
 title: "A Treatise of the Lord's Supper"
 author: "Peter Martyr Vermigli"
 year: "1550"
+written: "1550"
 tags:
   - protestant-reformers
   - peter-martyr-vermigli

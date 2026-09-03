@@ -1,5 +1,6 @@
 ---
 title: "Summa Theologiae — Tertia Pars"
+written: "c. 1272–1273 (unfinished)"
 tags:
   - aquinas
   - summa-theologiae

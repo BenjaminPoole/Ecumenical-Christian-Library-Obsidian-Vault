@@ -4,6 +4,7 @@ work: "The Treasury of David"
 author: "Charles H. Spurgeon"
 psalm: 119
 source: "The Treasury of David, Psalm 119 (studylight.org)"
+written: "1865–1885"
 tags:
   - spurgeon
   - treasury-of-david

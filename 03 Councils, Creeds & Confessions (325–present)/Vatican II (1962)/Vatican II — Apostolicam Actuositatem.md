@@ -8,6 +8,7 @@ location: "Rome (Vatican)"
 translator: "Libreria Editrice Vaticana (official English text)"
 edition_year: "1965"
 source: "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_en.html"
+written: "1962–1965"
 tags:
   - church-councils
   - written/20th-century

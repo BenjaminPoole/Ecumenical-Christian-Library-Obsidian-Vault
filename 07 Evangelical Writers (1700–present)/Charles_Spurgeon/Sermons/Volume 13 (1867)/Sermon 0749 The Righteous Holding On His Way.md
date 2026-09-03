@@ -6,6 +6,7 @@ sermon_no: 749
 volume: 13
 year: "1867"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1867"
 tags:
   - spurgeon
   - spurgeon-sermons

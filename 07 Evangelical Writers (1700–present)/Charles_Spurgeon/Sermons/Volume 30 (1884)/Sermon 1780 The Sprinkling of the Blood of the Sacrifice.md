@@ -6,6 +6,7 @@ sermon_no: 1780
 volume: 30
 year: "1884"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1884"
 tags:
   - spurgeon
   - spurgeon-sermons

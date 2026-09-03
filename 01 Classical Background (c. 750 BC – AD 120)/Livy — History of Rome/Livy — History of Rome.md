@@ -3,6 +3,7 @@ title: "Livy — History of Rome"
 author: "Livy"
 category: "Roman History"
 era: "c. 27 BC"
+written: "c. 27 BC"
 tags:
   - historical-works
   - classical

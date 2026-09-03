@@ -6,6 +6,7 @@ work: "Commentary on Ezekiel"
 chapter: 12
 year: "1565"
 source: "CCEL calcom22, Calvin Translation Society"
+written: "1565"
 tags:
   - calvin-commentaries
 ---

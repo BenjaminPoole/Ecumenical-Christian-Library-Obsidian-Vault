@@ -3,6 +3,7 @@ title: "The Small Catechism"
 author: "Martin Luther"
 translator: "Robert E. Smith (1994)"
 year: "1529"
+written: "1529"
 tags:
   - protestant-reformers
   - martin-luther

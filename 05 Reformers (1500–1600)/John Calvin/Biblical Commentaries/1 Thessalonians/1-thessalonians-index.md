@@ -3,6 +3,7 @@ title: "Commentary on 1 Thessalonians"
 author: "John Calvin"
 translator: "John Pringle"
 year: "1548"
+written: "1548"
 tags:
   - calvin-commentaries
 ---

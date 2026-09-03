@@ -6,6 +6,7 @@ work: "Commentary on Psalms"
 chapter: 129
 year: "1557"
 source: "CCEL calcom12, Calvin Translation Society"
+written: "1557"
 tags:
   - calvin-commentaries
 ---

@@ -6,6 +6,7 @@ sermon_no: 2895
 volume: 50
 year: "1904"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1904"
 tags:
   - spurgeon
   - spurgeon-sermons

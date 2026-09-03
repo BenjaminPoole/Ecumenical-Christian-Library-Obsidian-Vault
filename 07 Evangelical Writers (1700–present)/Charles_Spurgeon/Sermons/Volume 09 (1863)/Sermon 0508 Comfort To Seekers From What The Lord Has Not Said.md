@@ -6,6 +6,7 @@ sermon_no: 508
 volume: 9
 year: "1863"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1863"
 tags:
   - spurgeon
   - spurgeon-sermons

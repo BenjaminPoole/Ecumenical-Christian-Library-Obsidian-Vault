@@ -5,6 +5,7 @@ translator: "John King"
 work: "Commentary on Genesis"
 year: "1554"
 source: "CCEL calcom01, Calvin Translation Society"
+written: "1554"
 tags:
   - calvin-commentaries
 ---

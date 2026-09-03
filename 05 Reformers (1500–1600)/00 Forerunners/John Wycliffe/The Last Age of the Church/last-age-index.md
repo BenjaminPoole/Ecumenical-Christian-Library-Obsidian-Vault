@@ -2,6 +2,7 @@
 title: "The Last Age of the Church"
 author: "John Wycliffe (attributed)"
 year: "1356"
+written: "1356"
 tags:
   - protestant-reformers
   - john-wycliffe

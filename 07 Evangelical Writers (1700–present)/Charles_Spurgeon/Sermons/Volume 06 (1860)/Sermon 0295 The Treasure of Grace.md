@@ -6,6 +6,7 @@ sermon_no: 295
 volume: 6
 year: "1860"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1860"
 tags:
   - spurgeon
   - spurgeon-sermons

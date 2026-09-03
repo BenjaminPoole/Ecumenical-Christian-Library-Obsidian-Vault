@@ -5,6 +5,7 @@ translator: "James Anderson"
 work: "Commentary on Psalms"
 year: "1557"
 source: "CCEL calcom08, Calvin Translation Society"
+written: "1557"
 tags:
   - calvin-commentaries
 ---

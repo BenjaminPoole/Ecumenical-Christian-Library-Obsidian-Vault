@@ -7,6 +7,7 @@ volume: 8
 year: "1862"
 text: "Revelation 22:17"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1862"
 tags:
   - spurgeon
   - spurgeon-sermons

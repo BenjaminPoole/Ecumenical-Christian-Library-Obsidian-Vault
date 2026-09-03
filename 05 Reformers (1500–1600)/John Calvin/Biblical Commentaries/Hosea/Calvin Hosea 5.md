@@ -6,6 +6,7 @@ work: "Commentary on Hosea"
 chapter: 5
 year: "1557"
 source: "CCEL calcom26, Calvin Translation Society"
+written: "1557"
 tags:
   - calvin-commentaries
 ---

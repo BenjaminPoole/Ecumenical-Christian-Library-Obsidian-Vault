@@ -6,6 +6,7 @@ work: "The Bondage of the Will"
 chapter: 93
 year: "1525"
 source: "CCEL, Henry Cole translation - public domain"
+written: "1525"
 tags:
   - protestant-reformers
   - martin-luther

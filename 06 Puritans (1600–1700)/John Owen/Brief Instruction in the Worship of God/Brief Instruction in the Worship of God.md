@@ -1,6 +1,7 @@
 ---
 title: "Brief Instruction in the Worship of God"
 author: "John Owen"
+written: "1667"
 tags:
   - puritans
   - john-owen

@@ -4,6 +4,7 @@ council_type: "Ecumenical"
 ecumenical_no: 14
 convened: "A.D. 1274"
 location: "Lyons"
+written: "1274"
 tags:
   - church-councils
   - council-index

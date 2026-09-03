@@ -4,6 +4,7 @@ author: "John Owen"
 work: "Of Temptation"
 section: 4
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1658"
 tags:
   - puritans
   - john-owen

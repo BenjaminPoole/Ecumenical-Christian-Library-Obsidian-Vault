@@ -4,6 +4,7 @@ author: "Bede"
 work: "Homilies"
 year: "c. 710"
 source: "Wikisource: The World's Famous Orations, vol. 3 (1906), tr. John Mason Neale"
+written: "c. 710"
 tags:
   - venerable-bede
   - bede-homily

@@ -6,6 +6,7 @@ sermon_no: 588
 volume: 10
 year: "1864"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1864"
 tags:
   - spurgeon
   - spurgeon-sermons

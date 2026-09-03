@@ -1,6 +1,7 @@
 ---
 title: "Dissertation on Divine Justice"
 author: "John Owen"
+written: "1653"
 tags:
   - puritans
   - john-owen

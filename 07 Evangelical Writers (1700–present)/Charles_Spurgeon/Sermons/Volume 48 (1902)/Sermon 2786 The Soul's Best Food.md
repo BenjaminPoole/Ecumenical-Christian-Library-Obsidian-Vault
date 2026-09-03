@@ -6,6 +6,7 @@ sermon_no: 2786
 volume: 48
 year: "1902"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1902"
 tags:
   - spurgeon
   - spurgeon-sermons

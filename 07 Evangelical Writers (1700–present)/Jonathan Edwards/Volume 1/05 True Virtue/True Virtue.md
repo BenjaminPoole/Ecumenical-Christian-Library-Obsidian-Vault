@@ -6,6 +6,7 @@ volume: 1
 series: "The Works of Jonathan Edwards (Banner of Truth)"
 source: "https://ccel.org/ccel/edwards/works1"
 epub_file: "works1.v.html"
+written: "1765 (published posthumously)"
 tags:
   - jonathan-edwards
 ---

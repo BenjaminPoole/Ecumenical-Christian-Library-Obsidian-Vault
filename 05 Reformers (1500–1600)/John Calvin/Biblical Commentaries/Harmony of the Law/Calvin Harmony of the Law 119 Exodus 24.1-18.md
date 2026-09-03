@@ -7,6 +7,7 @@ book: "Return to the History"
 chapter: 119
 year: "1563"
 source: "CCEL calcom05, Calvin Translation Society"
+written: "1563"
 tags:
   - calvin-commentaries
 ---

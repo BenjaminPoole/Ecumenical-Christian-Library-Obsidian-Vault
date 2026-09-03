@@ -5,6 +5,7 @@ year: "1648"
 tradition: "Reformed / Presbyterian (Westminster Standards)"
 source: "https://thewestminsterstandard.org/westminster-larger-catechism/"
 edition: "Original text with the Assembly's Scripture-proof references"
+written: "1648"
 tags:
   - reformation-confessions
   - westminster-standards

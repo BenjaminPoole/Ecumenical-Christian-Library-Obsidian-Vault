@@ -7,6 +7,7 @@ book: "Book II — Of the Knowledge of God the Redeemer, in Christ, as First Man
 chapter: 3
 year: "1559"
 source: "CCEL, Beveridge translation (1845)"
+written: "1559"
 tags:
   - institutes
 ---

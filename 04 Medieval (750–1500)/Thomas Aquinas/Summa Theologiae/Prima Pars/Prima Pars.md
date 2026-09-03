@@ -1,5 +1,6 @@
 ---
 title: "Summa Theologiae — Prima Pars"
+written: "c. 1265–1268"
 tags:
   - aquinas
   - summa-theologiae

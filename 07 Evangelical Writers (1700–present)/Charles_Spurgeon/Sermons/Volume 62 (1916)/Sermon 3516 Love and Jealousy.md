@@ -6,6 +6,7 @@ sermon_no: 3516
 volume: 62
 year: "1916"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1916"
 tags:
   - spurgeon
   - spurgeon-sermons

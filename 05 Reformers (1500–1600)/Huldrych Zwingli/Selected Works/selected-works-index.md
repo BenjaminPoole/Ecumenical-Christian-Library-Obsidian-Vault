@@ -3,6 +3,7 @@ title: "Selected Works of Huldreich Zwingli"
 author: "Huldrych Zwingli"
 translator: "Lawrence A. McLouth, Henry Preble and George W. Gilmore, ed. S. M. Jackson"
 year: "1522-1526"
+written: "1522-1526"
 tags:
   - protestant-reformers
   - huldrych-zwingli

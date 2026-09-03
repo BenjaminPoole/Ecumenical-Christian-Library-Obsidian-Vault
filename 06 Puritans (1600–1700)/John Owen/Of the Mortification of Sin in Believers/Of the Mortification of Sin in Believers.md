@@ -1,6 +1,7 @@
 ---
 title: "Of the Mortification of Sin in Believers"
 author: "John Owen"
+written: "1656"
 tags:
   - puritans
   - john-owen

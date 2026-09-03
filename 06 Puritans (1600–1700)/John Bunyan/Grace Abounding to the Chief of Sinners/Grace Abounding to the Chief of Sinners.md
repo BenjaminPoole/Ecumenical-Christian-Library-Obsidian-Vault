@@ -1,6 +1,7 @@
 ---
 title: "Grace Abounding to the Chief of Sinners"
 author: "John Bunyan"
+written: "1666"
 tags:
   - puritans
   - john-bunyan

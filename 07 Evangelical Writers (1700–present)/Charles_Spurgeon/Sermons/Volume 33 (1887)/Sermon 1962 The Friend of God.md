@@ -6,6 +6,7 @@ sermon_no: 1962
 volume: 33
 year: "1887"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1887"
 tags:
   - spurgeon
   - spurgeon-sermons

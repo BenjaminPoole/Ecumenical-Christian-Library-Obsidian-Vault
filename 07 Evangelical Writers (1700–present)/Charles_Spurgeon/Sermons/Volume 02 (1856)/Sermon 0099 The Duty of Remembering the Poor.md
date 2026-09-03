@@ -6,6 +6,7 @@ sermon_no: 99
 volume: 2
 year: "1856"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1856"
 tags:
   - spurgeon
   - spurgeon-sermons

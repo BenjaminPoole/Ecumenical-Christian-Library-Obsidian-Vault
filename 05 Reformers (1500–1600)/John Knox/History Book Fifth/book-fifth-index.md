@@ -2,6 +2,7 @@
 title: "The History of the Reformation in Scotland, Book Fifth"
 author: "John Knox"
 year: "1644"
+written: "1644"
 tags:
   - protestant-reformers
   - john-knox

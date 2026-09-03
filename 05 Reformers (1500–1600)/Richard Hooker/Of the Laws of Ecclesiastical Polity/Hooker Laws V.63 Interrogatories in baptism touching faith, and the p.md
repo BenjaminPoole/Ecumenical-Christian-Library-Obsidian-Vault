@@ -4,6 +4,7 @@ author: "Richard Hooker"
 work: "Of the Laws of Ecclesiastical Polity"
 year: "1594"
 source: "Online Library of Liberty EPUB of Keble's 7th ed. (Clarendon Press, 1888) - public domain"
+written: "1594"
 tags:
   - protestant-reformers
   - richard-hooker

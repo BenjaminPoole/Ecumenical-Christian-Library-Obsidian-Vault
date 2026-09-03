@@ -6,6 +6,7 @@ work: "The Common Places"
 chapter: 33
 year: "1583"
 source: "EEBO-TCP A14350 keyed transcription (public domain) of the 1583 London folio, tr. Anthonie Marten - original spelling"
+written: "1583"
 tags:
   - protestant-reformers
   - peter-martyr-vermigli

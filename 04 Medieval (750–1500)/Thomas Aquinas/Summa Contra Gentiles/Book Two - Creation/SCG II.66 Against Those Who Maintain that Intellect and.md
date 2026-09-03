@@ -7,6 +7,7 @@ chapter: 66
 author: "Thomas Aquinas"
 translator: "James F. Anderson (Hanover House, 1955–57), ed. Joseph Kenny O.P."
 source: "https://isidore.co/aquinas/english/ContraGentiles2.htm"
+written: "c. 1259–1265"
 tags:
   - aquinas
   - summa-contra-gentiles

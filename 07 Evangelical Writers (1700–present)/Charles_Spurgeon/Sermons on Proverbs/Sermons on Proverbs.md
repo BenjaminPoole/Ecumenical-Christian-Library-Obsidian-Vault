@@ -1,5 +1,6 @@
 ---
 title: "Sermons on Proverbs"
+written: "c. 1855–1892 (preached across Spurgeon's ministry)"
 tags:
   - spurgeon
   - spurgeon-index

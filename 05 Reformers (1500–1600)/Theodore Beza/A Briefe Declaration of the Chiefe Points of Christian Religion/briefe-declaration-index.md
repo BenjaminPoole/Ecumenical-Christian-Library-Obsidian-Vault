@@ -2,6 +2,7 @@
 title: "A Briefe Declaration of the Chiefe Points of Christian Religion (The Table of Predestination)"
 author: "Theodore Beza"
 year: "1575"
+written: "1575"
 tags:
   - protestant-reformers
   - theodore-beza

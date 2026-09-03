@@ -7,6 +7,7 @@ book: "The Law: A Summary"
 chapter: 99
 year: "1563"
 source: "CCEL calcom05, Calvin Translation Society"
+written: "1563"
 tags:
   - calvin-commentaries
 ---

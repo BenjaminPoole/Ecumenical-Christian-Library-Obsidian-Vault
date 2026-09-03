@@ -5,6 +5,7 @@ translator: "Henry Beveridge"
 work: "The Necessity of Reforming the Church"
 year: "1543"
 source: "Tracts Relating to the Reformation vol. 1 (CTS, 1844), Beveridge translation; converted from uncorrected archive.org OCR — occasional character errors may remain"
+written: "1543"
 tags:
   - calvin-treatises
 ---

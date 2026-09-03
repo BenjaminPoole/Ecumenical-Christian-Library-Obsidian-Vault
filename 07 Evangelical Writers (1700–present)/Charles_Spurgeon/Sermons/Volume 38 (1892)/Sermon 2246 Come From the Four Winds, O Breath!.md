@@ -6,6 +6,7 @@ sermon_no: 2246
 volume: 38
 year: "1892"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1892"
 tags:
   - spurgeon
   - spurgeon-sermons

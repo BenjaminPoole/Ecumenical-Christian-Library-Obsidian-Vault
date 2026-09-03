@@ -2,6 +2,7 @@
 title: "Things Not Worth Trying"
 book: "John Ploughman's Talk"
 author: "Charles H. Spurgeon"
+written: "1869"
 tags:
   - spurgeon
   - spurgeon-books

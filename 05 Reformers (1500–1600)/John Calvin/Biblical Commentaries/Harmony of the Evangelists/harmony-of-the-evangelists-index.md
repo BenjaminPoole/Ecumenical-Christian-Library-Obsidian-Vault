@@ -3,6 +3,7 @@ title: "Harmony of the Evangelists"
 author: "John Calvin"
 translator: "William Pringle"
 year: "1555"
+written: "1555"
 tags:
   - calvin-commentaries
 ---

@@ -1,5 +1,6 @@
 ---
 title: "John Trapp — Old Testament"
+written: "1656"
 tags:
   - john-trapp
   - trapp-commentary

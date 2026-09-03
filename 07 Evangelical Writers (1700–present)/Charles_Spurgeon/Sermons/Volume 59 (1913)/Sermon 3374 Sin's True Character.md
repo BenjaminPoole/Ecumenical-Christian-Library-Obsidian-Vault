@@ -6,6 +6,7 @@ sermon_no: 3374
 volume: 59
 year: "1913"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1913"
 tags:
   - spurgeon
   - spurgeon-sermons

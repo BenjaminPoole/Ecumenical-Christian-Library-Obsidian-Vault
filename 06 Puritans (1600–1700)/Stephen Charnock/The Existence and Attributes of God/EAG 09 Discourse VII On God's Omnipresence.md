@@ -4,6 +4,7 @@ author: "Stephen Charnock"
 work: "The Existence and Attributes of God"
 section: 9
 source: "Project Gutenberg (gutenberg.org/ebooks/53527)"
+written: "1682 (published posthumously)"
 tags:
   - puritans
   - stephen-charnock

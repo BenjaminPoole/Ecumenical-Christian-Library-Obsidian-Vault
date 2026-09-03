@@ -3,6 +3,7 @@ title: "The Spiced Wine of My Pomegranate"
 book: "Till He Come"
 author: "Charles H. Spurgeon"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1896"
 tags:
   - spurgeon
   - spurgeon-books

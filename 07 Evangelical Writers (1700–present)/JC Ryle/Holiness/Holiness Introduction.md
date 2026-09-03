@@ -4,6 +4,7 @@ author: "J. C. Ryle"
 work: "Holiness"
 year: "1877"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1877"
 tags:
   - jc-ryle
   - ryle-holiness

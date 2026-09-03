@@ -3,6 +3,7 @@ title: "Commentary on 1 Timothy"
 author: "John Calvin"
 translator: "William Pringle"
 year: "1548"
+written: "1548"
 tags:
   - calvin-commentaries
 ---

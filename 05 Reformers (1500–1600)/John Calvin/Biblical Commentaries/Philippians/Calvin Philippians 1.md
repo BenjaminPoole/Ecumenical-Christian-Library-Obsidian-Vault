@@ -6,6 +6,7 @@ work: "Commentary on Philippians"
 chapter: 1
 year: "1548"
 source: "CCEL calcom42, Calvin Translation Society"
+written: "1548"
 tags:
   - calvin-commentaries
 ---

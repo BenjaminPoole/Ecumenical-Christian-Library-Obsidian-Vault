@@ -1,6 +1,7 @@
 ---
 title: "Sermons of John Owen"
 author: "John Owen"
+written: "c. 1646–1683 (various occasions, published posthumously)"
 tags:
   - puritans
   - john-owen

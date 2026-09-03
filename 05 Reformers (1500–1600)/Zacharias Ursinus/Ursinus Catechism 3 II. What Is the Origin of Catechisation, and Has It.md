@@ -6,6 +6,7 @@ work: "What is Catechism?"
 chapter: 3
 year: "1584"
 source: "CCEL, from Ursinus's Commentary on the Heidelberg Catechism - public domain"
+written: "1584"
 tags:
   - protestant-reformers
   - zacharias-ursinus

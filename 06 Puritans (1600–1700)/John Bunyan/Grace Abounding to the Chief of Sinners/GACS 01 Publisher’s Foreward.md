@@ -4,6 +4,7 @@ author: "John Bunyan"
 work: "Grace Abounding to the Chief of Sinners"
 section: 1
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1666"
 tags:
   - puritans
   - john-bunyan

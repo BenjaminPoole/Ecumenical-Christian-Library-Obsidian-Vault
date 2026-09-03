@@ -6,6 +6,7 @@ work: "The Church (De Ecclesia)"
 chapter: 2
 year: "1413"
 source: "archive.org deecclesiachurch00husjuoft, tr. David S. Schaff (1915); converted from archive.org OCR of the printed volume; recurring OCR letterform errors corrected programmatically (see _sources/ocrfix_log.md) - residual errors may remain"
+written: "1413"
 tags:
   - protestant-reformers
   - jan-hus

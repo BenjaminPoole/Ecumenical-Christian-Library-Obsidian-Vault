@@ -4,6 +4,7 @@ council_type: "Ecumenical"
 ecumenical_no: 9
 convened: "A.D. 1123"
 location: "Rome (Lateran Palace)"
+written: "1123"
 tags:
   - church-councils
   - council-index

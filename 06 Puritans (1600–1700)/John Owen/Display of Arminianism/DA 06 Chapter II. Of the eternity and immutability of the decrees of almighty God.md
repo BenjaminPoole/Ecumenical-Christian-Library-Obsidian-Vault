@@ -4,6 +4,7 @@ author: "John Owen"
 work: "Display of Arminianism"
 section: 6
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1642"
 tags:
   - puritans
   - john-owen

@@ -4,6 +4,7 @@ author: "J. C. Ryle"
 work: "Coming Events and Present Duties"
 year: "1879"
 source: "Grace Gems (gracegems.org) — modernised text"
+written: "1879"
 tags:
   - jc-ryle
   - ryle-coming-events

@@ -4,6 +4,7 @@ author: "John Owen"
 work: "Pneumatologia"
 section: 46
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1674"
 tags:
   - puritans
   - john-owen

@@ -5,6 +5,7 @@ translator: "Henry Beveridge"
 work: "Commentary on Acts"
 year: "1552/1554"
 source: "CCEL calcom36, Calvin Translation Society"
+written: "1552/1554"
 tags:
   - calvin-commentaries
 ---

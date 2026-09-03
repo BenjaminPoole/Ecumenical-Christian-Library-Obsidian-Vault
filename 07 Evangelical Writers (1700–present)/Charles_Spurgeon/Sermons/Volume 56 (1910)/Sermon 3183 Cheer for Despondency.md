@@ -6,6 +6,7 @@ sermon_no: 3183
 volume: 56
 year: "1910"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1910"
 tags:
   - spurgeon
   - spurgeon-sermons

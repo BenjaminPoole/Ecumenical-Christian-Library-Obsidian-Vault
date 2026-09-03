@@ -7,6 +7,7 @@ book: "Preface to the Law"
 chapter: 31
 year: "1563"
 source: "CCEL calcom03, Calvin Translation Society"
+written: "1563"
 tags:
   - calvin-commentaries
 ---

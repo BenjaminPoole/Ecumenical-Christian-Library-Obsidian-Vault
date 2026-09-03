@@ -3,6 +3,7 @@ title: "Commentary on Isaiah"
 author: "John Calvin"
 translator: "William Pringle"
 year: "1551"
+written: "1551"
 tags:
   - calvin-commentaries
 ---

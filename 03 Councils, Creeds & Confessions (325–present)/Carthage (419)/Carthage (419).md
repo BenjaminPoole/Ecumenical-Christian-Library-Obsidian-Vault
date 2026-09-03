@@ -3,6 +3,7 @@ title: "Carthage (419)"
 council_type: "Local"
 convened: "A.D. 419"
 location: "Carthage"
+written: "419"
 tags:
   - church-councils
   - council-index

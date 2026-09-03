@@ -9,6 +9,7 @@ author: "Thomas Aquinas"
 translator: "Fathers of the English Dominican Province"
 edition: "Second and Revised Edition, 1920"
 source: "https://www.newadvent.org/summa/4027.htm"
+written: "c. 1272–1273 (unfinished)"
 tags:
   - aquinas
   - summa-theologiae

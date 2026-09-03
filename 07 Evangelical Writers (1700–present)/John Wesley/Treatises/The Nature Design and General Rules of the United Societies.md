@@ -4,6 +4,7 @@ author: "John Wesley"
 work: "The Nature, Design, and General Rules of the United Societies"
 year: "1743"
 source: "Project Gutenberg (Works, 3rd ed., vols. 14-15)"
+written: "1743"
 tags:
   - wesley
   - wesley-treatises

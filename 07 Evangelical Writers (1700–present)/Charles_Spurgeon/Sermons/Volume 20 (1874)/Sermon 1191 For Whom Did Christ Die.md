@@ -6,6 +6,7 @@ sermon_no: 1191
 volume: 20
 year: "1874"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1874"
 tags:
   - spurgeon
   - spurgeon-sermons

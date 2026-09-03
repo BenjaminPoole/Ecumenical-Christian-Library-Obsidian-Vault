@@ -4,6 +4,7 @@ author: "Richard Baxter"
 work: "The Reformed Pastor"
 section: 15
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1656"
 tags:
   - puritans
   - richard-baxter

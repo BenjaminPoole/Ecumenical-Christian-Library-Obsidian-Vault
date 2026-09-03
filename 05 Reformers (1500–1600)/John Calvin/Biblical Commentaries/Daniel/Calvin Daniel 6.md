@@ -6,6 +6,7 @@ work: "Commentary on Daniel"
 chapter: 6
 year: "1561"
 source: "CCEL calcom24, Calvin Translation Society"
+written: "1561"
 tags:
   - calvin-commentaries
 ---

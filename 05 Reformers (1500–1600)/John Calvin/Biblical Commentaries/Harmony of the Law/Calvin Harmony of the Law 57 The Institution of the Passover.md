@@ -7,6 +7,7 @@ book: "The Law: The First Commandment"
 chapter: 57
 year: "1563"
 source: "CCEL calcom03, Calvin Translation Society"
+written: "1563"
 tags:
   - calvin-commentaries
 ---

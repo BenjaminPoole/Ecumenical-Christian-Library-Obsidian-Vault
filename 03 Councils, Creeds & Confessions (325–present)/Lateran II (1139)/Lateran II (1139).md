@@ -4,6 +4,7 @@ council_type: "Ecumenical"
 ecumenical_no: 10
 convened: "A.D. 1139"
 location: "Rome (Lateran Palace)"
+written: "1139"
 tags:
   - church-councils
   - council-index

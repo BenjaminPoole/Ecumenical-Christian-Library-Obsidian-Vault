@@ -6,6 +6,7 @@ sermon_no: 3009
 volume: 52
 year: "1906"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1906"
 tags:
   - spurgeon
   - spurgeon-sermons

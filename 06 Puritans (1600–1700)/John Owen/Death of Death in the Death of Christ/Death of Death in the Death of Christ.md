@@ -1,6 +1,7 @@
 ---
 title: "Death of Death in the Death of Christ"
 author: "John Owen"
+written: "1647"
 tags:
   - puritans
   - john-owen

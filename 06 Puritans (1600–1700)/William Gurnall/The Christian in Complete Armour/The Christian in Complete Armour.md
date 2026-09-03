@@ -1,6 +1,7 @@
 ---
 title: "The Christian in Complete Armour"
 author: "William Gurnall"
+written: "1655–1662"
 tags:
   - puritans
   - william-gurnall

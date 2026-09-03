@@ -9,6 +9,7 @@ author: "Thomas Aquinas"
 translator: "Fathers of the English Dominican Province"
 edition: "Second and Revised Edition, 1920"
 source: "https://www.newadvent.org/summa/5031.htm"
+written: "c. 1252–1256 (Commentary on the Sentences, compiled posthumously as the Supplement)"
 tags:
   - aquinas
   - summa-theologiae

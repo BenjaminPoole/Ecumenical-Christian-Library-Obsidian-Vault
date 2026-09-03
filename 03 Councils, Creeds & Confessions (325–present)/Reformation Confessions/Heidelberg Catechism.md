@@ -5,6 +5,7 @@ year: "1563"
 tradition: "Continental Reformed (Three Forms of Unity)"
 source: "https://www.ccel.org/creeds/heidelberg-cat.html"
 edition: "English translation (public domain), as hosted by CCEL"
+written: "1563"
 tags:
   - reformation-confessions
   - three-forms-of-unity

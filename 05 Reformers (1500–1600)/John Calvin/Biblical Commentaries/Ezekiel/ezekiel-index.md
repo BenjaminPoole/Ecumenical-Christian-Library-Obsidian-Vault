@@ -3,6 +3,7 @@ title: "Commentary on Ezekiel"
 author: "John Calvin"
 translator: "Thomas Myers"
 year: "1565"
+written: "1565"
 tags:
   - calvin-commentaries
 ---

@@ -4,6 +4,7 @@ author: "John Owen"
 work: "Poema"
 section: 1
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1654 (occasional verse for Cromwell's Dutch peace, in Musarum Oxoniensium Elaiophoria)"
 tags:
   - puritans
   - john-owen

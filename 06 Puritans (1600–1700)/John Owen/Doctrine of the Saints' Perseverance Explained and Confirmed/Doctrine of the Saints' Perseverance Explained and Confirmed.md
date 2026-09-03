@@ -1,6 +1,7 @@
 ---
 title: "Doctrine of the Saints' Perseverance Explained and Confirmed"
 author: "John Owen"
+written: "1654"
 tags:
   - puritans
   - john-owen

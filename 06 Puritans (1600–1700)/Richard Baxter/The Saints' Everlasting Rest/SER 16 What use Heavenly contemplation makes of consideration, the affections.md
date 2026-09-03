@@ -4,6 +4,7 @@ author: "Richard Baxter"
 work: "The Saints' Everlasting Rest"
 section: 16
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1650"
 tags:
   - puritans
   - richard-baxter

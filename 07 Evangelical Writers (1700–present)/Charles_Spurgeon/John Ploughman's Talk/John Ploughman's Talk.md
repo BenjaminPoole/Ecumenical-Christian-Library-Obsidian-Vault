@@ -1,5 +1,6 @@
 ---
 title: "John Ploughman's Talk"
+written: "1869"
 tags:
   - spurgeon
   - spurgeon-index

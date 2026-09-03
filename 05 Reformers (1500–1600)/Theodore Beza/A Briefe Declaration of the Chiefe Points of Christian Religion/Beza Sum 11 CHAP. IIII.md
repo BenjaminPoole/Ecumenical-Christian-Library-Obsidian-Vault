@@ -5,6 +5,7 @@ work: "A Briefe Declaration of the Chiefe Points of Christian Religion (The Tabl
 chapter: 11
 year: "1575"
 source: "EEBO-TCP A68592 keyed transcription (public domain), 16th-century English translation - original spelling"
+written: "1575"
 tags:
   - protestant-reformers
   - theodore-beza

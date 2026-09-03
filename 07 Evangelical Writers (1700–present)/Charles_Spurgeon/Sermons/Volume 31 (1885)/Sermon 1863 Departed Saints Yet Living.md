@@ -6,6 +6,7 @@ sermon_no: 1863
 volume: 31
 year: "1885"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1885"
 tags:
   - spurgeon
   - spurgeon-sermons

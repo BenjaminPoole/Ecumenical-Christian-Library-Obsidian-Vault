@@ -4,6 +4,7 @@ council_type: "Ecumenical"
 ecumenical_no: 7
 convened: "A.D. 787"
 location: "Nicaea"
+written: "787"
 tags:
   - church-councils
   - council-index

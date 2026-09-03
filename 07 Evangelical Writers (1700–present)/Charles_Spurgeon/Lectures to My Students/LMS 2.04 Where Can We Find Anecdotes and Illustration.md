@@ -2,6 +2,7 @@
 title: "Where Can We Find Anecdotes and Illustration?"
 book: "Lectures to My Students"
 author: "Charles H. Spurgeon"
+written: "1875–1894"
 tags:
   - spurgeon
   - spurgeon-books

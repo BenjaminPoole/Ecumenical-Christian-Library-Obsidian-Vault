@@ -3,6 +3,7 @@ title: "The Letters of John Hus"
 author: "Jan Hus"
 translator: "H. B. Workman and R. M. Pope (1904)"
 year: "1408-1415"
+written: "1408-1415"
 tags:
   - protestant-reformers
   - jan-hus

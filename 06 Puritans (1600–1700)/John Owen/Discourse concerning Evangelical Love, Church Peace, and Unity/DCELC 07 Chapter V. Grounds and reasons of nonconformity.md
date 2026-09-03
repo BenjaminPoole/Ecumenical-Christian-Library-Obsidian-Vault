@@ -4,6 +4,7 @@ author: "John Owen"
 work: "Discourse concerning Evangelical Love, Church Peace, and Unity"
 section: 7
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1672"
 tags:
   - puritans
   - john-owen

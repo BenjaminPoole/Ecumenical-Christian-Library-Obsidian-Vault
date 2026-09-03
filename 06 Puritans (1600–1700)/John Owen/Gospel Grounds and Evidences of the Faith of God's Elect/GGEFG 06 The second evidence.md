@@ -4,6 +4,7 @@ author: "John Owen"
 work: "Gospel Grounds and Evidences of the Faith of God's Elect"
 section: 6
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1695 (published posthumously)"
 tags:
   - puritans
   - john-owen

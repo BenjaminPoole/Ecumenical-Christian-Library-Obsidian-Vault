@@ -3,6 +3,7 @@ title: "The Smalcald Articles"
 author: "Martin Luther"
 translator: "F. Bente and W. H. T. Dau"
 year: "1537"
+written: "1537"
 tags:
   - protestant-reformers
   - martin-luther

@@ -6,6 +6,7 @@ sermon_no: 2117
 volume: 35
 year: "1889"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1889"
 tags:
   - spurgeon
   - spurgeon-sermons

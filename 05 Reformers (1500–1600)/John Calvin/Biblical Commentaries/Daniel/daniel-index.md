@@ -3,6 +3,7 @@ title: "Commentary on Daniel"
 author: "John Calvin"
 translator: "Thomas Myers"
 year: "1561"
+written: "1561"
 tags:
   - calvin-commentaries
 ---

@@ -6,6 +6,7 @@ work: "Commentary on Isaiah"
 chapter: 1
 year: "1551"
 source: "CCEL calcom13, Calvin Translation Society"
+written: "1551"
 tags:
   - calvin-commentaries
 ---

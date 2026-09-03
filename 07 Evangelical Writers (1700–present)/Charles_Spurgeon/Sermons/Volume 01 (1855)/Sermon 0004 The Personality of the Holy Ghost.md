@@ -7,6 +7,7 @@ volume: 1
 year: "1855"
 text: "John 14:16-17"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1855"
 tags:
   - spurgeon
   - spurgeon-sermons

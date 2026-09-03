@@ -6,6 +6,7 @@ sermon_no: 2228
 volume: 37
 year: "1891"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1891"
 tags:
   - spurgeon
   - spurgeon-sermons

@@ -6,6 +6,7 @@ sermon_no: 1526
 volume: 26
 year: "1880"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1880"
 tags:
   - spurgeon
   - spurgeon-sermons

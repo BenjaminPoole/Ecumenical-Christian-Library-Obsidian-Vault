@@ -5,6 +5,7 @@ translator: "Edward P. Coleridge"
 category: "Greek Tragedy"
 era: "5th century BC"
 source: "Wikisource — Coleridge (1891)"
+written: "5th century BC"
 tags:
   - historical-works
   - classical

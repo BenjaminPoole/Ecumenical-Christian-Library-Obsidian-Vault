@@ -6,6 +6,7 @@ work: "Selected Works of Huldreich Zwingli"
 chapter: 11
 year: "1522-1526"
 source: "archive.org selectedworksofh00zwin, ed. S. M. Jackson (1901); converted from archive.org OCR of the printed volume; recurring OCR letterform errors corrected programmatically (see _sources/ocrfix_log.md) - residual errors may remain"
+written: "1522-1526"
 tags:
   - protestant-reformers
   - huldrych-zwingli

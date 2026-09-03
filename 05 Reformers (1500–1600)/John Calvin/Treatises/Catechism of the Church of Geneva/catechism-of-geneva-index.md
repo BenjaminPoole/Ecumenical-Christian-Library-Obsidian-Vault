@@ -3,6 +3,7 @@ title: "Catechism of the Church of Geneva"
 author: "John Calvin"
 translator: "Henry Beveridge"
 year: "1545"
+written: "1545"
 tags:
   - calvin-treatises
 ---

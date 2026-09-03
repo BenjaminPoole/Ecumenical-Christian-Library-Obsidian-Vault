@@ -7,6 +7,7 @@ volume: 13
 year: "1867"
 text: "Isaiah 58:11"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1867"
 tags:
   - spurgeon
   - spurgeon-sermons

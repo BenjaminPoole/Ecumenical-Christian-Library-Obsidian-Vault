@@ -7,6 +7,7 @@ book: "The Law: The Second Table"
 chapter: 95
 year: "1563"
 source: "CCEL calcom05, Calvin Translation Society"
+written: "1563"
 tags:
   - calvin-commentaries
 ---

@@ -3,6 +3,7 @@ title: "Commentary on the Heidelberg Catechism"
 author: "Zacharias Ursinus"
 translator: "G. W. Willard (1852)"
 year: "1584"
+written: "1584"
 tags:
   - protestant-reformers
   - zacharias-ursinus

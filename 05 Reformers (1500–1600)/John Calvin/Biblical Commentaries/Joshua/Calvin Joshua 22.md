@@ -6,6 +6,7 @@ work: "Commentary on Joshua"
 chapter: 22
 year: "1564"
 source: "CCEL calcom07, Calvin Translation Society"
+written: "1564"
 tags:
   - calvin-commentaries
 ---

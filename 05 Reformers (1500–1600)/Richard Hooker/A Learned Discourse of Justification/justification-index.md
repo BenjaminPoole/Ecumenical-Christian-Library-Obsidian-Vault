@@ -2,6 +2,7 @@
 title: "A Learned Discourse of Justification, Works, and How the Foundation of Faith is Overthrown"
 author: "Richard Hooker"
 year: "1585"
+written: "1585"
 tags:
   - protestant-reformers
   - richard-hooker

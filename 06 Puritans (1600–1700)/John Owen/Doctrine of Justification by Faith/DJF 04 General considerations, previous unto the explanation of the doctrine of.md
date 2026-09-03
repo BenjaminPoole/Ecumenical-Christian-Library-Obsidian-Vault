@@ -4,6 +4,7 @@ author: "John Owen"
 work: "Doctrine of Justification by Faith"
 section: 4
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1677"
 tags:
   - puritans
   - john-owen

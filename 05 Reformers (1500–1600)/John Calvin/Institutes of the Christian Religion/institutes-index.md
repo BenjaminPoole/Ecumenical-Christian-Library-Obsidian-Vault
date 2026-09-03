@@ -3,6 +3,7 @@ title: "Institutes of the Christian Religion"
 author: "John Calvin"
 translator: "Henry Beveridge"
 year: "1559"
+written: "1559"
 tags:
   - institutes
 ---

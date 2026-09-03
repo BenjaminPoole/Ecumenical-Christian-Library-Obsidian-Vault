@@ -7,6 +7,7 @@ chapter: 33
 author: "Thomas Aquinas"
 translator: "Charles J. O’Neil (Hanover House, 1955–57), ed. Joseph Kenny O.P."
 source: "https://isidore.co/aquinas/english/ContraGentiles4.htm"
+written: "c. 1259–1265"
 tags:
   - aquinas
   - summa-contra-gentiles

@@ -3,6 +3,7 @@ title: "Constantinople (394)"
 council_type: "Local"
 convened: "A.D. 394"
 location: "Constantinople"
+written: "394"
 tags:
   - church-councils
   - council-index

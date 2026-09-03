@@ -6,6 +6,7 @@ work: "Sermons of Martin Luther"
 chapter: 16
 year: "1520s-1540s"
 source: "CCEL, from The Sermons of Martin Luther (Lenker edition, 1905-09) - public domain"
+written: "1520s-1540s"
 tags:
   - protestant-reformers
   - martin-luther

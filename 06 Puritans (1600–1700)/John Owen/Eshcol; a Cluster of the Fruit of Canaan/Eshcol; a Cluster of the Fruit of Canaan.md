@@ -1,6 +1,7 @@
 ---
 title: "Eshcol; a Cluster of the Fruit of Canaan"
 author: "John Owen"
+written: "1648"
 tags:
   - puritans
   - john-owen

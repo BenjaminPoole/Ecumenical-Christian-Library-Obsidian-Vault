@@ -5,6 +5,7 @@ work: "Tracts and Treatises of John de Wycliffe"
 chapter: 15
 year: "1370s-1384"
 source: "archive.org tractsandtreati01vauggoog, ed. Robert Vaughan (1845); converted from archive.org OCR of the printed volume; recurring OCR letterform errors corrected programmatically (see _sources/ocrfix_log.md) - residual errors may remain"
+written: "1370s-1384"
 tags:
   - protestant-reformers
   - john-wycliffe

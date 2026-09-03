@@ -7,6 +7,7 @@ volume: 6
 year: "1860"
 text: "Isaiah 38:17,"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1860"
 tags:
   - spurgeon
   - spurgeon-sermons

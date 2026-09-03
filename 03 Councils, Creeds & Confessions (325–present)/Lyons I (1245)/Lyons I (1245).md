@@ -4,6 +4,7 @@ council_type: "Ecumenical"
 ecumenical_no: 13
 convened: "A.D. 1245"
 location: "Lyons"
+written: "1245"
 tags:
   - church-councils
   - council-index

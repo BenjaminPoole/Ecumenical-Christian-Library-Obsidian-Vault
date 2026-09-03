@@ -3,6 +3,7 @@ title: "The Decades"
 author: "Heinrich Bullinger"
 translator: "'H. I.' (1577), ed. Thomas Harding"
 year: "1549-1551"
+written: "1549-1551"
 tags:
   - protestant-reformers
   - heinrich-bullinger

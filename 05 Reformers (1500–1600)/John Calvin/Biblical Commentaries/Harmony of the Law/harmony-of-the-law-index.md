@@ -3,6 +3,7 @@ title: "Harmony of the Law"
 author: "John Calvin"
 translator: "Charles William Bingham"
 year: "1563"
+written: "1563"
 tags:
   - calvin-commentaries
 ---

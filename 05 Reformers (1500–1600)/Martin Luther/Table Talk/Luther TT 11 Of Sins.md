@@ -6,6 +6,7 @@ work: "Table Talk"
 chapter: 11
 year: "1566"
 source: "CCEL, William Hazlitt translation (Lutheran Publication Society) - public domain"
+written: "1566"
 tags:
   - protestant-reformers
   - martin-luther

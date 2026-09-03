@@ -5,6 +5,7 @@ work: "A Treatise of the Lord's Supper"
 chapter: 5
 year: "1550"
 source: "Monergism compiled ePub - freely distributed"
+written: "1550"
 tags:
   - protestant-reformers
   - peter-martyr-vermigli

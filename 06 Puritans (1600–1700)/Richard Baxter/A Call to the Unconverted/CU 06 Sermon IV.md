@@ -4,6 +4,7 @@ author: "Richard Baxter"
 work: "A Call to the Unconverted"
 section: 6
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1658"
 tags:
   - puritans
   - richard-baxter

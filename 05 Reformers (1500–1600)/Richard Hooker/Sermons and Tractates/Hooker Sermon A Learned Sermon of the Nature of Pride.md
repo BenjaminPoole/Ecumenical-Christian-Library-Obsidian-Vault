@@ -4,6 +4,7 @@ author: "Richard Hooker"
 work: "Sermons and Tractates"
 year: "1585-1600"
 source: "Online Library of Liberty EPUB of Keble's 7th ed. (Clarendon Press, 1888) - public domain"
+written: "1585-1600"
 tags:
   - protestant-reformers
   - richard-hooker

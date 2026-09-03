@@ -4,6 +4,7 @@ council_type: "Ecumenical"
 ecumenical_no: 16
 convened: "A.D. 1414–1418"
 location: "Constance"
+written: "1414–1418"
 tags:
   - church-councils
   - council-index

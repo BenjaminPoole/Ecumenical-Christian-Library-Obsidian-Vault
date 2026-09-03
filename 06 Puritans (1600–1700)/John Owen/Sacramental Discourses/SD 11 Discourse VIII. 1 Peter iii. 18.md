@@ -4,6 +4,7 @@ author: "John Owen"
 work: "Sacramental Discourses"
 section: 11
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "c. 1669–1682 (published posthumously)"
 tags:
   - puritans
   - john-owen

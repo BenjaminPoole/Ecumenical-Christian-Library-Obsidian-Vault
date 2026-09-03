@@ -2,6 +2,7 @@
 title: "The First Blast of the Trumpet Against the Monstrous Regiment of Women"
 author: "John Knox"
 year: "1558"
+written: "1558"
 tags:
   - protestant-reformers
   - john-knox

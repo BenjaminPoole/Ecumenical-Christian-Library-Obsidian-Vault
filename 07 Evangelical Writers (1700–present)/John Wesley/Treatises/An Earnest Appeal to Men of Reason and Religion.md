@@ -4,6 +4,7 @@ author: "John Wesley"
 work: "An Earnest Appeal to Men of Reason and Religion"
 year: "1743"
 source: "Project Gutenberg (Works, 3rd ed., vols. 14-15)"
+written: "1743"
 tags:
   - wesley
   - wesley-treatises

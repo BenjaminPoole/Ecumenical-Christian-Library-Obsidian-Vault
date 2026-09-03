@@ -2,6 +2,7 @@
 title: "A Treatise on Prayer"
 author: "John Knox"
 year: "1554"
+written: "1554"
 tags:
   - protestant-reformers
   - john-knox

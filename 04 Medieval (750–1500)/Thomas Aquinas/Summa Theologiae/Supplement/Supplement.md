@@ -1,5 +1,6 @@
 ---
 title: "Summa Theologiae — Supplementum"
+written: "c. 1252–1256 (Commentary on the Sentences, compiled posthumously as the Supplement)"
 tags:
   - aquinas
   - summa-theologiae

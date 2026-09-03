@@ -4,6 +4,7 @@ author: "J. C. Ryle"
 work: "The Old Paths"
 year: "1877"
 source: "Grace Gems (gracegems.org) — modernised text"
+written: "1877"
 tags:
   - jc-ryle
   - ryle-tracts

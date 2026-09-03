@@ -7,6 +7,7 @@ book: "Book III — The Mode of Obtaining the Grace of Christ. The Benefits It C
 chapter: 9
 year: "1559"
 source: "CCEL, Beveridge translation (1845)"
+written: "1559"
 tags:
   - institutes
 ---

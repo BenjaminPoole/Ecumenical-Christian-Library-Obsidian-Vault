@@ -6,6 +6,7 @@ work: "On the Christian Life"
 chapter: 3
 year: "1559"
 source: "CCEL chr_life.xml, Beveridge translation (1845)"
+written: "1559"
 tags:
   - calvin-treatises
 ---

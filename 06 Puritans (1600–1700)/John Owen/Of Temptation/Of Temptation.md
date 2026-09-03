@@ -1,6 +1,7 @@
 ---
 title: "Of Temptation"
 author: "John Owen"
+written: "1658"
 tags:
   - puritans
   - john-owen

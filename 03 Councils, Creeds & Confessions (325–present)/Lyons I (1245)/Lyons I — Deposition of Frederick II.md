@@ -8,6 +8,7 @@ location: "Lyons"
 translator: "Norman P. Tanner"
 edition_year: "1990"
 source: "https://www.papalencyclicals.net/councils/ecum13.htm"
+written: "1245"
 tags:
   - church-councils
   - written/13th-century

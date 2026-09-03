@@ -3,6 +3,7 @@ title: "Commentary on Genesis (Chapters 1-9)"
 author: "Martin Luther"
 translator: "John Nicholas Lenker and others"
 year: "1544"
+written: "1544"
 tags:
   - protestant-reformers
   - martin-luther

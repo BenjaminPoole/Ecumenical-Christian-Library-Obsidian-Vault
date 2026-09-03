@@ -1,5 +1,6 @@
 ---
 title: "Commenting and Commentaries"
+written: "1876"
 tags:
   - spurgeon
   - spurgeon-index

@@ -6,6 +6,7 @@ work: "Commentary on 2 Timothy"
 chapter: 4
 year: "1548"
 source: "CCEL calcom43, Calvin Translation Society"
+written: "1548"
 tags:
   - calvin-commentaries
 ---

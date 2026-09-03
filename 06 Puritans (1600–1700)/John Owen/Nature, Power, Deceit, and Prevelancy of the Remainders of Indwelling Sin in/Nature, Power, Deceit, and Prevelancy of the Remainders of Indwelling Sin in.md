@@ -1,6 +1,7 @@
 ---
 title: "Nature, Power, Deceit, and Prevelancy of the Remainders of Indwelling Sin in Believers"
 author: "John Owen"
+written: "1667"
 tags:
   - puritans
   - john-owen

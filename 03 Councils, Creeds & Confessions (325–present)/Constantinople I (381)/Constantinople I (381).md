@@ -4,6 +4,7 @@ council_type: "Ecumenical"
 ecumenical_no: 2
 convened: "A.D. 381"
 location: "Constantinople"
+written: "381"
 tags:
   - church-councils
   - council-index

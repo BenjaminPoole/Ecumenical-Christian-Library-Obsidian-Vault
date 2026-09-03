@@ -3,6 +3,7 @@ title: "Commentary on John"
 author: "John Calvin"
 translator: "William Pringle"
 year: "1553"
+written: "1553"
 tags:
   - calvin-commentaries
 ---

@@ -6,6 +6,7 @@ sermon_no: 413
 volume: 7
 year: "1861"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1861"
 tags:
   - spurgeon
   - spurgeon-sermons

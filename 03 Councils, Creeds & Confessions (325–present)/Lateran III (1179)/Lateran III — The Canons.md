@@ -8,6 +8,7 @@ location: "Rome (Lateran Palace)"
 translator: "Norman P. Tanner"
 edition_year: "1990"
 source: "https://www.papalencyclicals.net/councils/ecum11.htm"
+written: "1179"
 tags:
   - church-councils
   - written/12th-century

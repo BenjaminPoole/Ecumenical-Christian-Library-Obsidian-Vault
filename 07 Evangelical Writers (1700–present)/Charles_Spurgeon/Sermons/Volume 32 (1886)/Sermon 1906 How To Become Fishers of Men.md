@@ -6,6 +6,7 @@ sermon_no: 1906
 volume: 32
 year: "1886"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1886"
 tags:
   - spurgeon
   - spurgeon-sermons

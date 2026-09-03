@@ -6,6 +6,7 @@ sermon_no: 896
 volume: 15
 year: "1869"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1869"
 tags:
   - spurgeon
   - spurgeon-sermons

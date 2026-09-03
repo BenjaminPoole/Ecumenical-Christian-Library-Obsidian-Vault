@@ -5,6 +5,7 @@ work: "A Treatise on Prayer"
 chapter: 1
 year: "1554"
 source: "CCEL - public domain"
+written: "1554"
 tags:
   - protestant-reformers
   - john-knox

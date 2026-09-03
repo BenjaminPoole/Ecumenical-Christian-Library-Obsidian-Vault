@@ -6,6 +6,7 @@ work: "Epistle Sermons, Vol. 3: Trinity Sunday to Advent"
 chapter: 11
 year: "1544"
 source: "Project Gutenberg #30619, Lenker edition (1909) - public domain"
+written: "1544"
 tags:
   - protestant-reformers
   - martin-luther

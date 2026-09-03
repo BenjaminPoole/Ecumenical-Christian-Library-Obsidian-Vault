@@ -6,6 +6,7 @@ work: "Commentary on Genesis"
 chapter: 30
 year: "1554"
 source: "CCEL calcom02, Calvin Translation Society"
+written: "1554"
 tags:
   - calvin-commentaries
 ---

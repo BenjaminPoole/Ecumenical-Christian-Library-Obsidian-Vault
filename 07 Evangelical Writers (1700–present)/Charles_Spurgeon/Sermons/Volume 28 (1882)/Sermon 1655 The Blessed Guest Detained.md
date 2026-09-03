@@ -6,6 +6,7 @@ sermon_no: 1655
 volume: 28
 year: "1882"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1882"
 tags:
   - spurgeon
   - spurgeon-sermons

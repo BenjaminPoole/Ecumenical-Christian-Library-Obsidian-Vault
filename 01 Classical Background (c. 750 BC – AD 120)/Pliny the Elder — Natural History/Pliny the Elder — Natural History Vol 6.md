@@ -5,6 +5,7 @@ translator: "John Bostock & H. T. Riley"
 category: "Roman Natural History"
 era: "AD 77"
 source: "Project Gutenberg (ebook #62704)"
+written: "AD 77"
 tags:
   - historical-works
   - classical

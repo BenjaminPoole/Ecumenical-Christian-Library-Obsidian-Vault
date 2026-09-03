@@ -3,6 +3,7 @@ title: "Commentary on Psalms"
 author: "John Calvin"
 translator: "James Anderson"
 year: "1557"
+written: "1557"
 tags:
   - calvin-commentaries
 ---

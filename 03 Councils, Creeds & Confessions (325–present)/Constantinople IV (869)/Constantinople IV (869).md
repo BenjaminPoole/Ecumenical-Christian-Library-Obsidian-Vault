@@ -4,6 +4,7 @@ council_type: "Ecumenical"
 ecumenical_no: 8
 convened: "A.D. 869–870"
 location: "Constantinople"
+written: "869–870"
 tags:
   - church-councils
   - council-index

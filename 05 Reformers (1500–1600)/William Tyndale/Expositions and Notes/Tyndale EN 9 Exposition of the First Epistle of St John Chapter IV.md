@@ -5,6 +5,7 @@ work: "Expositions and Notes on Sundry Portions of the Holy Scriptures"
 chapter: 9
 year: "1531-1536"
 source: "archive.org, Parker Society ed. Henry Walter (1849); converted from archive.org OCR of the printed volume; recurring OCR letterform errors corrected programmatically (see _sources/ocrfix_log.md) - residual errors may remain"
+written: "1531-1536"
 tags:
   - protestant-reformers
   - william-tyndale

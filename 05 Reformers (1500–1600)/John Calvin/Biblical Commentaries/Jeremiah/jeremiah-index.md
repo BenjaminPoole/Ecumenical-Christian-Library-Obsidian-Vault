@@ -3,6 +3,7 @@ title: "Commentary on Jeremiah"
 author: "John Calvin"
 translator: "John Owen"
 year: "1563"
+written: "1563"
 tags:
   - calvin-commentaries
 ---

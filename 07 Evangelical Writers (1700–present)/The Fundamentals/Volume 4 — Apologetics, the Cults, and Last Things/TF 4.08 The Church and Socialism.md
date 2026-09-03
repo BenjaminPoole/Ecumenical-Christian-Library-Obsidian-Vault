@@ -6,6 +6,7 @@ volume: 4
 chapter: 8
 year: "1910–1915"
 source: "Testimony Publishing Co. / BIOLA 4-vol. edition (R. A. Torrey, ed.)"
+written: "1910–1915"
 tags:
   - the-fundamentals
 ---

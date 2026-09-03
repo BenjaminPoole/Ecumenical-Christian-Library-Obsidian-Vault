@@ -6,6 +6,7 @@ sermon_no: 2175
 volume: 36
 year: "1890"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1890"
 tags:
   - spurgeon
   - spurgeon-sermons

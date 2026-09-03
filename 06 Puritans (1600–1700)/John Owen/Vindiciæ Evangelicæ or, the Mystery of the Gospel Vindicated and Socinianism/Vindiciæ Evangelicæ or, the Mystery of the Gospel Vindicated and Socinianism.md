@@ -1,6 +1,7 @@
 ---
 title: "Vindiciæ Evangelicæ or, the Mystery of the Gospel Vindicated and Socinianism Examined"
 author: "John Owen"
+written: "1655"
 tags:
   - puritans
   - john-owen

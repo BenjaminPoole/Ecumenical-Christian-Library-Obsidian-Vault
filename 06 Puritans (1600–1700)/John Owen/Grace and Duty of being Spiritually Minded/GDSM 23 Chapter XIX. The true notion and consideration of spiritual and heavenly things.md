@@ -4,6 +4,7 @@ author: "John Owen"
 work: "Grace and Duty of being Spiritually Minded"
 section: 23
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1681"
 tags:
   - puritans
   - john-owen

@@ -3,6 +3,7 @@ title: "How Repentance Is Given"
 book: "All of Grace"
 author: "Charles H. Spurgeon"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1886"
 tags:
   - spurgeon
   - spurgeon-books

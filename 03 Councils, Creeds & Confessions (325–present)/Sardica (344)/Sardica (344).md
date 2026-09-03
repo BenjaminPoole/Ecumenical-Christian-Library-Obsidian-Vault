@@ -3,6 +3,7 @@ title: "Sardica (344)"
 council_type: "Local"
 convened: "A.D. 344"
 location: "Serdica (Sofia)"
+written: "344"
 tags:
   - church-councils
   - council-index

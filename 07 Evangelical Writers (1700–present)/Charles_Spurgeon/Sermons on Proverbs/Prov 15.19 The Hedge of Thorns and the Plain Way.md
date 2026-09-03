@@ -3,6 +3,7 @@ title: "Proverbs 15:19. The Hedge of Thorns and the Plain Way"
 book: "Sermons on Proverbs"
 author: "Charles H. Spurgeon"
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "c. 1855–1892 (preached across Spurgeon's ministry)"
 tags:
   - spurgeon
   - spurgeon-books

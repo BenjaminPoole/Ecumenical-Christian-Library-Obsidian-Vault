@@ -1,6 +1,7 @@
 ---
 title: "Brief Declaration and Vindication of the Doctrine of the Trinity"
 author: "John Owen"
+written: "1669"
 tags:
   - puritans
   - john-owen

@@ -3,6 +3,7 @@ title: "Diet of Regensburg (1541)"
 council_type: "Diet"
 convened: "A.D. 1541"
 location: "Regensburg (Ratisbon)"
+written: "1541"
 tags:
   - church-councils
   - council-index

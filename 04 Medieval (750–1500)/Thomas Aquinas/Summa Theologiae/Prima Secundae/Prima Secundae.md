@@ -1,5 +1,6 @@
 ---
 title: "Summa Theologiae — Prima Secundæ"
+written: "c. 1271"
 tags:
   - aquinas
   - summa-theologiae

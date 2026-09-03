@@ -5,6 +5,7 @@ translator: "G. C. Macaulay"
 category: "Greek History"
 era: "c. 430 BC"
 source: "Project Gutenberg (ebook #2456)"
+written: "c. 430 BC"
 tags:
   - historical-works
   - classical

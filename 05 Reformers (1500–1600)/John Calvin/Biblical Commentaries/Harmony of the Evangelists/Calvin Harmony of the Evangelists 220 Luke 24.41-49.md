@@ -6,6 +6,7 @@ work: "Harmony of the Evangelists"
 chapter: 220
 year: "1555"
 source: "CCEL calcom33, Calvin Translation Society"
+written: "1555"
 tags:
   - calvin-commentaries
 ---

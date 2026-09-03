@@ -6,6 +6,7 @@ book: "Matthew"
 chapter: 27
 year: "1856"
 source: "Grace Gems (gracegems.org) — modernised text"
+written: "1856"
 tags:
   - jc-ryle
   - expository-thoughts

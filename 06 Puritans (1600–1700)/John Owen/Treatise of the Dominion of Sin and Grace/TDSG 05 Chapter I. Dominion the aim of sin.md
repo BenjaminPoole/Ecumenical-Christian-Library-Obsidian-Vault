@@ -4,6 +4,7 @@ author: "John Owen"
 work: "Treatise of the Dominion of Sin and Grace"
 section: 5
 source: "Christian Classics Ethereal Library (ccel.org)"
+written: "1688 (published posthumously)"
 tags:
   - puritans
   - john-owen

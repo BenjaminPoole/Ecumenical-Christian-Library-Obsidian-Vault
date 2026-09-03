@@ -4,6 +4,7 @@ council_type: "Ecumenical"
 ecumenical_no: 3
 convened: "A.D. 431"
 location: "Ephesus"
+written: "431"
 tags:
   - church-councils
   - council-index

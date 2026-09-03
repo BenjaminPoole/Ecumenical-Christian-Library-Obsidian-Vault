@@ -3,6 +3,7 @@ title: "Apology of the Augsburg Confession"
 author: "Philipp Melanchthon"
 translator: "F. Bente and W. H. T. Dau"
 year: "1531"
+written: "1531"
 tags:
   - protestant-reformers
   - philipp-melanchthon

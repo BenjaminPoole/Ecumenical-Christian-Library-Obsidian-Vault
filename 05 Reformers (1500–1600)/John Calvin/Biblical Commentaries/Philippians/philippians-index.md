@@ -3,6 +3,7 @@ title: "Commentary on Philippians"
 author: "John Calvin"
 translator: "John Pringle"
 year: "1548"
+written: "1548"
 tags:
   - calvin-commentaries
 ---

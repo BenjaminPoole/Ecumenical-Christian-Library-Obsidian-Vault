@@ -5,6 +5,7 @@ work: "The Confession of the Faith of the Switzerlands (First Helvetic Confessio
 chapter: 1
 year: "1536"
 source: "archive.org miscellanywodro01edingoog, Wodrow Miscellany vol. 1 (1844); converted from uncorrected archive.org OCR of the printed volume - occasional character errors remain"
+written: "1536"
 tags:
   - protestant-reformers
   - george-wishart

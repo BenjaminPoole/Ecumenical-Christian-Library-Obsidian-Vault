@@ -6,6 +6,7 @@ work: "A Treatise on Good Works"
 chapter: 7
 year: "1520"
 source: "CCEL, Philadelphia (Holman) edition of the Works of Martin Luther - public domain"
+written: "1520"
 tags:
   - protestant-reformers
   - martin-luther

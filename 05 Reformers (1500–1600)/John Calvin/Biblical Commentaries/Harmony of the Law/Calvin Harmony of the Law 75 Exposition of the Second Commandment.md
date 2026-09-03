@@ -7,6 +7,7 @@ book: "The Law: The Second Commandment"
 chapter: 75
 year: "1563"
 source: "CCEL calcom04, Calvin Translation Society"
+written: "1563"
 tags:
   - calvin-commentaries
 ---

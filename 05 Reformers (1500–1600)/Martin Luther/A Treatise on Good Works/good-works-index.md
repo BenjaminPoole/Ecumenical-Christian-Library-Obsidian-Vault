@@ -3,6 +3,7 @@ title: "A Treatise on Good Works"
 author: "Martin Luther"
 translator: "W. A. Lambert"
 year: "1520"
+written: "1520"
 tags:
   - protestant-reformers
   - martin-luther

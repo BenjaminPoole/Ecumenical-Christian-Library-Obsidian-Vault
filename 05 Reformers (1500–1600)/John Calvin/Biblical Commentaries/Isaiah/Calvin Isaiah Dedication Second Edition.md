@@ -5,6 +5,7 @@ translator: "William Pringle"
 work: "Commentary on Isaiah"
 year: "1551"
 source: "CCEL calcom13, Calvin Translation Society"
+written: "1551"
 tags:
   - calvin-commentaries
 ---

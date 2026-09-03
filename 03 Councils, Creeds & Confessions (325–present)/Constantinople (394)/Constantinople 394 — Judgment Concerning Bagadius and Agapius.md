@@ -9,6 +9,7 @@ series: "Nicene and Post-Nicene Fathers, Second Series"
 volume: "14"
 edition_year: "1900"
 source: "https://www.newadvent.org/fathers/3817.htm"
+written: "394"
 tags:
   - church-councils
   - written/4th-century

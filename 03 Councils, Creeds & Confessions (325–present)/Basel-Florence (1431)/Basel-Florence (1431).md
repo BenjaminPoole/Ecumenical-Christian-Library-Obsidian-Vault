@@ -4,6 +4,7 @@ council_type: "Ecumenical"
 ecumenical_no: 17
 convened: "A.D. 1431–1445"
 location: "Basel, Ferrara, and Florence"
+written: "1431–1445"
 tags:
   - church-councils
   - council-index

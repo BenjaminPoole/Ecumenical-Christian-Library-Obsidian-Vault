@@ -1,6 +1,7 @@
 ---
 title: "Discourse Concerning Liturgies, and their Imposition"
 author: "John Owen"
+written: "1662"
 tags:
   - puritans
   - john-owen

@@ -1,6 +1,7 @@
 ---
 title: "Gospel Grounds and Evidences of the Faith of God's Elect"
 author: "John Owen"
+written: "1695 (published posthumously)"
 tags:
   - puritans
   - john-owen

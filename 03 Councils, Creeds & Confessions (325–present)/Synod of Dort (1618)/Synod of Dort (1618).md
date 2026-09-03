@@ -3,6 +3,7 @@ title: "Synod of Dort (1618)"
 council_type: "Synod"
 convened: "A.D. 1618–1619"
 location: "Dordrecht (Dort)"
+written: "1618–1619"
 tags:
   - church-councils
   - council-index

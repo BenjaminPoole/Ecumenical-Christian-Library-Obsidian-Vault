@@ -6,6 +6,7 @@ work: "Commentary on Jeremiah"
 chapter: 32
 year: "1563"
 source: "CCEL calcom20, Calvin Translation Society"
+written: "1563"
 tags:
   - calvin-commentaries
 ---
